@@ -1,0 +1,2 @@
+# bitview-translations
+BitView Translations
