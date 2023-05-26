@@ -1,7 +1,9 @@
 
 # BitView Translations
 
-Bonjour! You can now create translations for BitView. Please, use en-US.php as a template.## Color Reference
+Bonjour! You can now create translations for BitView. Please, use en-US.php as a template.
+
+## Color Reference
 
 | Language             | Completion                                                                |
 | ----------------- | ------------------------------------------------------------------ |
