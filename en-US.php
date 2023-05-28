@@ -337,7 +337,7 @@ $LANGS['alltime'] = 'All Time';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = 'Most Subscribed';
-$LANGS['lastlogin'] = 'Last Login';
+$LANGS['lastlogin'] = 'Last Sign In';
 $LANGS['cstatviews'] = 'Views';
 $LANGS['cstatvideos'] = 'Videos';
 $LANGS['cstatsubs'] = 'Subscribers';
