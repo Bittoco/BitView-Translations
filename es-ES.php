@@ -91,6 +91,7 @@ $LANGS['videocontest'] = '- Concurso de vídeos';
 $LANGS['joincontest'] = '¡Participa ya!';
 $LANGS['personalize'] = '¿Quieres personalizar esta página principal?';
 $LANGS['signinnow'] = '¡<a href="/login">Accede a tu cuenta</a> o <a href="/signup">regístrate</a> ahora!';
+$LANGS['nowconverting'] = "El vídeo se está procesando, espera unos minutos.";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView de "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -199,7 +200,7 @@ $LANGS['memberdeclined1'] = 'Has rechazado la solicitud de ';
 $LANGS['memberdeclined2'] = '.';
 $LANGS['videoaccepted'] = 'Se ha aceptado el vídeo.';
 $LANGS['bulletindeleted'] = 'Se ha eliminado el boletín.';
-$LANGS['messagedeleted'] = 'Se ha eliminado el boletín.';
+$LANGS['messagedeleted'] = 'Se ha eliminado el mensaje.';
 $LANGS['responsedeleted'] = 'Se ha eliminado la respuesta en vídeo.';
 $LANGS['flagmod'] = 'No puedes marcar a un moderador.';
 $LANGS['userflagged'] = 'Se ha enviado la notificación.';
@@ -308,6 +309,7 @@ $LANGS['psfair'] = "Regular";
 $LANGS['psgood'] = "Bueno";
 $LANGS['psstrong'] = "Fuerte";
 $LANGS['repassword'] = "Vuelve a escribir la contraseña";
+$LANGS['usernamedesc'] = "El nombre de usuario solo puede tener letras A-Z y números 0-9.";
 $LANGS['captcha'] = "Verificación de captcha";
 $LANGS['acceptterms'] = 'Acepto los <a href="/terms">Términos de uso</a> y la <a href="/privacy">Política de privacidad</a>.';
 $LANGS['copyrighttext'] = 'Si subes material que no te pertenece, infringirás los derechos de autor y la ley. Si subes material que no te pertenece, tu cuenta se eliminará.';
@@ -349,7 +351,7 @@ $LANGS['cat4'] = "Ocio";
 $LANGS['cat5'] = "Eventos y bodas";
 $LANGS['cat6'] = "Familiar";
 $LANGS['cat7'] = "En venta y subastas";
-$LANGS['cat8'] = "Animación";
+$LANGS['cat8'] = "Aficiones e intereses";
 $LANGS['cat9'] = "Comedia";
 $LANGS['cat10'] = "Música";
 $LANGS['cat11'] = "Noticias y política";
@@ -1113,8 +1115,7 @@ $LANGS['sharevideo1'] = 'Primero, entra en el vídeo que quieres compartir. Busc
 $LANGS['sharevideo2'] = 'Allí verás dos formas de compartir tu vídeo:';
 $LANGS['sharevideo3'] = '1. <b>Enlace del vídeo</b>: Este enlace te mostrará la página de BitView y te reproducirá automáticamente el vídeo. Envíalo a alguien vía chat o correo electrónico.';
 $LANGS['sharevideo4'] = '2. <b>Insertar</b>: Copia el HTML de abajo a tu página web y el reproductor de BitVire aparecerá allí. No se reproducirá automáticamente y el usuario tendrá que hacer clic para reproducir. Reemplaza el <i>"XXXXX"</i> con el ID del vídeo.';
-$LANGS['sharepvideo1'] = 'Para que tus amigos y familiares puedan ver tus vídeos privados necesitan una cuenta de BitView. Si sabes el nombre de usuario, vas a sus canales y pulsas "Añadir como amigo". Ahora solo tienen que aceptar esta solicitud y podrán ver tus vídeos privados.<br/>
-    <b>También puedes añadir un amigo escribiendo su nombre de usuario en la caja de abajo:</b>';
+$LANGS['sharepvideo1'] = 'Para que tus amigos y familiares puedan ver tus vídeos privados necesitan una cuenta de BitView. Si sabes el nombre de usuario, vas a sus canales y pulsas "Añadir como amigo". Ahora solo tienen que aceptar esta solicitud y podrán ver tus vídeos privados.<br/><b>También puedes añadir un amigo escribiendo su nombre de usuario en la caja de abajo:</b>';
 $LANGS['sharechannellist1'] = 'Tener todos tus vídeos de BitView en tu sitio web es muy fácil, simplemente añade el código HTML de abajo en tu página.';
 
 /* Footer */
