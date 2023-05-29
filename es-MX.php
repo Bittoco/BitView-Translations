@@ -73,6 +73,7 @@ $LANGS['viewall'] = 'ver todos';
 $LANGS['videoviews'] = 'de reproducciones';
 $LANGS['beingwatched'] = 'Videos que se están viendo ahora';
 $LANGS['featured'] = 'Videos destacados';
+$LANGS['mostpopular'] = 'Más populares';
 $LANGS['inboxstats'] = 'Bandeja de entrada';
 $LANGS['profilesettings'] = 'ajustes de cuenta';
 $LANGS['messages'] = 'mensajes';
