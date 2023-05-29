@@ -314,7 +314,7 @@ $LANGS['usernamedesc'] = "Your username can only contain letters A-Z or numbers 
 $LANGS['captcha'] = "Captcha";
 $LANGS['acceptterms'] = 'I agree to the <a href="/terms">Terms of Service</a> and <a href="/privacy">Privacy Policy</a>.';
 $LANGS['copyrighttext'] = 'Uploading materials that you do not own is a copyright violation and against the law. If you upload material you do not own, your account will be deleted.';
-$LANGS['mustaccept'] = 'Debes aceptar los Términos de uso y la Política de privacidad para crear tu cuenta.';
+$LANGS['mustaccept'] = 'You must agree to the Terms of Use and Privacy Policy to create your account.';
 $LANGS['createaccount'] = 'Create my account';
 $LANGS['signuperror'] = 'There was an error while creating your account.';
 $LANGS['sameemail'] = 'This username or email is already in use!';
@@ -1088,7 +1088,7 @@ These are just some examples of the videos that our users are uploading. In the 
 $LANGS['q3'] = 'Q: How long can my video be?';
 $LANGS['a3'] = 'A: The video must be under 15 minutes long and less than 2GB in size (100MB if you use an old browser).';
 $LANGS['q4'] = 'Q: What video file formats can I upload?';
-$LANGS['a4'] = 'A: BitView accepts video files from most digital cameras and from cell phones in the .WMV, .AVI, .MOV, .MPG, .MP4 file formats.';
+$LANGS['a4'] = 'A: BitView accepts video files from most digital cameras and from mobile phones in the .WMV, .AVI, .MOV, .MPG, .MP4 file formats.';
 $LANGS['q5'] = 'Q: How can I improve my videos?';
 $LANGS['a5'] = 'A: We encourage you to edit your videos with software such as <a href="https://windows-movie-maker-vista.en.softonic.com/" target="_blank">Windows Movie Maker</a> (included with every Windows installation), or <a href="https://www.apple.com/lae/imovie/" target="_blank">Apple iMovie</a>. Using these programmes you can easily edit your videos, add soundtracks, etc.';
 $LANGS['q6'] = 'Q: Do I retain copyrights and other legal rights to my videos?';
