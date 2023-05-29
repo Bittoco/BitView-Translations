@@ -265,6 +265,7 @@ $LANGS['textcomments'] = 'Comentarios escritos';
 $LANGS['commentpost'] = 'Escribe un comentario';
 $LANGS['commentonthisvideo'] = 'Comenta en este video';
 $LANGS['postcomment'] = 'Comentar';
+$LANGS['remainingcounter'] = 'Número de caracteres restantes';
 $LANGS['nocomments'] = 'Este video no tiene <b>comentarios</b>.';
 $LANGS['noresponses'] = 'Este video no tiene <b>respuestas</b>.';
 $LANGS['commviewall'] = 'Ver todos los';
