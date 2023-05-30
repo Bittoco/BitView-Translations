@@ -3,7 +3,7 @@
 $LANGS['language'] = 'Brizzle Dialect';
 $LANGS['languageenglish'] = 'Brizzle Dialect';
 $LANGS['languagecode'] = 'dl_BS';
-$LANGS['languagechange'] = “yews language’ been set to Brizzle mind.”;
+$LANGS['languagechange'] = "yews language’ been set to Brizzle mind.";
 $LANGS['numberformat'] = 1; /* If yews language uses comma separatawls (example: 1,000,000), valuawl will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
 /* Language window */
@@ -187,7 +187,7 @@ $LANGS['videodeleted'] = 'Video as successfully been deleted!';
 $LANGS['pldeleted'] = 'Playlist as successfully been deleted!';
 $LANGS['invitesent'] = 'Friend Invite as successfully been sent!';
 $LANGS['descriptionchanged'] = 'The description has been changed!';
-$LANGS['emptymessage'] = “You can’t send empty messages!”;
+$LANGS['emptymessage'] = "You can’t send empty messages!";
 $LANGS['styleupdated'] = 'Group styling as been successfully updated!';
 $LANGS['imageupdated'] = 'Group image as been successfully updated!';
 $LANGS['plcreated'] = 'Playlist as been successfully created!';
@@ -203,10 +203,10 @@ $LANGS['videoaccepted'] = 'The video was successfully accepted!';
 $LANGS['bulletindeleted'] = 'Bulletin successfully deleted!';
 $LANGS['messagedeleted'] = 'Message successfully deleted!';
 $LANGS['responsedeleted'] = 'Successfully deleted Video Response!';
-$LANGS['flagmod'] = “Yew can’t report user that have moderator permissions!”;
-$LANGS['userflagged'] = “Report been sent!”;
-$LANGS['discussionreplysubmitted'] = ‘Reply been sent!';
-$LANGS['discussionreplyempty'] = “A reply can’t be left empty!”;
+$LANGS['flagmod'] = "Yew can’t report user that have moderator permissions!";
+$LANGS['userflagged'] = "Report been sent!";
+$LANGS['discussionreplysubmitted'] = 'Reply been sent!';
+$LANGS['discussionreplyempty'] = "A reply can’t be left empty!";
 
 /* Watch */
 $LANGS['moreinfo'] = 'more info';
@@ -222,7 +222,7 @@ $LANGS['unsubscribe'] = 'Unsubscribe';
 $LANGS['nodesc'] = 'No Description...';
 $LANGS['logintosub'] = 'Please log in to subscribe!';
 $LANGS['logintosubbox'] = 'Wanna Subscribe?';
-$LANGS['subyourself'] = “Yew can’t subscribe to yewself!”;
+$LANGS['subyourself'] = "Yew can’t subscribe to yewself!";
 $LANGS['videoowner'] = 'Video Owner Options';
 $LANGS['editvideo'] = 'Edit Video';
 $LANGS['insight'] = 'Insight';
@@ -232,7 +232,7 @@ $LANGS['novideosfound'] = 'No Videos Found...';
 $LANGS['morevideos'] = 'See awl videos';
 $LANGS['changeplayersize'] = 'Change Player Size';
 $LANGS['newwindow'] = 'Watch this video in a new window';
-$LANGS['featuredtext'] = “This video as been Featured like. Wanna see more Featured videos? <a href="/browse?t=2">Click here</a>.';
+$LANGS['featuredtext'] = 'This video as been Featured like. Wanna see more Featured videos? <a href="/browse?t=2">Click here</a>.';
 $LANGS['ratings'] = 'ratings';
 $LANGS['rating'] = 'rating';
 $LANGS['favorite'] = 'Favourite';
@@ -313,10 +313,10 @@ $LANGS['repassword'] = "Re-type Password";
 $LANGS['usernamedesc'] = "Yews username can only contain le’ers A-Z or numbers 0-9.";
 $LANGS['captcha'] = "Captchawl";
 $LANGS['acceptterms'] = 'I agree to the <a href="/terms">Terms of Service</a> and <a href="/privacy">Privacy Policy</a>.';
-$LANGS['copyrighttext'] = “Uploading materials that yews don’t own is a copyright violation and against the law. If yews upload material yew do not own, yews account will be deleted.”;
+$LANGS['copyrighttext'] = "Uploading materials that yews don’t own is a copyright violation and against the law. If yews upload material yew do not own, yews account will be deleted.";
 $LANGS['mustaccept'] = 'Yews must agree to the Terms of Use and Privacy Policy to create yews account.';
 $LANGS['createaccount'] = 'Create my account';
-$LANGS['signuperror'] = “There’s an error while creating yews account.”;
+$LANGS['signuperror'] = "There’s an error while creating yews account.";
 $LANGS['sameemail'] = 'This username or emawl is already in use!';
 $LANGS['usernamechar'] = 'Usernames can only contain characters and numbers!';
 $LANGS['required'] = 'All text fields are required!';
@@ -671,7 +671,7 @@ $LANGS['edit'] = "Edit";
 $LANGS['setasavatar'] = "Set Thumbnail as Avatar";
 $LANGS['downloadmp4'] = "Download MP4";
 $LANGS['deleteconfirmation'] = "Are yew sure yew want to delete this video?";
-$LANGS['novideos'] = “Yew avn’t uploaded any videos. <a href="/my_videos_upload">Start uploading a video now</a>!”;
+$LANGS['novideos'] = "Yew avn’t uploaded any videos. <a href='/my_videos_upload'>Start uploading a video now</a>!";
 $LANGS['nomyvideosresults'] = "No results. Check if yews spelling is correct.";
 
 /* Edit Video */
@@ -802,7 +802,7 @@ $LANGS['nogroupsfound'] = 'No Groups Found...';
 
 /* Profile */
 $LANGS['channelsuspended'] = 'This account is suspended.';
-$LANGS['accountnotfound'] = “This account can’t be found.”;
+$LANGS['accountnotfound'] = "This account can’t be found.";
 $LANGS['channel'] = 'Channawl';
 $LANGS['friends'] = 'Babbers';
 $LANGS['channelsubscribers'] = 'Subscribers';
@@ -835,7 +835,7 @@ $LANGS['report'] = 'Report';
 $LANGS['pfpviolation'] = 'profile image violation';
 $LANGS['connectwith'] = 'Connect with';
 $LANGS['profilesendmessage'] = 'Send Message';
-$LANGS['messagetoyourself'] = “Yew can’t send messages to yourself!”;
+$LANGS['messagetoyourself'] = "Yew can’t send messages to yourself!";
 $LANGS['logintomessage'] = 'Please log in to send messages!';
 $LANGS['addcomment'] = 'Add Comment';
 $LANGS['logintocommentchannel'] = 'Please log in to comment';
@@ -843,7 +843,7 @@ $LANGS['sharechannel'] = 'Share Channawl';
 $LANGS['addfriend'] = 'Add me Babbers';
 $LANGS['retractinvite'] = 'Cancelar solicitud';
 $LANGS['removefriend'] = 'Retract Invite';
-$LANGS['notfriendyourself'] = “Yew cannot add yourself to Babbers!”;
+$LANGS['notfriendyourself'] = "Yew cannot add yourself to Babbers!";
 $LANGS['logintofriend'] = 'Please log in to add babbers!';
 $LANGS['blockuser'] = 'Block User';
 $LANGS['channelembed'] = 'Embed This Channawl';
