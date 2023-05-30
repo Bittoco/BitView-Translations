@@ -2,7 +2,7 @@
 /* General stuff */
 $LANGS['language'] = 'Deutsch';
 $LANGS['languageenglish'] = 'German';
-$LANGS['languagecode'] = 'de_DE';
+$LANGS['languagecode'] = 'de_DE.UTF-8';
 $LANGS['languagechange'] = 'Die Sprache wurde auf Deutsch gestellt.';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
