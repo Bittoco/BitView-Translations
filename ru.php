@@ -10,8 +10,8 @@ $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 
 $LANGS['welcometobitview'] = 'Добро пожаловать на BitView!';
 $LANGS['languagesuggestion'] = 'Предлагаемый язык:';
 $LANGS['languagesuggestiondesc1'] = 'Чтобы сменить язык, используйте выбор языка в нижней части страницы.';
-$LANGS['languagesuggestiondesc2'] = 'Щелкинте "OK" чтобы принять, или щелкните "Отмена" чтобы сменить язык на Английский.';
-
+$LANGS['languagesuggestiondesc2'] = 'Щёлкните "OK" чтобы принять, или щелкните "Отмена" чтобы сменить язык на Английский.';
+/* пожалуйста не забывай про ё. ~05 */
 /* Time, dates, etc */
 $LANGS['second'] = 'секунда';
 $LANGS['minute'] = 'минута';
@@ -62,7 +62,7 @@ $LANGS['logout'] = 'Выйти';
 $LANGS['upload'] = 'Загрузить';
 $LANGS['subscriptions'] = 'Подписки';
 $LANGS['history'] = 'История';
-$LANGS['account'] = 'Учётная запись';
+$LANGS['account'] = 'Аккаунт';
 $LANGS['myvideos'] = 'Мои Видео';
 $LANGS['favorites'] = 'Избранные';
 $LANGS['playlists'] = 'Плейлисты';
@@ -95,7 +95,7 @@ $LANGS['signinnow'] = '<a href="/login">Войдите</a> или <a href="/sign
 $LANGS['nowconverting'] = "Это видео конвертируется, подождите пару минут.";
 
 /* Page title */
-$LANGS['homepretitle'] = "BitView"; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['homepretitle'] = "BitView "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['homeposttitle'] = ""; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['chpretitle'] = "Канал "; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['chposttitle'] = ""; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
@@ -685,7 +685,7 @@ $LANGS['viewchart'] = "График просмотров";
 /* My Playlists */
 $LANGS['addedpl'] = "Добавлено";
 $LANGS['frompl'] = "От";
-$LANGS['nopl'] = "Плейлистов не найдено....";
+$LANGS['nopl'] = "Плейлистов не найдено...";
 
 /* My Playlist */
 $LANGS['playlistedit'] = "Редактировать плейлист";
@@ -772,7 +772,7 @@ $LANGS['styling'] = "Стиль";
 $LANGS['cssdesc'] = "Если ваш фон или изображение нарушают Правила, ваш аккаунт будет заблокирован.";
 $LANGS['updatecss'] = "Обновить CSS";
 $LANGS['groupmessage'] = "Сообщение";
-$LANGS['sendmessagetomembers'] = "SОтправить сообщение участникам";
+$LANGS['sendmessagetomembers'] = "Отправить сообщение участникам"; 
 $LANGS['delgroup'] = "Удалить группу";
 
 /* Submit Group Video */
@@ -1039,7 +1039,7 @@ $LANGS['about4'] = 'Securely and privately show videos to your friends and famil
 $LANGS['about5'] = '... и многое другое!';
 $LANGS['aboutsignup'] = '<a href="/signup">Sign up now</a> and open a free account.';
 $LANGS['abouthelp'] = 'To learn more about our service, please see our <a href="help">Help</a> section.';
-$LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.';
+$LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.'; 
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'Принципы сообщества BitView';
