@@ -1,21 +1,3 @@
-
-# BitView Translations
-
-Bonjour! You can now create translations for BitView. Please, use en-US.php as a template.
-## Useful Information
-
- - [Date Format Info](https://doc.bccnsoft.com/docs/php-docs-7-en/function.strftime.html)
-
-
-
-## Translation Progress
-
-| Language             | Completion                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| English (US) | 100% |
-| English (UK) | 100% |
-| Español (España) | 100% |
-| Español (Latinoamérica) | 100% |
-| Polski (pl) | 100% |
-| Français (France) | 15% |
-| Русский (RU) | ~60% |
+# FULL SUPPORT PLEASE ON REALDANTOPF
+he just did like 99% of the translation.
+i did the 1% of the translation :) :D
