@@ -18,3 +18,4 @@ Bonjour! You can now create translations for BitView. Please, use en-US.php as a
 | Español (Latinoamérica) | 100% |
 | Polish (pl) | 100% |
 | French (fr) | 15% |
+| Russian (RU) | 10% |
