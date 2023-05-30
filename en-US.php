@@ -2,7 +2,7 @@
 /* General stuff */
 $LANGS['language'] = 'English (US)';
 $LANGS['languageenglish'] = 'English (US)';
-$LANGS['languagecode'] = 'en_US.UTF-8';
+$LANGS['languagecode'] = 'en_US.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
 $LANGS['languagechange'] = 'Language has been set to English (US).';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
