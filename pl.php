@@ -10,12 +10,12 @@ $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 
 $LANGS['welcometobitview'] = 'Witaj w BitView!';
 $LANGS['languagesuggestion'] = 'Sugerowany język (ustawiliśmy Twoje preferencje na ten):';
 $LANGS['languagesuggestiondesc1'] = 'Aby zmienić preferowany język, skorzystaj z selektora języka w stopce strony (na końcu strony).';
-$LANGS['languagesuggestiondesc2'] = 'Kliknij "OK", aby zaakceptować tę ustawienie, lub kliknij "Anuluj", aby przeglądać stronę w języku angielskim.';
+$LANGS['languagesuggestiondesc2'] = 'Kliknij "Akceptuj", aby zaakceptować tę ustawienie, lub kliknij "Anuluj", aby przeglądać stronę w języku angielskim.';
 
 /* Time, dates, etc */
 $LANGS['second'] = 'sekunda';
 $LANGS['minute'] = 'minuta';
-$LANGS['hour'] = 'godzina';
+$LANGS['hour'] = 'godzina/y';
 $LANGS['day'] = 'dzień';
 $LANGS['week'] = 'tydzień';
 $LANGS['month'] = 'miesiąc';
