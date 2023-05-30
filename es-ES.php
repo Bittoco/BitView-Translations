@@ -2,7 +2,7 @@
 /* General stuff */
 $LANGS['language'] = 'Español (España)';
 $LANGS['languageenglish'] = 'Spanish (Spain)';
-$LANGS['languagecode'] = 'es_ES';
+$LANGS['languagecode'] = 'es_ES.UTF-8';
 $LANGS['languagechange'] = 'El idioma del sitio ha sido cambiado a Español (España).';
 $LANGS['numberformat'] = 0; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
@@ -73,7 +73,6 @@ $LANGS['viewall'] = 'ver todos';
 $LANGS['videoviews'] = 'reproducciones';
 $LANGS['beingwatched'] = 'Vídeos que se están viendo ahora';
 $LANGS['featured'] = 'Vídeos destacados';
-$LANGS['mostpopular'] = 'Más populares';
 $LANGS['inboxstats'] = 'Bandeja de entrada';
 $LANGS['profilesettings'] = 'ajustes de cuenta';
 $LANGS['messages'] = 'mensajes';
@@ -883,6 +882,11 @@ $LANGS['commentdesc'] = 'Publica un comentario que aparecerá en el canal.';
 $LANGS['postbulletin'] = 'Publicar boletín';
 $LANGS['writeabulletin'] = 'Escribe un boletín';
 $LANGS['bulletindesc'] = 'Los boletines aparecen en tu canal y en el de tus amigos.';
+$LANGS['sharingoptions'] = 'Opciones para compartir';
+$LANGS['sharingoptionsdesc'] = 'Existen dos formas de compartir este canal.';
+$LANGS['sharingoptions1'] = '1. Copia y pega este enlace en un mensaje instantáneo o de correo electrónico.';
+$LANGS['sharingoptions2'] = '2. Envía este canal mediante el programa de correo electrónico de tu equipo.';
+$LANGS['clicktosend'] = 'Haz clic para enviar.';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Esta página incluye toda la configuración de tu cuenta de BitView.';

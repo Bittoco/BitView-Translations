@@ -2,7 +2,7 @@
 /* General stuff */
 $LANGS['language'] = 'English (US)';
 $LANGS['languageenglish'] = 'English (US)';
-$LANGS['languagecode'] = 'en_US';
+$LANGS['languagecode'] = 'en_US.UTF-8';
 $LANGS['languagechange'] = 'Language has been set to English (US).';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
@@ -883,6 +883,11 @@ $LANGS['commentdesc'] = 'Channel comments appear on the users channel.';
 $LANGS['postbulletin'] = 'Post Bulletin';
 $LANGS['writeabulletin'] = 'Write a bulletin';
 $LANGS['bulletindesc'] = 'Bulletins appear on your own and your friends channel pages.';
+$LANGS['sharingoptions'] = 'Sharing Options';
+$LANGS['sharingoptionsdesc'] = 'There are 2 ways to share this channel.';
+$LANGS['sharingoptions1'] = '1. Copy & Paste this link into an email or instant message.';
+$LANGS['sharingoptions2'] = "2. Send this channel using your computer's email program.";
+$LANGS['clicktosend'] = 'Click to send!';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'This page contains all of the settings for your BitView channel.';
