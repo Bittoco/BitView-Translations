@@ -884,6 +884,11 @@ $LANGS['commentdesc'] = 'Komentarze do kanału pojawiają się na stronach kana�
 $LANGS['postbulletin'] = 'Opublikuj ogłoszenie';
 $LANGS['writeabulletin'] = 'Napisz ogłoszenie';
 $LANGS['bulletindesc'] = 'Ogłoszenia pojawiają się na Twojej stronie oraz stronach kanałów Twoich znajomych.';
+$LANGS['sharingoptions'] = 'Sharing Options';
+$LANGS['sharingoptionsdesc'] = 'There are 2 ways to share this channel.';
+$LANGS['sharingoptions1'] = '1. Copy & Paste this link into an email or instant message.';
+$LANGS['sharingoptions2'] = "2. Send this channel using your computer's email program.";
+$LANGS['clicktosend'] = 'Click to send!';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Ta strona zawiera wszystkie ustawienia Twojego kanału BitView.';
