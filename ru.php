@@ -2,7 +2,7 @@
 /* Основное */
 $LANGS['language'] = 'Русский (RU)';
 $LANGS['languageenglish'] = 'Russian (RU)';
-$LANGS['languagecode'] = 'ru_RU';
+$LANGS['languagecode'] = 'ru_RU.UTF-8';
 $LANGS['languagechange'] = 'Язык был сменен на Русский (RU).';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
@@ -883,6 +883,11 @@ $LANGS['commentdesc'] = 'Комментарии канала появляютс�
 $LANGS['postbulletin'] = 'Добавить объявление';
 $LANGS['writeabulletin'] = 'Написать объявление';
 $LANGS['bulletindesc'] = 'Объявления появляются на вашей странице и страницах ваших друзей.';
+$LANGS['sharingoptions'] = 'Sharing Options';
+$LANGS['sharingoptionsdesc'] = 'There are 2 ways to share this channel.';
+$LANGS['sharingoptions1'] = '1. Copy & Paste this link into an email or instant message.';
+$LANGS['sharingoptions2'] = "2. Send this channel using your computer's email program.";
+$LANGS['clicktosend'] = 'Click to send!';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Эта страница содержит все настройки вашего канала BitView.';
