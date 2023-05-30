@@ -66,7 +66,7 @@ $LANGS['account'] = 'Konto';
 $LANGS['myvideos'] = 'Moje filmy';
 $LANGS['favorites'] = 'Ulubione';
 $LANGS['playlists'] = 'Playlisty';
-$LANGS['help'] = 'Pomoc';
+$LANGS['help'] = 'Centrum Pomocy';
 
 /* Homepage */
 $LANGS['viewall'] = 'wyświetl wszystko';
@@ -82,8 +82,8 @@ $LANGS['comments'] = 'komentarze/y';
 $LANGS['comment'] = 'komentarz';
 $LANGS['friendinvites'] = 'zaproszeń do znajomych';
 $LANGS['friendinvite'] = 'zaproszenie do znajomych';
-$LANGS['subscribers'] = 'subskrybenci';
-$LANGS['subscriber'] = 'subskrybentów';
+$LANGS['subscribers'] = 'subskrybentów';
+$LANGS['subscriber'] = 'subskrybent';
 $LANGS['totalviews'] = 'wyświetleń wszystkich filmów';
 $LANGS['sendmessage'] = 'wyślij wiadomość';
 $LANGS['whatsnew'] = 'Co nowego?';
@@ -228,7 +228,7 @@ $LANGS['videoowner'] = 'Opcje właściciela wideo';
 $LANGS['editvideo'] = 'Edytuj wideo';
 $LANGS['insight'] = 'Statystyki';
 $LANGS['morefrom'] = 'Więcej od:';
-$LANGS['relatedvideos'] = 'Powiązane filmy';
+$LANGS['relatedvideos'] = 'Proponowane filmy';
 $LANGS['novideosfound'] = 'Nie znaleziono filmów...';
 $LANGS['morevideos'] = 'Zobacz wszystkie filmy';
 $LANGS['changeplayersize'] = 'Zmień rozmiar odtwarzacza';
@@ -1041,7 +1041,7 @@ $LANGS['about4'] = 'Bezpiecznie i prywatnie pokazywać filmy swoim przyjaciołom
 $LANGS['about5'] = '... i wiele, wiele więcej!';
 $LANGS['aboutsignup'] = '<a href="/signup">Zarejestruj się teraz</a> i załóż darmowe konto.';
 $LANGS['abouthelp'] = 'Aby dowiedzieć się więcej o naszej usłudze, zapoznaj się z naszą sekcją <a href="help">Pomoc</a>.';
-$LANGS['aboutmail'] = 'Jeśli masz jakieś pytania, <a href="mailto:contact@vidlii.co">skontaktuj się z nami</a>.';
+$LANGS['aboutmail'] = 'Jeśli masz jakieś pytania, <a href="mailto:contact@vidlii.co">skontaktuj się z nami przez e-mail</a> bądź pod komentarzem na <a href="/user/BitViewPL">Polskim kanale BitView</a>.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'Wytyczne Społeczności BitView';
@@ -1060,7 +1060,7 @@ $LANGS['rule9'] = "Nie korzystaj z więcej niż jednego konta do oceniania film�
 $LANGS['rule10'] = "Unikanie blokad jest <b>NIE</b>akceptowane. Każde nowe konto utworzone przez zbanowaną osobę zostanie automatycznie usunięte.";
 $LANGS['rule11'] = "Nie wolno udostępniać nikomu swoich danych logowania.";
 $LANGS['enforceguidelines'] = "Egzekwujemy Te Wytyczne";
-$LANGS['enforceguidelinesdesc'] = "Dobra, ta zasada dotyczy bardziej nas niż Ciebie. Personel BitView przegląda zgłoszone filmy około raz w roku, aby ocenić, czy naruszają nasze Wytyczne Społecznościowe.
+$LANGS['enforceguidelinesdesc'] = "Dobra, ta zasada dotyczy bardziej nas niż Ciebie. Personel BitView przegląda zgłoszone filmy około raz w tygodniu, aby ocenić, czy naruszają nasze Wytyczne Społecznościowe.
 <br>Jeśli tak, usuwamy je. Konta są karane za naruszenia Wytycznych Społecznościowych, a poważne lub powtarzające się naruszenia mogą prowadzić do usunięcia konta. <br>Nie próbuj znaleźć luk i próbować bronić się przed tymi prostymi zasadami.";
 
 /* Contests */
