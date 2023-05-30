@@ -97,7 +97,7 @@ $LANGS['nowconverting'] = "Это видео конвертируется, по�
 /* Page title */
 $LANGS['homepretitle'] = "BitView"; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['homeposttitle'] = ""; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['chpretitle'] = "Канал"; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['chpretitle'] = "Канал "; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['chposttitle'] = ""; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['signintitle'] = "Войти";
 $LANGS['historytitle'] = "История";
