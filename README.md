@@ -19,3 +19,4 @@ Bonjour! You can now create translations for BitView. Please, use en-US.php as a
 | Deutsch | 100% | realdantopf
 | Hrvatski (HR) | 10% | HelluvaEmployee
 | Србски (SR) | 10% | HelluvaEmployee
+| Català | 5% | Herotrap
