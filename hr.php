@@ -10,7 +10,7 @@ $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 
 $LANGS['welcometobitview'] = 'Dobrodošli na BitView!'; 
 $LANGS['languagesuggestion'] = 'Preporučeni Jezici (ovaj jezik smo vam automatski postavili):'; 
 $LANGS['languagesuggestiondesc1'] = 'Da promjenite jezik, molimo vas da ga odaberete na doljnoj strani stranice (kraj stranice).'; 
-$LANGS['languagesuggestiondesc2'] = 'Prtisnite 'OK' da promjenite jezik, ili pritisnite "Odbij" da vidite ovu stranicu na Hrvatskom.';
+$LANGS['languagesuggestiondesc2'] = 'Prtisnite "OK" da promjenite jezik, ili pritisnite "Odbij" da vidite ovu stranicu na Hrvatskom.';
 
 /* Time, dates, etc */
 
@@ -44,7 +44,9 @@ $LANGS['october'] = 'Listopad';
 $LANGS['november'] = 'Studeni';
 $LANGS['december'] = 'Prosniac';
 $LANGS['shorttimeformat'] = '%b %e, %Y';
-$LANGS['videotimeformat'] = '%b %e, %Y'; $LANGS['longtimeformat'] = '%B %e, %Y'; $LANGS['timehourformat'] = '%b %e, %Y %I:%M %p'; 
+$LANGS['videotimeformat'] = '%b %e, %Y'; 
+$LANGS['longtimeformat'] = '%B %e, %Y'; 
+$LANGS['timehourformat'] = '%b %e, %Y %I:%M %p'; 
 $LANGS['myvideostimeformat'] = '%A, %b %e %Y, %I:%M:%S %p';
 $LANGS['blogpostformat'] = '%A, %B %e, %Y'; 
 $LANGS['timenumberformat'] = 'd.m.Y';
