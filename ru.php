@@ -1116,11 +1116,11 @@ $LANGS['flashdisclaimer'] = "<b>Обратите внимание:</b> BitView �
 /* Share */
 $LANGS['sharevideo'] = 'Как мне поделиться обычным видео BitView?';
 $LANGS['sharepvideo'] = 'Как я могу поделиться своими личными видео с друзьями?';
-$LANGS['sharechannellist'] = 'How do I list my BitView videos on my website?';
-$LANGS['sharevideo1'] = 'First, go to the video that you want to share. Look for the box under the video player and tags.';
-$LANGS['sharevideo2'] = 'Now you will see two ways to share your video:';
-$LANGS['sharevideo3'] = '1. <b>Video URL</b>: This URL will send you directly to the BitView page and instantly starts playing the video. Send the link to someone via email or chat programs.';
-$LANGS['sharevideo4'] = '2. <b>Embed</b>: Copy the HTML below onto your website and the BitView video Player appear on it. It will not autoplay and needs to be clicked on before it starts. Replace the <i>"XXXXX"</i> with the video ID.';
+$LANGS['sharechannellist'] = 'Как мне поделиться моими видео на моём веб-сайте?';
+$LANGS['sharevideo1'] = 'Сначала перейдите к видео, которым вы хотите поделиться. Найдите поле под видеоплеером и тегами.';
+$LANGS['sharevideo2'] = 'Далее вы увидите два способа поделиться своими видео:';
+$LANGS['sharevideo3'] = '1. <b>URL видео</b>: Этот URL отправит вас непосредственно на страницу BitView и начнёт воспроизводить видео. Отправьте ссылку кому-то через e-mail или в программах чата.';
+$LANGS['sharevideo4'] = '2. <b>Виджет</b>: Copy the HTML below onto your website and the BitView video Player appear on it. It will not autoplay and needs to be clicked on before it starts. Replace the <i>"XXXXX"</i> with the video ID.'; // тут мои полномочия уже всё... ~05
 $LANGS['sharepvideo1'] = "To have friends and family be able to watch your private videos they must first of all have a BitView account. After you know the account name, go to their channel and click the <i>Add as Friend</i> button on the right. Now they just need to approve the friend request and they'll be all set to view your private videos.<br><b>You can also add a friend by simply entering their username below:</b>";
 $LANGS['sharechannellist1'] = 'Having a list of all your uploaded BitView videos is very simple, just add this HTML snippet to your website.';
 
