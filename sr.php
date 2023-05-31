@@ -1,110 +1,110 @@
 <?php
 /* General stuff */
-$LANGS['language'] = 'Hrvatski (HR)'; 
-$LANGS['languageenglish'] = 'Croatian (HR)'; 
-$LANGS['languagecode'] = 'hr_HR.UTF-8'; 
-$LANGS['languagechange'] = 'Postavljen je jezik na Hrvatskom (HR).';
+$LANGS['language'] = 'Србски (SR)';
+$LANGS['languageenglish'] = 'Serbian (SR)';
+$LANGS['languagecode'] = 'sr_SR.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
+$LANGS['languagechange'] = 'Постављен је језик на Србском (СР).';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
 /* Language window */
-$LANGS['welcometobitview'] = 'Dobrodošli na BitView!'; 
-$LANGS['languagesuggestion'] = 'Preporučeni Jezici (ovaj jezik smo vam automatski postavili):'; 
-$LANGS['languagesuggestiondesc1'] = 'Da promjenite jezik, molimo vas da ga odaberete na doljnoj strani stranice (kraj stranice).'; 
-$LANGS['languagesuggestiondesc2'] = 'Prtisnite 'OK' da promjenite jezik, ili pritisnite "Odbij" da vidite ovu stranicu na Hrvatskom.';
+$LANGS['welcometobitview'] = 'Добродошли на BitView!';
+$LANGS['languagesuggestion'] = 'Препоручени Језици (овај језик смо вам аутоматски поставили):';
+$LANGS['languagesuggestiondesc1'] = 'Да промјените језик, молимо вас да га одаберете на дољној страни странице (крај странице).';
+$LANGS['languagesuggestiondesc2'] = 'Пртисните "ОК" да промјените језик, или притисните "Одбиј" да видите ову страницу на Србском).';
 
 /* Time, dates, etc */
 
-$LANGS['second'] = 'sekunda';
-$LANGS['minute'] = 'minuta';
-$LANGS['hour'] = 'sat';
-$LANGS['day'] = 'dan';
-$LANGS['week'] = 'tjedan';
-$LANGS['month'] = 'mjesec';
-$LANGS['year'] = 'godina';
-$LANGS['seconds'] = 'sekunde';
-$LANGS['minutes'] = 'minute';
-$LANGS['hours'] = 'sati';
-$LANGS['days'] = 'dani';
-$LANGS['weeks'] = 'tjedni';
-$LANGS['months'] = 'mjeseci';
-$LANGS['years'] = 'godine';
-$LANGS['ago1'] = 'prije';
+$LANGS['second'] = 'секунда';
+$LANGS['minute'] = 'минута';
+$LANGS['hour'] = 'сат';
+$LANGS['day'] = 'дан';
+$LANGS['week'] = 'тједан';
+$LANGS['month'] = 'мјесец';
+$LANGS['year'] = 'година';
+$LANGS['seconds'] = 'секунде';
+$LANGS['minutes'] = 'минуте';
+$LANGS['hours'] = 'сати';
+$LANGS['days'] = 'дани';
+$LANGS['weeks'] = 'тједни';
+$LANGS['months'] = 'мјесеци';
+$LANGS['years'] = 'године';
+$LANGS['ago1'] = 'прије';
 /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['ago2'] = ''; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['january'] = 'Siječanj';
-$LANGS['february'] = 'Veljača';
-$LANGS['march'] = 'Ožujak';
-$LANGS['april'] = 'Travanj';
-$LANGS['may'] = 'Svibanj';
-$LANGS['june'] = 'Lipanj';
-$LANGS['july'] = 'Srpanj';
-$LANGS['august'] = 'Kolovoz';
-$LANGS['september'] = 'Rujan';
-$LANGS['october'] = 'Listopad';
-$LANGS['november'] = 'Studeni';
-$LANGS['december'] = 'Prosniac';
-$LANGS['shorttimeformat'] = '%b %e, %Y';
-$LANGS['videotimeformat'] = '%b %e, %Y'; $LANGS['longtimeformat'] = '%B %e, %Y'; $LANGS['timehourformat'] = '%b %e, %Y %I:%M %p'; 
+$LANGS['january'] = 'Јануар';
+$LANGS['february'] = 'Фебруар';
+$LANGS['march'] = 'Март';
+$LANGS['april'] = 'Април';
+$LANGS['may'] = 'Мај';
+$LANGS['june'] = 'Јул';
+$LANGS['july'] = 'Јун';
+$LANGS['august'] = 'Август';
+$LANGS['september'] = 'Септембар';
+$LANGS['october'] = 'Октобар';
+$LANGS['november'] = 'Новембар';
+$LANGS['december'] = 'Децембар';
+$LANGS['shorttimeformat'] = '%b %e, %Y'; $LANGS['videotimeformat'] = '%b %e, %Y';
+$LANGS['longtimeformat'] = '%B %e, %Y'; $LANGS['timehourformat'] = '%b %e, %Y %I:%M %p'; 
 $LANGS['myvideostimeformat'] = '%A, %b %e %Y, %I:%M:%S %p';
 $LANGS['blogpostformat'] = '%A, %B %e, %Y'; 
 $LANGS['timenumberformat'] = 'd.m.Y';
 
 /* Header */
-$LANGS['home'] = 'Početna Stranica';
-$LANGS['videos'] = 'Videozapisi';
-$LANGS['channels'] = 'Kanali';
-$LANGS['community'] = 'Društva';
-$LANGS['search'] = 'Pretražite';
-$LANGS['login'] = 'Prijavite Se';
-$LANGS['or'] = 'ili';
-$LANGS['signup'] = 'Napravite Račun';
-$LANGS['logout'] = 'Odjavite Se';
-$LANGS['upload'] = 'Postavite';
-$LANGS['subscriptions'] = 'Pretplate' ;
-$LANGS['history'] = 'Povijest';
-$LANGS['account'] = 'Račun';
-$LANGS['myvideos'] = 'Moji Videozapisi';
-$LANGS['favorites'] = 'Omiljeni';
-$LANGS['playlists'] = 'Popisi';
-$LANGS['help'] = 'Pomoć'; 
+$LANGS['home'] = 'Почетна Страница';
+$LANGS['videos'] = 'Видеозаписи';
+$LANGS['channels'] = 'Канали';
+$LANGS['community'] = 'Друштва';
+$LANGS['search'] = 'Претражите';
+$LANGS['login'] = 'Пријавите Се';
+$LANGS['or'] = 'или';
+$LANGS['signup'] = 'Направите Рачун';
+$LANGS['logout'] = 'Одјавите Се';
+$LANGS['upload'] = 'Поставите';
+$LANGS['subscriptions'] = 'Претплате' ;
+$LANGS['history'] = 'Хисторија';
+$LANGS['account'] = 'Рачун';
+$LANGS['myvideos'] = 'Моји Видеозаписи';
+$LANGS['favorites'] = 'Омиљени';
+$LANGS['playlists'] = 'Пописи';
+$LANGS['help'] = 'Помоћ'; 
+
 
 /* Homepage */
-$LANGS['viewall'] = 'vidite sve';
-$LANGS['videoviews'] = 'pregledi';
-$LANGS['beingwatched'] = 'Trenutno Gledani Videozapisi'; 
-$LANGS['featured'] = 'Propuručeni Videozapisi'; 
-$LANGS['mostpopular'] = 'Najpopularnije'; 
-$LANGS['inboxstats'] = 'Pošta I Statistike'; 
-$LANGS['profilesettings'] = 'postavke na računu'; 
-$LANGS['messages'] = 'Poruke';
-$LANGS['message'] = 'Poruka';
-$LANGS['comments'] = 'Komentari';
-$LANGS['comment'] = 'Komentar';
-$LANGS['friendinvites'] = 'Pozivnice Za Prijetaljstva'; 
-$LANGS['friendinvite'] = 'Pozivnica Za Prijetaljstvo';
-$LANGS['subscribers'] = 'Pretplatnici';
-$LANGS['subscriber'] = 'Pretplatnik';
-$LANGS['totalviews'] = 'Sveukupni Pregledi';
-$LANGS['sendmessage'] = 'pošaljite poruku'; 
-$LANGS['whatsnew'] = "Što Je Novo?";
-$LANGS['readmore'] = 'Pročitajte više na našem Blogu'; 
-$LANGS['videocontest'] = 'Natjecanje Videozapisa'; 
-$LANGS['joincontest'] = 'Pridružite se natjecanju sad!'; 
-$LANGS['personalize'] = 'Želite li promijenit kako vam početna stranica izgleda?';
-$LANGS['signinnow'] = '<a href="/login">Prijavite Se</a> ili <a href="/signup">Napravite Račun</a> sad!';
-$LANGS['nowconverting'] = "Molimo vas da pričektae par minuta prije nego što video bude postavljen.";
+$LANGS['viewall'] = 'видите све';
+$LANGS['videoviews'] = 'прегледи';
+$LANGS['beingwatched'] = 'Тренутно Гледани Видеозаписи'; 
+$LANGS['featured'] = 'Пропуручени Видеозаписи'; 
+$LANGS['mostpopular'] = 'Најпопуларније'; 
+$LANGS['inboxstats'] = 'Inbox & Statistics'; 
+$LANGS['profilesettings'] = 'поставке на рачуну'; 
+$LANGS['messages'] = 'Поруке';
+$LANGS['message'] = 'Порука';
+$LANGS['comments'] = 'Коментари';
+$LANGS['comment'] = 'Коментар';
+$LANGS['friendinvites'] = 'Позивнице За Пријетаљство'; 
+$LANGS['friendinvite'] = 'Позивница За Пријетаљство';
+$LANGS['subscribers'] = 'Преплатници';
+$LANGS['subscriber'] = 'Претплатник';
+$LANGS['totalviews'] = 'Свеукупни Прегледи';
+$LANGS['sendmessage'] = 'пошаљите поруку'; 
+$LANGS['whatsnew'] = "Што Је Ново?";
+$LANGS['readmore'] = 'Прочитајте више на нашем Блогу'; 
+$LANGS['videocontest'] = 'Натјецање Видеозаписа'; 
+$LANGS['joincontest'] = 'Придружите се натјецању сад!'; 
+$LANGS['personalize'] = 'Желите ли промијенит како вам почетна страница изгледа?';
+$LANGS['signinnow'] = '<a href="/login">Пријавите Се</a> или <a href="/signup">Направите Рачун</a> сад!';
+$LANGS['nowconverting'] = "Молимо вас да причектае пар минута прије него што видео буде постављен.";
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['homeposttitle'] = "'s BitView"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['chpretitle'] = ""; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['chposttitle'] = "'s Channel"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['signintitle'] = "Prijavite Se";
-$LANGS['historytitle'] = "Povijest Čega Ste Gledali";
-$LANGS['favtitle'] = "Omiljeni";
-$LANGS['pltitle'] = "Popisi";
-$LANGS['partnerprogram'] = "Partnerski Program";
-
+$LANGS['signintitle'] = "Пријавите Се";
+$LANGS['historytitle'] = "Повијест Чега Сте Гледали";
+$LANGS['favtitle'] = "Омиљени";
+$LANGS['pltitle'] = "Пописи";
+$LANGS['partnerprogram'] = "Партнерски Програм";
 
 /* Notifications */
 $LANGS['searcherror'] = 'Your search query much be at least 2 characters long!';
