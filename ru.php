@@ -883,11 +883,11 @@ $LANGS['commentdesc'] = 'Комментарии канала появляютс�
 $LANGS['postbulletin'] = 'Добавить объявление';
 $LANGS['writeabulletin'] = 'Написать объявление';
 $LANGS['bulletindesc'] = 'Объявления появляются на вашей странице и страницах ваших друзей.';
-$LANGS['sharingoptions'] = 'Sharing Options';
-$LANGS['sharingoptionsdesc'] = 'There are 2 ways to share this channel.';
-$LANGS['sharingoptions1'] = '1. Copy & Paste this link into an email or instant message.';
-$LANGS['sharingoptions2'] = "2. Send this channel using your computer's email program.";
-$LANGS['clicktosend'] = 'Click to send!';
+$LANGS['sharingoptions'] = 'Как поделиться';
+$LANGS['sharingoptionsdesc'] = 'Есть два способа поделиться этим каналом.';
+$LANGS['sharingoptions1'] = '1. Скопируйте и вставьте эту ссылку в эл. письмо или сообщение.';
+$LANGS['sharingoptions2'] = "2. Отправьте этот канал используя клиент эл. почты на вашем компьютере.";
+$LANGS['clicktosend'] = 'Щелкните для отправки!';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Эта страница содержит все настройки вашего канала BitView.';
