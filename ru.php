@@ -82,7 +82,7 @@ $LANGS['comments'] = 'Комментарии';
 $LANGS['comment'] = 'Комментарий';
 $LANGS['friendinvites'] = 'Запросы в друзья';
 $LANGS['friendinvite'] = 'Запрос в друзья';
-$LANGS['subscribers'] = 'Подписчики';
+$LANGS['subscribers'] = 'Подписчиков';
 $LANGS['subscriber'] = 'Подписчик';
 $LANGS['totalviews'] = 'Просмотров';
 $LANGS['sendmessage'] = 'отправить сообщение';
@@ -341,7 +341,7 @@ $LANGS['mostsubscribed'] = 'Часто подписываются';
 $LANGS['lastlogin'] = 'Последний вход';
 $LANGS['cstatviews'] = 'Просмотры';
 $LANGS['cstatvideos'] = 'Видео';
-$LANGS['cstatsubs'] = 'Подписчики';
+$LANGS['cstatsubs'] = 'Подписчиков';
 $LANGS['nochannels'] = 'Каналов не найдено...';
 
 /* Video Categories */
