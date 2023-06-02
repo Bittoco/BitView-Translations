@@ -4,6 +4,7 @@ Bonjour! You can now create translations for BitView. Please, use en-US.php as a
 ## Useful Information
 
  - [Date Format Info](https://doc.bccnsoft.com/docs/php-docs-7-en/function.strftime.html)
+ - [Language File Name](https://developers.google.com/admin-sdk/directory/v1/languages)
 
 ## Translation Progress
 
