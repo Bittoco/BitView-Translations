@@ -54,7 +54,7 @@ $LANGS['timenumberformat'] = 'm.d.Y';
 $LANGS['home'] = 'Acasă';
 $LANGS['videos'] = 'Videoclipuri';
 $LANGS['channels'] = 'Canale';
-$LANGS['community'] = 'Communitate';
+$LANGS['community'] = 'Comunitate';
 $LANGS['search'] = 'Căutare';
 $LANGS['login'] = 'Logare';
 $LANGS['or'] = 'sau';
@@ -705,20 +705,20 @@ $LANGS['createplaylisttitle'] = "Create Video Playlist";
 $LANGS['createplaylist'] = "Create Playlist";
 
 /* Inbox */
-$LANGS['compose'] = "Compose";
-$LANGS['from'] = "From";
-$LANGS['subject'] = "Subject";
-$LANGS['date'] = "Date";
-$LANGS['allmsg'] = "All Messages";
-$LANGS['msgcom'] = "Comments";
-$LANGS['sentmsg'] = "Sent Messages";
-$LANGS['nomsg'] = "You have no Messages...";
+$LANGS['compose'] = "Compune";
+$LANGS['from'] = "De la";
+$LANGS['subject'] = "Subiect";
+$LANGS['date'] = "Dată";
+$LANGS['allmsg'] = "Toate mesajele";
+$LANGS['msgcom'] = "Comentarii";
+$LANGS['sentmsg'] = "Mesaje trimise";
+$LANGS['nomsg'] = "Nu aveți mesaje...";
 
 
 /* Send Message */
-$LANGS['messagecont'] = "Message";
-$LANGS['to'] = "To";
-$LANGS['sendmessagebutton'] = "Send Message";
+$LANGS['messagecont'] = "Mesaj";
+$LANGS['to'] = "Către";
+$LANGS['sendmessagebutton'] = "Trimiteți mesajul";
 
 /* Groups */
 $LANGS['groups'] = "Groups";
