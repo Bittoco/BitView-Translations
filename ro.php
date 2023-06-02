@@ -2,7 +2,7 @@
 /* General stuff */
 $LANGS['language'] = 'Română';
 $LANGS['languageenglish'] = 'Romanian';
-$LANGS['languagecode'] = 'ro_RO';
+$LANGS['languagecode'] = 'ro_RO.UTF-8';
 $LANGS['languagechange'] = 'Limba a fost schimbată in română.';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
