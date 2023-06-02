@@ -42,19 +42,19 @@ $LANGS['september'] = 'septembrie';
 $LANGS['october'] = 'octombrie';
 $LANGS['november'] = 'noiembrie';
 $LANGS['december'] = 'decembrie';
-$LANGS['shorttimeformat'] = '%b %e, %Y';
-$LANGS['videotimeformat'] = '%b %e, %Y';
-$LANGS['longtimeformat'] = '%B %e, %Y';
-$LANGS['timehourformat'] = '%b %e, %Y %I:%M %p';
-$LANGS['myvideostimeformat'] = '%A, %b %e %Y, %I:%M:%S %p';
-$LANGS['blogpostformat'] = '%A, %B %e, %Y';
-$LANGS['timenumberformat'] = 'm.d.Y';
+$LANGS['shorttimeformat'] = '%e %b, %Y';
+$LANGS['videotimeformat'] = '%e %b, %Y';
+$LANGS['longtimeformat'] = '%e %B, %Y';
+$LANGS['timehourformat'] = '%e %b, %Y %I:%M %p';
+$LANGS['myvideostimeformat'] = '%A, %e %b %Y, %I:%M:%S %p';
+$LANGS['blogpostformat'] = '%A, %e %B, %Y';
+$LANGS['timenumberformat'] = 'd.m.Y';
 
 /* Header */
 $LANGS['home'] = 'Acasă';
 $LANGS['videos'] = 'Videoclipuri';
 $LANGS['channels'] = 'Canale';
-$LANGS['community'] = 'Communitate';
+$LANGS['community'] = 'Comunitate';
 $LANGS['search'] = 'Căutare';
 $LANGS['login'] = 'Logare';
 $LANGS['or'] = 'sau';
@@ -71,18 +71,18 @@ $LANGS['help'] = 'Ajutor';
 
 /* Homepage */
 $LANGS['viewall'] = 'vezi toate';
-$LANGS['videoviews'] = 'de vizionări';
+$LANGS['videoviews'] = 'vizionări';
 $LANGS['beingwatched'] = 'Videoclipuri vizionate acum';
 $LANGS['featured'] = 'Videoclipuri speciale';
 $LANGS['mostpopular'] = 'Cele mai populare';
-$LANGS['inboxstats'] = 'Inbox & Statistici';
+$LANGS['inboxstats'] = 'Inbox și Statistici';
 $LANGS['profilesettings'] = 'setări cont';
-$LANGS['messages'] = 'Mesaje';
-$LANGS['message'] = 'Mesaj';
-$LANGS['comments'] = 'Comentarii';
-$LANGS['comment'] = 'Comentariu';
-$LANGS['friendinvites'] = 'Invitări de prieten';
-$LANGS['friendinvite'] = 'Invitare de prieten';
+$LANGS['messages'] = 'mesaje';
+$LANGS['message'] = 'mesaj';
+$LANGS['comments'] = 'comentarii';
+$LANGS['comment'] = 'comentariu';
+$LANGS['friendinvites'] = 'invitări de prieten';
+$LANGS['friendinvite'] = 'invitare de prieten';
 $LANGS['subscribers'] = 'abonați';
 $LANGS['subscriber'] = 'abonat(ă)';
 $LANGS['totalviews'] = 'Vizionări totale';
@@ -98,7 +98,7 @@ $LANGS['nowconverting'] = "Acest videoclip se procesează, vă rugăm așteptaț
 /* Page title */
 $LANGS['homepretitle'] = "Bitview-ul lui"; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['homeposttitle'] = ""; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['chpretitle'] = "Canalul lui"; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['chpretitle'] = "Canalul lui "; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['chposttitle'] = ""; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['signintitle'] = "Logare";
 $LANGS['historytitle'] = "Istoric vizualizări";
@@ -705,20 +705,20 @@ $LANGS['createplaylisttitle'] = "Create Video Playlist";
 $LANGS['createplaylist'] = "Create Playlist";
 
 /* Inbox */
-$LANGS['compose'] = "Compose";
-$LANGS['from'] = "From";
-$LANGS['subject'] = "Subject";
-$LANGS['date'] = "Date";
-$LANGS['allmsg'] = "All Messages";
-$LANGS['msgcom'] = "Comments";
-$LANGS['sentmsg'] = "Sent Messages";
-$LANGS['nomsg'] = "You have no Messages...";
+$LANGS['compose'] = "Compune";
+$LANGS['from'] = "De la";
+$LANGS['subject'] = "Subiect";
+$LANGS['date'] = "Dată";
+$LANGS['allmsg'] = "Toate mesajele";
+$LANGS['msgcom'] = "Comentarii";
+$LANGS['sentmsg'] = "Mesaje trimise";
+$LANGS['nomsg'] = "Nu aveți mesaje...";
 
 
 /* Send Message */
-$LANGS['messagecont'] = "Message";
-$LANGS['to'] = "To";
-$LANGS['sendmessagebutton'] = "Send Message";
+$LANGS['messagecont'] = "Mesaj";
+$LANGS['to'] = "Către";
+$LANGS['sendmessagebutton'] = "Trimiteți mesajul";
 
 /* Groups */
 $LANGS['groups'] = "Groups";
