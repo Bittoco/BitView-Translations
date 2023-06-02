@@ -314,7 +314,7 @@ $LANGS['usernamedesc'] = "Your username can only contain letters A-Z or numbers 
 $LANGS['captcha'] = "Captcha";
 $LANGS['acceptterms'] = 'I agree to the <a href="/terms">Terms of Use</a> and <a href="/privacy">Privacy Policy</a>.';
 $LANGS['copyrighttext'] = 'Uploading materials that you do not own is a copyright violation and against the law. If you upload material you do not own, your account will be deleted.';
-$LANGS['mustaccept'] = 'Debes aceptar los Términos de uso y la Política de privacidad para crear tu cuenta.';
+$LANGS['mustaccept'] = 'You must accept the Terms of Use and Privacy Policy to create your account';
 $LANGS['createaccount'] = 'Create my account';
 $LANGS['signuperror'] = 'There was an error while creating your account.';
 $LANGS['sameemail'] = 'This username or email is already in use!';
