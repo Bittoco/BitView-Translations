@@ -71,18 +71,18 @@ $LANGS['help'] = 'Ajutor';
 
 /* Homepage */
 $LANGS['viewall'] = 'vezi toate';
-$LANGS['videoviews'] = 'de vizionări';
+$LANGS['videoviews'] = 'vizionări';
 $LANGS['beingwatched'] = 'Videoclipuri vizionate acum';
 $LANGS['featured'] = 'Videoclipuri speciale';
 $LANGS['mostpopular'] = 'Cele mai populare';
-$LANGS['inboxstats'] = 'Inbox & Statistici';
+$LANGS['inboxstats'] = 'Inbox și Statistici';
 $LANGS['profilesettings'] = 'setări cont';
-$LANGS['messages'] = 'Mesaje';
-$LANGS['message'] = 'Mesaj';
-$LANGS['comments'] = 'Comentarii';
-$LANGS['comment'] = 'Comentariu';
-$LANGS['friendinvites'] = 'Invitări de prieten';
-$LANGS['friendinvite'] = 'Invitare de prieten';
+$LANGS['messages'] = 'mesaje';
+$LANGS['message'] = 'mesaj';
+$LANGS['comments'] = 'comentarii';
+$LANGS['comment'] = 'comentariu';
+$LANGS['friendinvites'] = 'invitări de prieten';
+$LANGS['friendinvite'] = 'invitare de prieten';
 $LANGS['subscribers'] = 'abonați';
 $LANGS['subscriber'] = 'abonat(ă)';
 $LANGS['totalviews'] = 'Vizionări totale';
@@ -98,7 +98,7 @@ $LANGS['nowconverting'] = "Acest videoclip se procesează, vă rugăm așteptaț
 /* Page title */
 $LANGS['homepretitle'] = "Bitview-ul lui"; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['homeposttitle'] = ""; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['chpretitle'] = "Canalul lui"; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['chpretitle'] = "Canalul lui "; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['chposttitle'] = ""; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['signintitle'] = "Logare";
 $LANGS['historytitle'] = "Istoric vizualizări";
