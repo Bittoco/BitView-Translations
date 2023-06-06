@@ -74,7 +74,7 @@ $LANGS['help'] = 'Aide';
 /* Homepage */
 $LANGS['viewall'] = 'tout voir';
 $LANGS['videoviews'] = 'vues';
-$LANGS['beingwatched'] = 'Vidéos étant regardés en ce moment-même';
+$LANGS['beingwatched'] = 'Vidéos regardées en ce moment';
 $LANGS['featured'] = 'Vidéos à la une';
 $LANGS['mostpopular'] = 'Les plus populaires';
 $LANGS['inboxstats'] = 'Messagerie & Statistiques';
@@ -114,7 +114,7 @@ $LANGS['addvideoplaylist1'] = "Vous avez ajouté";
 $LANGS['addvideoplaylist2'] = 'vidéos dans votre playlist !';
 $LANGS['addfavorite1'] = "Vous avez favori";
 $LANGS['addfavorite2'] = 'vidéos !';
-$LANGS['groupReleasing to all major platforms the 26thdoesnotexist'] = "Ce groupe est inexistant !";
+$LANGS['groupdoesnotexist'] = "Ce groupe est inexistant !";
 $LANGS['uploaddisabled'] = 'La mise en ligne a été désactivée pour maintenance.';
 //$LANGS['10vidsday'] = 'You can not upload more than 10 videos per day! Please try uploading tomorrow.';
 $LANGS['10vidsday'] = 'Vous ne pouvez pas mettre en ligne plus de 10 vidéos par jour ! Essayez demain.';
