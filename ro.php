@@ -1,4 +1,5 @@
 <?php
+
 /* General stuff */
 $LANGS['language'] = 'Română';
 $LANGS['languageenglish'] = 'Romanian';
@@ -1137,4 +1138,3 @@ $LANGS['privacypolicy'] = 'Politică de intimitate';
 $LANGS['currentlanguage'] = 'Limba actuală';
 $LANGS['showlanguages'] = 'Limbi';
 $LANGS['setlanguagepref'] = 'Setați-vă limba';
-?>

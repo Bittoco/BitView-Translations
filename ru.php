@@ -1,4 +1,5 @@
 <?php
+
 /* Основное */
 $LANGS['language'] = 'Русский (RU)';
 $LANGS['languageenglish'] = 'Russian (RU)';
@@ -1139,4 +1140,3 @@ $LANGS['privacypolicy'] = 'Политика конфиденциальности
 $LANGS['currentlanguage'] = 'Текущий язык';
 $LANGS['showlanguages'] = 'Показать языки';
 $LANGS['setlanguagepref'] = 'Выберите ваш язык';
-?>

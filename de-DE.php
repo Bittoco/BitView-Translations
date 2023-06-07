@@ -1,4 +1,5 @@
 <?php
+
 /* General stuff */
 $LANGS['language'] = 'Deutsch';
 $LANGS['languageenglish'] = 'German';
@@ -982,7 +983,7 @@ $LANGS['embedlink'] = 'Binde dieses Video in deine Website ein! Copy and paste:'
 $LANGS['allrequiredinfo'] = 'Bitte füll alle Pflichtfelder aus!';
 
 /* Partners */
-$LANGS['partnerhead'] = 'Partnerschaften'; 
+$LANGS['partnerhead'] = 'Partnerschaften';
 $LANGS['partnertitle'] = 'Partner mit Bitview!';
 $LANGS['partnerdesc'] = "Du hast tolle Videos und ein wachsendes Publikum. Lassen Sie sich von BitView durch unser Partnerprogramm dabei helfen, die nächste Stufe zu erreichen!";
 $LANGS['applynow'] = 'Jetzt bewerben';
@@ -1140,4 +1141,3 @@ $LANGS['privacypolicy'] = 'Datenschutzbestimmungen';
 $LANGS['currentlanguage'] = 'Aktuelle Sprache';
 $LANGS['showlanguages'] = 'Sprachen anzeigen';
 $LANGS['setlanguagepref'] = 'Sprache ändern';
-?>

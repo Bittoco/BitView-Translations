@@ -1,15 +1,16 @@
 <?php
+
 /* General stuff */
-$LANGS['language'] = 'Hrvatski (HR)'; 
-$LANGS['languageenglish'] = 'Croatian (HR)'; 
-$LANGS['languagecode'] = 'hr_HR.UTF-8'; 
+$LANGS['language'] = 'Hrvatski (HR)';
+$LANGS['languageenglish'] = 'Croatian (HR)';
+$LANGS['languagecode'] = 'hr_HR.UTF-8';
 $LANGS['languagechange'] = 'Postavljen je jezik na Hrvatskom (HR).';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
 /* Language window */
-$LANGS['welcometobitview'] = 'Dobrodošli na BitView!'; 
-$LANGS['languagesuggestion'] = 'Preporučeni Jezici (ovaj jezik smo vam automatski postavili):'; 
-$LANGS['languagesuggestiondesc1'] = 'Da promjenite jezik, molimo vas da ga odaberete na doljnoj strani stranice (kraj stranice).'; 
+$LANGS['welcometobitview'] = 'Dobrodošli na BitView!';
+$LANGS['languagesuggestion'] = 'Preporučeni Jezici (ovaj jezik smo vam automatski postavili):';
+$LANGS['languagesuggestiondesc1'] = 'Da promjenite jezik, molimo vas da ga odaberete na doljnoj strani stranice (kraj stranice).';
 $LANGS['languagesuggestiondesc2'] = 'Prtisnite "OK" da promjenite jezik, ili pritisnite "Odbij" da vidite ovu stranicu na Hrvatskom.';
 
 /* Time, dates, etc */
@@ -44,11 +45,11 @@ $LANGS['october'] = 'Listopad';
 $LANGS['november'] = 'Studeni';
 $LANGS['december'] = 'Prosniac';
 $LANGS['shorttimeformat'] = '%b %e, %Y';
-$LANGS['videotimeformat'] = '%b %e, %Y'; 
-$LANGS['longtimeformat'] = '%B %e, %Y'; 
-$LANGS['timehourformat'] = '%b %e, %Y %I:%M %p'; 
+$LANGS['videotimeformat'] = '%b %e, %Y';
+$LANGS['longtimeformat'] = '%B %e, %Y';
+$LANGS['timehourformat'] = '%b %e, %Y %I:%M %p';
 $LANGS['myvideostimeformat'] = '%A, %b %e %Y, %I:%M:%S %p';
-$LANGS['blogpostformat'] = '%A, %B %e, %Y'; 
+$LANGS['blogpostformat'] = '%A, %B %e, %Y';
 $LANGS['timenumberformat'] = 'd.m.Y';
 
 /* Header */
@@ -68,30 +69,30 @@ $LANGS['account'] = 'Račun';
 $LANGS['myvideos'] = 'Moji Videozapisi';
 $LANGS['favorites'] = 'Omiljeni';
 $LANGS['playlists'] = 'Popisi';
-$LANGS['help'] = 'Pomoć'; 
+$LANGS['help'] = 'Pomoć';
 
 /* Homepage */
 $LANGS['viewall'] = 'vidite sve';
 $LANGS['videoviews'] = 'pregledi';
-$LANGS['beingwatched'] = 'Trenutno Gledani Videozapisi'; 
-$LANGS['featured'] = 'Propuručeni Videozapisi'; 
-$LANGS['mostpopular'] = 'Najpopularnije'; 
-$LANGS['inboxstats'] = 'Pošta I Statistike'; 
-$LANGS['profilesettings'] = 'postavke na računu'; 
+$LANGS['beingwatched'] = 'Trenutno Gledani Videozapisi';
+$LANGS['featured'] = 'Propuručeni Videozapisi';
+$LANGS['mostpopular'] = 'Najpopularnije';
+$LANGS['inboxstats'] = 'Pošta I Statistike';
+$LANGS['profilesettings'] = 'postavke na računu';
 $LANGS['messages'] = 'Poruke';
 $LANGS['message'] = 'Poruka';
 $LANGS['comments'] = 'Komentari';
 $LANGS['comment'] = 'Komentar';
-$LANGS['friendinvites'] = 'Pozivnice Za Prijetaljstva'; 
+$LANGS['friendinvites'] = 'Pozivnice Za Prijetaljstva';
 $LANGS['friendinvite'] = 'Pozivnica Za Prijetaljstvo';
 $LANGS['subscribers'] = 'Pretplatnici';
 $LANGS['subscriber'] = 'Pretplatnik';
 $LANGS['totalviews'] = 'Sveukupni Pregledi';
-$LANGS['sendmessage'] = 'pošaljite poruku'; 
+$LANGS['sendmessage'] = 'pošaljite poruku';
 $LANGS['whatsnew'] = "Što Je Novo?";
-$LANGS['readmore'] = 'Pročitajte više na našem Blogu'; 
-$LANGS['videocontest'] = 'Natjecanje Videozapisa'; 
-$LANGS['joincontest'] = 'Pridružite se natjecanju sad!'; 
+$LANGS['readmore'] = 'Pročitajte više na našem Blogu';
+$LANGS['videocontest'] = 'Natjecanje Videozapisa';
+$LANGS['joincontest'] = 'Pridružite se natjecanju sad!';
 $LANGS['personalize'] = 'Želite li promijenit kako vam početna stranica izgleda?';
 $LANGS['signinnow'] = '<a href="/login">Prijavite Se</a> ili <a href="/signup">Napravite Račun</a> sad!';
 $LANGS['nowconverting'] = "Molimo vas da pričektae par minuta prije nego što video bude postavljen.";
@@ -110,16 +111,16 @@ $LANGS['partnerprogram'] = "Partnerski Program";
 
 /* Notifications */
 $LANGS['searcherror'] = 'Vaš tekst more biti barem 2 slova dugačak!';
-$LANGS['addvideoplaylist1'] = "Dodali ste"; 
-$LANGS['addvideoplaylist2'] = 'videozapisi na vašem popisu!'; 
-$LANGS['addfavorite1'] = "Dodali ste kao omiljeni"; 
-$LANGS['addfavorite2'] = 'videozapisi!'; 
-$LANGS['groupdoesnotexist'] = "Ovo društvo ne postoji!"; 
+$LANGS['addvideoplaylist1'] = "Dodali ste";
+$LANGS['addvideoplaylist2'] = 'videozapisi na vašem popisu!';
+$LANGS['addfavorite1'] = "Dodali ste kao omiljeni";
+$LANGS['addfavorite2'] = 'videozapisi!';
+$LANGS['groupdoesnotexist'] = "Ovo društvo ne postoji!";
 $LANGS['uploaddisabled'] = 'Ne možete postaviti zato što čistimo stranicu.';
-$LANGS['10vidsday'] = 'Ne možete postaviti preko 10 videozapisa po danu. Molimo vas da pokušate sutradan.'; 
+$LANGS['10vidsday'] = 'Ne možete postaviti preko 10 videozapisa po danu. Molimo vas da pokušate sutradan.';
 $LANGS['3mins'] = 'Pričekajte 3 minute prije nego što postavite novi videozapis!';
 $LANGS['backgroundsuccess'] = 'Pozadina je uspješno postavljena!';
-$LANGS['backgrounderror'] = 'Pozadina mora biti manja od 2MB i biti slikovna datoteka!'; 
+$LANGS['backgrounderror'] = 'Pozadina mora biti manja od 2MB i biti slikovna datoteka!';
 $LANGS['backgrounddeleted'] = 'Pozadina je upsješno obrisana!';
 $LANGS['bannersuccess'] = 'Gornja slika je uspješno postavljena!';
 $LANGS['bannererror'] = 'Gornja slika mora biti manja od 2MB i more biti slikovna datoteka!';
@@ -135,56 +136,57 @@ $LANGS['bannererror'] = 'Slika na računu mora biti manja od 2MB i more biti sli
 $LANGS['bannerdeleted'] = 'Vaša slika na računa je uspješno obrisana!';
 $LANGS['changessaved'] = 'Promjene su uspješno spremljene!';
 $LANGS['profilesdisabled'] = 'Računi trenutno nisu dostupni zbog čišćenja.';
-$LANGS['bulletinposted'] = 'Bulletin has been posted!'; $LANGS['channelcommentsent'] = 'Komentar na kanalu je postavljen!';
-$LANGS['somethingwentwrong'] = 'Nešto nije u redu!'; 
-$LANGS['replysubmitted'] = 'Odgovor je postavljen!'; 
+$LANGS['bulletinposted'] = 'Bulletin has been posted!';
+$LANGS['channelcommentsent'] = 'Komentar na kanalu je postavljen!';
+$LANGS['somethingwentwrong'] = 'Nešto nije u redu!';
+$LANGS['replysubmitted'] = 'Odgovor je postavljen!';
 $LANGS['onlyonecomment'] = 'Možete postaviti samo jedan komentar!';
 $LANGS['vpnbrowser'] = "Ne možete napraviti BitView račun koristeći VPN!";
 $LANGS['torbrowser'] = "Ne možete napravit BitView račun koristeći TOR!";
 $LANGS['captchaincorrect'] = "Niste točno upisali kod.";
 $LANGS['toomanyaccounts'] = 'Imate previše računa!';
-$LANGS['banned2times'] = "Već su vam dva računa zabranjena. Ne možete napraviti niti jedan više račun!"; 
+$LANGS['banned2times'] = "Već su vam dva računa zabranjena. Ne možete napraviti niti jedan više račun!";
 $LANGS['nohistory'] = "You haven't watched any videos during this session yet!";
 $LANGS['historycleared'] = 'Povijest čega ste gledali vam je očišćena.';
 $LANGS['watchdisabled'] = 'Ne možete gledati videozapise zbog čišćenja.';
-$LANGS['videonotexist'] = 'Ovaj videozapis ne postoji ili je obrisan je li je prekršio Pravila Korišćenja.'; 
-$LANGS['responseerror'] = 'Nešto nije u redu sa očitavanjem videozapisa! Molimo vas da ponovo pregledate link koji ste upisali.'; 
+$LANGS['videonotexist'] = 'Ovaj videozapis ne postoji ili je obrisan je li je prekršio Pravila Korišćenja.';
+$LANGS['responseerror'] = 'Nešto nije u redu sa očitavanjem videozapisa! Molimo vas da ponovo pregledate link koji ste upisali.';
 $LANGS['responseexist'] = 'Već ste pitali da ovaj videozapis bude postavljen!';
 $LANGS['responseadded'] = 'Video se uspješno očitao!';
 $LANGS['responseaccepted'] = 'Pihvaćen je novi zahtjev za videozapis!';
 $LANGS['60secscomment'] = 'Molimo vas da pričekate 60 sekundi prije nego što postavite novi komentar!';
-$LANGS['plnotexist'] = "Ovaj popis ne postoji!"; 
-$LANGS['positionnotexist'] = "Ova pozicija ne postoji!"; 
-$LANGS['positionchanged'] = "Pozicija videozapisa je pomjenjena!"; 
+$LANGS['plnotexist'] = "Ovaj popis ne postoji!";
+$LANGS['positionnotexist'] = "Ova pozicija ne postoji!";
+$LANGS['positionchanged'] = "Pozicija videozapisa je pomjenjena!";
 $LANGS['invalidurl'] = 'Ne točni URL!';
-$LANGS['videopladded'] = 'Videozapis je uspješno dodan!'; 
+$LANGS['videopladded'] = 'Videozapis je uspješno dodan!';
 $LANGS['videoalreadyinpl'] = 'Ovaj videozapis je već na popisu!';
-$LANGS['plvideoremoved'] = 'Videozapis je obrisan!'; 
+$LANGS['plvideoremoved'] = 'Videozapis je obrisan!';
 $LANGS['plinfochanged'] = 'Informacija uvezi popisa je uspješno promjenjena!';
 $LANGS['pltitleneeded'] = 'Morate dati naslov popisu!';
-$LANGS['flashenabled'] = 'Adobe Flash Player je dozvoljen!'; 
-$LANGS['flashdisabled'] = 'Adobe Flash Player nije dozvoljen!'; 
+$LANGS['flashenabled'] = 'Adobe Flash Player je dozvoljen!';
+$LANGS['flashdisabled'] = 'Adobe Flash Player nije dozvoljen!';
 $LANGS['messagesent'] = 'Poruka je uspješno poslana!';
-$LANGS['usernotexist'] = "Ovaj korisnik ne postoji!"; 
-$LANGS['nocriteria'] = "Ne ispunjavate očekivanu kriteriju!"; 
+$LANGS['usernotexist'] = "Ovaj korisnik ne postoji!";
+$LANGS['nocriteria'] = "Ne ispunjavate očekivanu kriteriju!";
 $LANGS['alreadypartner'] = 'Već ste bili prihvaćeni u partnerski program!';
-$LANGS['alreadyapplied'] = 'Već ste se prijavili!'; 
+$LANGS['alreadyapplied'] = 'Već ste se prijavili!';
 $LANGS['applicationsent'] = 'Vaša aplikacija je poslana!';
-$LANGS['joinedgroup'] = 'Uspješno ste se pridružili društvu!'; 
-$LANGS['leftgroup'] = 'Uspješno ste izašli iz društva!'; 
-$LANGS['grouprequest'] = 'Uspješno ste poslali zahtjevu da budete u društvu! Sada morate pričekati da budete prihvaćeni.'; 
+$LANGS['joinedgroup'] = 'Uspješno ste se pridružili društvu!';
+$LANGS['leftgroup'] = 'Uspješno ste izašli iz društva!';
+$LANGS['grouprequest'] = 'Uspješno ste poslali zahtjevu da budete u društvu! Sada morate pričekati da budete prihvaćeni.';
 $LANGS['groupdeleted'] = 'Društvo je uspješno obrisano!';
-$LANGS['groupvideoadded'] = 'Videozapis je postavljen!'; 
+$LANGS['groupvideoadded'] = 'Videozapis je postavljen!';
 $LANGS['groupvideoalreadyadded'] = 'Već ste pitali da videozapis bude postavljen!';
-$LANGS['groupvideonotowned'] = "Ovaj videozapis nije vaš!"; 
-$LANGS['3groups'] = 'Možete biti vlasnik od najviše 3 društva!'; 
+$LANGS['groupvideonotowned'] = "Ovaj videozapis nije vaš!";
+$LANGS['3groups'] = 'Možete biti vlasnik od najviše 3 društva!';
 $LANGS['groupnameempty'] = 'Morate napisati ime za društvo!';
 $LANGS['groupdescempty'] = 'Morate napisati opis o društvu!';
 $LANGS['groupnoimage'] = 'Morate postaviti sliku za vaše društvo!';
 $LANGS['groupimageerror'] = 'Društvena slika mora biti manja od 1MB i mora biti slikovna datoteka!';
 $LANGS['groupcreated'] = 'Društvo je uspješno stvoreno!';
-$LANGS['urlnotvalid'] = "Ne točan URL videozapisa!"; 
-$LANGS['discussiondeleted'] = 'Tema je uspješno obrisana!'; 
+$LANGS['urlnotvalid'] = "Ne točan URL videozapisa!";
+$LANGS['discussiondeleted'] = 'Tema je uspješno obrisana!';
 $LANGS['videodeleted'] = 'Videozapis je uspješno obrisan!';
 $LANGS['pldeleted'] = 'Popis je uspješno obrisan!';
 $LANGS['invitesent'] = 'Poziv za prijetaljstvo je uspješno poslan!';
@@ -197,18 +199,18 @@ $LANGS['discussiontitle2chars'] = 'Naslov mora biti duži od 2 slova!';
 $LANGS['discussiondesc10chars'] = 'Opis mora biti duži od 10 slova!';
 $LANGS['5discussionsday'] = 'Možete postaviti do 10 rasprava po danu!';
 $LANGS['discussionsuccess'] = 'Rasprava je uspješno postavljena!';
-$LANGS['memberaccepted1'] = ''; 
-$LANGS['memberaccepted2'] = 'uspješno prihvaćen!'; 
+$LANGS['memberaccepted1'] = '';
+$LANGS['memberaccepted2'] = 'uspješno prihvaćen!';
 $LANGS['memberdeclined1'] = '';
-$LANGS['memberdeclined2'] = 'uspješno odbijen!'; 
+$LANGS['memberdeclined2'] = 'uspješno odbijen!';
 $LANGS['videoaccepted'] = 'Videozapis je uspješno prihvaćen!';
-$LANGS['bulletindeleted'] = 'Bulletin successfully deleted!'; 
+$LANGS['bulletindeleted'] = 'Bulletin successfully deleted!';
 $LANGS['messagedeleted'] = 'Poruka je uspješno obrisana!';
 $LANGS['responsedeleted'] = 'Videozapisni odgovor je uspješno obrisan!';
 $LANGS['flagmod'] = 'Ne možete prijaviti korisnike koji imaju moderatorske dozvole!';
-$LANGS['userflagged'] = 'Uspješno ste prijavili!'; 
+$LANGS['userflagged'] = 'Uspješno ste prijavili!';
 $LANGS['discussionreplysubmitted'] = 'Odgovor je uspješno poslan!';
-$LANGS['discussionreplyempty'] = 'Odgovor ne može biti prazan!'; 
+$LANGS['discussionreplyempty'] = 'Odgovor ne može biti prazan!';
 
 /* Watch */
 $LANGS['moreinfo'] = 'više informacija';
@@ -222,67 +224,67 @@ $LANGS['partnervideo'] = 'Partnerski Videozapis';
 $LANGS['subscribe'] = 'Pretplatite Se';
 $LANGS['unsubscribe'] = 'Otkažite Preplatu';
 $LANGS['nodesc'] = 'Nema opisa...';
-$LANGS['logintosub'] = 'Morate se prijaviti da biste se pretplatili!'; 
-$LANGS['logintosubbox'] = 'Želite li se Pretplatiti?'; 
-$LANGS['subyourself'] = 'Ne možete se sami sebi pretplatiti!'; 
-$LANGS['videoowner'] = 'Opcije Za Vlasnika Videozapisa'; 
+$LANGS['logintosub'] = 'Morate se prijaviti da biste se pretplatili!';
+$LANGS['logintosubbox'] = 'Želite li se Pretplatiti?';
+$LANGS['subyourself'] = 'Ne možete se sami sebi pretplatiti!';
+$LANGS['videoowner'] = 'Opcije Za Vlasnika Videozapisa';
 $LANGS['editvideo'] = 'Uredite Videozapis';
 $LANGS['insight'] = 'Uvid';
 $LANGS['morefrom'] = 'Više Od:';
-$LANGS['relatedvideos'] = 'Slični Videozapisi'; 
-$LANGS['novideosfound'] = 'Videozapisi Nisu Pronađeni...'; 
-$LANGS['morevideos'] = 'Vidite Sve Videozapise'; 
-$LANGS['changeplayersize'] = 'Change Player Size'; 
-$LANGS['newwindow'] = 'Gledajte ovaj videozapis u novom prozoru'; 
+$LANGS['relatedvideos'] = 'Slični Videozapisi';
+$LANGS['novideosfound'] = 'Videozapisi Nisu Pronađeni...';
+$LANGS['morevideos'] = 'Vidite Sve Videozapise';
+$LANGS['changeplayersize'] = 'Change Player Size';
+$LANGS['newwindow'] = 'Gledajte ovaj videozapis u novom prozoru';
 $LANGS['featuredtext'] = 'Ovaj videozapis je bio Preporučen. Želite li vidjeti više preporučenih videozapisa?
 <a href="/browse?t=2">Pritisnite ovdje</a>.';
 $LANGS['ratings'] = 'ocijene';
 $LANGS['rating'] = 'ocijena';
 $LANGS['favorite'] = 'Omiljeni';
 $LANGS['addtofav'] = 'Dodajte kod Omiljenih';
-$LANGS['removefav'] = 'Izbrišite iz Omiljenih'; 
-$LANGS['playlistdesc'] = 'Ako želite dodat novi videozapis na vašem popisu, odite na <a href="/my_playlists">"Moji Popisi"</a> stranicu.'; 
+$LANGS['removefav'] = 'Izbrišite iz Omiljenih';
+$LANGS['playlistdesc'] = 'Ako želite dodat novi videozapis na vašem popisu, odite na <a href="/my_playlists">"Moji Popisi"</a> stranicu.';
 $LANGS['share'] = 'Podijelite';
 $LANGS['flag'] = 'Prijavite';
-$LANGS['flagthisvid'] = 'Prijavite Ovaj Videozapis'; 
+$LANGS['flagthisvid'] = 'Prijavite Ovaj Videozapis';
 $LANGS['removeflag'] = 'Izbrišite Prijavu';
 $LANGS['flagnote'] = "Prije nego što prijavite: molimo vas da pogledate dobro da li je videozapis neka pravila prekršio. Nemojte prijavit samo zato što vam se videozapis ne sviđa, ili inače će te samo usporavati posao od moderatora.";
 $LANGS['statadded'] = 'Dodano';
 $LANGS['statviews'] = 'Pregledi';
 $LANGS['statratings'] = 'Ocijene';
-$LANGS['statresponses'] = 'Odgovori'; 
-$LANGS['statcomments'] = 'Komentari'; 
+$LANGS['statresponses'] = 'Odgovori';
+$LANGS['statcomments'] = 'Komentari';
 $LANGS['statfavorited'] = 'Stavljeno kod Omiljenih';
 $LANGS['statsdata'] = 'Statistike i Podaci';
-$LANGS['honors'] = 'Pohvale ovom videozapisu'; 
-$LANGS['mostviewed'] = 'Najpregledaniji'; 
+$LANGS['honors'] = 'Pohvale ovom videozapisu';
+$LANGS['mostviewed'] = 'Najpregledaniji';
 $LANGS['topfavorited'] = 'Top Omiljenih';
 $LANGS['times'] = 'puta';
-$LANGS['mostdiscussed'] = 'Najviše Raspravljeni'; 
+$LANGS['mostdiscussed'] = 'Najviše Raspravljeni';
 $LANGS['toprated'] = 'Najbolje Ocijenjeni';
-$LANGS['videolinks'] = 'Stranice koje linkuju ovom videozapisu'; 
+$LANGS['videolinks'] = 'Stranice koje linkuju ovom videozapisu';
 $LANGS['clicksfrom'] = 'klikovi od';
-$LANGS['responses'] = 'Videozapisni Odgovori'; 
-$LANGS['responsespost'] = 'Postavite Videozapisni Odgovor'; 
-$LANGS['textcomments'] = 'Tekst Komentari'; 
-$LANGS['commentpost'] = 'Postavite Tekst Komentar'; 
-$LANGS['commentonthisvideo'] = 'Komentarišite Na Ovom Videozapisu'; 
-$LANGS['postcomment'] = 'Postavite Komentar'; 
-$LANGS['remainingcounter'] = 'Koliko još slova stane'; 
+$LANGS['responses'] = 'Videozapisni Odgovori';
+$LANGS['responsespost'] = 'Postavite Videozapisni Odgovor';
+$LANGS['textcomments'] = 'Tekst Komentari';
+$LANGS['commentpost'] = 'Postavite Tekst Komentar';
+$LANGS['commentonthisvideo'] = 'Komentarišite Na Ovom Videozapisu';
+$LANGS['postcomment'] = 'Postavite Komentar';
+$LANGS['remainingcounter'] = 'Koliko još slova stane';
 $LANGS['nocomments'] = 'Ovaj videozapis <b>nema Komentara</b>.';
 $LANGS['noresponses'] = 'Ovaj Videozapis <b>nema Odgovora</b>.';
 $LANGS['commviewall'] = 'Pogledajte Sve';
 $LANGS['delete'] = 'Izbrišite';
-$LANGS['reply'] = 'Odgovorite'; 
-$LANGS['commentlogin'] = 'Je li biste htjeli komentarisati?'; 
+$LANGS['reply'] = 'Odgovorite';
+$LANGS['commentlogin'] = 'Je li biste htjeli komentarisati?';
 $LANGS['commentlogindesc'] = '<a href="/signup">Pridružite se BitView-u</a> za besplatni račun ili <a href="/login">prijavite se</a> ako ste već član.';
 $LANGS['logintoresponse'] = 'Prijavite se ako želite postaviti Videozapisni Odgovor';
-$LANGS['logintocomment'] = 'Prijavite se ako želite Komentarisati'; 
-$LANGS['logintofav'] = 'Želite li dodat kod Omiljenih? <a href="/login">Prijavite se</a> ili <a href="/signup">Napravite Račun</a> sad!'; 
-$LANGS['logintopl'] = 'Želite li dodat kod Popisa? <a href="/login">Prijavite Se</a> ili <a href="/signup">Napravite Račun</a> sad!'; 
-$LANGS['logintoflag'] = 'Želite li prijaviti videozapis? <a href="/login">Prijavite Se</a> ili <a href="/signup">Napravite Račun</a> sad!'; 
+$LANGS['logintocomment'] = 'Prijavite se ako želite Komentarisati';
+$LANGS['logintofav'] = 'Želite li dodat kod Omiljenih? <a href="/login">Prijavite se</a> ili <a href="/signup">Napravite Račun</a> sad!';
+$LANGS['logintopl'] = 'Želite li dodat kod Popisa? <a href="/login">Prijavite Se</a> ili <a href="/signup">Napravite Račun</a> sad!';
+$LANGS['logintoflag'] = 'Želite li prijaviti videozapis? <a href="/login">Prijavite Se</a> ili <a href="/signup">Napravite Račun</a> sad!';
 $LANGS['close'] = 'izađite';
-$LANGS['addresponse'] = 'Dodajte Odgovor'; 
+$LANGS['addresponse'] = 'Dodajte Odgovor';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Svi Komentari';
@@ -290,40 +292,40 @@ $LANGS['allcomments'] = 'Svi Komentari';
 /* Sign In */
 $LANGS['username'] = "Korisničko Ime";
 $LANGS['password'] = "Lozinka";
-$LANGS['logindesc'] = "Prijavite se na BitView sa vašim računom."; 
-$LANGS['forgot'] = "Ne možete se prijaviti na vaš račun?"; 
+$LANGS['logindesc'] = "Prijavite se na BitView sa vašim računom.";
+$LANGS['forgot'] = "Ne možete se prijaviti na vaš račun?";
 $LANGS['forgotmsg'] = 'Molimo vas da nas kontaktirate na Twitter-u (@BitView_) ili pošaljite poruku moderatorima na Discord-u. (link in footer)';
-$LANGS['noaccount'] = "Nemate račun?"; 
-$LANGS['signuptobv'] = "Napravite račun na BitView-u!"; 
-$LANGS['signintobv'] = "Prijavite se na BitView!"; 
+$LANGS['noaccount'] = "Nemate račun?";
+$LANGS['signuptobv'] = "Napravite račun na BitView-u!";
+$LANGS['signintobv'] = "Prijavite se na BitView!";
 $LANGS['signindesc1'] = "Pridružite se najvećem društvu dijelenja videozapisa širokom svijeta!";
-$LANGS['signindesc2'] = "BitView je način da pokažete vaše vidrozapisi onima koji su vam najvažniji. Sa BitView-om možete:"; 
+$LANGS['signindesc2'] = "BitView je način da pokažete vaše vidrozapisi onima koji su vam najvažniji. Sa BitView-om možete:";
 $LANGS['signindesc3'] = "Pokazati vaše omiljene videozapise svijetu.";
 $LANGS['signindesc4'] = "Blogovati videozapisa koje ste snimili sa vašom digitalnom kamerom ili telefonom.";
-$LANGS['signindesc5'] = "Sigurno i privatno pokazati videozapise vašim prijateljima i obitalji širokom svijeta"; 
-$LANGS['notallowed'] = "Već su vam 3 računa zabranjena. Ne smijete više koristiti BitView!"; 
-$LANGS['wrongpassword'] = 'No točna lozinka! Molimo vas da pokušate ponovo.'; 
+$LANGS['signindesc5'] = "Sigurno i privatno pokazati videozapise vašim prijateljima i obitalji širokom svijeta";
+$LANGS['notallowed'] = "Već su vam 3 računa zabranjena. Ne smijete više koristiti BitView!";
+$LANGS['wrongpassword'] = 'No točna lozinka! Molimo vas da pokušate ponovo.';
 
 /* Sign Up */
-$LANGS['email'] = "Adresa Vaše E-Pošte"; 
-$LANGS['passwordstrength'] = "Snaga lozinke:"; 
+$LANGS['email'] = "Adresa Vaše E-Pošte";
+$LANGS['passwordstrength'] = "Snaga lozinke:";
 $LANGS['psnone'] = "Nikakva";
 $LANGS['psweak'] = "Slaba";
 $LANGS['psfair'] = "Dovoljna";
 $LANGS['psgood'] = "Dobra";
 $LANGS['psstrong'] = "Jaka";
-$LANGS['repassword'] = "Ponovo Upišite Lozinku"; 
+$LANGS['repassword'] = "Ponovo Upišite Lozinku";
 $LANGS['usernamedesc'] = "Vaše korisničko ime može imati samo Engleska slova A-Z ili brojeve 0-9.";
 $LANGS['captcha'] = "Dokažite Da Niste Robot";
 $LANGS['acceptterms'] = 'Slažem se sa <a href="/terms">Pravilima Korišćenja</a> i <a href="/privacy">Pravilima Privatnosti</a>.';
 $LANGS['copyrighttext'] = 'Postavljanje materijala koji ne pripada vama je kršenje copyright-a i protiv zakona. Ako postavite materijale koji nisu vaši, vaš račun će biti obrisan.';
-$LANGS['mustaccept'] = 'Debes aceptar los Términos de uso y la Política de privacidad para crear tu cuenta.'; 
-$LANGS['createaccount'] = 'Napravi račun'; 
+$LANGS['mustaccept'] = 'Debes aceptar los Términos de uso y la Política de privacidad para crear tu cuenta.';
+$LANGS['createaccount'] = 'Napravi račun';
 $LANGS['signuperror'] = 'Desila se greška kod pravljenja vašeg računa.';
 $LANGS['sameemail'] = 'Ovo korisničko imi ili E-Pošta je već korišćena!';
 $LANGS['usernamechar'] = 'Korisničko ime može imati samo brojeve i slova!';
-$LANGS['required'] = 'Morate svugdje upisati tekst!'; 
-$LANGS['notmatch'] = "Lozinke nisu iste!"; 
+$LANGS['required'] = 'Morate svugdje upisati tekst!';
+$LANGS['notmatch'] = "Lozinke nisu iste!";
 $LANGS['signuphead'] = 'Započnite sa vašim računom';
 
 /* Videos Page */
@@ -338,15 +340,15 @@ $LANGS['timetoday'] = 'Danas';
 $LANGS['timeweek'] = 'Ovaj Tjedan';
 $LANGS['timemonth'] = 'Ovaj Mjesec';
 $LANGS['alltime'] = 'Od Svih Vremena';
- 
+
 /* Channels Page */
-$LANGS['mostsubscribed'] = 'Najviše Preplaćeni'; 
+$LANGS['mostsubscribed'] = 'Najviše Preplaćeni';
 $LANGS['lastlogin'] = 'Zadnji Put Prijavljeni';
 $LANGS['cstatviews'] = 'Pregledi';
 $LANGS['cstatvideos'] = 'Videozapisi';
 $LANGS['cstatsubs'] = 'Preplatnici';
 $LANGS['nochannels'] = 'Niti jedan kanal nije više pronađen...';
- 
+
 /* Video Categories */
 $LANGS['cat1'] = "Film I Animacija";
 $LANGS['cat2'] = "Auti I Vozila";
@@ -368,8 +370,8 @@ $LANGS['cat17'] = "Kratki Filmovi";
 $LANGS['cat18'] = "Sportovi";
 $LANGS['cat19'] = "Putovanje I Dešavanja";
 $LANGS['cat20'] = "Igranje Igrica";
-$LANGS['cat21'] = "Videozapisno Blogovanje"; 
- 
+$LANGS['cat21'] = "Videozapisno Blogovanje";
+
 /* Channel Types */
 $LANGS['type0'] = "Ništa";
 $LANGS['type1'] = "Član";
@@ -384,9 +386,9 @@ $LANGS['type5'] = "Glazbenik";
 $LANGS['type5p'] = "Glazbenici";
 $LANGS['type6'] = "Novinar";
 $LANGS['type6p'] = "Novinari";
- 
+
 /* Countries */
-$LANGS['cat_AF'] = "Afganistan"; 
+$LANGS['cat_AF'] = "Afganistan";
 $LANGS['cat_AX'] = "Ålandski otoci";
 $LANGS['cat_AL'] = "Albanija";
 $LANGS['cat_DZ'] = "Alžir";
@@ -418,7 +420,7 @@ $LANGS['cat_BA'] = "Bosna i Hercegovina";
 $LANGS['cat_CX'] = "Božićni Otok";
 $LANGS['cat_BR'] = "Brazil";
 $LANGS['cat_VG'] = "Britanski Djevičanski otoci";
-$LANGS['cat_IO'] = "Britanski Indijskooceanski teritorij"; 
+$LANGS['cat_IO'] = "Britanski Indijskooceanski teritorij";
 $LANGS['cat_BN'] = "Brunej Darussalam";
 $LANGS['cat_BG'] = "Bugarska";
 $LANGS['cat_BF'] = "Burkina Faso";
@@ -444,7 +446,7 @@ $LANGS['cat_ER'] = "Eritreja";
 $LANGS['cat_EE'] = "Estonija";
 $LANGS['cat_SZ'] = "Esvatini";
 $LANGS['cat_ET'] = "Etiopija";
-$LANGS['cat_FK'] = "Falklandski Otoci"; 
+$LANGS['cat_FK'] = "Falklandski Otoci";
 $LANGS['cat_FO'] = "Farski Otoci";
 $LANGS['cat_FJ'] = "Fidži";
 $LANGS['cat_PH'] = "Filipini";
@@ -453,7 +455,7 @@ $LANGS['cat_FR'] = "Francuska";
 $LANGS['cat_GF'] = "Francuska Gijana";
 $LANGS['cat_FG'] = "Francuska Gijana";
 $LANGS['cat_PF'] = "Francuska Polinezija";
-$LANGS['cat_TF'] = "Francuski Južni Teritoriji"; 
+$LANGS['cat_TF'] = "Francuski Južni Teritoriji";
 $LANGS['cat_GA'] = "Gabon";
 $LANGS['cat_GM'] = "Gambija";
 $LANGS['cat_GH'] = "Gana";
@@ -500,7 +502,7 @@ $LANGS['cat_KE'] = "Kenija";
 $LANGS['cat_CN'] = "Kina";
 $LANGS['cat_KG'] = "Kirgistan";
 $LANGS['cat_KI'] = "Kiribati";
-$LANGS['cat_CC'] = "Kokosovi Otoci"; 
+$LANGS['cat_CC'] = "Kokosovi Otoci";
 $LANGS['cat_CO'] = "Kolumbija";
 $LANGS['cat_KM'] = "Komori";
 $LANGS['cat_XK'] = "Kosovo";
@@ -523,7 +525,7 @@ $LANGS['cat_MW'] = "Malavi";
 $LANGS['cat_MV'] = "Maldivi";
 $LANGS['cat_MY'] = "Malezija";
 $LANGS['cat_ML'] = "Mali";
-$LANGS['cat_UM'] = "Mali udaljeni otoci SAD-a"; 
+$LANGS['cat_UM'] = "Mali udaljeni otoci SAD-a";
 $LANGS['cat_MT'] = "Malta";
 $LANGS['cat_MA'] = "Maroko";
 $LANGS['cat_MH'] = "Maršalovi Otoci";
@@ -556,10 +558,10 @@ $LANGS['cat_DE'] = "Njemačka";
 $LANGS['cat_CI'] = "Obala Bijelokosti";
 $LANGS['cat_JE'] = "Oblast Jersey";
 $LANGS['cat_OM'] = "Oman";
-$LANGS['cat_TC'] = "Otoci Turks i Caicos"; 
+$LANGS['cat_TC'] = "Otoci Turks i Caicos";
 $LANGS['cat_BV'] = "Otok Bouvet";
 $LANGS['cat_GP'] = "Otok Guadalupe";
-$LANGS['cat_HM'] = "Otok Heard i otočje McDonald"; 
+$LANGS['cat_HM'] = "Otok Heard i otočje McDonald";
 $LANGS['cat_IM'] = "Otok Man";
 $LANGS['cat_NF'] = "Otok Norfolk";
 $LANGS['cat_PK'] = "Pakistan";
@@ -573,7 +575,7 @@ $LANGS['cat_PN'] = "Pitcairnovo Otočje";
 $LANGS['cat_PL'] = "Poljska";
 $LANGS['cat_PR'] = "Portoriko";
 $LANGS['cat_PT'] = "Portugal";
-$LANGS['cat_CG'] = "Republika Kongo"; 
+$LANGS['cat_CG'] = "Republika Kongo";
 $LANGS['cat_RE'] = "Réunion";
 $LANGS['cat_RW'] = "Ruanda";
 $LANGS['cat_RO'] = "Rumunjska";
@@ -590,7 +592,7 @@ $LANGS['cat_SY'] = "Sirija";
 $LANGS['cat_US'] = "Sjedinjene Američke Države";
 $LANGS['cat_KP'] = "Sjeverna Koreja";
 $LANGS['cat_MK'] = "Sjeverna Makedonija";
-$LANGS['cat_MP'] = "Sjevernomarijanski otoci"; 
+$LANGS['cat_MP'] = "Sjevernomarijanski otoci";
 $LANGS['cat_SK'] = "Slovačka";
 $LANGS['cat_SI'] = "Slovenija";
 $LANGS['cat_SO'] = "Somalija";
@@ -598,15 +600,15 @@ $LANGS['cat_RS'] = "Srbija";
 $LANGS['cat_CF'] = "Srednjoafrička Republika";
 $LANGS['cat_SD'] = "Sudan";
 $LANGS['cat_SR'] = "Surinam";
-$LANGS['cat_SJ'] = "Svalbard i Jan Mayen"; 
+$LANGS['cat_SJ'] = "Svalbard i Jan Mayen";
 $LANGS['cat_SH'] = "Sveta Helena";
 $LANGS['cat_LC'] = "Sveta Lucija";
 $LANGS['cat_BL'] = "Sveti Bartolomej";
 $LANGS['cat_KN'] = "Sveti Kristofor i Nevis";
-$LANGS['cat_MF'] = "Sveti Martin (Frenzuski dio)"; 
-$LANGS['cat_PM'] = "Sveti Petar i Mikelon"; 
-$LANGS['cat_ST'] = "Sveti Toma i Prinsipe"; 
-$LANGS['cat_VC'] = "Sveti Vincent i Grenadini":
+$LANGS['cat_MF'] = "Sveti Martin (Frenzuski dio)";
+$LANGS['cat_PM'] = "Sveti Petar i Mikelon";
+$LANGS['cat_ST'] = "Sveti Toma i Prinsipe";
+$LANGS['cat_VC'] = "Sveti Vincent i Grenadini";
 $LANGS['cat_ES'] = "Španjolska";
 $LANGS['cat_LK'] = "Šri Lanka";
 $LANGS['cat_SE'] = "Švedska";
@@ -630,34 +632,34 @@ $LANGS['cat_UA'] = "Ukrajina";
 $LANGS['cat_UY'] = "Urugvaj";
 $LANGS['cat_UZ'] = "Uzbekistan";
 $LANGS['cat_VU'] = "Vanuatu";
-$LANGS['cat_VA'] = "Vatikan"; 
+$LANGS['cat_VA'] = "Vatikan";
 $LANGS['cat_VE'] = "Venezuela";
 $LANGS['cat_VN'] = "Vijetnam";
 $LANGS['cat_ZM'] = "Zambija";
 $LANGS['cat_EH'] = "Zapadna Sahara";
 $LANGS['cat_CV'] = "Zelenortski Otoci";
 $LANGS['cat_SX'] = "Zemlja Sveti Martin";
-$LANGS['cat_ZW'] = "Zimbabve"; 
+$LANGS['cat_ZW'] = "Zimbabve";
 $LANGS['cat_WF'] = "Wallis i Futuna";
- 
+
 /*Account */
 $LANGS['myaccount'] = "Moj Račun";
-$LANGS['vidsfavs'] = "Videozapisi, Omiljeni Videozapisi, i Popisi"; 
-$LANGS['accountsettings'] = "Postavke Na Računu"; 
+$LANGS['vidsfavs'] = "Videozapisi, Omiljeni Videozapisi, i Popisi";
+$LANGS['accountsettings'] = "Postavke Na Računu";
 $LANGS['viewinghistory'] = "Povijest";
-$LANGS['mychannel'] = "Moj Račun"; 
-$LANGS['uploadedvideos'] = "Postavljeni Videozapisi"; 
+$LANGS['mychannel'] = "Moj Račun";
+$LANGS['uploadedvideos'] = "Postavljeni Videozapisi";
 $LANGS['new'] = "Novo";
 $LANGS['playlist'] = "Popis";
-$LANGS['videoupload'] = "Postavljanje Videozapisa"; 
-$LANGS['nosubvideos'] = "Nemate niti jednu preplatu..."; 
+$LANGS['videoupload'] = "Postavljanje Videozapisa";
+$LANGS['nosubvideos'] = "Nemate niti jednu preplatu...";
 $LANGS['nofavvideos'] = "Niste dodali niti jedan videozapis kod omiljenih...";
- 
+
 /* My Videos */
 $LANGS['sortby'] = "Pregledajte ovako";
 $LANGS['sorttitle'] = "Naslov";
 $LANGS['sorttime'] = "Vrijeme";
-$LANGS['sortdateadded'] = "Datum Kad Je Dodano"; 
+$LANGS['sortdateadded'] = "Datum Kad Je Dodano";
 $LANGS['sortviews'] = "Pregledi";
 $LANGS['sortrating'] = "Ocijene";
 $LANGS['stattime'] = "Vrijeme";
@@ -672,12 +674,12 @@ $LANGS['uploading'] = "Postavlja se...";
 $LANGS['addvidsto'] = "Dodajte Videozapise kod";
 $LANGS['play'] = "Pustite Videozapis";
 $LANGS['edit'] = "Promjenite";
-$LANGS['setasavatar'] = "Stavite Naslovnu Sliku kao Sliku Računa"; 
-$LANGS['downloadmp4'] = "Instalirajte kao MP4"; 
+$LANGS['setasavatar'] = "Stavite Naslovnu Sliku kao Sliku Računa";
+$LANGS['downloadmp4'] = "Instalirajte kao MP4";
 $LANGS['deleteconfirmation'] = "Jeste li sigurni da želite ovj videozapis obrisati?";
 $LANGS['novideos'] = 'Niste postavili niti jedan videozapis. <a href="/my_videos_upload">Postavite videozapis sad!</a>!';
 $LANGS['nomyvideosresults'] = "Nema rezultata. Pogledajte jeste li dobro upisali.";
- 
+
 /* Edit Video */
 $LANGS['title'] = "Naslov";
 $LANGS['desc'] = "Opis";
@@ -685,27 +687,27 @@ $LANGS['privacy'] = "Privatnost";
 $LANGS['saveinfo'] = "Spremi Informaciju";
 $LANGS['saveinfoconfirm'] = "Jeste li sigurni da želite promijeniti informaciju o videozapisu?";
 $LANGS['viewchart'] = "Pogledajte Grafiku";
- 
+
 /* My Playlists */
 $LANGS['addedpl'] = "Dodano";
 $LANGS['frompl'] = "Od";
 $LANGS['nopl'] = "Niti jedan popis nije pronađen...";
- 
+
 /* My Playlist */
 $LANGS['playlistedit'] = "Promjenite Popis";
 $LANGS['videourl'] = "URL Videozapisa";
 $LANGS['add'] = "Dodajte";
 $LANGS['editinfo'] = "Promjenite Informaciju";
- 
+
 /* Edit Playlist */
 $LANGS['pledittitle'] = "Promjenite Popis";
 $LANGS['pleditdesc'] = "Popisi su grupe videozapisa koje možete postaviti kako god želite.";
 $LANGS['cancel'] = "Prekinite";
- 
+
 /* Create Playlist */
-$LANGS['createplaylisttitle'] = "Napravite Popis Videozpisa"; 
+$LANGS['createplaylisttitle'] = "Napravite Popis Videozpisa";
 $LANGS['createplaylist'] = "Napravite Popis";
- 
+
 /* Inbox */
 $LANGS['compose'] = "Napravite";
 $LANGS['from'] = "Od";
@@ -715,90 +717,90 @@ $LANGS['allmsg'] = "Sve Poruke";
 $LANGS['msgcom'] = "Komentari";
 $LANGS['sentmsg'] = "Pošaljite Poruke";
 $LANGS['nomsg'] = "Nemate niti jednu poruku...";
- 
+
 /* Send Message */
 $LANGS['messagecont'] = "Poruka";
 $LANGS['to'] = "Do";
-$LANGS['sendmessagebutton'] = "Pošaljite"; 
- 
+$LANGS['sendmessagebutton'] = "Pošaljite";
+
 /* Groups */
 $LANGS['groups'] = "Društva";
-$LANGS['joinedgroups'] = "Pridruženi Društvima"; 
-$LANGS['recentgroups'] = "Nedavna Društva"; 
-$LANGS['mostmembers'] = "Najviše Članova"; 
-$LANGS['mostvideos'] = "Najviše Videozapisa"; 
-$LANGS['groupmostdiscussed'] = "Najviše Raspravljeno"; 
-$LANGS['createagroup'] = "Napravi Društvo"; 
+$LANGS['joinedgroups'] = "Pridruženi Društvima";
+$LANGS['recentgroups'] = "Nedavna Društva";
+$LANGS['mostmembers'] = "Najviše Članova";
+$LANGS['mostvideos'] = "Najviše Videozapisa";
+$LANGS['groupmostdiscussed'] = "Najviše Raspravljeno";
+$LANGS['createagroup'] = "Napravi Društvo";
 $LANGS['groupvideos'] = "Videozapisi";
-$LANGS['groupmembers'] = "Članovi"; 
-$LANGS['discussions'] = "Rasprave"; 
+$LANGS['groupmembers'] = "Članovi";
+$LANGS['discussions'] = "Rasprave";
 $LANGS['groupcreated'] = "Napravljeno";
 $LANGS['nogroups'] = "Niti jedno Društvo nije pronađeno...";
- 
+
 /* Group */
-$LANGS['jointhisgroup'] = "Pridružite Se Ovom Drušstvu"; 
-$LANGS['removerequest'] = "Obrišite Zahtvjev"; 
+$LANGS['jointhisgroup'] = "Pridružite Se Ovom Drušstvu";
+$LANGS['removerequest'] = "Obrišite Zahtvjev";
 $LANGS['leavegroup'] = "Izađite Iz Društva";
-$LANGS['moderation'] = "Moderacija"; 
-$LANGS['viewallvideos'] = "Vidite Sva Videozapisa"; 
+$LANGS['moderation'] = "Moderacija";
+$LANGS['viewallvideos'] = "Vidite Sva Videozapisa";
 $LANGS['addvideo'] = "Dodajte videozapis";
-$LANGS['novideos'] = "Nema Videozapisa..."; 
-$LANGS['nodiscussions'] = "Nema Rasprave..."; 
-$LANGS['creatediscussion'] = "Napravi Raspravu"; 
+$LANGS['novideos'] = "Nema Videozapisa...";
+$LANGS['nodiscussions'] = "Nema Rasprave...";
+$LANGS['creatediscussion'] = "Napravi Raspravu";
 $LANGS['topostatopic'] = "postavite temu.";
 $LANGS['topic'] = "Tema";
 $LANGS['author'] = "Autor";
 $LANGS['replies'] = "Odgovori";
 $LANGS['lastpost'] = "Zadnji Post";
-$LANGS['viewallmembers'] = "Vidite Sve Članove"; 
+$LANGS['viewallmembers'] = "Vidite Sve Članove";
 $LANGS['owner'] = "Vlasnik";
 $LANGS['grouptype'] = "Vrsta";
-$LANGS['instantjoin'] = "Odma Pridruženi"; 
-$LANGS['approvalrequired'] = "Treba Vam Potvrda"; 
+$LANGS['instantjoin'] = "Odma Pridruženi";
+$LANGS['approvalrequired'] = "Treba Vam Potvrda";
 $LANGS['groupurl'] = "URL";
-$LANGS['deletediscussion'] = "Obrište Raspravu"; 
+$LANGS['deletediscussion'] = "Obrište Raspravu";
 $LANGS['postreply'] = "Postavite Odgovor";
 $LANGS['post'] = "Postavite";
 $LANGS['accept'] = "Prihvatite";
-$LANGS['decline'] = "Nemojte prihvtiti"; 
- 
+$LANGS['decline'] = "Nemojte prihvtiti";
+
 /* Group Moderation */
-$LANGS['groupmoderation'] = "Moderacija Društva"; 
-$LANGS['approvemembers'] = "Prihvatite Članove"; 
+$LANGS['groupmoderation'] = "Moderacija Društva";
+$LANGS['approvemembers'] = "Prihvatite Članove";
 $LANGS['approvevideos'] = "Prihvatite Videozapise";
 $LANGS['yes'] = "Da";
 $LANGS['no'] = "Ne";
-$LANGS['changeinfo'] = "Promjenite Informaciju"; 
+$LANGS['changeinfo'] = "Promjenite Informaciju";
 $LANGS['changeimage'] = "Promjenite Sliku";
 $LANGS['image'] = "Slika";
 $LANGS['styling'] = "Promjenite";
-$LANGS['cssdesc'] = "Ako imate pozadine ili grafike koje rade ili pokazuju ilegalne stvari vaš račun će biti obrisan."; 
-$LANGS['updatecss'] = "Ažurirajte CSS"; 
-$LANGS['groupmessage'] = "Poruka"; 
+$LANGS['cssdesc'] = "Ako imate pozadine ili grafike koje rade ili pokazuju ilegalne stvari vaš račun će biti obrisan.";
+$LANGS['updatecss'] = "Ažurirajte CSS";
+$LANGS['groupmessage'] = "Poruka";
 $LANGS['sendmessagetomembers'] = "Pošaljite Poruku Članovima";
 $LANGS['delgroup'] = "Obrišite Društvo";
- 
+
 /* Submit Group Video */
-$LANGS['submitvideotitle'] = "Postavite Videozapis Kod Društva"; 
-$LANGS['submitvideo'] = "Postavite Videozapis"; /* Napravite Društva */ 
-$LANGS['groupname'] = "Ime Društva"; 
-$LANGS['groupimage'] = "Slika Društva"; 
-$LANGS['creategroup'] = "Napravite Društvo"; 
+$LANGS['submitvideotitle'] = "Postavite Videozapis Kod Društva";
+$LANGS['submitvideo'] = "Postavite Videozapis"; /* Napravite Društva */
+$LANGS['groupname'] = "Ime Društva";
+$LANGS['groupimage'] = "Slika Društva";
+$LANGS['creategroup'] = "Napravite Društvo";
 $LANGS['creategroupdesc'] = "Društva vam dozvoljavaju da napravite rasprave sa ostalim članovima i da lakše dijelite vaše videozapise sa ostalima.";
- 
+
 /* Create Group Discussion */
-$LANGS['discussiontitle'] = "Naslov Rasprave"; 
+$LANGS['discussiontitle'] = "Naslov Rasprave";
 $LANGS['creatediscussiondesc'] = "Rasprave su dijelovi društva u kojima raspravljate trenutnu temu.";
- 
+
 /* Search Results */
 $LANGS['resultspre'] = ""; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['resultspost'] = "rezultati"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['relevance'] = 'Relevantnost'; 
+$LANGS['relevance'] = 'Relevantnost';
 $LANGS['viewcount'] = 'Broj Pregleda';
 $LANGS['searchrating'] = 'Ocijene';
 $LANGS['newest'] = 'Najnovije';
-$LANGS['nochannelsfound'] = 'Niti Jedan Kanal Nije Pronađen...'; 
-$LANGS['noplfound'] = 'Niti Jedan Popis Nije Pronađen...'; 
+$LANGS['nochannelsfound'] = 'Niti Jedan Kanal Nije Pronađen...';
+$LANGS['noplfound'] = 'Niti Jedan Popis Nije Pronađen...';
 $LANGS['nogroupsfound'] = 'Niti Jedno Društvo Nije Pronađeno...';
 
 /* Profile */
@@ -1140,4 +1142,3 @@ $LANGS['privacypolicy'] = 'Privacy Policy';
 $LANGS['currentlanguage'] = 'Current Language';
 $LANGS['showlanguages'] = 'Show languages';
 $LANGS['setlanguagepref'] = 'Set Your Language Preference';
-?>

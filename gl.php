@@ -1,4 +1,5 @@
 <?php
+
 /* General stuff */
 $LANGS['language'] = 'Galego';
 $LANGS['languageenglish'] = 'Galego';
@@ -286,7 +287,7 @@ $LANGS['allcomments'] = 'Tódolos comentarios';
 
 /* Sign In */
 $LANGS['username'] = "Nome de usuario";
-  $LANGS['password'] = "Contrasinal";
+$LANGS['password'] = "Contrasinal";
 $LANGS['logindesc'] = "Inicia sesión coa túa conta de BitView";
 $LANGS['forgot'] = "Non podes acceder a túa conta?";
 $LANGS['forgotmsg'] = 'Por favor contáctanos a (@BitView_) ou mándanos unha mensaxe aos moderadores en Discord. (ligazón abaixo)';
@@ -1139,4 +1140,3 @@ $LANGS['privacypolicy'] = 'Privacy Policy';
 $LANGS['currentlanguage'] = 'Current Language';
 $LANGS['showlanguages'] = 'Show languages';
 $LANGS['setlanguagepref'] = 'Set Your Language Preference';
-?>
