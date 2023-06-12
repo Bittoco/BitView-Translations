@@ -1,5 +1,4 @@
 <?php
-
 /* General stuff */
 $LANGS['language'] = 'Español (Latinoamérica)';
 $LANGS['languageenglish'] = 'Spanish (Latin America)';
@@ -1141,3 +1140,4 @@ $LANGS['privacypolicy'] = 'Política de privacidad';
 $LANGS['currentlanguage'] = 'Idioma actual';
 $LANGS['showlanguages'] = 'Mostrar idiomas';
 $LANGS['setlanguagepref'] = 'Establecer preferencia de idioma';
+?>

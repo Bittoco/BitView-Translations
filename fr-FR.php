@@ -1,5 +1,4 @@
 <?php
-
 /* General stuff */
 $LANGS['language'] = 'Français';
 $LANGS['languageenglish'] = 'French';
@@ -1146,3 +1145,4 @@ $LANGS['privacypolicy'] = 'Privacy Policy';
 $LANGS['currentlanguage'] = 'Current Language';
 $LANGS['showlanguages'] = 'Show languages';
 $LANGS['setlanguagepref'] = 'Set Your Language Preference';
+?>
