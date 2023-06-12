@@ -1,9 +1,9 @@
 <?php
 
 /* General stuff */
-$LANGS['language'] = 'Korean';
-$LANGS['languageenglish'] = '한국인';
-$LANGS['languagecode'] = 'ko';
+$LANGS['language'] = '한국인';
+$LANGS['languageenglish'] = 'Korean';
+$LANGS['languagecode'] = 'ko_KR';
 $LANGS['languagechange'] = '언어는 한국어로 설정했습니다.';
 $LANGS['numberformat'] = 0; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
@@ -11,7 +11,7 @@ $LANGS['numberformat'] = 0; /* If your language uses comma separators (example: 
 $LANGS['welcometobitview'] = 'BitView에 오신 것을 환영합니다!';
 $LANGS['languagesuggestion'] = '추천 언어 (우리는 여기에 선호도를 설정했습니다):';
 $LANGS['languagesuggestiondesc1'] = '언어 설정을 변경하려면 페이지 맨 아래의 언어 선택기를 사용해주세요.';
-$LANGS['languagesuggestiondesc2'] = '설정을 수락하려면 "확인"을 클릭하거나 영어로 사이트를 보려면 "취소"를 클릭하세요.'
+$LANGS['languagesuggestiondesc2'] = '설정을 수락하려면 "확인"을 클릭하거나 영어로 사이트를 보려면 "취소"를 클릭하세요.';
 
 /* Time, dates, etc */
 
