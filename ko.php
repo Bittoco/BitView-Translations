@@ -1,7 +1,7 @@
 <?php
 
 /* General stuff */
-$LANGS['language'] = '한국인';
+$LANGS['language'] = '한국어';
 $LANGS['languageenglish'] = 'Korean';
 $LANGS['languagecode'] = 'ko_KR';
 $LANGS['languagechange'] = '언어는 한국어로 설정했습니다.';
