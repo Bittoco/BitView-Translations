@@ -3,7 +3,7 @@
 /* General stuff */
 $LANGS['language'] = '한국어';
 $LANGS['languageenglish'] = 'Korean';
-$LANGS['languagecode'] = 'ko_KR';
+$LANGS['languagecode'] = 'ko_KR.UTF-8';
 $LANGS['languagechange'] = '언어는 한국어로 설정했습니다.';
 $LANGS['numberformat'] = 0; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
@@ -241,6 +241,10 @@ $LANGS['rating'] = '평가';
 $LANGS['favorite'] = '즐겨찾기';
 $LANGS['addtofav'] = '즐겨찾기에 추가';
 $LANGS['removefav'] = '즐겨찾기에서 제거';
+$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.';
+$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.';
+$LANGS['undo'] = 'Undo';
+$LANGS['thanksforrating'] = 'Thanks for rating!';
 $LANGS['playlistdesc'] = '새 비디오를 재생목록에 추가하려면 <a href="/my_playlists">"내 재생목록"</a> 페이지로 이동하세요.';
 $LANGS['share'] = '공유하기';
 $LANGS['flag'] = '신고하기';
