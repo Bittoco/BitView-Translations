@@ -23,3 +23,4 @@ Bonjour! You can now create translations for BitView. Please, use en-US.php as a
 | Català | 10% | Herotrap
 | Galego | 25% | dswitchfofo
 | Română | 70% | conneath
+| 한국인 | 100% | vistafan12
