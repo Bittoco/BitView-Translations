@@ -18,8 +18,8 @@ Bonjour! You can now create translations for BitView. Please, use en-US.php as a
 | Français (France) | 15% | ipluxteamx
 | Русский (RU) | 100% | purpletheblaze, CoolestGuy94
 | Deutsch | 100% | realdantopf
-| Hrvatski (HR) | 35% | HelluvaEmployee
-| Србски (SR) | 35% | HelluvaEmployee
+| Hrvatski (HR) | 70% | HelluvaEmployee
+| Србски (SR) | 70% | HelluvaEmployee
 | Català | 10% | Herotrap
 | Galego | 25% | dswitchfofo
 | Română | 70% | conneath
