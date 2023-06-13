@@ -243,6 +243,10 @@ $LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href
 $LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.';
 $LANGS['undo'] = 'Undo';
 $LANGS['thanksforrating'] = 'Thanks for rating!';
+$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.';
+$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.';
+$LANGS['undo'] = 'Undo';
+$LANGS['thanksforrating'] = 'Thanks for rating!';
 $LANGS['playlistdesc'] = 'Para engadir un vídeo nunha playlist, ve a páxina de<a href="/my_playlists">"Miñas playlists"</a>.';
 $LANGS['addtoplaylist'] = 'Add To Playlist';
 $LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
