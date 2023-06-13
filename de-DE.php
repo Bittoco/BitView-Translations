@@ -239,6 +239,8 @@ $LANGS['favorite'] = 'Favorit';
 $LANGS['addtofav'] = 'Favorisieren';
 $LANGS['removefav'] = 'Entfavorisieren';
 $LANGS['playlistdesc'] = 'Um das Video einer Playlist hinzuzufügen, geh auf die <a href="/my_playlists">"Meine Playlisten"</a> Seite.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = 'Teilen';
 $LANGS['flag'] = 'Melden';
 $LANGS['flagthisvid'] = 'Dieses Video melden';

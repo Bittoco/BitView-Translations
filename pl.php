@@ -244,6 +244,8 @@ $LANGS['favremoved'] = 'Ten film został <strong>usunięty</strong> z Twoich <a 
 $LANGS['undo'] = 'Cofnij';
 $LANGS['thanksforrating'] = 'Dziękujemy za ocenę!';
 $LANGS['playlistdesc'] = 'Aby dodać nowe wideo do swojej listy odtwarzania, przejdź do strony <a href="/my_playlists">"Moje listy odtwarzania"</a>.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = 'Udostępnij';
 $LANGS['flag'] = 'Zgłoś';
 $LANGS['flagthisvid'] = 'Zgłoś to wideo';

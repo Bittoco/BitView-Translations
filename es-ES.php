@@ -239,6 +239,8 @@ $LANGS['favorite'] = 'Favoritos';
 $LANGS['addtofav'] = 'Añadir a favoritos';
 $LANGS['removefav'] = 'Eliminar de favoritos';
 $LANGS['playlistdesc'] = 'Para añadir un vídeo a tu lista de reproducción, entra en <a href="/my_playlists">"Listas de reproducción"</a>.';
+$LANGS['addtoplaylist'] = 'Añadir a lista de reproducción';
+$LANGS['addtoplaylistsuccess'] = 'El vídeo se ha añadido a tu lista de reproducción.';
 $LANGS['share'] = 'Compartir';
 $LANGS['flag'] = 'Marcar';
 $LANGS['flagthisvid'] = 'Marcar este vídeo';

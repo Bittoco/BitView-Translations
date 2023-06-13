@@ -246,6 +246,8 @@ $LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <
 $LANGS['undo'] = 'Undo';
 $LANGS['thanksforrating'] = 'Thanks for rating!';
 $LANGS['playlistdesc'] = '새 비디오를 재생목록에 추가하려면 <a href="/my_playlists">"내 재생목록"</a> 페이지로 이동하세요.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = '공유하기';
 $LANGS['flag'] = '신고하기';
 $LANGS['flagthisvid'] = '이 동영상 신고하기';

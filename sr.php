@@ -240,6 +240,8 @@ $LANGS['favorite'] = 'Favorite';
 $LANGS['addtofav'] = 'Add to Favorites';
 $LANGS['removefav'] = 'Remove from Favorites';
 $LANGS['playlistdesc'] = 'To add a new video to your playlist, go to the <a href="/my_playlists">"My Playlists"</a> page.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = 'Share';
 $LANGS['flag'] = 'Flag';
 $LANGS['flagthisvid'] = 'Flag This Video';

@@ -245,6 +245,8 @@ $LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <
 $LANGS['undo'] = 'Undo';
 $LANGS['thanksforrating'] = 'Thanks for rating!';
 $LANGS['playlistdesc'] = 'To add a new video to your playlist, go to the <a href="/my_playlists">"My Playlists"</a> page.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = 'Trimiteți';
 $LANGS['flag'] = 'Raportați';
 $LANGS['flagthisvid'] = 'Raportați acest videoclip';

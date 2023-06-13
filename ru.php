@@ -239,6 +239,8 @@ $LANGS['favorite'] = 'Избранное';
 $LANGS['addtofav'] = 'Добавить в Избранное';
 $LANGS['removefav'] = 'Удалить из Избранных';
 $LANGS['playlistdesc'] = 'Чтобы добавить видео в ваш плейлист, перейдите в <a href="/my_playlists">"Мои плейлисты"</a>.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = 'Поделиться';
 $LANGS['flag'] = 'Пожаловаться';
 $LANGS['flagthisvid'] = 'Пожаловаться на это видео';

@@ -239,6 +239,8 @@ $LANGS['favorite'] = 'Favourite';
 $LANGS['addtofav'] = 'Add to Favourites';
 $LANGS['removefav'] = 'Remove from Favourites';
 $LANGS['playlistdesc'] = 'To add a new video to yew playlist, go to the <a href="/my_playlists">"My Playlists"</a> page.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = 'Share';
 $LANGS['flag'] = 'Flag';
 $LANGS['flagthisvid'] = 'Flag This Video';
