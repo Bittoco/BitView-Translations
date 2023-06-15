@@ -1,7 +1,7 @@
 <?php
 /* General stuff */
-$LANGS['language'] = 'Español (Latinoamérica)';
-$LANGS['languageenglish'] = 'Spanish (Latin America)';
+$LANGS['language'] = 'Español (México)';
+$LANGS['languageenglish'] = 'Spanish (Mexico)';
 $LANGS['languagecode'] = 'es_MX.UTF-8';
 $LANGS['languagechange'] = 'El idioma del sitio ha sido cambiado a Español (Latinoamérica).';
 $LANGS['numberformat'] = 0; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
