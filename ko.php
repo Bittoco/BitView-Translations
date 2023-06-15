@@ -645,6 +645,9 @@ $LANGS['cat_YE'] = "예멘";
 $LANGS['cat_ZM'] = "잠비아";
 $LANGS['cat_ZW'] = "짐바브웨";
 
+/* My Subscriptions */
+$LANGS['newvideos'] = "New Videos";
+
 /* Account */
 $LANGS['myaccount'] = "내 계정";
 $LANGS['vidsfavs'] = "동영상, 즐겨찾기 및 재생 목록";

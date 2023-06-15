@@ -648,6 +648,9 @@ $LANGS['cat_YE'] = "Yemen";
 $LANGS['cat_ZM'] = "Zambia";
 $LANGS['cat_ZW'] = "Zimbabwe";
 
+/* My Subscriptions */
+$LANGS['newvideos'] = "New Videos";
+
 /* Account */
 $LANGS['myaccount'] = "My Account";
 $LANGS['vidsfavs'] = "Videos, Favorites and Playlists";
