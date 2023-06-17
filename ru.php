@@ -238,13 +238,13 @@ $LANGS['rating'] = 'оценка';
 $LANGS['favorite'] = 'Избранное';
 $LANGS['addtofav'] = 'Добавить в Избранное';
 $LANGS['removefav'] = 'Удалить из Избранных';
-$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.';
-$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.';
-$LANGS['undo'] = 'Undo';
-$LANGS['thanksforrating'] = 'Thanks for rating!';
+$LANGS['favadded'] = 'Это видео <strong>добавлено</strong> в <a href="/my_favorites">Избранное</a>.';
+$LANGS['favremoved'] = 'Это видео <strong>удалено</strong> из <a href="/my_favorites">Избранных</a>.';
+$LANGS['undo'] = 'Отмена';
+$LANGS['thanksforrating'] = 'Спасибо за оценку!';
 $LANGS['playlistdesc'] = 'Чтобы добавить видео в ваш плейлист, перейдите в <a href="/my_playlists">"Мои плейлисты"</a>.';
-$LANGS['addtoplaylist'] = 'Add To Playlist';
-$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
+$LANGS['addtoplaylist'] = 'Добавить в плейлист';
+$LANGS['addtoplaylistsuccess'] = 'Видео было добавлено в плейлист.';
 $LANGS['share'] = 'Поделиться';
 $LANGS['flag'] = 'Пожаловаться';
 $LANGS['flagthisvid'] = 'Пожаловаться на это видео';
@@ -643,7 +643,7 @@ $LANGS['cat_ZM'] = "Замбия";
 $LANGS['cat_ZW'] = "Зимбабве";
 
 /* My Subscriptions */
-$LANGS['newvideos'] = "New Videos";
+$LANGS['newvideos'] = "Новые видео";
 
 /* Account */
 $LANGS['myaccount'] = "Мой аккаунт";
@@ -906,7 +906,7 @@ $LANGS['backgroundimage'] = 'Фоновое изображение';
 $LANGS['deleteimage'] = 'Удалить изображения';
 $LANGS['channelinformation'] = 'Информация о канале';
 $LANGS['genderrelationprivate'] = 'Не показывать';
-$LANGS['fctitle'] = 'Титул';
+$LANGS['fctitle'] = 'Заголовок Рекомендуемых';
 $LANGS['relationship'] = 'Отношения';
 $LANGS['birthday'] = 'День рождения';
 $LANGS['showage'] = 'Показывать возраст';
