@@ -646,7 +646,7 @@ $LANGS['cat_ZM'] = "잠비아";
 $LANGS['cat_ZW'] = "짐바브웨";
 
 /* My Subscriptions */
-$LANGS['newvideos'] = "New Videos";
+$LANGS['newvideos'] = "새로운 비디오";
 
 /* Account */
 $LANGS['myaccount'] = "내 계정";
