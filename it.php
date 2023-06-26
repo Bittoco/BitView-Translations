@@ -712,6 +712,12 @@ $LANGS['cancel'] = "Annulla";
 $LANGS['createplaylisttitle'] = "Crea playlist video";
 $LANGS['createplaylist'] = "Crea playlist";
 
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Comments";
+$LANGS['unsorted'] = "Unsorted";
+$LANGS['playallvideos'] = "Play All Videos";
+
 /* Inbox */
 $LANGS['compose'] = "Componi";
 $LANGS['from'] = "Da";

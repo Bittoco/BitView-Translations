@@ -711,6 +711,12 @@ $LANGS['cancel'] = "Abbrechen";
 $LANGS['createplaylisttitle'] = "Video Playlist erstellen";
 $LANGS['createplaylist'] = "Playlist erstellen";
 
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Comments";
+$LANGS['unsorted'] = "Unsorted";
+$LANGS['playallvideos'] = "Play All Videos";
+
 /* Inbox */
 $LANGS['compose'] = "Verfassen";
 $LANGS['from'] = "Absender";

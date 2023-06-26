@@ -711,6 +711,12 @@ $LANGS['cancel'] = "Отмена";
 $LANGS['createplaylisttitle'] = "Создать плейлист";
 $LANGS['createplaylist'] = "Создать плейлист";
 
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Comments";
+$LANGS['unsorted'] = "Unsorted";
+$LANGS['playallvideos'] = "Play All Videos";
+
 /* Inbox */
 $LANGS['compose'] = "Написать";
 $LANGS['from'] = "От";

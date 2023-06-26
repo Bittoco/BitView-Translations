@@ -714,6 +714,12 @@ $LANGS['cancel'] = "취소";
 $LANGS['createplaylisttitle'] = "동영상 재생 목록 만들기";
 $LANGS['createplaylist'] = "재생 목록 만들기";
 
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Comments";
+$LANGS['unsorted'] = "Unsorted";
+$LANGS['playallvideos'] = "Play All Videos";
+
 /* Inbox */
 $LANGS['compose'] = "작성";
 $LANGS['from'] = "보낸 사람";

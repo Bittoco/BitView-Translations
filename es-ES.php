@@ -711,6 +711,12 @@ $LANGS['cancel'] = "Cancelar";
 $LANGS['createplaylisttitle'] = "Crear una lista de reproducción";
 $LANGS['createplaylist'] = "Crear lista";
 
+/* View Playlist */
+$LANGS['plpermalink'] = "Lista de reproducción/URL (enlace permanente):";
+$LANGS['sortcomments'] = "Comentarios";
+$LANGS['unsorted'] = "Sin ordenar";
+$LANGS['playallvideos'] = "Reproducir todos los vídeos";
+
 /* Inbox */
 $LANGS['compose'] = "Redactar";
 $LANGS['from'] = "De";

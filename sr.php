@@ -703,7 +703,13 @@ $LANGS['cancel'] = "Prekinite";
 /* Create Playlist */
 $LANGS['createplaylisttitle'] = "Napravite Popis Videozpisa"; 
 $LANGS['createplaylist'] = "Napravite Popis";
- 
+
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Comments";
+$LANGS['unsorted'] = "Unsorted";
+$LANGS['playallvideos'] = "Play All Videos";
+
 /* Inbox */
 $LANGS['compose'] = "Napravite";
 $LANGS['from'] = "Od";
