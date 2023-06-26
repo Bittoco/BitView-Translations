@@ -65,7 +65,7 @@ $LANGS['subscriptions'] = 'Subscriptions';
 $LANGS['history'] = 'History';
 $LANGS['account'] = 'Account';
 $LANGS['myvideos'] = 'My Videos';
-$LANGS['favourites'] = 'favourites';
+$LANGS['favorites'] = 'Favourites';
 $LANGS['playlists'] = 'Playlists';
 $LANGS['help'] = 'Help';
 
@@ -102,7 +102,7 @@ $LANGS['chpretitle'] = ""; /* Explanation: Use if "channel" goes before the user
 $LANGS['chposttitle'] = "'s Channel"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['signintitle'] = "Sign In";
 $LANGS['historytitle'] = "Viewing History";
-$LANGS['favtitle'] = "favourites";
+$LANGS['favtitle'] = "Favourites";
 $LANGS['pltitle'] = "Playlists";
 $LANGS['partnerprogram'] = "Partner Program";
 
@@ -237,10 +237,10 @@ $LANGS['featuredtext'] = 'This video has been Featured. Want to see more Feature
 $LANGS['ratings'] = 'ratings';
 $LANGS['rating'] = 'rating';
 $LANGS['favourite'] = 'favourite';
-$LANGS['addtofav'] = 'Add to favourites';
-$LANGS['removefav'] = 'Remove from favourites';
-$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favourites">favourites</a>.';
-$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favourites">favourites</a>.';
+$LANGS['addtofav'] = 'Add to Favourites';
+$LANGS['removefav'] = 'Remove from Favourites';
+$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favorites">Favourites</a>.';
+$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favourites</a>.';
 $LANGS['undo'] = 'Undo';
 $LANGS['thanksforrating'] = 'Thanks for rating!';
 $LANGS['playlistdesc'] = 'To add a new video to your playlist, go to the <a href="/my_playlists">"My Playlists"</a> page.';
@@ -282,7 +282,7 @@ $LANGS['commentlogin'] = 'Would you like to Comment?';
 $LANGS['commentlogindesc'] = '<a href="/signup">Join BitView</a> for a free account or <a href="/login">sign in</a> if you are already a member.';
 $LANGS['logintoresponse'] = 'Sign in to post a Video Response';
 $LANGS['logintocomment'] = 'Sign in to post a Comment';
-$LANGS['logintofav'] = 'Want to add to favourites? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
+$LANGS['logintofav'] = 'Want to add to Favourites? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
 $LANGS['logintopl'] = 'Want to add to Playlists? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
 $LANGS['logintoflag'] = 'Want to flag a video? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
 $LANGS['close'] = 'close';
@@ -648,7 +648,7 @@ $LANGS['newvideos'] = "New Videos";
 
 /* Account */
 $LANGS['myaccount'] = "My Account";
-$LANGS['vidsfavs'] = "Videos, favourites and Playlists";
+$LANGS['vidsfavs'] = "Videos, Favourites and Playlists";
 $LANGS['accountsettings'] = "Account Settings";
 $LANGS['viewinghistory'] = "History";
 $LANGS['mychannel'] = "My Channel";
@@ -943,7 +943,7 @@ $LANGS['subscriptionsbox'] = 'Subscriptions Box';
 $LANGS['friendsbox'] = 'Friends Box';
 $LANGS['bulletinsbox'] = 'Bulletins Box';
 $LANGS['videosbox'] = 'Videos Box';
-$LANGS['favouritesbox'] = 'favourites Box';
+$LANGS['favoritesbox'] = 'Favourites Box';
 $LANGS['playlistsbox'] = 'Playlists Box';
 $LANGS['commentsbox'] = 'Comments Box';
 $LANGS['ratingsbox'] = 'Ratings Box';
