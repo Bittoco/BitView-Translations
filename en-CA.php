@@ -1,8 +1,8 @@
 <?php
 
 /* General stuff */
-$LANGS['language'] = 'English (CA)';
-$LANGS['languageenglish'] = 'English (CA)';
+$LANGS['language'] = 'English (Canada)';
+$LANGS['languageenglish'] = 'English (Canada)';
 $LANGS['languagecode'] = 'en_CA.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
 $LANGS['languagechange'] = 'Language has been set to English (CA).';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
