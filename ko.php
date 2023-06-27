@@ -989,6 +989,8 @@ $LANGS['aboutuploading'] = '업로드에 대하여...';
 $LANGS['uploaddesc1'] = '업로드는 고속 연결에서 1-5분 정도 소요되며, 동영상 변환에는 몇 분이 소요됩니다.';
 $LANGS['videolimit1'] = '동영상은 100MB로 제한됩니다. 동영상의 최대 길이는 15분입니다.';
 $LANGS['videolimit2'] = '동영상은 2GB로 제한됩니다. 동영상의 최대 길이는 15분입니다.';
+$LANGS['partnervideolimit1'] = '동영상은 100MB로 제한됩니다. 동영상의 최대 길이는 30분입니다.';
+$LANGS['partnervideolimit2'] = '동영상은 2GB로 제한됩니다. 동영상의 최대 길이는 30분입니다.';
 $LANGS['myvideosdesc'] = '업로드 후에는 페이지 상단의 "<a href="/my_videos">내 동영상</a>" 링크에서 언제든지 동영상을 편집하거나 삭제할 수 있습니다.';
 $LANGS['newuploader'] = '새로운 동영상 업로더 사용';
 $LANGS['olduploader'] = '기존 동영상 업로더 사용';

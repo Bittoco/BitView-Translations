@@ -986,6 +986,8 @@ $LANGS['aboutuploading'] = 'About uploading...';
 $LANGS['uploaddesc1'] = 'Uploads usually take 1-5 minutes per MB on a high-speed connexion, and converting your video takes a few minutes.';
 $LANGS['videolimit1'] = 'Your video is limited to 100MB - maximum video length is 15 minutes.';
 $LANGS['videolimit2'] = 'Your video is limited to 2GB - maximum video length is 15 minutes.';
+$LANGS['partnervideolimit1'] = 'Your video is limited to 100MB - maximum video length is 30 minutes.';
+$LANGS['partnervideolimit2'] = 'Your video is limited to 2GB - maximum video length is 30 minutes.';
 $LANGS['myvideosdesc'] = 'After uploading you can edit or remove this video at anytime under the "<a href="/my_videos">My Videos</a>" link on the top of the page.';
 $LANGS['newuploader'] = 'Use the new video uploader';
 $LANGS['olduploader'] = 'Use the old video uploader';

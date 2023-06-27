@@ -986,6 +986,8 @@ $LANGS['aboutuploading'] = 'Acerca de la subida...';
 $LANGS['uploaddesc1'] = 'Las subidas de videos normalmente tardan entre 1 y 5 minutos por cada MB con una conexión de alta velocidad, además de unos minutos adicionales para realizar la conversión del video.';
 $LANGS['videolimit1'] = 'Tu video se limita a un tamaño de 100 MB y una duración de 15 minutos.';
 $LANGS['videolimit2'] = 'Tu video se limita a un tamaño de 2 GB y una duración de 15 minutos.';
+$LANGS['partnervideolimit1'] = 'Tu video se limita a un tamaño de 100 MB y una duración de 30 minutos.';
+$LANGS['partnervideolimit2'] = 'Tu video se limita a un tamaño de 2 GB y una duración de 30 minutos.';
 $LANGS['myvideosdesc'] = 'Después de la subida puedes editar o eliminar el video cuando quieras en el menú <a href="/my_videos">Mis videos</a>.';
 $LANGS['newuploader'] = 'Utilizar la herramienta de subida avanzada';
 $LANGS['olduploader'] = 'Utilizar la herramienta de subida básica';

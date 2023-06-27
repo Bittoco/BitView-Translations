@@ -987,6 +987,8 @@ $LANGS['aboutuploading'] = 'About uploading...';
 $LANGS['uploaddesc1'] = 'I caricamenti in genere richiedono 1-5 minuti per MB su una connessione ad alta velocità e la conversione del video richiede alcuni minuti.';
 $LANGS['videolimit1'] = 'Il tuo video è limitato a 100 MB - la durata massima del video è di 15 minuti.';
 $LANGS['videolimit2'] = 'Il tuo video è limitato a 2GB - la durata massima del video è di 15 minuti.';
+$LANGS['partnervideolimit1'] = 'Il tuo video è limitato a 100 MB - la durata massima del video è di 30 minuti.';
+$LANGS['partnervideolimit2'] = 'Il tuo video è limitato a 2GB - la durata massima del video è di 30 minuti.';
 $LANGS['myvideosdesc'] = 'Dopo il caricamento puoi modificare o rimuovere questo video in qualsiasi momento tramite il link "<a href="/my_videos">I miei video</a>" nella parte superiore della pagina.';
 $LANGS['newuploader'] = 'Usa il nuovo caricatore di video';
 $LANGS['olduploader'] = 'Usa il vecchio caricatore di video';

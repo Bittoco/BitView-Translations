@@ -975,6 +975,8 @@ $LANGS['aboutuploading'] = 'Uvezi postavljanja...';
 $LANGS['uploaddesc1'] = 'Inače vam treba 1-5 minuta po MB-u sa brzim spojem, i par minuta da bi se promjenila vrsta datoteke vašeg videozapisa.';
 $LANGS['videolimit1'] = 'Vaš videozapis može imati najviše 100MB i najduže može trajati 15 minuta.';
 $LANGS['videolimit2'] = 'Vaš videozapis može imati najviše 2GB i najduže može trajati 15 minuta.';
+$LANGS['partnervideolimit1'] = 'Vaš videozapis može imati najviše 100MB i najduže može trajati 30 minuta.';
+$LANGS['partnervideolimit2'] = 'Vaš videozapis može imati najviše 2GB i najduže može trajati 30 minuta.';
 $LANGS['myvideosdesc'] = 'Nakon što postavite ovaj videozapis možete ga promjeniti ili obrisati bilo kad ispod "<a href="/my_videos">Moji Videozapisi</a>" link na gornjoj strani vaše stranice.'; 
 $LANGS['newuploader'] = 'Koristite novi način postavljanja videozapisa.'; 
 $LANGS['olduploader'] = 'Koristite stari način postavljanja videozapisa.'; 

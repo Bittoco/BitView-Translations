@@ -987,6 +987,8 @@ $LANGS['aboutuploading'] = 'O przesyłaniu...';
 $LANGS['uploaddesc1'] = 'Przesyłanie zazwyczaj zajmuje od 1 do 5 minut na 1 MB przy szybkim połączeniu, a konwersja wideo trwa kilka minut.';
 $LANGS['videolimit1'] = 'Twoje wideo jest ograniczone do 100 MB - maksymalna długość wideo wynosi 15 minut.';
 $LANGS['videolimit2'] = 'Twoje wideo jest ograniczone do 2 GB - maksymalna długość wideo wynosi 15 minut.';
+$LANGS['partnervideolimit1'] = 'Twoje wideo jest ograniczone do 100 MB - maksymalna długość wideo wynosi 30 minut.';
+$LANGS['partnervideolimit2'] = 'Twoje wideo jest ograniczone do 2 GB - maksymalna długość wideo wynosi 30 minut.';
 $LANGS['myvideosdesc'] = 'Po przesłaniu możesz edytować lub usunąć to wideo w dowolnym momencie, korzystając z linku "<a href="/my_videos">Moje wideo</a>" na górze strony.';
 $LANGS['newuploader'] = 'Użyj nowego narzędzia przesyłania wideo';
 $LANGS['olduploader'] = 'Użyj starego narzędzia przesyłania wideo';

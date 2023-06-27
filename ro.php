@@ -985,6 +985,8 @@ $LANGS['aboutuploading'] = 'Despre încărcare...';
 $LANGS['uploaddesc1'] = 'Încărcările durează de obicei 1-5 minute pe o conexiune de viteză mare și procesarea videoclipului durează câteva minute.';
 $LANGS['videolimit1'] = 'Videoclipul poate fi cel mult 100MB și 15 minute.';
 $LANGS['videolimit2'] = 'Videoclipul poate fi cel mult 2GB și 15 minute.';
+$LANGS['partnervideolimit1'] = 'Videoclipul poate fi cel mult 100MB și 30 minute.';
+$LANGS['partnervideolimit2'] = 'Videoclipul poate fi cel mult 2GB și 30 minute.';
 $LANGS['myvideosdesc'] = 'După încărcare puteți să modificați sau să ștergeți videoclipul prin linkul "<a href="/my_videos">Videoclipurile mele</a>" din vârful paginii.';
 $LANGS['newuploader'] = 'Folosiți încărcătorul de videoclipuri nou';
 $LANGS['olduploader'] = 'Folosiți încărcătorul de videoclipuri vechi';

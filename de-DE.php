@@ -986,6 +986,8 @@ $LANGS['aboutuploading'] = 'Lädt hoch...';
 $LANGS['uploaddesc1'] = 'Auf einer high-speed Verbindung braucht der Upload ca. 1-5 Minuten pro MB, und das Verarbeiten braucht auch ein paar Minuten.';
 $LANGS['videolimit1'] = 'Dein Video darf max. 100MB groß und 15 Minuten lang sein.';
 $LANGS['videolimit2'] = 'Dein Video darf max. 2GB groß und 15 Minuten lang sein.';
+$LANGS['partnervideolimit1'] = 'Dein Video darf max. 100MB groß und 30 Minuten lang sein.';
+$LANGS['partnervideolimit2'] = 'Dein Video darf max. 2GB groß und 30 Minuten lang sein.';
 $LANGS['myvideosdesc'] = 'Nach dem Hochladen kannst du das Video jederzeit unter "<a href="/my_videos">Meine Videos</a>" bearbeiten oder löschen.';
 $LANGS['newuploader'] = 'Den neuen Videouploader benutzen';
 $LANGS['olduploader'] = 'Den alten Videouploader benutzen';
