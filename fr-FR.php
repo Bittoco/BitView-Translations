@@ -245,7 +245,13 @@ $LANGS['rating'] = 'rating';
 $LANGS['favorite'] = 'Favorite';
 $LANGS['addtofav'] = 'Add to Favorites';
 $LANGS['removefav'] = 'Remove from Favorites';
+$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.';
+$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.';
+$LANGS['undo'] = 'Undo';
+$LANGS['thanksforrating'] = 'Thanks for rating!';
 $LANGS['playlistdesc'] = 'To add a new video to your playlist, go to the <a href="/my_playlists">"My Playlists"</a> page.';
+$LANGS['addtoplaylist'] = 'Add To Playlist';
+$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
 $LANGS['share'] = 'Share';
 $LANGS['flag'] = 'Flag';
 $LANGS['flagthisvid'] = 'Flag This Video';
@@ -643,6 +649,9 @@ $LANGS['cat_YE'] = "Yemen";
 $LANGS['cat_ZM'] = "Zambia";
 $LANGS['cat_ZW'] = "Zimbabwe";
 
+/* My Subscriptions */
+$LANGS['newvideos'] = "New Videos";
+
 /* Account */
 $LANGS['myaccount'] = "My Account";
 $LANGS['vidsfavs'] = "Videos, Favorites and Playlists";
@@ -708,6 +717,12 @@ $LANGS['cancel'] = "Cancel";
 /* Create Playlist */
 $LANGS['createplaylisttitle'] = "Create Video Playlist";
 $LANGS['createplaylist'] = "Create Playlist";
+
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Comments";
+$LANGS['unsorted'] = "Unsorted";
+$LANGS['playallvideos'] = "Play All Videos";
 
 /* Inbox */
 $LANGS['compose'] = "Compose";
@@ -978,6 +993,8 @@ $LANGS['aboutuploading'] = 'About uploading...';
 $LANGS['uploaddesc1'] = 'Uploads usually take 1-5 minutes per MB on a high-speed connection, and converting your video takes a few minutes.';
 $LANGS['videolimit1'] = 'Your video is limited to 100MB - maximum video length is 15 minutes.';
 $LANGS['videolimit2'] = 'Your video is limited to 2GB - maximum video length is 15 minutes.';
+$LANGS['partnervideolimit1'] = 'Your video is limited to 100MB - maximum video length is 30 minutes.';
+$LANGS['partnervideolimit2'] = 'Your video is limited to 2GB - maximum video length is 30 minutes.';
 $LANGS['myvideosdesc'] = 'After uploading you can edit or remove this video at anytime under the "<a href="/my_videos">My Videos</a>" link on the top of the page.';
 $LANGS['newuploader'] = 'Use the new video uploader';
 $LANGS['olduploader'] = 'Use the old video uploader';

@@ -239,7 +239,13 @@ $LANGS['rating'] = 'ocena';
 $LANGS['favorite'] = 'Ulubione';
 $LANGS['addtofav'] = 'Dodaj do ulubionych';
 $LANGS['removefav'] = 'Usuń z ulubionych';
+$LANGS['favadded'] = 'Ten film został <strong>dodany</strong> do Twoich <a href="/my_favorites">Ulubionych</a>.';
+$LANGS['favremoved'] = 'Ten film został <strong>usunięty</strong> z Twoich <a href="/my_favorites">Ulubionych</a>.';
+$LANGS['undo'] = 'Cofnij';
+$LANGS['thanksforrating'] = 'Dziękujemy za ocenę!';
 $LANGS['playlistdesc'] = 'Aby dodać nowe wideo do swojej listy odtwarzania, przejdź do strony <a href="/my_playlists">"Moje listy odtwarzania"</a>.';
+$LANGS['addtoplaylist'] = 'Dodaj do playlisty';
+$LANGS['addtoplaylistsuccess'] = 'Film został dodany do Twojej playlisty.';
 $LANGS['share'] = 'Udostępnij';
 $LANGS['flag'] = 'Zgłoś';
 $LANGS['flagthisvid'] = 'Zgłoś to wideo';
@@ -637,6 +643,9 @@ $LANGS['cat_YE'] = "Jemen";
 $LANGS['cat_ZM'] = "Zambia";
 $LANGS['cat_ZW'] = "Zimbabwe";
 
+/* My Subscriptions */
+$LANGS['newvideos'] = "Nowe filmy";
+
 /* Account */
 $LANGS['myaccount'] = "Moje konto";
 $LANGS['vidsfavs'] = "Filmy, Ulubione i Playlista";
@@ -702,6 +711,12 @@ $LANGS['cancel'] = "Anuluj";
 /* Create Playlist */
 $LANGS['createplaylisttitle'] = "Utwórz listę odtwarzania wideo";
 $LANGS['createplaylist'] = "Utwórz listę odtwarzania";
+
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Comments";
+$LANGS['unsorted'] = "Unsorted";
+$LANGS['playallvideos'] = "Play All Videos";
 
 /* Inbox */
 $LANGS['compose'] = "Napisz";
@@ -972,6 +987,8 @@ $LANGS['aboutuploading'] = 'O przesyłaniu...';
 $LANGS['uploaddesc1'] = 'Przesyłanie zazwyczaj zajmuje od 1 do 5 minut na 1 MB przy szybkim połączeniu, a konwersja wideo trwa kilka minut.';
 $LANGS['videolimit1'] = 'Twoje wideo jest ograniczone do 100 MB - maksymalna długość wideo wynosi 15 minut.';
 $LANGS['videolimit2'] = 'Twoje wideo jest ograniczone do 2 GB - maksymalna długość wideo wynosi 15 minut.';
+$LANGS['partnervideolimit1'] = 'Twoje wideo jest ograniczone do 100 MB - maksymalna długość wideo wynosi 30 minut.';
+$LANGS['partnervideolimit2'] = 'Twoje wideo jest ograniczone do 2 GB - maksymalna długość wideo wynosi 30 minut.';
 $LANGS['myvideosdesc'] = 'Po przesłaniu możesz edytować lub usunąć to wideo w dowolnym momencie, korzystając z linku "<a href="/my_videos">Moje wideo</a>" na górze strony.';
 $LANGS['newuploader'] = 'Użyj nowego narzędzia przesyłania wideo';
 $LANGS['olduploader'] = 'Użyj starego narzędzia przesyłania wideo';

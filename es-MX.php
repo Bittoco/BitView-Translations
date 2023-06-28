@@ -1,7 +1,7 @@
 <?php
 /* General stuff */
-$LANGS['language'] = 'Español (Latinoamérica)';
-$LANGS['languageenglish'] = 'Spanish (Latin America)';
+$LANGS['language'] = 'Español (México)';
+$LANGS['languageenglish'] = 'Spanish (Mexico)';
 $LANGS['languagecode'] = 'es_MX.UTF-8';
 $LANGS['languagechange'] = 'El idioma del sitio ha sido cambiado a Español (Latinoamérica).';
 $LANGS['numberformat'] = 0; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
@@ -238,7 +238,13 @@ $LANGS['rating'] = 'calificación';
 $LANGS['favorite'] = 'Favoritos';
 $LANGS['addtofav'] = 'Agregar a favoritos';
 $LANGS['removefav'] = 'Eliminar de favoritos';
+$LANGS['favadded'] = 'Este vídeo se ha <strong>añadido</strong> a tus <a href="/my_favorites">favoritos</a>.';
+$LANGS['favremoved'] = 'Este vídeo se ha <strong>eliminado</strong> de tus <a href="/my_favorites">favoritos</a>.';
+$LANGS['undo'] = 'Deshacer';
+$LANGS['thanksforrating'] = '¡Gracias por calificar!';
 $LANGS['playlistdesc'] = 'Para agregar un video a tu lista de reproducción, entra en <a href="/my_playlists">"Listas de reproducción"</a>.';
+$LANGS['addtoplaylist'] = 'Añadir a lista de reproducción';
+$LANGS['addtoplaylistsuccess'] = 'El vídeo se ha añadido a tu lista de reproducción.';
 $LANGS['share'] = 'Compartir';
 $LANGS['flag'] = 'Marcar';
 $LANGS['flagthisvid'] = 'Marcar este video';
@@ -636,6 +642,9 @@ $LANGS['cat_YE'] = "Yemen";
 $LANGS['cat_ZM'] = "Zambia";
 $LANGS['cat_ZW'] = "Zimbabue";
 
+/* My Subscriptions */
+$LANGS['newvideos'] = "Videos nuevos";
+
 /* Account */
 $LANGS['myaccount'] = "Mi cuenta";
 $LANGS['vidsfavs'] = "Mis videos, favoritos y listas de reproducción";
@@ -701,6 +710,12 @@ $LANGS['cancel'] = "Cancelar";
 /* Create Playlist */
 $LANGS['createplaylisttitle'] = "Crear una lista de reproducción";
 $LANGS['createplaylist'] = "Crear lista";
+
+/* View Playlist */
+$LANGS['plpermalink'] = "Lista de reproducción/URL (enlace permanente):";
+$LANGS['sortcomments'] = "Comentarios";
+$LANGS['unsorted'] = "Sin ordenar";
+$LANGS['playallvideos'] = "Reproducir todos los vídeos";
 
 /* Inbox */
 $LANGS['compose'] = "Redactar";
@@ -971,6 +986,8 @@ $LANGS['aboutuploading'] = 'Acerca de la subida...';
 $LANGS['uploaddesc1'] = 'Las subidas de videos normalmente tardan entre 1 y 5 minutos por cada MB con una conexión de alta velocidad, además de unos minutos adicionales para realizar la conversión del video.';
 $LANGS['videolimit1'] = 'Tu video se limita a un tamaño de 100 MB y una duración de 15 minutos.';
 $LANGS['videolimit2'] = 'Tu video se limita a un tamaño de 2 GB y una duración de 15 minutos.';
+$LANGS['partnervideolimit1'] = 'Tu video se limita a un tamaño de 100 MB y una duración de 30 minutos.';
+$LANGS['partnervideolimit2'] = 'Tu video se limita a un tamaño de 2 GB y una duración de 30 minutos.';
 $LANGS['myvideosdesc'] = 'Después de la subida puedes editar o eliminar el video cuando quieras en el menú <a href="/my_videos">Mis videos</a>.';
 $LANGS['newuploader'] = 'Utilizar la herramienta de subida avanzada';
 $LANGS['olduploader'] = 'Utilizar la herramienta de subida básica';
