@@ -286,6 +286,8 @@ $LANGS['logintopl'] = '<a href="/login">Accede</a> para añadir un vídeo a una 
 $LANGS['logintoflag'] = '<a href="/login">Accede</a> para marcar este vídeo.';
 $LANGS['close'] = 'cerrar';
 $LANGS['addresponse'] = 'Añadir respuesta';
+$LANGS['recentlyrated'] = 'Puntuaciones recientes';
+$LANGS['commentsdisabled'] = 'No se pueden añadir comentarios sobre este vídeo.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Todos los comentarios';

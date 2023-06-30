@@ -291,6 +291,8 @@ $LANGS['logintopl'] = 'Queres engadir o vídeo a unha playlist? <a href="/login"
 $LANGS['logintoflag'] = 'Queres reportar o vídeo? <a href="/login">Inicia sesión</a> ou <a href="/signup">rexístrate</a> agora!';
 $LANGS['close'] = 'pechar';
 $LANGS['addresponse'] = 'Engadir resposta';
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Tódolos comentarios';

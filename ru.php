@@ -286,6 +286,8 @@ $LANGS['logintopl'] = 'Хотите добавить в плейлист? <a hre
 $LANGS['logintoflag'] = 'Хотите пожаловаться на видео? <a href="/login">Войдите</a> или <a href="/signup">зарегистрируйтесь</a> сейчас!!';
 $LANGS['close'] = 'закрыть';
 $LANGS['addresponse'] = 'Добавить видеоответ';
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Все комментарии';

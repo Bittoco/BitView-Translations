@@ -289,6 +289,8 @@ $LANGS['logintopl'] = '재생목록에 추가하고 싶으신가요? <a href="/l
 $LANGS['logintoflag'] = '동영상을 신고하고 싶으신가요? <a href="/login">로그인</a> 또는 <a href="/signup">가입하기</a>!';
 $LANGS['close'] = '닫기';
 $LANGS['addresponse'] = '비디오 응답 추가';
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';

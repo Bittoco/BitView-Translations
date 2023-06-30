@@ -288,6 +288,8 @@ $LANGS['logintopl'] = 'Doriți să adăugați un videoclip la un playlist? <a hr
 $LANGS['logintoflag'] = 'Doriți să raportați un videoclip? <a href="/signup">Crează un cont</a> sau <a href="/login">logați-vă</a> dacă deja aveți unul.';
 $LANGS['close'] = 'închide';
 $LANGS['addresponse'] = 'Adăugați răspuns';
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Toate comentariile';

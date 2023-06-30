@@ -287,6 +287,8 @@ $LANGS['logintopl'] = 'Chcesz dodać do listy odtwarzania? <a href="/login">Zalo
 $LANGS['logintoflag'] = 'Chcesz zgłosić wideo? <a href="/login">Zaloguj się</a> lub <a href="/signup">Zarejestruj się</a> teraz!';
 $LANGS['close'] = 'zamknij';
 $LANGS['addresponse'] = 'Dodaj odpowiedź';
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Wszystkie komentarze';

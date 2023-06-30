@@ -141,10 +141,10 @@ $LANGS['onlyonecomment'] = 'Možete postaviti samo jedan komentar!';
 $LANGS['vpnbrowser'] = "Ne možete napraviti BitView račun koristeći VPN!";
 $LANGS['torbrowser'] = "Ne možete napravit BitView račun koristeći TOR!";
 $LANGS['captchaincorrect'] = "Niste točno upisali kod.";
-$LANGS['toomanyaccounts'] = 'Imate previše računa!'
+$LANGS['toomanyaccounts'] = 'Imate previše računa!';
 $LANGS['banned2times'] = "Već su vam dva računa zabranjena. Ne možete napraviti niti jedan više račun!"; 
 $LANGS['nohistory'] = "Niste pogledali niti jedan videozapis u ovoj sesiji!";
-$LANGS['historycleared'] = 'Povijest čega ste gledali vam je očišćena.'
+$LANGS['historycleared'] = 'Povijest čega ste gledali vam je očišćena.';
 $LANGS['watchdisabled'] = 'Ne možete gledati videozapise zbog čišćenja.';
 $LANGS['videonotexist'] = 'Ovaj videozapis ne postoji ili je obrisan je li je prekršio Pravila Korišćenja.'; 
 $LANGS['responseerror'] = 'Nešto nije u redu sa očitavanjem videozapisa! Molimo vas da ponovo pregledate link koji ste upisali.'; 
@@ -282,6 +282,8 @@ $LANGS['logintopl'] = 'Želite li dodat kod Popisa? <a href="/login">Prijavite S
 $LANGS['logintoflag'] = 'Želite li prijaviti videozapis? <a href="/login">Prijavite Se</a> ili <a href="/signup">Napravite Račun</a> sad!'; 
 $LANGS['close'] = 'izađite';
 $LANGS['addresponse'] = 'Dodajte Odgovor'; 
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
  
 /* Watch comments */
 $LANGS['allcomments'] = 'Svi Komentari';
@@ -604,7 +606,7 @@ $LANGS['cat_KN'] = "Sveti Kristofor i Nevis";
 $LANGS['cat_MF'] = "Sveti Martin (Frenzuski dio)"; 
 $LANGS['cat_PM'] = "Sveti Petar i Mikelon"; 
 $LANGS['cat_ST'] = "Sveti Toma i Prinsipe"; 
-$LANGS['cat_VC'] = "Sveti Vincent i Grenadini":
+$LANGS['cat_VC'] = "Sveti Vincent i Grenadini";
 $LANGS['cat_ES'] = "Španjolska";
 $LANGS['cat_LK'] = "Šri Lanka";
 $LANGS['cat_SE'] = "Švedska";

@@ -286,6 +286,8 @@ $LANGS['logintopl'] = '<a href="/login">Inicia sesión</a> para agregar un video
 $LANGS['logintoflag'] = '<a href="/login">Inicia sesión</a> para marcar este video.';
 $LANGS['close'] = 'cerrar';
 $LANGS['addresponse'] = 'Agregar respuesta';
+$LANGS['recentlyrated'] = 'Calificaciones recientes';
+$LANGS['commentsdisabled'] = 'No se pueden añadir comentarios sobre este video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Todos los comentarios';
