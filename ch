@@ -798,10 +798,10 @@ $LANGS['submitvideotitle'] = "Submit Video to Group";
 $LANGS['submitvideo'] = "Submit Video";
 
 /* Create Group */
-$LANGS['groupname'] = "Group Name";
-$LANGS['groupimage'] = "Group Image";
-$LANGS['creategroup'] = "Create Group";
-$LANGS['creategroupdesc'] = "Groups allow you to create discussions with other members and easily share your videos with others.";
+$LANGS['groupname'] = "群组名称";
+$LANGS['groupimage'] = "群组图片";
+$LANGS['creategroup'] = "创建群组";
+$LANGS['creategroupdesc'] = "群组允许您与其他用户讨论并分享您的视频。";
 
 /* Create Group Discussion */
 $LANGS['discussiontitle'] = "Discussion Title";
@@ -893,12 +893,12 @@ $LANGS['deletebulletin'] = 'Delete Bulletin';
 $LANGS['body'] = 'Body';
 $LANGS['bulletincomments'] = 'Bulletin Comments';
 $LANGS['tocommentbulletin'] = 'to post a reply to this bulletin!';
-$LANGS['addacomment'] = 'Add a Comment:';
-$LANGS['postreplychannel'] = 'Post Reply';
-$LANGS['writecomment'] = 'Write Comment';
+$LANGS['addacomment'] = '发布评论:';
+$LANGS['postreplychannel'] = '发布评论Post Reply';
+$LANGS['writecomment'] = '评论评论';
 $LANGS['for'] = 'for';
 $LANGS['commentdesc'] = 'Channel comments appear on the users channel.';
-$LANGS['postbulletin'] = 'Post Bulletin';
+$LANGS['postbulletin'] = '发布公告栏';
 $LANGS['writeabulletin'] = 'Write a bulletin';
 $LANGS['bulletindesc'] = 'Bulletins appear on your own and your friends channel pages.';
 $LANGS['sharingoptions'] = 'Sharing Options';
