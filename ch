@@ -732,27 +732,27 @@ $LANGS['nomsg'] = "You have no Messages...";
 
 
 /* Send Message */
-$LANGS['messagecont'] = "Message";
-$LANGS['to'] = "To";
-$LANGS['sendmessagebutton'] = "Send Message";
+$LANGS['messagecont'] = "信息";
+$LANGS['to'] = "致";
+$LANGS['sendmessagebutton'] = "发送";
 
 /* Groups */
-$LANGS['groups'] = "Groups";
-$LANGS['joinedgroups'] = "Joined Groups";
-$LANGS['recentgroups'] = "Recent Groups";
-$LANGS['mostmembers'] = "Most Members";
-$LANGS['mostvideos'] = "Most Videos";
-$LANGS['groupmostdiscussed'] = "Most Discussed";
-$LANGS['createagroup'] = "Create a Group";
-$LANGS['groupvideos'] = "Videos";
-$LANGS['groupmembers'] = "Members";
-$LANGS['discussions'] = "Discussions";
-$LANGS['groupcreated'] = "Created";
+$LANGS['groups'] = "群组";
+$LANGS['joinedgroups'] = "已加入的群组";
+$LANGS['recentgroups'] = "最近添加的群组";
+$LANGS['mostmembers'] = "最多成员";
+$LANGS['mostvideos'] = "最多视频";
+$LANGS['groupmostdiscussed'] = "最多讨论";
+$LANGS['createagroup'] = "创建新群组";
+$LANGS['groupvideos'] = "视频";
+$LANGS['groupmembers'] = "成员";
+$LANGS['discussions'] = "讨论";
+$LANGS['groupcreated'] = "创于";
 $LANGS['nogroups'] = "No Groups found...";
 
 /* Group */
-$LANGS['jointhisgroup'] = "Join This Group";
-$LANGS['removerequest'] = "Remove Request";
+$LANGS['jointhisgroup'] = "加入此群组";
+$LANGS['removerequest'] = "取消邀请";
 $LANGS['leavegroup'] = "Leave Group";
 $LANGS['moderation'] = "Moderation";
 $LANGS['viewallvideos'] = "View All Videos";
