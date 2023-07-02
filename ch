@@ -672,27 +672,27 @@ $LANGS['stattime'] = "Time";
 $LANGS['statrating'] = "Rating";
 $LANGS['statbroadcast'] = "Broadcast";
 $LANGS['statrawfile'] = "Raw File";
-$LANGS['public'] = "Public";
-$LANGS['private'] = "Private";
-$LANGS['live'] = "Live!";
-$LANGS['converting'] = "Converting...";
-$LANGS['uploading'] = "Uploading...";
+$LANGS['public'] = "公开";
+$LANGS['private'] = "私享";
+$LANGS['live'] = "可观看!";
+$LANGS['converting'] = "解析中...";
+$LANGS['uploading'] = "上传中...";
 $LANGS['addvidsto'] = "Add Videos to";
-$LANGS['play'] = "Play";
-$LANGS['edit'] = "Edit";
-$LANGS['setasavatar'] = "Set Thumbnail as Avatar";
-$LANGS['downloadmp4'] = "Download MP4";
+$LANGS['play'] = "播放";
+$LANGS['edit'] = "编辑";
+$LANGS['setasavatar'] = "将视频背景设为个人照";
+$LANGS['downloadmp4'] = "下载视频";
 $LANGS['deleteconfirmation'] = "Are you sure you want to delete this video?";
-$LANGS['novideos'] = 'You have not uploaded any videos. <a href="/my_videos_upload">Start uploading a video now</a>!';
+$LANGS['novideos'] = '您目前仍无任何视频。You have not uploaded any videos. <a href="/my_videos_upload">Start uploading a video now</a>!';
 $LANGS['nomyvideosresults'] = "No results. Check if your spelling is correct.";
 
 /* Edit Video */
-$LANGS['title'] = "Title";
-$LANGS['desc'] = "Description";
-$LANGS['privacy'] = "Privacy";
-$LANGS['saveinfo'] = "Save Info";
-$LANGS['saveinfoconfirm'] = "Are you sure you want to change the video information?";
-$LANGS['viewchart'] = "View Chart";
+$LANGS['title'] = "名称";
+$LANGS['desc'] = "资讯栏";
+$LANGS['privacy'] = "隐私设置";
+$LANGS['saveinfo'] = "保存";
+$LANGS['saveinfoconfirm'] = "您确定改变视频资讯吗？";
+$LANGS['viewchart'] = "查看视频数据";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Added";
@@ -700,10 +700,10 @@ $LANGS['frompl'] = "From";
 $LANGS['nopl'] = "No Playlists were found....";
 
 /* My Playlist */
-$LANGS['playlistedit'] = "Edit Playlist";
-$LANGS['videourl'] = "Video URL";
-$LANGS['add'] = "Add";
-$LANGS['editinfo'] = "Edit Info";
+$LANGS['playlistedit'] = "编辑";
+$LANGS['videourl'] = "填写视频链接";
+$LANGS['add'] = "添加";
+$LANGS['editinfo'] = "编辑信息";
 
 /* Edit Playlist */
 $LANGS['pledittitle'] = "Edit Playlist";
@@ -718,7 +718,7 @@ $LANGS['createplaylist'] = "Create Playlist";
 $LANGS['plpermalink'] = "Playlist/URL (Permalink):";
 $LANGS['sortcomments'] = "Comments";
 $LANGS['unsorted'] = "Unsorted";
-$LANGS['playallvideos'] = "Play All Videos";
+$LANGS['playallvideos'] = "播放全部视频";
 
 /* Inbox */
 $LANGS['compose'] = "Compose";
@@ -770,7 +770,7 @@ $LANGS['owner'] = "管理员";
 $LANGS['grouptype'] = "类型";
 $LANGS['instantjoin'] = "即时加入";
 $LANGS['approvalrequired'] = "须经批准";
-$LANGS['groupurl'] = "URL";
+$LANGS['groupurl'] = "链接";
 $LANGS['deletediscussion'] = "删除讨论";
 $LANGS['postreply'] = 发布评论";
 $LANGS['post'] = "评论";
@@ -804,7 +804,7 @@ $LANGS['creategroup'] = "创建群组";
 $LANGS['creategroupdesc'] = "群组允许您与其他用户讨论并分享您的视频。";
 
 /* Create Group Discussion */
-$LANGS['discussiontitle'] = "Discussion Title";
+$LANGS['discussiontitle'] = "讨论名称";
 $LANGS['creatediscussiondesc'] = "Discussions are parts of groups in which you discuss the set topic.";
 
 /* Search Results */
@@ -814,9 +814,9 @@ $LANGS['relevance'] = 'Relevance';
 $LANGS['viewcount'] = 'View Count';
 $LANGS['searchrating'] = 'Rating';
 $LANGS['newest'] = 'Newest';
-$LANGS['nochannelsfound'] = 'No Channels Found...';
-$LANGS['noplfound'] = 'No Playlists Found...';
-$LANGS['nogroupsfound'] = 'No Groups Found...';
+$LANGS['nochannelsfound'] = '无任何频道...';
+$LANGS['noplfound'] = '无任何播放列表...';
+$LANGS['nogroupsfound'] = '无任何群组...';
 
 /* Profile */
 $LANGS['channelsuspended'] = '此账号已被终止。';
@@ -895,11 +895,11 @@ $LANGS['bulletincomments'] = 'Bulletin Comments';
 $LANGS['tocommentbulletin'] = 'to post a reply to this bulletin!';
 $LANGS['addacomment'] = '发布评论:';
 $LANGS['postreplychannel'] = '发布评论Post Reply';
-$LANGS['writecomment'] = '评论评论';
+$LANGS['writecomment'] = '写评论';
 $LANGS['for'] = 'for';
 $LANGS['commentdesc'] = 'Channel comments appear on the users channel.';
 $LANGS['postbulletin'] = '发布公告栏';
-$LANGS['writeabulletin'] = 'Write a bulletin';
+$LANGS['writeabulletin'] = '写公告栏';
 $LANGS['bulletindesc'] = 'Bulletins appear on your own and your friends channel pages.';
 $LANGS['sharingoptions'] = 'Sharing Options';
 $LANGS['sharingoptionsdesc'] = 'There are 2 ways to share this channel.';
@@ -908,24 +908,24 @@ $LANGS['sharingoptions2'] = "2. Send this channel using your computer's email pr
 $LANGS['clicktosend'] = 'Click to send!';
 
 /* My Profile page */
-$LANGS['myprofiledesc'] = 'This page contains all of the settings for your BitView channel.';
-$LANGS['profileimages'] = 'Profile Pictures';
-$LANGS['avatar'] = 'Avatar';
-$LANGS['backgroundimage'] = 'Background Image';
-$LANGS['deleteimage'] = 'Delete Image';
+$LANGS['myprofiledesc'] = '这个页面展示了您的BitView频道的所有信息。';
+$LANGS['profileimages'] = '照片';
+$LANGS['avatar'] = '个人照';
+$LANGS['backgroundimage'] = '背景';
+$LANGS['deleteimage'] = '删除';
 $LANGS['channelinformation'] = 'Channel Information';
 $LANGS['genderrelationprivate'] = 'Private';
 $LANGS['fctitle'] = 'F.C. Title';
-$LANGS['relationship'] = 'Relationship';
-$LANGS['birthday'] = 'Birthday';
-$LANGS['showage'] = 'Show Age';
-$LANGS['aboutme'] = 'About Me';
+$LANGS['relationship'] = '个人状态';
+$LANGS['birthday'] = '生日';
+$LANGS['showage'] = '展示年龄';
+$LANGS['aboutme'] = '关于我';
 $LANGS['emailprefs'] = 'E-Mail Preferences';
 $LANGS['emailpm'] = 'E-Mail me on Private Messages';
 $LANGS['emailcomm'] = 'E-Mail me on Video Comments';
 $LANGS['emailsub'] = 'E-Mail me on weekly Subscription Highlights';
 $LANGS['layoutprefs'] = 'Layout Preferences';
-$LANGS['bgcolor'] = 'Background Color';
+$LANGS['bgcolor'] = '背景颜色';
 $LANGS['bgfixed'] = 'Fixed';
 $LANGS['bgrepeat'] = 'Repeat';
 $LANGS['norepeat'] = 'No Repeat';
@@ -956,8 +956,8 @@ $LANGS['playlistsbox'] = 'Playlists Box';
 $LANGS['commentsbox'] = 'Comments Box';
 $LANGS['ratingsbox'] = 'Ratings Box';
 $LANGS['partnersettings'] = 'Partner Settings';
-$LANGS['bannerimage'] = 'Banner Image';
-$LANGS['minibannerimage'] = 'Mini Banner Image';
+$LANGS['bannerimage'] = '横幅图片';
+$LANGS['minibannerimage'] = '小横幅图片';
 $LANGS['sideimage'] = 'Side Image';
 $LANGS['recommendedsize'] = 'recommended size';
 $LANGS['bannerlink'] = 'Banner Website';
@@ -969,37 +969,37 @@ $LANGS['savechanges'] = 'Save Changes';
 $LANGS['submitimage'] = 'Submit Image';
 
 /* Upload page */
-$LANGS['uploadpagetitle'] = 'Video Upload';
-$LANGS['step1of2'] = 'Step 1 of 2';
-$LANGS['step2of2'] = 'Step 2 of 2';
-$LANGS['videocategory'] = 'Video Category';
-$LANGS['tagsdesc'] = 'Tags are keywords used to help people find your video.<br> <i>(comma separated)</i>';
+$LANGS['uploadpagetitle'] = '上传视频';
+$LANGS['step1of2'] = '第一步';
+$LANGS['step2of2'] = '第二步';
+$LANGS['videocategory'] = '资讯栏';
+$LANGS['tagsdesc'] = '放置关键字以让您的视频更容易被人找到。<br> <i>(请用逗号隔开关键字)</i>';
 $LANGS['requiredfield'] = '(* indicates required field)';
-$LANGS['datemapoptions'] = 'Date and Map Options';
+$LANGS['datemapoptions'] = '日期和位置';
 $LANGS['optional'] = '(optional)';
 $LANGS['chooseoptions'] = 'choose options';
 $LANGS['lessoptions'] = 'less options';
-$LANGS['addressrecorded'] = 'Address Recorded';
-$LANGS['uploadcontinue'] = 'Upload a video...';
-$LANGS['file'] = 'File';
+$LANGS['addressrecorded'] = '位置';
+$LANGS['uploadcontinue'] = '上传视频...';
+$LANGS['file'] = '文件';
 $LANGS['broadcastoptions'] = 'Broadcast Options';
-$LANGS['uploadvideo'] = 'Upload Video';
-$LANGS['needfilevideotoupload'] = 'Please select a video file to upload!';
-$LANGS['aboutuploading'] = 'About uploading...';
-$LANGS['uploaddesc1'] = 'Uploads usually take 1-5 minutes per MB on a high-speed connection, and converting your video takes a few minutes.';
-$LANGS['videolimit1'] = 'Your video is limited to 100MB - maximum video length is 15 minutes.';
-$LANGS['videolimit2'] = 'Your video is limited to 2GB - maximum video length is 15 minutes.';
-$LANGS['partnervideolimit1'] = 'Your video is limited to 100MB - maximum video length is 30 minutes.';
-$LANGS['partnervideolimit2'] = 'Your video is limited to 2GB - maximum video length is 30 minutes.';
-$LANGS['myvideosdesc'] = 'After uploading you can edit or remove this video at anytime under the "<a href="/my_videos">My Videos</a>" link on the top of the page.';
-$LANGS['newuploader'] = 'Use the new video uploader';
-$LANGS['olduploader'] = 'Use the old video uploader';
-$LANGS['videoadded'] = 'Your video was successfully added!';
-$LANGS['videoaddeddesc'] = 'Your video is currently being processed and will be available to view in a few minutes.';
-$LANGS['thankyou'] = 'Thank You';
-$LANGS['sharelink'] = 'Share your video link! Copy and paste below:';
+$LANGS['uploadvideo'] = '上传';
+$LANGS['needfilevideotoupload'] = '请选择您要上传的视频！';
+$LANGS['aboutuploading'] = '关于上传...';
+$LANGS['uploaddesc1'] = '如果您处于高速状态，上传每MB大约只需1-5分钟，并且在几分钟内完成解析。';
+$LANGS['videolimit1'] = '您的视频不可大于100MB，长度不可超过15分钟。';
+$LANGS['videolimit2'] = '您的视频不可大于2GB，长度不可超过30分钟。';
+$LANGS['partnervideolimit1'] = '您的视频不可大于100MB，长度不可超过30分钟。';
+$LANGS['partnervideolimit2'] = '您的视频不可大于2GB，长度不可超过30分钟。';
+$LANGS['myvideosdesc'] = '完成上传后，您可点击 <a href="/my_videos">我的视频</a>" 以编辑视频信息和删除此视频。';
+$LANGS['newuploader'] = '使用新上传器';
+$LANGS['olduploader'] = '使用旧上传器';
+$LANGS['videoadded'] = '您的视频已成功添加！';
+$LANGS['videoaddeddesc'] = '您的视频目前仍在解析中，并且会在几分钟内完成。';
+$LANGS['thankyou'] = '感谢';
+$LANGS['sharelink'] = '分享您的视频吧！复制下方的链接吧：';
 $LANGS['embedlink'] = 'Play this video directly ON your website! Copy and paste the following snippet:';
-$LANGS['allrequiredinfo'] = 'Please fill all required fields!';
+$LANGS['allrequiredinfo'] = '请填写所有的空格！';
 
 /* Partners */
 $LANGS['partnerhead'] = 'Partnerships';
