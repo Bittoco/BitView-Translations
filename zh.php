@@ -3,7 +3,7 @@
 /* General stuff */
 $LANGS['language'] = '中文';
 $LANGS['languageenglish'] = 'Chinese';
-$LANGS['languagecode'] = 'en_US.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
+$LANGS['languagecode'] = 'zh_CN.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
 $LANGS['languagechange'] = '已成功设置成中文';
 $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
@@ -82,8 +82,8 @@ $LANGS['message'] = '信息';
 $LANGS['comments'] = '留言';
 $LANGS['comment'] = '留言';
 $LANGS['friendinvites'] = '好友邀请';
-$LANGS['friendinvite'] = 好友邀请';
-$LANGS['subscribers'] = 订阅者';
+$LANGS['friendinvite'] = '好友邀请';
+$LANGS['subscribers'] = '订阅者';
 $LANGS['subscriber'] = '订阅者';
 $LANGS['totalviews'] = '总播放量';
 $LANGS['sendmessage'] = '发送信息';
@@ -277,7 +277,7 @@ $LANGS['nocomments'] = '此视频 <b>无任何留言</b>。';
 $LANGS['noresponses'] = '此视频 <b>无任何回复</b>。';
 $LANGS['commviewall'] = 'View All';
 $LANGS['delete'] = '删除';
-$LANGS['reply'] = 回复';
+$LANGS['reply'] = '回复';
 $LANGS['commentlogin'] = 'Would you like to Comment?';
 $LANGS['commentlogindesc'] = '<a href="/signup">Join BitView</a> for a free account or <a href="/login">sign in</a> if you are already a member.';
 $LANGS['logintoresponse'] = 'Sign in to post a Video Response';
@@ -772,7 +772,7 @@ $LANGS['instantjoin'] = "即时加入";
 $LANGS['approvalrequired'] = "须经批准";
 $LANGS['groupurl'] = "链接";
 $LANGS['deletediscussion'] = "删除讨论";
-$LANGS['postreply'] = 发布评论";
+$LANGS['postreply'] = '发布评论';
 $LANGS['post'] = "评论";
 $LANGS['accept'] = "接受";
 $LANGS['decline'] = "拒绝";
