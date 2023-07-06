@@ -14,22 +14,22 @@ $LANGS['languagesuggestiondesc1'] = '如要更换语言，请点击“语言”�
 $LANGS['languagesuggestiondesc2'] = 'Click "OK" to accept this setting, or click "Cancel" to view the site in English.';
 
 /* Time, dates, etc */
-$LANGS['second'] = '秒前';
-$LANGS['minute'] = '分钟前';
-$LANGS['hour'] = '小时前';
-$LANGS['day'] = '天前';
-$LANGS['week'] = '周前';
-$LANGS['month'] = '个月前';
-$LANGS['year'] = '年前';
-$LANGS['seconds'] = '秒前';
-$LANGS['minutes'] = '分钟前';
-$LANGS['hours'] = '小时前';
-$LANGS['days'] = '天前';
-$LANGS['weeks'] = '周前';
-$LANGS['months'] = '个月前';
-$LANGS['years'] = '年前';
+$LANGS['second'] = '秒';
+$LANGS['minute'] = '分钟';
+$LANGS['hour'] = '小时';
+$LANGS['day'] = '天';
+$LANGS['week'] = '周';
+$LANGS['month'] = '个月';
+$LANGS['year'] = '年';
+$LANGS['seconds'] = '秒';
+$LANGS['minutes'] = '分钟';
+$LANGS['hours'] = '小时';
+$LANGS['days'] = '天';
+$LANGS['weeks'] = '周';
+$LANGS['months'] = '个月';
+$LANGS['years'] = '年';
 $LANGS['ago1'] = ''; /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['ago2'] = ' ago'; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['ago2'] = '前'; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['january'] = '一月';
 $LANGS['february'] = '二月';
 $LANGS['march'] = '三月';
@@ -70,12 +70,12 @@ $LANGS['playlists'] = '我的播放列表';
 $LANGS['help'] = '帮助';
 
 /* Homepage */
-$LANGS['viewall'] = 'view all';
-$LANGS['videoviews'] = 'views';
+$LANGS['viewall'] = '展开';
+$LANGS['videoviews'] = '次观看';
 $LANGS['beingwatched'] = '刚才观看的视频';
 $LANGS['featured'] = '精选视频';
 $LANGS['mostpopular'] = '时下最流行';
-$LANGS['inboxstats'] = 'Inbox & Statistics';
+$LANGS['inboxstats'] = '通知与个人信息';
 $LANGS['profilesettings'] = '账号设置';
 $LANGS['messages'] = '信息';
 $LANGS['message'] = '信息';
@@ -85,14 +85,14 @@ $LANGS['friendinvites'] = '好友邀请';
 $LANGS['friendinvite'] = '好友邀请';
 $LANGS['subscribers'] = '订阅者';
 $LANGS['subscriber'] = '订阅者';
-$LANGS['totalviews'] = '总播放量';
+$LANGS['totalviews'] = '次播放';
 $LANGS['sendmessage'] = '发送信息';
 $LANGS['whatsnew'] = "公告";
 $LANGS['readmore'] = '详细请见Blog';
 $LANGS['videocontest'] = '视频创作大赛';
 $LANGS['joincontest'] = '立即加入大赛吧！';
 $LANGS['personalize'] = '想要改造这个页面吗？';
-$LANGS['signinnow'] = '<a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
+$LANGS['signinnow'] = '立即<a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
 $LANGS['nowconverting'] = "这个视频正在解析中，请耐心等待。";
 
 /* Page title */
@@ -850,7 +850,7 @@ $LANGS['movies'] = '影视';
 $LANGS['books'] = '书籍';
 $LANGS['mostsub'] = 'Most Subscribed';
 $LANGS['report'] = '举报';
-$LANGS['pfpviolation'] = 'profile image violation';
+$LANGS['pfpviolation'] = '个人照';
 $LANGS['connectwith'] = '联系';
 $LANGS['profilesendmessage'] = '发送信息';
 $LANGS['messagetoyourself'] = '您不能向自己发送信息！';
@@ -1002,15 +1002,15 @@ $LANGS['embedlink'] = 'Play this video directly ON your website! Copy and paste 
 $LANGS['allrequiredinfo'] = '请填写所有的空格！';
 
 /* Partners */
-$LANGS['partnerhead'] = 'Partnerships';
+$LANGS['partnerhead'] = 'BitView合作伙伴计划';
 $LANGS['partnertitle'] = 'Partner With BitView';
-$LANGS['partnerdesc'] = "You've got great videos and a growing audience. Let BitView help you take it to the next level through our Partner Program.";
-$LANGS['applynow'] = 'Apply now';
-$LANGS['contentpartners'] = 'Content Partners';
-$LANGS['partnerbenefits'] = 'Partner Benefits';
-$LANGS['partnerbenefitsdesc'] = 'There are many benefits to becoming a BitView Partner. Some of them include:<br><br>- Branding: make yourself stand out with custom branding, which includes banners, a custom box for your channel and a partner badge on all your videos.<br><br>- There are more benefits to come in the future!';
-$LANGS['qualificationsfaq'] = 'Qualifications & FAQ';
-$LANGS['qualificationsfaqdesc'] = 'To qualify for the BitView Partner program, you must meet some minimum criteria:<br><br>- You create original videos suitable for online streaming.<br><br>- You have >75 subscribers.<br><br>- Your account does not break any <a href="/guidelines">Community Guidelines.</a>';
+$LANGS['partnerdesc'] = "您拥有精彩的视频和不断增长的观众。让BitView通过我们的合作伙伴计划帮助您并将其提高到一个崭新的阶段。";
+$LANGS['applynow'] = '立即申请';
+$LANGS['contentpartners'] = '已加入的用户';
+$LANGS['partnerbenefits'] = '福利';
+$LANGS['partnerbenefitsdesc'] = '如您加入了我们的合作团队计划，那么您将拥有以下福利：<br><br>- 更好塑造您的频道形象：通过可自定义的make yourself stand out with custom branding, which includes banners, a custom box for your channel and a partner badge on all your videos.<br><br>- There are more benefits to come in the future!';
+$LANGS['qualificationsfaq'] = '申请资格';
+$LANGS['qualificationsfaqdesc'] = '如果要申请BitView合作伙伴计划，那么您的频道必须符合以下条件：<br><br>- 您频道的视频必须主要以原创视频为主。<br><br>- 您的频道不可低于75订阅者。<br><br>- 您的频道必须没有违反到我们的 <a href="/guidelines">社区准则。</a>';
 
 /* Staff */
 $LANGS['bvstaff'] = 'BitView Staff';
@@ -1087,20 +1087,20 @@ $LANGS['enforceguidelinesdesc'] = "Okay, this one is more about us than you. Bit
 <br>When they do, we remove them. Accounts are penalized for Community Guidelines violations and serious or repeated violations can lead to account termination. <br>Don't try to find loopholes and lawyer your way around those simple rules.";
 
 /* Contests */
-$LANGS['monthlycontest'] = "Monthly Contest";
+$LANGS['monthlycontest'] = "月度创作大赛";
 $LANGS['monthlycontestschedule'] = "Monthly Video Contest Schedule";
-$LANGS['whatisit'] = "What is it?";
-$LANGS['thismonthcontest'] = "This Month";
-$LANGS['lastmonthwinners'] = "Last Month Winners";
-$LANGS['howtoenter'] = "How do I enter?";
+$LANGS['whatisit'] = "这次大赛的主题是？";
+$LANGS['thismonthcontest'] = "这次大赛的主题是？";
+$LANGS['lastmonthwinners'] = "上次大赛的赢家";
+$LANGS['howtoenter'] = "如何参加？";
 $LANGS['whowins'] = "Who wins?";
 $LANGS['whowinsdesc'] = "The winner will be picked at the end of the month by the BitView staff.";
-$LANGS['theprize'] = "The Prize?";
-$LANGS['theprizedesc'] = "Fame, fortune, and the envy of all eyes.";
+$LANGS['theprize'] = "赢了有什么奖励？";
+$LANGS['theprizedesc'] = "名声，财富和来自许多人羡（ji）慕（du）的眼光。";
 $LANGS['contestsuggestion'] = 'Have a suggestion for a monthly video contest? Please <a href="mailto:contact@vidlii.co">Tell us</a> about it.';
 
 /* Help */
-$LANGS['q1'] = 'Q: How can I share my videos and link to them from my website?';
+$LANGS['q1'] = 'Q: 如何分享我上传的视频How can I share my videos and link to them from my website?';
 $LANGS['a1'] = 'A: <a href="/sharing">How to share and link to your videos</a>';
 $LANGS['q2'] = 'Q: What kind of videos can I upload?';
 $LANGS['a2'] = 'A: You may upload any kind of personal video that you would like to share with the world. We do not allow any nudity and your video must be appropriate for all audiences.
@@ -1145,17 +1145,17 @@ $LANGS['sharepvideo1'] = "To have friends and family be able to watch your priva
 $LANGS['sharechannellist1'] = 'Having a list of all your uploaded BitView videos is very simple, just add this HTML snippet to your website.';
 
 /* Footer */
-$LANGS['youraccount'] = 'Your Account';
-$LANGS['inbox'] = 'Inbox';
-$LANGS['footmore'] = 'more...';
+$LANGS['youraccount'] = '您的账号';
+$LANGS['inbox'] = '邮箱';
+$LANGS['footmore'] = '设置';
 $LANGS['helpinfo'] = 'Help & Info';
-$LANGS['helpcenter'] = 'Help Center';
-$LANGS['ourtwitter'] = 'Our Twitter';
-$LANGS['ourdiscord'] = 'Our Discord';
-$LANGS['guidelines'] = 'Community Guidelines';
-$LANGS['partnerships'] = 'Partnerships';
+$LANGS['helpcenter'] = '帮助';
+$LANGS['ourtwitter'] = 'Twitter';
+$LANGS['ourdiscord'] = 'Discord';
+$LANGS['guidelines'] = '社区准则';
+$LANGS['partnerships'] = '合作伙伴计划';
 $LANGS['terms'] = 'Terms of Use';
 $LANGS['privacypolicy'] = 'Privacy Policy';
-$LANGS['currentlanguage'] = 'Current Language';
-$LANGS['showlanguages'] = 'Show languages';
-$LANGS['setlanguagepref'] = 'Set Your Language Preference';
+$LANGS['currentlanguage'] = '目前所使用的语言';
+$LANGS['showlanguages'] = '展示所有语言';
+$LANGS['setlanguagepref'] = '选择您的语言';
