@@ -1,4 +1,4 @@
-<?php
+bu <?php
 
 /* General stuff */
 $LANGS['language'] = '中文';
@@ -91,7 +91,7 @@ $LANGS['whatsnew'] = "公告";
 $LANGS['readmore'] = '详细请见Blog';
 $LANGS['videocontest'] = '视频创作大赛';
 $LANGS['joincontest'] = '立即加入大赛吧！';
-$LANGS['personalize'] = '想要改造这个页面吗？';
+$LANGS['personalize'] = '想要加入这个天地吗？';
 $LANGS['signinnow'] = '立即<a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
 $LANGS['nowconverting'] = "这个视频正在解析中，请耐心等待。";
 
@@ -220,10 +220,10 @@ $LANGS['embed'] = 'Embed';
 $LANGS['partnervideo'] = 'Partner Video';
 $LANGS['subscribe'] = '订阅';
 $LANGS['unsubscribe'] = '退订';
-$LANGS['nodesc'] = 'No Description...';
+$LANGS['nodesc'] = '无任何内容...';
 $LANGS['logintosub'] = '请登入后才可订阅！';
 $LANGS['logintosubbox'] = '订阅？';
-$LANGS['subyourself'] = 'You cannot subscribe to yourself!';
+$LANGS['subyourself'] = '您buYou cannot subscribe to yourself!';
 $LANGS['videoowner'] = 'Video Owner Options';
 $LANGS['editvideo'] = '编辑视频信息';
 $LANGS['insight'] = 'Insight';
@@ -278,16 +278,16 @@ $LANGS['noresponses'] = '此视频 <b>无任何回复</b>。';
 $LANGS['commviewall'] = 'View All';
 $LANGS['delete'] = '删除';
 $LANGS['reply'] = '回复';
-$LANGS['commentlogin'] = 'Would you like to Comment?';
+$LANGS['commentlogin'] = '您是否要在视频下方评论？';
 $LANGS['commentlogindesc'] = '<a href="/signup">Join BitView</a> for a free account or <a href="/login">sign in</a> if you are already a member.';
 $LANGS['logintoresponse'] = 'Sign in to post a Video Response';
 $LANGS['logintocomment'] = 'Sign in to post a Comment';
-$LANGS['logintofav'] = 'Want to add to Favorites? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
-$LANGS['logintopl'] = 'Want to add to Playlists? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
-$LANGS['logintoflag'] = 'Want to flag a video? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
-$LANGS['close'] = 'close';
+$LANGS['logintofav'] = '想添加至喜爱的视频中？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';';
+$LANGS['logintopl'] = '想添加至播放列表中？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
+$LANGS['logintoflag'] = '举报此视频？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
+$LANGS['close'] = '关闭';
 $LANGS['addresponse'] = 'Add Response';
-$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['recentlyrated'] = '最近评价的用户';
 $LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
@@ -380,12 +380,12 @@ $LANGS['cat21'] = "日常记录";
 $LANGS['type0'] = "无";
 $LANGS['type1'] = "成员";
 $LANGS['type1p'] = "成员";
-$LANGS['type2'] = "喜剧员";
-$LANGS['type2p'] = "喜剧员";
+$LANGS['type2'] = "喜剧家";
+$LANGS['type2p'] = "喜剧家";
 $LANGS['type3'] = "指导员";
 $LANGS['type3p'] = "指导员";
-$LANGS['type4'] = "Guru";
-$LANGS['type4p'] = "Gurus";
+$LANGS['type4'] = "大师";
+$LANGS['type4p'] = "大师";
 $LANGS['type5'] = "音乐家";
 $LANGS['type5p'] = "音乐家";
 $LANGS['type6'] = "记者";
@@ -1067,21 +1067,20 @@ $LANGS['abouthelp'] = 'To learn more about our service, please see our <a href="
 $LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.';
 
 /* Community Guidelines */
-$LANGS['bvguidelines'] = 'BitView Community Guidelines';
+$LANGS['bvguidelines'] = 'BitView社区准则;';
 $LANGS['aboutguidelines'] = 'About the BitView Guidelines';
 $LANGS['aboutguidelinesdesc'] = "The BitView Guidelines should be self explanatory and are very easy to understand. They try to appeal to as many types of different people as possible. Please try to follow the few rules we have and you won't get in trouble!";
-$LANGS['therules'] = 'The Rules';
-$LANGS['rule1'] = "Videos of sexual acts aren't allowed. The same counts for animation!";
-$LANGS['rule2'] = "Spamming on profiles, comments, messages and reports is not allowed.";
-$LANGS['rule3'] = "Videos that promotes extremist ideologies in a positive light is not allowed.";
-$LANGS['rule4'] = "Videos and profile names that promotes harm / harassment towards an individuals / companies / groups aren't allowed.";
-$LANGS['rule5'] = "Videos and profile images that contain gore, torture, suicide, beheadings, shootings, killing, crushing sentient beings and skin tearing is not allowed. animated/cartoonish gore is allowed but it can't be to the point where it can be deemed as realistic.";
-$LANGS['rule6'] = "Videos that contain abuse towards animals aren't allowed.";
-$LANGS['rule7'] = "Advertisements for Services or Websites in video or comment form aren't allowed.";
-$LANGS['rule8'] = "Don't attempt to brute force an account you don't own.";
-$LANGS['rule9'] = "Don't use more than one account to rate videos and/or comments. You are not allowed to use multiple alt accounts to subscribe to yourself either.";
-$LANGS['rule10'] = "Ban evasion is <b>NOT</b> accepted. Every new account that has been created by banned person will be automatically deleted.";
-$LANGS['rule11'] = "Sharing your login details with anyone else is not allowed.";
+$LANGS['therules'] = '准则列表';
+$LANGS['rule1'] = "不可发布任何形式的包含色情内容的视频。";
+$LANGS['rule2'] = "不可对任何用户进行或发布诈骗。";
+$LANGS['rule3'] = "不可上传任何宣扬仇恨言论，美化极端主义、恐怖主义的视频。";
+$LANGS['rule4'] = "不可上传或使用对某个群体表示仇恨态度的视频或名字。";
+$LANGS['rule5'] = "不可上传或使用包含血腥或暴力的视频或照片作为个人照。然而动漫形式的血腥和暴力内容是允许的，可是不能达到被认为逼真的程度。 ";
+$LANGS['rule7'] = "不可发布任何形式的广告。";
+$LANGS['rule8'] = "不可强行破解或盗取不属于自己的账号。";
+$LANGS['rule9'] = "不可使用多个账号进行评价自己视频，在自己视频下方评论和订阅自己频道的行为。";
+$LANGS['rule10'] = "忽略禁令的行为是 <b>不被允许</b> 的。被封禁者所注册的每个新帐号将会马上被删除。";
+$LANGS['rule11'] = "不要分享ninSharing your login details with anyone else is not allowed.";
 $LANGS['enforceguidelines'] = "We Enforce These Guidelines";
 $LANGS['enforceguidelinesdesc'] = "Okay, this one is more about us than you. BitView staff review flagged videos about once per year to determine whether they violate our Community Guidelines.
 <br>When they do, we remove them. Accounts are penalized for Community Guidelines violations and serious or repeated violations can lead to account termination. <br>Don't try to find loopholes and lawyer your way around those simple rules.";
