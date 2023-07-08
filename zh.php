@@ -1,4 +1,4 @@
-<?php
+bu <?php
 
 /* General stuff */
 $LANGS['language'] = '中文';
@@ -14,34 +14,34 @@ $LANGS['languagesuggestiondesc1'] = '如要更换语言，请点击“语言”�
 $LANGS['languagesuggestiondesc2'] = 'Click "OK" to accept this setting, or click "Cancel" to view the site in English.';
 
 /* Time, dates, etc */
-$LANGS['second'] = '秒前';
-$LANGS['minute'] = '分钟前';
-$LANGS['hour'] = '小时前';
-$LANGS['day'] = '天前';
-$LANGS['week'] = '周前';
-$LANGS['month'] = '个月前';
-$LANGS['year'] = '年前';
-$LANGS['seconds'] = '秒前';
-$LANGS['minutes'] = '分钟前';
-$LANGS['hours'] = '小时前';
-$LANGS['days'] = '天前';
-$LANGS['weeks'] = '周前';
-$LANGS['months'] = '个月前';
-$LANGS['years'] = '年前';
+$LANGS['second'] = '秒';
+$LANGS['minute'] = '分钟';
+$LANGS['hour'] = '小时';
+$LANGS['day'] = '天';
+$LANGS['week'] = '周';
+$LANGS['month'] = '个月';
+$LANGS['year'] = '年';
+$LANGS['seconds'] = '秒';
+$LANGS['minutes'] = '分钟';
+$LANGS['hours'] = '小时';
+$LANGS['days'] = '天';
+$LANGS['weeks'] = '周';
+$LANGS['months'] = '个月';
+$LANGS['years'] = '年';
 $LANGS['ago1'] = ''; /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['ago2'] = ' ago'; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['january'] = '一月';
-$LANGS['february'] = '二月';
-$LANGS['march'] = '三月';
-$LANGS['april'] = '四月';
-$LANGS['may'] = '五月';
-$LANGS['june'] = '六月';
-$LANGS['july'] = '七月';
-$LANGS['august'] = '八月';
-$LANGS['september'] = '九月';
-$LANGS['october'] = '十月';
-$LANGS['november'] = '十一月';
-$LANGS['december'] = '十二月';
+$LANGS['ago2'] = '前'; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['january'] = '1月';
+$LANGS['february'] = '2月';
+$LANGS['march'] = '3月';
+$LANGS['april'] = '4月';
+$LANGS['may'] = '5月';
+$LANGS['june'] = '6月';
+$LANGS['july'] = '7月';
+$LANGS['august'] = '8月';
+$LANGS['september'] = '9月';
+$LANGS['october'] = '10月';
+$LANGS['november'] = '11月';
+$LANGS['december'] = '12月';
 $LANGS['shorttimeformat'] = '%b %e, %Y';
 $LANGS['videotimeformat'] = '%b %e, %Y';
 $LANGS['longtimeformat'] = '%B %e, %Y';
@@ -70,12 +70,12 @@ $LANGS['playlists'] = '我的播放列表';
 $LANGS['help'] = '帮助';
 
 /* Homepage */
-$LANGS['viewall'] = 'view all';
-$LANGS['videoviews'] = 'views';
+$LANGS['viewall'] = '展开';
+$LANGS['videoviews'] = '次观看';
 $LANGS['beingwatched'] = '刚才观看的视频';
 $LANGS['featured'] = '精选视频';
 $LANGS['mostpopular'] = '时下最流行';
-$LANGS['inboxstats'] = 'Inbox & Statistics';
+$LANGS['inboxstats'] = '通知与个人信息';
 $LANGS['profilesettings'] = '账号设置';
 $LANGS['messages'] = '信息';
 $LANGS['message'] = '信息';
@@ -85,14 +85,14 @@ $LANGS['friendinvites'] = '好友邀请';
 $LANGS['friendinvite'] = '好友邀请';
 $LANGS['subscribers'] = '订阅者';
 $LANGS['subscriber'] = '订阅者';
-$LANGS['totalviews'] = '总播放量';
+$LANGS['totalviews'] = '次播放';
 $LANGS['sendmessage'] = '发送信息';
 $LANGS['whatsnew'] = "公告";
 $LANGS['readmore'] = '详细请见Blog';
 $LANGS['videocontest'] = '视频创作大赛';
 $LANGS['joincontest'] = '立即加入大赛吧！';
-$LANGS['personalize'] = '想要改造这个页面吗？';
-$LANGS['signinnow'] = '<a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
+$LANGS['personalize'] = '想要加入这个天地吗？';
+$LANGS['signinnow'] = '立即<a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
 $LANGS['nowconverting'] = "这个视频正在解析中，请耐心等待。";
 
 /* Page title */
@@ -212,28 +212,28 @@ $LANGS['discussionreplyempty'] = 'A reply cannot be left empty!';
 /* Watch */
 $LANGS['moreinfo'] = '展开';
 $LANGS['lessinfo'] = '关闭';
-$LANGS['category'] = '资讯栏';
+$LANGS['category'] = '类型';
 $LANGS['recordedon'] = '拍摄于';
 $LANGS['location'] = '位置';
-$LANGS['tags'] = 'tags';
-$LANGS['embed'] = 'Embed';
+$LANGS['tags'] = '标签';
+$LANGS['embed'] = '嵌入';
 $LANGS['partnervideo'] = 'Partner Video';
 $LANGS['subscribe'] = '订阅';
 $LANGS['unsubscribe'] = '退订';
-$LANGS['nodesc'] = 'No Description...';
+$LANGS['nodesc'] = '无任何内容...';
 $LANGS['logintosub'] = '请登入后才可订阅！';
 $LANGS['logintosubbox'] = '订阅？';
-$LANGS['subyourself'] = 'You cannot subscribe to yourself!';
+$LANGS['subyourself'] = '您无法订阅自己！';
 $LANGS['videoowner'] = 'Video Owner Options';
 $LANGS['editvideo'] = '编辑视频信息';
-$LANGS['insight'] = 'Insight';
-$LANGS['morefrom'] = 'More From:';
+$LANGS['insight'] = '视频数据';
+$LANGS['morefrom'] = '更多其他视频:';
 $LANGS['relatedvideos'] = '相关视频';
 $LANGS['novideosfound'] = '无任何视频...';
-$LANGS['morevideos'] = 'See all videos';
-$LANGS['changeplayersize'] = 'Change Player Size';
+$LANGS['morevideos'] = '播放全部视频';
+$LANGS['changeplayersize'] = '改变播放器大小';
 $LANGS['newwindow'] = 'Watch this video in a new window';
-$LANGS['featuredtext'] = 'This video has been Featured. Want to see more Featured videos? <a href="/browse?t=2">Click here</a>.';
+$LANGS['featuredtext'] = '恭喜，您的视频被添加至精选视频！想查看更多精选视频吗？请 <a href="/browse?t=2">点击这里</a>。';
 $LANGS['ratings'] = '个评分';
 $LANGS['rating'] = '个评分';
 $LANGS['favorite'] = '喜爱';
@@ -246,48 +246,48 @@ $LANGS['thanksforrating'] = '感谢评分！';
 $LANGS['playlistdesc'] = 'To add a new video to your playlist, go to the <a href="/my_playlists">"My Playlists"</a> page.';
 $LANGS['addtoplaylist'] = '添加至播放列表中';
 $LANGS['addtoplaylistsuccess'] = '此视频已添加到播放列表中。';
-$LANGS['share'] = 'Share';
+$LANGS['share'] = '分享';
 $LANGS['flag'] = '举报';
 $LANGS['flagthisvid'] = '举报此视频';
 $LANGS['removeflag'] = '撤销举报';
-$LANGS['flagnote'] = "Before reporting: please make sure that video break any rule. Don't report just because you don't like that video, otherwise you'll be be hindering moderators' job.";
+$LANGS['flagnote'] = "注意！请确认此视频是因为违反了我们的规则而举报。Before reporting: please make sure that video break any rule. Don't report just because you don't like that video, otherwise you'll be be hindering moderators' job.";
 $LANGS['statadded'] = 'Added';
 $LANGS['statviews'] = '次观看';
 $LANGS['statratings'] = '评分';
 $LANGS['statresponses'] = '回复';
 $LANGS['statcomments'] = '评论';
 $LANGS['statfavorited'] = 'Favorited';
-$LANGS['statsdata'] = 'Statistics & Data';
+$LANGS['statsdata'] = '数据与Statistics & Data';
 $LANGS['honors'] = 'Honors for this video';
 $LANGS['mostviewed'] = '最多观看';
 $LANGS['topfavorited'] = '最多人喜爱';
 $LANGS['times'] = 'times';
 $LANGS['mostdiscussed'] = '最多评论';
 $LANGS['toprated'] = '最多评分';
-$LANGS['videolinks'] = 'Sites linking to this video';
-$LANGS['clicksfrom'] = 'clicks from';
-$LANGS['responses'] = 'Video Responses';
-$LANGS['responsespost'] = 'Post a Video Response';
-$LANGS['textcomments'] = 'Text Comments';
-$LANGS['commentpost'] = 'Post a Text Comment';
-$LANGS['commentonthisvideo'] = 'Comment on this video';
+$LANGS['videolinks'] = '从其他平台Sites linking to this video';
+$LANGS['clicksfrom'] = '来自';
+$LANGS['responses'] = '视频回复';
+$LANGS['responsespost'] = '回复';
+$LANGS['textcomments'] = '评论';
+$LANGS['commentpost'] = '留言';
+$LANGS['commentonthisvideo'] = '请试着写些什么吧～如果没有请保持友善哦～';
 $LANGS['postcomment'] = '发布评论';
-$LANGS['remainingcounter'] = 'Remaining character count';
+$LANGS['remainingcounter'] = '剩余字符数';
 $LANGS['nocomments'] = '此视频 <b>无任何留言</b>。';
 $LANGS['noresponses'] = '此视频 <b>无任何回复</b>。';
 $LANGS['commviewall'] = 'View All';
 $LANGS['delete'] = '删除';
 $LANGS['reply'] = '回复';
-$LANGS['commentlogin'] = 'Would you like to Comment?';
+$LANGS['commentlogin'] = '您是否要在视频下方评论？';
 $LANGS['commentlogindesc'] = '<a href="/signup">Join BitView</a> for a free account or <a href="/login">sign in</a> if you are already a member.';
 $LANGS['logintoresponse'] = 'Sign in to post a Video Response';
 $LANGS['logintocomment'] = 'Sign in to post a Comment';
-$LANGS['logintofav'] = 'Want to add to Favorites? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
-$LANGS['logintopl'] = 'Want to add to Playlists? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
-$LANGS['logintoflag'] = 'Want to flag a video? <a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now!';
-$LANGS['close'] = 'close';
+$LANGS['logintofav'] = '想添加至喜爱的视频中？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';';
+$LANGS['logintopl'] = '想添加至播放列表中？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';';
+$LANGS['logintoflag'] = '举报此视频？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';';
+$LANGS['close'] = '关闭';
 $LANGS['addresponse'] = 'Add Response';
-$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['recentlyrated'] = '最近评价的用户';
 $LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
@@ -380,12 +380,12 @@ $LANGS['cat21'] = "日常记录";
 $LANGS['type0'] = "无";
 $LANGS['type1'] = "成员";
 $LANGS['type1p'] = "成员";
-$LANGS['type2'] = "喜剧员";
-$LANGS['type2p'] = "喜剧员";
+$LANGS['type2'] = "喜剧家";
+$LANGS['type2p'] = "喜剧家";
 $LANGS['type3'] = "指导员";
 $LANGS['type3p'] = "指导员";
-$LANGS['type4'] = "Guru";
-$LANGS['type4p'] = "Gurus";
+$LANGS['type4'] = "大师";
+$LANGS['type4p'] = "大师";
 $LANGS['type5'] = "音乐家";
 $LANGS['type5p'] = "音乐家";
 $LANGS['type6'] = "记者";
@@ -646,15 +646,15 @@ $LANGS['cat_ZM'] = "赞比亚";
 $LANGS['cat_ZW'] = "津巴布韦";
 
 /* My Subscriptions */
-$LANGS['newvideos'] = "New Videos";
+$LANGS['newvideos'] = "新上传的视频";
 
 /* Account */
-$LANGS['myaccount'] = "My Account";
-$LANGS['vidsfavs'] = "Videos, Favorites and Playlists";
-$LANGS['accountsettings'] = "Account Settings";
-$LANGS['viewinghistory'] = "History";
+$LANGS['myaccount'] = "我的账号";
+$LANGS['vidsfavs'] = "视频、喜爱的视频和播放列表";
+$LANGS['accountsettings'] = "账号设置";
+$LANGS['viewinghistory'] = "历史记录";
 $LANGS['mychannel'] = "My Channel";
-$LANGS['uploadedvideos'] = "Uploaded Videos";
+$LANGS['uploadedvideos'] = "上传的视频";
 $LANGS['new'] = "New";
 $LANGS['playlist'] = "Playlist";
 $LANGS['videoupload'] = "Video Upload";
@@ -662,36 +662,36 @@ $LANGS['nosubvideos'] = "You have no subscriptions...";
 $LANGS['nofavvideos'] = "You haven't favorited any video...";
 
 /* My Videos */
-$LANGS['sortby'] = "Sort by";
-$LANGS['sorttitle'] = "Title";
-$LANGS['sorttime'] = "Time";
-$LANGS['sortdateadded'] = "Date Added";
-$LANGS['sortviews'] = "Views";
-$LANGS['sortrating'] = "Rating";
-$LANGS['stattime'] = "Time";
-$LANGS['statrating'] = "Rating";
-$LANGS['statbroadcast'] = "Broadcast";
-$LANGS['statrawfile'] = "Raw File";
+$LANGS['sortby'] = "排列顺序设置";
+$LANGS['sorttitle'] = "标题";
+$LANGS['sorttime'] = "时长";
+$LANGS['sortdateadded'] = "上传日期";
+$LANGS['sortviews'] = "观看";
+$LANGS['sortrating'] = "评分";
+$LANGS['stattime'] = "时长";
+$LANGS['statrating'] = "评分";
+$LANGS['statbroadcast'] = "状态";
+$LANGS['statrawfile'] = "视频文件";
 $LANGS['public'] = "公开";
 $LANGS['private'] = "私享";
 $LANGS['live'] = "可观看!";
 $LANGS['converting'] = "解析中...";
 $LANGS['uploading'] = "上传中...";
-$LANGS['addvidsto'] = "Add Videos to";
+$LANGS['addvidsto'] = "将视频添加至：";
 $LANGS['play'] = "播放";
 $LANGS['edit'] = "编辑";
-$LANGS['setasavatar'] = "将视频背景设为个人照";
+$LANGS['setasavatar'] = "将视频封面设为个人照";
 $LANGS['downloadmp4'] = "下载视频";
-$LANGS['deleteconfirmation'] = "Are you sure you want to delete this video?";
-$LANGS['novideos'] = '您目前仍无任何视频。You have not uploaded any videos. <a href="/my_videos_upload">Start uploading a video now</a>!';
-$LANGS['nomyvideosresults'] = "No results. Check if your spelling is correct.";
+$LANGS['deleteconfirmation'] = "您是否删除此视频？";
+$LANGS['novideos'] = '您目前仍无任何视频。<a href="/my_videos_upload">Start uploading a video now</a>!';
+$LANGS['nomyvideosresults'] = "没有任何结果。请检查您的搜索中是否有拼写错误。";
 
 /* Edit Video */
-$LANGS['title'] = "名称";
+$LANGS['title'] = "标题";
 $LANGS['desc'] = "资讯栏";
 $LANGS['privacy'] = "隐私设置";
 $LANGS['saveinfo'] = "保存";
-$LANGS['saveinfoconfirm'] = "您确定改变视频资讯吗？";
+$LANGS['saveinfoconfirm'] = "您确定要改变视信息吗？";
 $LANGS['viewchart'] = "查看视频数据";
 
 /* My Playlists */
@@ -701,18 +701,18 @@ $LANGS['nopl'] = "No Playlists were found....";
 
 /* My Playlist */
 $LANGS['playlistedit'] = "编辑";
-$LANGS['videourl'] = "填写视频链接";
+$LANGS['videourl'] = "复制视频链接";
 $LANGS['add'] = "添加";
 $LANGS['editinfo'] = "编辑信息";
 
 /* Edit Playlist */
-$LANGS['pledittitle'] = "Edit Playlist";
-$LANGS['pleditdesc'] = "Playlists are collection of videos which you can set up the way you want.";
-$LANGS['cancel'] = "Cancel";
+$LANGS['pledittitle'] = "编辑播放列表";
+$LANGS['pleditdesc'] = "播放列表是Playlists are collection of videos which you can set up the way you want.";
+$LANGS['cancel'] = "取消";
 
 /* Create Playlist */
-$LANGS['createplaylisttitle'] = "Create Video Playlist";
-$LANGS['createplaylist'] = "Create Playlist";
+$LANGS['createplaylisttitle'] = "创建播放列表";
+$LANGS['createplaylist'] = "创建";
 
 /* View Playlist */
 $LANGS['plpermalink'] = "Playlist/URL (Permalink):";
@@ -721,19 +721,19 @@ $LANGS['unsorted'] = "Unsorted";
 $LANGS['playallvideos'] = "播放全部视频";
 
 /* Inbox */
-$LANGS['compose'] = "Compose";
-$LANGS['from'] = "From";
-$LANGS['subject'] = "Subject";
-$LANGS['date'] = "Date";
-$LANGS['allmsg'] = "All Messages";
-$LANGS['msgcom'] = "Comments";
-$LANGS['sentmsg'] = "Sent Messages";
-$LANGS['nomsg'] = "You have no Messages...";
+$LANGS['compose'] = "发送信息";
+$LANGS['from'] = "来自";
+$LANGS['subject'] = "内容";
+$LANGS['date'] = "日期";
+$LANGS['allmsg'] = "所有信息";
+$LANGS['msgcom'] = "视频留言";
+$LANGS['sentmsg'] = "您发送的信息";
+$LANGS['nomsg'] = "您目前无任何信息...";
 
 
 /* Send Message */
-$LANGS['messagecont'] = "信息";
-$LANGS['to'] = "致";
+$LANGS['messagecont'] = "内容";
+$LANGS['to'] = "发送至";
 $LANGS['sendmessagebutton'] = "发送";
 
 /* Groups */
@@ -747,27 +747,27 @@ $LANGS['createagroup'] = "创建新群组";
 $LANGS['groupvideos'] = "视频";
 $LANGS['groupmembers'] = "成员";
 $LANGS['discussions'] = "讨论";
-$LANGS['groupcreated'] = "创于";
+$LANGS['groupcreated'] = "创建于";
 $LANGS['nogroups'] = "无任何群组...";
 
 /* Group */
 $LANGS['jointhisgroup'] = "加入此群组";
-$LANGS['removerequest'] = "取消邀请";
+$LANGS['removerequest'] = "拒绝邀请";
 $LANGS['leavegroup'] = "退出群组";
 $LANGS['moderation'] = "设置群组";
 $LANGS['viewallvideos'] = "展示全部视频";
 $LANGS['addvideo'] = "添加视频";
 $LANGS['novideos'] = "无任何视频...";
 $LANGS['nodiscussions'] = "无任何讨论...";
-$LANGS['creatediscussion'] = "发起讨论";
-$LANGS['topostatopic'] = "to post a topic.";
-$LANGS['topic'] = "Topic";
-$LANGS['author'] = "Author";
-$LANGS['replies'] = "所有评论";
-$LANGS['lastpost'] = "Last Post";
+$LANGS['creatediscussion'] = "添加讨论";
+$LANGS['topostatopic'] = "去跟大家讨论共同话题吧！";
+$LANGS['topic'] = "标题";
+$LANGS['author'] = "发起者";
+$LANGS['replies'] = "评论";
+$LANGS['lastpost'] = "最近添加的评论";
 $LANGS['viewallmembers'] = "展示全部成员";
 $LANGS['owner'] = "管理员";
-$LANGS['grouptype'] = "类型";
+$LANGS['grouptype'] = "加入设置";
 $LANGS['instantjoin'] = "即时加入";
 $LANGS['approvalrequired'] = "须经批准";
 $LANGS['groupurl'] = "链接";
@@ -794,14 +794,14 @@ $LANGS['sendmessagetomembers'] = "发送至全部成员";
 $LANGS['delgroup'] = "删除群组";
 
 /* Submit Group Video */
-$LANGS['submitvideotitle'] = "Submit Video to Group";
-$LANGS['submitvideo'] = "Submit Video";
+$LANGS['submitvideotitle'] = "添加视频至小组";
+$LANGS['submitvideo'] = "添加视频";
 
 /* Create Group */
 $LANGS['groupname'] = "群组名称";
 $LANGS['groupimage'] = "群组图片";
 $LANGS['creategroup'] = "创建群组";
-$LANGS['creategroupdesc'] = "群组允许您与其他用户讨论并分享您的视频。";
+$LANGS['creategroupdesc'] = "群组允许您与其他用户讨论共同话题并分享您的视频。";
 
 /* Create Group Discussion */
 $LANGS['discussiontitle'] = "讨论名称";
@@ -809,11 +809,11 @@ $LANGS['creatediscussiondesc'] = "Discussions are parts of groups in which you d
 
 /* Search Results */
 $LANGS['resultspre'] = ""; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['resultspost'] = "results"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['relevance'] = 'Relevance';
-$LANGS['viewcount'] = 'View Count';
-$LANGS['searchrating'] = 'Rating';
-$LANGS['newest'] = 'Newest';
+$LANGS['resultspost'] = "搜索结果"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['relevance'] = '关于';
+$LANGS['viewcount'] = '观看次数';
+$LANGS['searchrating'] = '评分';
+$LANGS['newest'] = '最近上传';
 $LANGS['nochannelsfound'] = '无任何频道...';
 $LANGS['noplfound'] = '无任何播放列表...';
 $LANGS['nogroupsfound'] = '无任何群组...';
@@ -836,10 +836,10 @@ $LANGS['gender'] = '性别';
 $LANGS['male'] = '男';
 $LANGS['female'] = '女';
 $LANGS['status'] = '个人状态';
-$LANGS['single_m'] = '诞生';
-$LANGS['single_f'] = '诞生';
-$LANGS['taken_m'] = 'Taken';
-$LANGS['taken_f'] = 'Taken';
+$LANGS['single_m'] = '单身';
+$LANGS['single_f'] = '单身';
+$LANGS['taken_m'] = '已婚';
+$LANGS['taken_f'] = '已婚';
 $LANGS['married_m'] = '已婚';
 $LANGS['married_f'] = '已婚';
 $LANGS['country'] = '国家与地区';
@@ -850,7 +850,7 @@ $LANGS['movies'] = '影视';
 $LANGS['books'] = '书籍';
 $LANGS['mostsub'] = 'Most Subscribed';
 $LANGS['report'] = '举报';
-$LANGS['pfpviolation'] = 'profile image violation';
+$LANGS['pfpviolation'] = '个人照';
 $LANGS['connectwith'] = '联系';
 $LANGS['profilesendmessage'] = '发送信息';
 $LANGS['messagetoyourself'] = '您不能向自己发送信息！';
@@ -864,7 +864,7 @@ $LANGS['removefriend'] = '删除好友';
 $LANGS['notfriendyourself'] = '您无法将自己加为好友！';
 $LANGS['logintofriend'] = '请登入才执行此操作！';
 $LANGS['blockuser'] = '封锁用户';
-$LANGS['channelembed'] = 'Embed This Channel';
+$LANGS['channelembed'] = '嵌入此频道';
 $LANGS['recentratings'] = '最近评价的视频';
 $LANGS['seeall'] = '展开';
 $LANGS['writebulletin'] = '发布公告栏';
@@ -875,8 +875,8 @@ $LANGS['plvideos'] = '视频';
 $LANGS['playall'] = '播放全部';
 $LANGS['featuredchannels'] = '精选频道';
 $LANGS['channelcomments'] = '频道留言';
-$LANGS['bggraphic'] = 'background graphic';
-$LANGS['reportthisuser'] = 'this user.';
+$LANGS['bggraphic'] = '背景';
+$LANGS['reportthisuser'] = '此用户';
 $LANGS['norecentratings'] = '无任何最近的评价...';
 $LANGS['nosubscribers'] = '无任何订阅者...';
 $LANGS['nosubscriptions'] = '无任何订阅的频道...';
@@ -889,18 +889,18 @@ $LANGS['pvideos'] = '私享视频';
 $LANGS['pvideosallow'] = '您无法观看这些视频...';
 $LANGS['plvideoamount'] = 'videos';
 $LANGS['bulletinpost'] = 'Bulletin Post';
-$LANGS['deletebulletin'] = 'Delete Bulletin';
+$LANGS['deletebulletin'] = '删除';
 $LANGS['body'] = '内容';
-$LANGS['bulletincomments'] = 'Bulletin Comments';
+$LANGS['bulletincomments'] = '评论';
 $LANGS['tocommentbulletin'] = 'to post a reply to this bulletin!';
-$LANGS['addacomment'] = '发布评论:';
-$LANGS['postreplychannel'] = '发布评论Post Reply';
+$LANGS['addacomment'] = '添加留言:';
+$LANGS['postreplychannel'] = '发布评论';
 $LANGS['writecomment'] = '写评论';
 $LANGS['for'] = 'for';
 $LANGS['commentdesc'] = 'Channel comments appear on the users channel.';
-$LANGS['postbulletin'] = '发布公告栏';
-$LANGS['writeabulletin'] = '写公告栏';
-$LANGS['bulletindesc'] = 'Bulletins appear on your own and your friends channel pages.';
+$LANGS['postbulletin'] = '发布';
+$LANGS['writeabulletin'] = '编写公告栏';
+$LANGS['bulletindesc'] = '公告栏会展示在您和您的好友的频道页面上。';
 $LANGS['sharingoptions'] = 'Sharing Options';
 $LANGS['sharingoptionsdesc'] = 'There are 2 ways to share this channel.';
 $LANGS['sharingoptions1'] = '1. Copy & Paste this link into an email or instant message.';
@@ -914,30 +914,30 @@ $LANGS['avatar'] = '个人照';
 $LANGS['backgroundimage'] = '背景';
 $LANGS['deleteimage'] = '删除';
 $LANGS['channelinformation'] = '资讯';
-$LANGS['genderrelationprivate'] = 'Private';
+$LANGS['genderrelationprivate'] = '不愿透露';
 $LANGS['fctitle'] = '关于精选频道';
 $LANGS['relationship'] = '个人状态';
 $LANGS['birthday'] = '生日';
 $LANGS['showage'] = '展示年龄';
 $LANGS['aboutme'] = '关于我';
-$LANGS['emailprefs'] = 'E-Mail Preferences';
+$LANGS['emailprefs'] = '邮件选择';
 $LANGS['emailpm'] = 'E-Mail me on Private Messages';
 $LANGS['emailcomm'] = 'E-Mail me on Video Comments';
 $LANGS['emailsub'] = 'E-Mail me on weekly Subscription Highlights';
 $LANGS['layoutprefs'] = '主题';
 $LANGS['bgcolor'] = '背景颜色';
 $LANGS['bgfixed'] = 'Fixed';
-$LANGS['bgrepeat'] = 'Repeat';
-$LANGS['norepeat'] = 'No Repeat';
-$LANGS['repeat'] = 'Repeat';
-$LANGS['repeatx'] = 'Repeat X';
-$LANGS['repeaty'] = 'Repeat Y';
-$LANGS['bgposition'] = 'Position';
-$LANGS['top'] = 'Top';
-$LANGS['middle'] = 'Middle';
-$LANGS['bottom'] = 'Bottom';
-$LANGS['fontcolor'] = 'Font Color';
-$LANGS['titlefontcolor'] = 'Title Font Color';
+$LANGS['bgrepeat'] = '背景重复';
+$LANGS['norepeat'] = '不重复';
+$LANGS['repeat'] = '重复';
+$LANGS['repeatx'] = '横向重复';
+$LANGS['repeaty'] = '竖向重复';
+$LANGS['bgposition'] = '背景位置';
+$LANGS['top'] = '偏上';
+$LANGS['middle'] = '正中心';
+$LANGS['bottom'] = '偏下';
+$LANGS['fontcolor'] = '字体颜色';
+$LANGS['titlefontcolor'] = '标题颜色';
 $LANGS['linkcolor'] = 'Link Color';
 $LANGS['hlfontcolor'] = 'Highlight Font Color';
 $LANGS['hlheadercolor'] = 'Highlight Header';
@@ -973,7 +973,7 @@ $LANGS['uploadpagetitle'] = '上传视频';
 $LANGS['step1of2'] = '第一步';
 $LANGS['step2of2'] = '第二步';
 $LANGS['videocategory'] = '资讯栏';
-$LANGS['tagsdesc'] = '放置关键字以让您的视频更容易被人找到。<br> <i>(请用逗号隔开关键字)</i>';
+$LANGS['tagsdesc'] = '放置标签会让您的视频更容易被人找到。<br> <i>(请用逗号隔开标签)</i>';
 $LANGS['requiredfield'] = '(* 必填)';
 $LANGS['datemapoptions'] = '日期和位置';
 $LANGS['optional'] = '可选择';
@@ -986,31 +986,31 @@ $LANGS['broadcastoptions'] = 'Broadcast Options';
 $LANGS['uploadvideo'] = '上传';
 $LANGS['needfilevideotoupload'] = '请选择您要上传的视频！';
 $LANGS['aboutuploading'] = '关于上传...';
-$LANGS['uploaddesc1'] = '如果您处于高速状态，上传每MB大约只需1-5分钟，并且在几分钟内完成解析。';
+$LANGS['uploaddesc1'] = '如果您处于网络高速状态，那么上传每MB大约只需1-5分钟，并且只在几分钟内完成解析。';
 $LANGS['videolimit1'] = '您的视频不可大于100MB，长度不可超过15分钟。';
 $LANGS['videolimit2'] = '您的视频不可大于2GB，长度不可超过30分钟。';
 $LANGS['partnervideolimit1'] = '您的视频不可大于100MB，长度不可超过30分钟。';
 $LANGS['partnervideolimit2'] = '您的视频不可大于2GB，长度不可超过30分钟。';
-$LANGS['myvideosdesc'] = '完成上传后，您可点击 <a href="/my_videos">我的视频</a>" 以编辑视频信息和删除此视频。';
+$LANGS['myvideosdesc'] = '完成上传后，您可点击 <a href="/my_videos">我的视频</a>" 以编辑视频信息或删除此视频。';
 $LANGS['newuploader'] = '使用新上传器';
 $LANGS['olduploader'] = '使用旧上传器';
 $LANGS['videoadded'] = '您的视频已成功添加！';
-$LANGS['videoaddeddesc'] = '您的视频目前仍在解析中，并且会在几分钟内完成。';
+$LANGS['videoaddeddesc'] = '您的视频目前仍在解析当中，这一过程会几分钟内完成。';
 $LANGS['thankyou'] = '感谢';
 $LANGS['sharelink'] = '分享您的视频吧！复制下方的链接吧：';
 $LANGS['embedlink'] = 'Play this video directly ON your website! Copy and paste the following snippet:';
 $LANGS['allrequiredinfo'] = '请填写所有的空格！';
 
 /* Partners */
-$LANGS['partnerhead'] = 'Partnerships';
+$LANGS['partnerhead'] = 'BitView合作伙伴计划';
 $LANGS['partnertitle'] = 'Partner With BitView';
-$LANGS['partnerdesc'] = "You've got great videos and a growing audience. Let BitView help you take it to the next level through our Partner Program.";
-$LANGS['applynow'] = 'Apply now';
-$LANGS['contentpartners'] = 'Content Partners';
-$LANGS['partnerbenefits'] = 'Partner Benefits';
-$LANGS['partnerbenefitsdesc'] = 'There are many benefits to becoming a BitView Partner. Some of them include:<br><br>- Branding: make yourself stand out with custom branding, which includes banners, a custom box for your channel and a partner badge on all your videos.<br><br>- There are more benefits to come in the future!';
-$LANGS['qualificationsfaq'] = 'Qualifications & FAQ';
-$LANGS['qualificationsfaqdesc'] = 'To qualify for the BitView Partner program, you must meet some minimum criteria:<br><br>- You create original videos suitable for online streaming.<br><br>- You have >75 subscribers.<br><br>- Your account does not break any <a href="/guidelines">Community Guidelines.</a>';
+$LANGS['partnerdesc'] = "您拥有精彩的视频和不断增长的观众。让BitView通过我们的合作伙伴计划帮助您并将其提高到一个崭新的阶段。";
+$LANGS['applynow'] = '立即申请';
+$LANGS['contentpartners'] = '已加入的用户';
+$LANGS['partnerbenefits'] = '福利';
+$LANGS['partnerbenefitsdesc'] = '如您加入了我们的合作团队计划，那么您将拥有以下福利：<br><br>- 更好塑造您的频道形象：通过可自定义的make yourself stand out with custom branding, which includes banners, a custom box for your channel and a partner badge on all your videos.<br><br>- There are more benefits to come in the future!';
+$LANGS['qualificationsfaq'] = '申请资格';
+$LANGS['qualificationsfaqdesc'] = '如果要申请BitView合作伙伴计划，那么您的频道必须符合以下条件：<br><br>- 您频道的视频必须主要以原创视频为主。<br><br>- 您的频道不可低于75订阅者。<br><br>- 您的频道必须没有违反到我们的 <a href="/guidelines">社区准则。</a>';
 
 /* Staff */
 $LANGS['bvstaff'] = 'BitView Staff';
@@ -1067,40 +1067,39 @@ $LANGS['abouthelp'] = 'To learn more about our service, please see our <a href="
 $LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.';
 
 /* Community Guidelines */
-$LANGS['bvguidelines'] = 'BitView Community Guidelines';
+$LANGS['bvguidelines'] = 'BitView社区准则;';
 $LANGS['aboutguidelines'] = 'About the BitView Guidelines';
 $LANGS['aboutguidelinesdesc'] = "The BitView Guidelines should be self explanatory and are very easy to understand. They try to appeal to as many types of different people as possible. Please try to follow the few rules we have and you won't get in trouble!";
-$LANGS['therules'] = 'The Rules';
-$LANGS['rule1'] = "Videos of sexual acts aren't allowed. The same counts for animation!";
-$LANGS['rule2'] = "Spamming on profiles, comments, messages and reports is not allowed.";
-$LANGS['rule3'] = "Videos that promotes extremist ideologies in a positive light is not allowed.";
-$LANGS['rule4'] = "Videos and profile names that promotes harm / harassment towards an individuals / companies / groups aren't allowed.";
-$LANGS['rule5'] = "Videos and profile images that contain gore, torture, suicide, beheadings, shootings, killing, crushing sentient beings and skin tearing is not allowed. animated/cartoonish gore is allowed but it can't be to the point where it can be deemed as realistic.";
-$LANGS['rule6'] = "Videos that contain abuse towards animals aren't allowed.";
-$LANGS['rule7'] = "Advertisements for Services or Websites in video or comment form aren't allowed.";
-$LANGS['rule8'] = "Don't attempt to brute force an account you don't own.";
-$LANGS['rule9'] = "Don't use more than one account to rate videos and/or comments. You are not allowed to use multiple alt accounts to subscribe to yourself either.";
-$LANGS['rule10'] = "Ban evasion is <b>NOT</b> accepted. Every new account that has been created by banned person will be automatically deleted.";
-$LANGS['rule11'] = "Sharing your login details with anyone else is not allowed.";
+$LANGS['therules'] = '准则列表';
+$LANGS['rule1'] = "不可发布任何形式的包含色情内容的视频。";
+$LANGS['rule2'] = "不可对任何用户进行或发布诈骗。";
+$LANGS['rule3'] = "不可上传任何宣扬仇恨言论，美化极端主义、恐怖主义的视频。";
+$LANGS['rule4'] = "不可上传或使用对某个群体表示仇恨态度的视频或名字。";
+$LANGS['rule5'] = "不可上传或使用包含血腥或暴力的视频或照片作为个人照。然而动漫形式的血腥和暴力内容是允许的，可是不能达到被认为逼真的程度。 ";
+$LANGS['rule7'] = "不可发布任何形式的广告。";
+$LANGS['rule8'] = "不可强行破解或盗取不属于自己的账号。";
+$LANGS['rule9'] = "不可使用多个账号进行评价自己视频，在自己视频下方评论和订阅自己频道的行为。";
+$LANGS['rule10'] = "忽略禁令的行为是 <b>不被允许</b> 的。被封禁者所注册的每个新帐号将会马上被删除。";
+$LANGS['rule11'] = "不要分享您账号的隐私（如密码）。";
 $LANGS['enforceguidelines'] = "We Enforce These Guidelines";
 $LANGS['enforceguidelinesdesc'] = "Okay, this one is more about us than you. BitView staff review flagged videos about once per year to determine whether they violate our Community Guidelines.
 <br>When they do, we remove them. Accounts are penalized for Community Guidelines violations and serious or repeated violations can lead to account termination. <br>Don't try to find loopholes and lawyer your way around those simple rules.";
 
 /* Contests */
-$LANGS['monthlycontest'] = "Monthly Contest";
-$LANGS['monthlycontestschedule'] = "Monthly Video Contest Schedule";
-$LANGS['whatisit'] = "What is it?";
-$LANGS['thismonthcontest'] = "This Month";
-$LANGS['lastmonthwinners'] = "Last Month Winners";
-$LANGS['howtoenter'] = "How do I enter?";
-$LANGS['whowins'] = "Who wins?";
+$LANGS['monthlycontest'] = "月度创作大赛";
+$LANGS['monthlycontestschedule'] = "月度创作大赛每月主题";
+$LANGS['whatisit'] = "这次大赛的主题是？";
+$LANGS['thismonthcontest'] = "这次大赛的主题是？";
+$LANGS['lastmonthwinners'] = "上次大赛的赢家";
+$LANGS['howtoenter'] = "如何参加？";
+$LANGS['whowins'] = "谁是赢家？";
 $LANGS['whowinsdesc'] = "The winner will be picked at the end of the month by the BitView staff.";
-$LANGS['theprize'] = "The Prize?";
-$LANGS['theprizedesc'] = "Fame, fortune, and the envy of all eyes.";
+$LANGS['theprize'] = "赢了有什么奖励？";
+$LANGS['theprizedesc'] = "名声，财富和来自许多人羡（ji）慕（du）的眼光。";
 $LANGS['contestsuggestion'] = 'Have a suggestion for a monthly video contest? Please <a href="mailto:contact@vidlii.co">Tell us</a> about it.';
 
 /* Help */
-$LANGS['q1'] = 'Q: How can I share my videos and link to them from my website?';
+$LANGS['q1'] = 'Q: 如何分享我上传的视频How can I share my videos and link to them from my website?';
 $LANGS['a1'] = 'A: <a href="/sharing">How to share and link to your videos</a>';
 $LANGS['q2'] = 'Q: What kind of videos can I upload?';
 $LANGS['a2'] = 'A: You may upload any kind of personal video that you would like to share with the world. We do not allow any nudity and your video must be appropriate for all audiences.
@@ -1145,17 +1144,17 @@ $LANGS['sharepvideo1'] = "To have friends and family be able to watch your priva
 $LANGS['sharechannellist1'] = 'Having a list of all your uploaded BitView videos is very simple, just add this HTML snippet to your website.';
 
 /* Footer */
-$LANGS['youraccount'] = 'Your Account';
-$LANGS['inbox'] = 'Inbox';
-$LANGS['footmore'] = 'more...';
+$LANGS['youraccount'] = '您的账号';
+$LANGS['inbox'] = '邮箱';
+$LANGS['footmore'] = '设置';
 $LANGS['helpinfo'] = 'Help & Info';
-$LANGS['helpcenter'] = 'Help Center';
-$LANGS['ourtwitter'] = 'Our Twitter';
-$LANGS['ourdiscord'] = 'Our Discord';
-$LANGS['guidelines'] = 'Community Guidelines';
-$LANGS['partnerships'] = 'Partnerships';
+$LANGS['helpcenter'] = '帮助';
+$LANGS['ourtwitter'] = 'Twitter';
+$LANGS['ourdiscord'] = 'Discord';
+$LANGS['guidelines'] = '社区准则';
+$LANGS['partnerships'] = '合作伙伴计划';
 $LANGS['terms'] = 'Terms of Use';
 $LANGS['privacypolicy'] = 'Privacy Policy';
-$LANGS['currentlanguage'] = 'Current Language';
-$LANGS['showlanguages'] = 'Show languages';
-$LANGS['setlanguagepref'] = 'Set Your Language Preference';
+$LANGS['currentlanguage'] = '目前所使用的语言';
+$LANGS['showlanguages'] = '展示所有语言';
+$LANGS['setlanguagepref'] = '选择您的语言';
