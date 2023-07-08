@@ -30,18 +30,18 @@ $LANGS['months'] = '个月';
 $LANGS['years'] = '年';
 $LANGS['ago1'] = ''; /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['ago2'] = '前'; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['january'] = '一月';
-$LANGS['february'] = '二月';
-$LANGS['march'] = '三月';
-$LANGS['april'] = '四月';
-$LANGS['may'] = '五月';
-$LANGS['june'] = '六月';
-$LANGS['july'] = '七月';
-$LANGS['august'] = '八月';
-$LANGS['september'] = '九月';
-$LANGS['october'] = '十月';
-$LANGS['november'] = '十一月';
-$LANGS['december'] = '十二月';
+$LANGS['january'] = '1月';
+$LANGS['february'] = '2月';
+$LANGS['march'] = '3月';
+$LANGS['april'] = '4月';
+$LANGS['may'] = '5月';
+$LANGS['june'] = '6月';
+$LANGS['july'] = '7月';
+$LANGS['august'] = '8月';
+$LANGS['september'] = '9月';
+$LANGS['october'] = '10月';
+$LANGS['november'] = '11月';
+$LANGS['december'] = '12月';
 $LANGS['shorttimeformat'] = '%b %e, %Y';
 $LANGS['videotimeformat'] = '%b %e, %Y';
 $LANGS['longtimeformat'] = '%B %e, %Y';
@@ -646,7 +646,7 @@ $LANGS['cat_ZM'] = "赞比亚";
 $LANGS['cat_ZW'] = "津巴布韦";
 
 /* My Subscriptions */
-$LANGS['newvideos'] = "New Videos";
+$LANGS['newvideos'] = "新上传的视频";
 
 /* Account */
 $LANGS['myaccount'] = "我的账号";
@@ -937,7 +937,7 @@ $LANGS['top'] = '偏上';
 $LANGS['middle'] = '正中心';
 $LANGS['bottom'] = '偏下';
 $LANGS['fontcolor'] = '字体颜色';
-$LANGS['titlefontcolor'] = 'Title Font Color';
+$LANGS['titlefontcolor'] = '标题颜色';
 $LANGS['linkcolor'] = 'Link Color';
 $LANGS['hlfontcolor'] = 'Highlight Font Color';
 $LANGS['hlheadercolor'] = 'Highlight Header';
@@ -1087,12 +1087,12 @@ $LANGS['enforceguidelinesdesc'] = "Okay, this one is more about us than you. Bit
 
 /* Contests */
 $LANGS['monthlycontest'] = "月度创作大赛";
-$LANGS['monthlycontestschedule'] = "Monthly Video Contest Schedule";
+$LANGS['monthlycontestschedule'] = "月度创作大赛每月主题";
 $LANGS['whatisit'] = "这次大赛的主题是？";
 $LANGS['thismonthcontest'] = "这次大赛的主题是？";
 $LANGS['lastmonthwinners'] = "上次大赛的赢家";
 $LANGS['howtoenter'] = "如何参加？";
-$LANGS['whowins'] = "Who wins?";
+$LANGS['whowins'] = "谁是赢家？";
 $LANGS['whowinsdesc'] = "The winner will be picked at the end of the month by the BitView staff.";
 $LANGS['theprize'] = "赢了有什么奖励？";
 $LANGS['theprizedesc'] = "名声，财富和来自许多人羡（ji）慕（du）的眼光。";
