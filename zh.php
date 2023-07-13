@@ -1,4 +1,4 @@
-bu <?php
+<?php
 
 /* General stuff */
 $LANGS['language'] = '中文';
