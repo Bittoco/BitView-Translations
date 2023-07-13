@@ -1,6 +1,6 @@
 <?php
 
-/* General stuff */
+/* General stuff z */
 $LANGS['language'] = '中文';
 $LANGS['languageenglish'] = 'Chinese';
 $LANGS['languagecode'] = 'zh_CN.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
