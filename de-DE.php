@@ -218,7 +218,7 @@ $LANGS['tags'] = 'Tags';
 $LANGS['embed'] = 'Einbinden';
 $LANGS['partnervideo'] = 'Partner Video';
 $LANGS['subscribe'] = 'Abonnieren';
-$LANGS['unsubscribe'] = 'Deabonnieren';
+$LANGS['unsubscribe'] = 'Abonniert';
 $LANGS['nodesc'] = 'Keine Beschreibung...';
 $LANGS['logintosub'] = 'Bitte log dich ein um zum Abonnieren!';
 $LANGS['logintosubbox'] = 'Möchtest du Abonnieren?';
@@ -238,7 +238,13 @@ $LANGS['rating'] = 'Bewertung';
 $LANGS['favorite'] = 'Favorit';
 $LANGS['addtofav'] = 'Favorisieren';
 $LANGS['removefav'] = 'Entfavorisieren';
+$LANGS['favadded'] = 'Dieses video wurde <strong>hinzugefügt</strong> zu deinen <a href="/my_favorites">Favoriten</a>!.';
+$LANGS['favremoved'] = 'Dieses video wurde <strong>entfernt</strong> von deinen <a href="/my_favorites">Favoriten</a>!.';
+$LANGS['undo'] = 'Rückgängig';
+$LANGS['thanksforrating'] = 'Danke für die bewertung!';
 $LANGS['playlistdesc'] = 'Um das Video einer Playlist hinzuzufügen, geh auf die <a href="/my_playlists">"Meine Playlisten"</a> Seite.';
+$LANGS['addtoplaylist'] = 'Zur playlist hinzufügen';
+$LANGS['addtoplaylistsuccess'] = 'Dieses video wurde <strong>hinzugefügt</strong> zu deiner ausgewählten playlist!';
 $LANGS['share'] = 'Teilen';
 $LANGS['flag'] = 'Melden';
 $LANGS['flagthisvid'] = 'Dieses Video melden';
@@ -280,6 +286,8 @@ $LANGS['logintopl'] = 'Möchtest du dieses Video zu einer Playlist hinzufügen? 
 $LANGS['logintoflag'] = 'Möchtest du dieses Video melden? <a href="/login">Loggen dich ein</a> oder <a href="/signup">registrier dich</a> jetzt!';
 $LANGS['close'] = 'schließen';
 $LANGS['addresponse'] = 'absenden';
+$LANGS['recentlyrated'] = 'Neulich Bewertet';
+$LANGS['commentsdisabled'] = 'Kommentare wurden deaktivert!';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Alle Kommentare';
@@ -314,7 +322,7 @@ $LANGS['usernamedesc'] = "Dein Nutzername kann nur aus den Buchstaben von A-Z od
 $LANGS['captcha'] = "Captcha";
 $LANGS['acceptterms'] = 'Ich stimme den <a href="/terms">Nutzungsregeln</a> und den <a href="/privacy">Datenschutzbestimmungen </a>zu.';
 $LANGS['copyrighttext'] = 'Videos hochzuladen die dir nicht gehören ist gegen die Nutzungsregeln und gegen das Gesetz, solltest du es dennoch tun wird dein Account gelöscht.';
-$LANGS['mustaccept'] = 'Siempre quisistes ser otro más.';
+$LANGS['mustaccept'] = 'Du musst die "Terms of Use" und "Privacy Policy" für das erstellen deines accounts bestätigen!';
 $LANGS['createaccount'] = 'Registrieren';
 $LANGS['signuperror'] = 'Es gab einen Fehler während dein Account erstellt wurde.';
 $LANGS['sameemail'] = 'Dieser Nutzername oder diese E-Mail wird schon verwendet!';
@@ -636,6 +644,9 @@ $LANGS['cat_YE'] = "Jemen";
 $LANGS['cat_ZM'] = "Sambia";
 $LANGS['cat_ZW'] = "Simbabwe";
 
+/* My Subscriptions */
+$LANGS['newvideos'] = "Neue Videos";
+
 /* Account */
 $LANGS['myaccount'] = "Mein Account";
 $LANGS['vidsfavs'] = "Videos, Favoriten and Playlisten";
@@ -701,6 +712,12 @@ $LANGS['cancel'] = "Abbrechen";
 /* Create Playlist */
 $LANGS['createplaylisttitle'] = "Video Playlist erstellen";
 $LANGS['createplaylist'] = "Playlist erstellen";
+
+/* View Playlist */
+$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
+$LANGS['sortcomments'] = "Kommentare";
+$LANGS['unsorted'] = "Unsortiert";
+$LANGS['playallvideos'] = "Alle Videos abspielen";
 
 /* Inbox */
 $LANGS['compose'] = "Verfassen";
@@ -829,11 +846,11 @@ $LANGS['website'] = 'Website';
 $LANGS['hobbies'] = 'Interessen & Hobbies';
 $LANGS['music'] = 'Musik';
 $LANGS['movies'] = 'Filme & Serien';
-$LANGS['books'] = 'Bücker';
+$LANGS['books'] = 'Bücher';
 $LANGS['mostsub'] = 'Meist abonniert';
 $LANGS['report'] = 'Melde';
 $LANGS['pfpviolation'] = 'Profilbild verstöße';
-$LANGS['connectwith'] = 'Kontakt';
+$LANGS['connectwith'] = 'Kontaktiere';
 $LANGS['profilesendmessage'] = 'Nachricht senden';
 $LANGS['messagetoyourself'] = 'Du kannst dir selbst keine Nachrichten senden!';
 $LANGS['logintomessage'] = 'Bitte log dich ein um Nachrichten zu senden!';
@@ -848,7 +865,7 @@ $LANGS['logintofriend'] = 'Bitte log dich ein um Freunde hinzuzufügen!';
 $LANGS['blockuser'] = 'Blockieren';
 $LANGS['channelembed'] = 'Einbinden';
 $LANGS['recentratings'] = 'Als letztes Bewertet';
-$LANGS['seeall'] = 'alle anziegen';
+$LANGS['seeall'] = 'Alle anzeigen';
 $LANGS['writebulletin'] = 'Bulletin schreiben';
 $LANGS['bulletin'] = 'Bulletin';
 $LANGS['subvideos1'] = 'Abonniere';
@@ -971,6 +988,8 @@ $LANGS['aboutuploading'] = 'Lädt hoch...';
 $LANGS['uploaddesc1'] = 'Auf einer high-speed Verbindung braucht der Upload ca. 1-5 Minuten pro MB, und das Verarbeiten braucht auch ein paar Minuten.';
 $LANGS['videolimit1'] = 'Dein Video darf max. 100MB groß und 15 Minuten lang sein.';
 $LANGS['videolimit2'] = 'Dein Video darf max. 2GB groß und 15 Minuten lang sein.';
+$LANGS['partnervideolimit1'] = 'Dein Video darf max. 100MB und 30 Minuten lang sein.';
+$LANGS['partnervideolimit2'] = 'Dein Video darf max. 2GB und 30 Minuten lang sein';
 $LANGS['myvideosdesc'] = 'Nach dem Hochladen kannst du das Video jederzeit unter "<a href="/my_videos">Meine Videos</a>" bearbeiten oder löschen.';
 $LANGS['newuploader'] = 'Den neuen Videouploader benutzen';
 $LANGS['olduploader'] = 'Den alten Videouploader benutzen';
