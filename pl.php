@@ -309,7 +309,7 @@ $LANGS['signindesc4'] = "Blogować filmy zarejestrowane przy użyciu aparatu cyf
 $LANGS['signindesc5'] = "Bezpiecznie i prywatnie udostępniać filmy swoim przyjaciołom i rodzinie na całym świecie";
 $LANGS['notallowed'] = "Zostałeś już trzy razy zbanowany. Nie masz więcej dostępu do BitView!";
 $LANGS['wrongpassword'] = 'Złe hasło! Spróbuj ponownie.';
-$LANGS['staysigned'] = "Stay signed in";
+$LANGS['staysigned'] = "Zapamiętaj mnie";
 
 /* Sign Up */
 $LANGS['email'] = "Adres e-mail";
@@ -895,7 +895,7 @@ $LANGS['plvideos'] = 'Filmy';
 $LANGS['playall'] = 'Odtwórz wszystkie';
 $LANGS['featuredchannels'] = 'Polecane kanały';
 $LANGS['channelcomments'] = 'Komentarze do kanału';
-$LANGS['bggraphic'] = 'grafika tła';
+$LANGS['bggraphic'] = 'grafike tła';
 $LANGS['reportthisuser'] = 'tego użytkownika';
 $LANGS['norecentratings'] = 'Brak ostatnich ocen...';
 $LANGS['nosubscribers'] = 'Brak subskrybentów...';
