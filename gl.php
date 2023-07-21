@@ -313,6 +313,7 @@ $LANGS['signindesc4'] = "Fai blogs coa túa cámara!";
 $LANGS['signindesc5'] = "Privatiza os teus vídeos para ensinárselos a túa familia por todo o mundo";
 $LANGS['notallowed'] = "Fuches baneado de BitView tres veces. Xa non podes volver a utilizalo!";
 $LANGS['wrongpassword'] = 'Contrasinal incorrecta! Inténtao de novo';
+$LANGS['staysigned'] = "Stay signed in";
 
 /* Sign Up */
 $LANGS['email'] = "Correo electrónico";

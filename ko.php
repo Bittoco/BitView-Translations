@@ -311,6 +311,7 @@ $LANGS['signindesc4'] = "디지털 카메라나 휴대전화로 찍은 동영상
 $LANGS['signindesc5'] = "친구와 가족들과 전 세계 어디에서든 안전하고 비공개로 동영상 공유하기";
 $LANGS['notallowed'] = "이미 3번 밴당했습니다. BitView를 더 이상 사용할 수 없습니다!";
 $LANGS['wrongpassword'] = '잘못된 비밀번호입니다! 다시 시도해주세요.';
+$LANGS['staysigned'] = "Stay signed in";
 
 /* Sign Up */
 $LANGS['email'] = "이메일 주소";

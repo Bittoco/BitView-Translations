@@ -304,6 +304,7 @@ $LANGS['signindesc4'] = "Blogovati videozapisa koje ste snimili sa vašom digita
 $LANGS['signindesc5'] = "Sigurno i privatno pokazati videozapise vašim prijateljima i obitalji širokom svijeta"; 
 $LANGS['notallowed'] = "Već su vam 3 računa zabranjena. Ne smijete više koristiti BitView!"; 
 $LANGS['wrongpassword'] = 'No točna lozinka! Molimo vas da pokušate ponovo.'; 
+$LANGS['staysigned'] = "Stay signed in";
  
 /* Sign Up */
 $LANGS['email'] = "Adresa Vaše E-Pošte"; 

@@ -309,6 +309,7 @@ $LANGS['signindesc4'] = "将向全世界分享您通过相机或手机所拍摄�
 $LANGS['signindesc5'] = "安全并私密地向您来自世界各地的朋友和家人展示视频";
 $LANGS['notallowed'] = "您的账号已被封禁，已无法登入！";
 $LANGS['wrongpassword'] = '密码错误，请重试！';
+$LANGS['staysigned'] = "Stay signed in";
 
 /* Sign Up */
 $LANGS['email'] = "邮箱";

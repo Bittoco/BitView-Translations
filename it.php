@@ -309,6 +309,7 @@ $LANGS['signindesc4'] = "Bloggare i video che fai con la tua fotocamera digitale
 $LANGS['signindesc5'] = "Mostra video in modo sicuro e privato ai tuoi amici e familiari in tutto il mondo";
 $LANGS['notallowed'] = "Sei già stato bannato 3 volte. Non sei più autorizzato a usare BitView!";
 $LANGS['wrongpassword'] = 'Password sbagliata! Prova di nuovo.';
+$LANGS['staysigned'] = "Stay signed in";
 
 /* Sign Up */
 $LANGS['email'] = "Indirizzo e-mail";

@@ -308,6 +308,7 @@ $LANGS['signindesc4'] = "Blog the videos yew take with yews digital camera or mo
 $LANGS['signindesc5'] = "Securelee and privatelee show videos to yews babbers and familee around the world";
 $LANGS['notallowed'] = "Yews been banned 3 times already. Yew aren't allowed to use BitView anymore!";
 $LANGS['wrongpassword'] = 'Wrong password! Please try again.';
+$LANGS['staysigned'] = "Stay signed in";
 
 /* Sign Up */
 $LANGS['email'] = "Emawl Address";

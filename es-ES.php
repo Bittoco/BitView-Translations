@@ -308,6 +308,7 @@ $LANGS['signindesc4'] = "Publica los vídeos que grabes con tu cámara digital o
 $LANGS['signindesc5'] = "Guarda tus vídeos favoritos para mirar y compartir luego";
 $LANGS['notallowed'] = "Tu cuenta ha sido suspendida 3 veces. ¡Ya no puedes volver a usar BitView!";
 $LANGS['wrongpassword'] = 'La contraseña que has introducido es incorrecta.';
+$LANGS['staysigned'] = "No cerrar sesión";
 
 /* Sign Up */
 $LANGS['email'] = "Dirección de correo electrónico";
