@@ -61,12 +61,12 @@ $LANGS['or'] = '或';
 $LANGS['signup'] = '创建新账号';
 $LANGS['logout'] = '退出';
 $LANGS['upload'] = '上传';
-$LANGS['subscriptions'] = '您的订阅';
+$LANGS['subscriptions'] = '订阅的频道';
 $LANGS['history'] = '历史记录';
 $LANGS['account'] = '账号';
-$LANGS['myvideos'] = '我的视频';
-$LANGS['favorites'] = '我的喜爱';
-$LANGS['playlists'] = '我的播放列表';
+$LANGS['myvideos'] = '上传的视频';
+$LANGS['favorites'] = '喜爱的视频';
+$LANGS['playlists'] = '播放列表';
 $LANGS['help'] = '帮助';
 
 /* Homepage */
