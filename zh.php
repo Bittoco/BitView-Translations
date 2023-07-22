@@ -320,7 +320,7 @@ $LANGS['psfair'] = "不弱";
 $LANGS['psgood'] = "中等";
 $LANGS['psstrong'] = "强";
 $LANGS['repassword'] = "重添密码";
-$LANGS['usernamedesc'] = "您的用户名只能包括A-Z和数字0-9。";
+$LANGS['usernamedesc'] = "您的用户名只能包括A-和数字0-9。";
 $LANGS['captcha'] = "验证";
 $LANGS['acceptterms'] = '我同意 <a href="/terms">使用条款</a> 和 <a href="/privacy">用户隐私政策</a>。';
 $LANGS['copyrighttext'] = 'Uploading materials that you do not own is a copyright violation and against the law. If you upload material you do not own, your account will be deleted.';
@@ -1055,22 +1055,22 @@ $LANGS['actions'] = 'Actions';
 $LANGS['retract'] = 'Retract';
 
 /* About */
-$LANGS['aboutus'] = 'About Us';
-$LANGS['abouttitle'] = 'What is BitView?';
-$LANGS['aboutdesc'] = 'BitView is a way to get your videos to the people who matter to you. With BitView you can:';
-$LANGS['about1'] = 'Show off your favorite videos to the world';
-$LANGS['about2'] = 'Take videos of your dogs, cats, and other pets';
-$LANGS['about3'] = 'Blog the videos you take with your digital camera or cell phone';
-$LANGS['about4'] = 'Securely and privately show videos to your friends and family around the world';
-$LANGS['about5'] = '... and much, much more!';
-$LANGS['aboutsignup'] = '<a href="/signup">Sign up now</a> and open a free account.';
-$LANGS['abouthelp'] = 'To learn more about our service, please see our <a href="help">Help</a> section.';
-$LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.';
+$LANGS['aboutus'] = '关于我们';
+$LANGS['abouttitle'] = '什么是BitView？';
+$LANGS['aboutdesc'] = 'BitView是其中一种将您的视频分享给您的好友的方式。使用BitView，您可以：';
+$LANGS['about1'] = '向全世界展示您所喜爱的视频';
+$LANGS['about2'] = '拍摄关于您可爱的宠物的视频';
+$LANGS['about3'] = '上传使用相机或手机拍摄的视频';
+$LANGS['about4'] = '安全并私密地向您的家人和来自世界各地的好友展示您的视频';
+$LANGS['about5'] = '...和其他用途！';
+$LANGS['aboutsignup'] = '立即 <a href="/signup">注册</a> 一个新账号吧！';
+$LANGS['abouthelp'] = '想要了解更多信息吗？请参见<a href="help">帮助</a> 。';
+$LANGS['aboutmail'] = '请随时 <a href="mailto:contact@vidlii.co">联系我们</a>。';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView社区准则;';
-$LANGS['aboutguidelines'] = 'About the BitView Guidelines';
-$LANGS['aboutguidelinesdesc'] = "The BitView Guidelines should be self explanatory and are very easy to understand. They try to appeal to as many types of different people as possible. Please try to follow the few rules we have and you won't get in trouble!";
+$LANGS['aboutguidelines'] = '关于我们的社区准则';
+$LANGS['aboutguidelinesdesc'] = "请遵守我们的准则，因为它不仅是每个用户的责任，更是为了让大家维护一个友善良好的环境。";
 $LANGS['therules'] = '准则列表';
 $LANGS['rule1'] = "不可发布任何形式的包含色情内容的视频。";
 $LANGS['rule2'] = "不可对任何用户进行或发布诈骗。";
@@ -1102,24 +1102,24 @@ $LANGS['contestsuggestion'] = '如您想对创作大赛提出建议，请 <a hre
 /* Help */
 $LANGS['q1'] = 'Q: 如何分享我上传的视频How can I share my videos and link to them from my website?';
 $LANGS['a1'] = 'A: <a href="/sharing">How to share and link to your videos</a>';
-$LANGS['q2'] = 'Q: What kind of videos can I upload?';
-$LANGS['a2'] = 'A: You may upload any kind of personal video that you would like to share with the world. We do not allow any nudity and your video must be appropriate for all audiences.
+$LANGS['q2'] = '问：我可以上传什么视频呢？';
+$LANGS['a2'] = '答：您可以上传您想向全世界展示的任何类型的个人视频。我们绝不允许任何用户发布有关裸露内容的视频，并且您的视频必须使用任何观众。
 <br/>
 <br/>
-However, this still leaves a lot of room for creativity!! Do you own a <a href="results?search=dog&t=Search+Videos">dog</a> or a <a href="/results?search=cat&t=Search+Videos">cat</a>? Have you gone on vacationing in <a href="/results?search=mexico&t=Search+Videos">Mexico</a>? Do you live in <a href="/results?search=netherlands&t=Search+Videos">The Netherlands</a>?
+然而，这仍然对您的创作并没有什么太大的影响！请问您的家中有养 <a href="results?search=dog&t=Search+Videos">狗</a> 或者 <a href="/results?search=cat&t=Search+Videos">猫</a>吗？请问您去了 <a href="/results?search=mexico&t=Search+Videos">墨西哥</a>度假吗？请问您住在 <a href="/results?search=netherlands&t=Search+Videos">荷兰</a>？
 <br/>
 <br/>
-These are just some examples of the videos that our users are uploading. In the end, you know yourself best. What would <i>you</i> like to capture on video?';
-$LANGS['q3'] = 'Q: How long can my video be?';
-$LANGS['a3'] = 'A: The video must be under 15 minutes long and less than 2GB in size (100MB if you use an old browser).';
-$LANGS['q4'] = 'Q: What video file formats can I upload?';
-$LANGS['a4'] = 'A: BitView accepts video files from most digital cameras and from cell phones in the .WMV, .AVI, .MOV, .MPG, .MP4 file formats.';
-$LANGS['q5'] = 'Q: How can I improve my videos?';
-$LANGS['a5'] = 'A: We encourage you to edit your videos with software such as <a href="https://windows-movie-maker-vista.en.softonic.com/" target="_blank">Windows Movie Maker</a> (included with every Windows installation), or <a href="https://www.apple.com/lae/imovie/" target="_blank">Apple iMovie</a>. Using these programs you can easily edit your videos, add soundtracks, etc.';
-$LANGS['q6'] = 'Q: Do I retain copyrights and other legal rights to my videos?';
-$LANGS['a6'] = 'A: Yes. You retain all rights to your content. BitView assumes no copyright to your material.';
-$LANGS['q7'] = 'Q: What is your policy on copyright infringement?';
-$LANGS['a7'] = "A: BitView respects the rights of copyright holders and publishers and is only accepting video uploads from persons who hold all necessary rights to the uploaded material. Our policy is to respond to any notices of alleged infringement that comply with the Digital Millennium Copyright Act (DMCA). If we receive a notice or otherwise have reason to believe that content you submitted infringes another party's copyright, your account may be terminated and the video removed from BitView.";
+当然，这些仅仅只是我们举的一些例子，因为我们不能看透您的想法。最后请扪心自问，请问 <i>您</i> 想上传什么？';
+$LANGS['q3'] = '问：我的视频长度最多可以达到多长？';
+$LANGS['a3'] = '答：您上传的视频长度不可超过15分钟，而且大小必须低于2GB。（如您使用旧上传器，那么视频大小只能达到100MB）。';
+$LANGS['q4'] = '问：上传的视频必须为哪些格式？';
+$LANGS['a4'] = '答：BitView接受大多数来自相机或手机所使用，例如格式为.WMV、.AVI、.MOV、.MPG、.MP4的视频文件。';
+$LANGS['q5'] = '问：如何提升我的视频质量？';
+$LANGS['a5'] = '答：我们推荐一些视频剪辑软件。例如使用 <a href="https://windows-movie-maker-vista.en.softonic.com/" target="_blank">Windows Movie Maker</a> 或者 <a href="https://www.apple.com/lae/imovie/" target="_blank">Apple iMovie</a>。通过这些软件，您可以简单地对您的视频进行剪辑，在视频中添加配乐等等。';
+$LANGS['q6'] = '问：我是否保留视频的版权和其他的合法权利？';
+$LANGS['a6'] = '答：是的，您仍保留对您的视频的所有权利。BitView并不承担您所使用的材料的版权。';
+$LANGS['q7'] = '问：BitView对于侵犯版权的政策是什么？';
+$LANGS['a7'] = "答：BitView尊重版权所有者和发布者的权利，并且仅接受对所上传的材料拥有所有必要权利的人上传的视频。Our policy is to respond to any notices of alleged infringement that comply with the Digital Millennium Copyright Act (DMCA). If we receive a notice or otherwise have reason to believe that content you submitted infringes another party's copyright, your account may be terminated and the video removed from BitView.";
 $LANGS['q8'] = 'Q: How do I report copyright infringement?';
 $LANGS['a8'] = 'A: If you believe that someone else has uploaded your copyrighted content without your permission, we encourage you to contact that person in order to resolve any differences with them directly. You can also contact our support team using this <a href="mailto:contact@vidlii.co">email</a>.';
 $LANGS['q9'] = 'Q: What if I have been falsely accused of copyright infringement?';
