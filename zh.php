@@ -11,7 +11,7 @@ $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 
 $LANGS['welcometobitview'] = '欢迎来到BitView!';
 $LANGS['languagesuggestion'] = 'Suggested Language (we have set your preference to this):';
 $LANGS['languagesuggestiondesc1'] = '如要更换语言，请点击“语言”（位于网站下方）';
-$LANGS['languagesuggestiondesc2'] = 'Click "OK" to accept this setting, or click "Cancel" to view the site in English.';
+$LANGS['languagesuggestiondesc2'] = '点击 "OK" 以同意此设定，或点击 "取消" 以继续使用英文。';
 
 /* Time, dates, etc */
 $LANGS['second'] = '秒';
@@ -72,7 +72,7 @@ $LANGS['help'] = '帮助';
 /* Homepage */
 $LANGS['viewall'] = '展开';
 $LANGS['videoviews'] = '次观看';
-$LANGS['beingwatched'] = '刚才观看的视频';
+$LANGS['beingwatched'] = '最近观看的视频';
 $LANGS['featured'] = '精选视频';
 $LANGS['mostpopular'] = '时下最流行';
 $LANGS['inboxstats'] = '通知与个人信息';
@@ -97,11 +97,11 @@ $LANGS['nowconverting'] = "这个视频正在解析中，请耐心等待。";
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['homeposttitle'] = "'s BitView"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['homeposttitle'] = "的BitView"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['chpretitle'] = ""; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['chposttitle'] = "'s Channel"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['chposttitle'] = "的频道"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['signintitle'] = "Sign In";
-$LANGS['historytitle'] = "Viewing History";
+$LANGS['historytitle'] = "历史记录";
 $LANGS['favtitle'] = "Favorites";
 $LANGS['pltitle'] = "Playlists";
 $LANGS['partnerprogram'] = "Partner Program";
@@ -217,20 +217,20 @@ $LANGS['recordedon'] = '拍摄于';
 $LANGS['location'] = '位置';
 $LANGS['tags'] = '标签';
 $LANGS['embed'] = '嵌入';
-$LANGS['partnervideo'] = 'Partner Video';
+$LANGS['partnervideo'] = '合作伙伴视频';
 $LANGS['subscribe'] = '订阅';
 $LANGS['unsubscribe'] = '退订';
 $LANGS['nodesc'] = '无任何内容...';
 $LANGS['logintosub'] = '请登入后才可订阅！';
-$LANGS['logintosubbox'] = '订阅？';
+$LANGS['logintosubbox'] = '订阅此频道？';
 $LANGS['subyourself'] = '您无法订阅自己！';
-$LANGS['videoowner'] = 'Video Owner Options';
+$LANGS['videoowner'] = '查看';
 $LANGS['editvideo'] = '编辑视频信息';
 $LANGS['insight'] = '视频数据';
 $LANGS['morefrom'] = '更多其他视频:';
 $LANGS['relatedvideos'] = '相关视频';
 $LANGS['novideosfound'] = '无任何视频...';
-$LANGS['morevideos'] = '播放全部视频';
+$LANGS['morevideos'] = '展示全部视频';
 $LANGS['changeplayersize'] = '改变播放器大小';
 $LANGS['newwindow'] = 'Watch this video in a new window';
 $LANGS['featuredtext'] = '恭喜，您的视频被添加至精选视频！想查看更多精选视频吗？请 <a href="/browse?t=2">点击这里</a>。';
@@ -239,32 +239,32 @@ $LANGS['rating'] = '个评分';
 $LANGS['favorite'] = '喜爱';
 $LANGS['addtofav'] = '添加至喜爱中';
 $LANGS['removefav'] = '从喜爱中移除';
-$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.';
-$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.';
+$LANGS['favadded'] = '此视频已 <strong>添加</strong> 至您 <a href="/my_favorites">喜爱的视频</a> 中！';
+$LANGS['favremoved'] = '此视频已从您  <a href="/my_favorites">喜爱的视频</a> 中 <strong>移除</strong> ！';
 $LANGS['undo'] = '撤销';
 $LANGS['thanksforrating'] = '感谢评分！';
-$LANGS['playlistdesc'] = 'To add a new video to your playlist, go to the <a href="/my_playlists">"My Playlists"</a> page.';
+$LANGS['playlistdesc'] = '如要添加视频至播放列表中，请点击 <a href="/my_playlists">"我的播放列表"</a> 。';
 $LANGS['addtoplaylist'] = '添加至播放列表中';
 $LANGS['addtoplaylistsuccess'] = '此视频已添加到播放列表中。';
 $LANGS['share'] = '分享';
 $LANGS['flag'] = '举报';
 $LANGS['flagthisvid'] = '举报此视频';
 $LANGS['removeflag'] = '撤销举报';
-$LANGS['flagnote'] = "注意！请确认此视频是因为违反了我们的规则而举报。Before reporting: please make sure that video break any rule. Don't report just because you don't like that video, otherwise you'll be be hindering moderators' job.";
-$LANGS['statadded'] = 'Added';
-$LANGS['statviews'] = '次观看';
+$LANGS['flagnote'] = "注意！请确认此视频是因为违反了我们的规则，而不是您纯粹只是不喜欢此视频而举报。";
+$LANGS['statadded'] = '上传于';
+$LANGS['statviews'] = '播放次数';
 $LANGS['statratings'] = '评分';
 $LANGS['statresponses'] = '回复';
 $LANGS['statcomments'] = '评论';
-$LANGS['statfavorited'] = 'Favorited';
-$LANGS['statsdata'] = '数据与Statistics & Data';
-$LANGS['honors'] = 'Honors for this video';
+$LANGS['statfavorited'] = '收藏次数';
+$LANGS['statsdata'] = '视频数据';
+$LANGS['honors'] = '视频排名';
 $LANGS['mostviewed'] = '最多观看';
 $LANGS['topfavorited'] = '最多人喜爱';
-$LANGS['times'] = 'times';
+$LANGS['times'] = '次';
 $LANGS['mostdiscussed'] = '最多评论';
 $LANGS['toprated'] = '最多评分';
-$LANGS['videolinks'] = '从其他平台Sites linking to this video';
+$LANGS['videolinks'] = '从各个平台进入的次数';
 $LANGS['clicksfrom'] = '来自';
 $LANGS['responses'] = '视频回复';
 $LANGS['responsespost'] = '回复';
@@ -275,11 +275,11 @@ $LANGS['postcomment'] = '发布评论';
 $LANGS['remainingcounter'] = '剩余字符数';
 $LANGS['nocomments'] = '此视频 <b>无任何留言</b>。';
 $LANGS['noresponses'] = '此视频 <b>无任何回复</b>。';
-$LANGS['commviewall'] = 'View All';
+$LANGS['commviewall'] = '展示所有评论';
 $LANGS['delete'] = '删除';
 $LANGS['reply'] = '回复';
 $LANGS['commentlogin'] = '您是否要在视频下方评论？';
-$LANGS['commentlogindesc'] = '<a href="/signup">Join BitView</a> for a free account or <a href="/login">sign in</a> if you are already a member.';
+$LANGS['commentlogindesc'] = '<a href="/signup">加入BitView</a> 或 <a href="/login">登入</a> 吧！';
 $LANGS['logintoresponse'] = 'Sign in to post a Video Response';
 $LANGS['logintocomment'] = 'Sign in to post a Comment';
 $LANGS['logintofav'] = '想添加至喜爱的视频中？ <a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
@@ -288,7 +288,7 @@ $LANGS['logintoflag'] = '举报此视频？ <a href="/login">登入</a> 或 <a h
 $LANGS['close'] = '关闭';
 $LANGS['addresponse'] = 'Add Response';
 $LANGS['recentlyrated'] = '最近评价的用户';
-$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
+$LANGS['commentsdisabled'] = '此视频禁止用户发布评论。';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'All Comments';
@@ -309,7 +309,7 @@ $LANGS['signindesc4'] = "将向全世界分享您通过相机或手机所拍摄�
 $LANGS['signindesc5'] = "安全并私密地向您来自世界各地的朋友和家人展示视频";
 $LANGS['notallowed'] = "您的账号已被封禁，已无法登入！";
 $LANGS['wrongpassword'] = '密码错误，请重试！';
-$LANGS['staysigned'] = "Stay signed in";
+$LANGS['staysigned'] = "保持登入状态";
 
 /* Sign Up */
 $LANGS['email'] = "邮箱";
@@ -334,13 +334,13 @@ $LANGS['notmatch'] = "密码并不正确！";
 $LANGS['signuphead'] = 'Get started with your account';
 
 /* Videos Page */
-$LANGS['recentvideos'] = 'Recent Videos';
+$LANGS['recentvideos'] = '最近上传的视频';
 $LANGS['random'] = '推荐视频';
 $LANGS['dropdownmore'] = 'more';
-$LANGS['allcatin'] = 'in';
-$LANGS['allcat'] = 'All Categories';
-$LANGS['categories'] = 'Categories';
-$LANGS['nomorevideos'] = 'No more videos were found...';
+$LANGS['allcatin'] = '展示';
+$LANGS['allcat'] = '所有类型';
+$LANGS['categories'] = '类型';
+$LANGS['nomorevideos'] = '没有更多视频了...';
 $LANGS['timetoday'] = '今天';
 $LANGS['timeweek'] = '这周';
 $LANGS['timemonth'] = '这个月';
@@ -708,7 +708,7 @@ $LANGS['editinfo'] = "编辑信息";
 
 /* Edit Playlist */
 $LANGS['pledittitle'] = "编辑播放列表";
-$LANGS['pleditdesc'] = "播放列表是Playlists are collection of videos which you can set up the way you want.";
+$LANGS['pleditdesc'] = "播放列表是将您所喜爱或想看的视频整理起来的一种方式。";
 $LANGS['cancel'] = "取消";
 
 /* Create Playlist */
@@ -903,10 +903,10 @@ $LANGS['postbulletin'] = '发布';
 $LANGS['writeabulletin'] = '编写公告栏';
 $LANGS['bulletindesc'] = '公告栏会展示在您和您的好友的频道页面上。';
 $LANGS['sharingoptions'] = 'Sharing Options';
-$LANGS['sharingoptionsdesc'] = 'There are 2 ways to share this channel.';
-$LANGS['sharingoptions1'] = '1. Copy & Paste this link into an email or instant message.';
-$LANGS['sharingoptions2'] = "2. Send this channel using your computer's email program.";
-$LANGS['clicktosend'] = 'Click to send!';
+$LANGS['sharingoptionsdesc'] = '以下是分享频道的两个办法。';
+$LANGS['sharingoptions1'] = '1. 复制并粘贴链接在您的信息或邮件中。';
+$LANGS['sharingoptions2'] = "2. 使用电邮发送此频道。";
+$LANGS['clicktosend'] = '点击以发送！';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = '这个页面展示了您的账号的所有信息。';
@@ -922,7 +922,7 @@ $LANGS['birthday'] = '生日';
 $LANGS['showage'] = '展示年龄';
 $LANGS['aboutme'] = '关于我';
 $LANGS['emailprefs'] = '邮件选择';
-$LANGS['emailpm'] = 'E-Mail me on Private Messages';
+$LANGS['emailpm'] = '通过私人信息向我发送电邮';
 $LANGS['emailcomm'] = 'E-Mail me on Video Comments';
 $LANGS['emailsub'] = 'E-Mail me on weekly Subscription Highlights';
 $LANGS['layoutprefs'] = '主题';
@@ -1097,7 +1097,7 @@ $LANGS['whowins'] = "谁是赢家？";
 $LANGS['whowinsdesc'] = "The winner will be picked at the end of the month by the BitView staff.";
 $LANGS['theprize'] = "赢了有什么奖励？";
 $LANGS['theprizedesc'] = "名声，财富和来自许多人羡（ji）慕（du）的眼光。";
-$LANGS['contestsuggestion'] = 'Have a suggestion for a monthly video contest? Please <a href="mailto:contact@vidlii.co">Tell us</a> about it.';
+$LANGS['contestsuggestion'] = '如您想对创作大赛提出建议，请 <a href="mailto:contact@vidlii.co">联系我们</a> 。';
 
 /* Help */
 $LANGS['q1'] = 'Q: 如何分享我上传的视频How can I share my videos and link to them from my website?';
@@ -1134,9 +1134,9 @@ $LANGS['deactivate'] = 'Deactivate';
 $LANGS['flashdisclaimer'] = "<b>Note:</b> BitView's Flash Player is being offered as a compatibility option. If your browser supports BitView's HTML5 player you shouldn't enable this option.";
 
 /* Share */
-$LANGS['sharevideo'] = 'How do I share a regular BitView video?';
-$LANGS['sharepvideo'] = 'How do I share my private videos with friends?';
-$LANGS['sharechannellist'] = 'How do I list my BitView videos on my website?';
+$LANGS['sharevideo'] = '如何分享来自BitView的视频？';
+$LANGS['sharepvideo'] = '如何与好友分享我的私享视频？';
+$LANGS['sharechannellist'] = '如何分享BitView视频在我的个人网站上？ ';
 $LANGS['sharevideo1'] = 'First, go to the video that you want to share. Look for the box under the video player and tags.';
 $LANGS['sharevideo2'] = 'Now you will see two ways to share your video:';
 $LANGS['sharevideo3'] = '1. <b>Video URL</b>: This URL will send you directly to the BitView page and instantly starts playing the video. Send the link to someone via email or chat programs.';
