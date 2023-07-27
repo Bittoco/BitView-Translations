@@ -287,8 +287,8 @@ $LANGS['logintopl'] = 'Chcesz dodać do listy odtwarzania? <a href="/login">Zalo
 $LANGS['logintoflag'] = 'Chcesz zgłosić wideo? <a href="/login">Zaloguj się</a> lub <a href="/signup">Zarejestruj się</a> teraz!';
 $LANGS['close'] = 'zamknij';
 $LANGS['addresponse'] = 'Dodaj odpowiedź';
-$LANGS['recentlyrated'] = 'Ostatnio ocenione';
-$LANGS['commentsdisabled'] = "Dodawanie komentarzy zostało wyłączone dla tego filmu.";
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Wszystkie komentarze';
@@ -309,7 +309,7 @@ $LANGS['signindesc4'] = "Blogować filmy zarejestrowane przy użyciu aparatu cyf
 $LANGS['signindesc5'] = "Bezpiecznie i prywatnie udostępniać filmy swoim przyjaciołom i rodzinie na całym świecie";
 $LANGS['notallowed'] = "Zostałeś już trzy razy zbanowany. Nie masz więcej dostępu do BitView!";
 $LANGS['wrongpassword'] = 'Złe hasło! Spróbuj ponownie.';
-$LANGS['staysigned'] = "Zapamiętaj mnie";
+$LANGS['staysigned'] = "Zapamiętaj";
 
 /* Sign Up */
 $LANGS['email'] = "Adres e-mail";
@@ -694,25 +694,24 @@ $LANGS['privacy'] = "Prywatność";
 $LANGS['saveinfo'] = "Zapisz informacje";
 $LANGS['saveinfoconfirm'] = "Czy na pewno chcesz zmienić informacje o filmie?";
 $LANGS['viewchart'] = "Wyświetl wykres";
-$LANGS['videodetails'] = "Szczegóły filmu";
- $LANGS['backtopreviouspage'] = "Wróć do poprzedniej strony";
- $LANGS['editsavechanges'] = "Zapisz zmiany";
- $LANGS['editcancel'] = "anuluj";
- $LANGS['videoinfo'] = "Informacje o filmie";
- $LANGS['videothumbnail'] = "Miniatura filmu";
- $LANGS['uploadthumbnail'] = "Prześlij miniaturę";
- $LANGS['customthumbdesc'] = 'Aby ustawić niestandardową miniaturę, kliknij miniaturę po lewej stronie i wybierz żądany plik z obrazem. Następnie kliknij "Prześlij miniaturę".';
- $LANGS['customthumbtitle'] = 'Czy chcesz zmienić tę miniaturę?';
- $LANGS['customthumbinfo'] = 'Niestandardowe miniatury są dostępne tylko dla partnerów. Aby dowiedzieć się więcej o zaletach dołączenia do programu partnerskiego i jego wymaganiach, kliknij poniższy przycisk.';
- $LANGS['partnerreadmore'] = 'Dowiedz się więcej';
- $LANGS['broadcastingoptions'] = 'Opcje transmisji i udostępniania';
- $LANGS['publicdesc'] = "każdy może wyszukiwać i przeglądać - zalecane";
- $LANGS['privatedesc'] = "tylko określeni użytkownicy BitView mogą przeglądać";
- $LANGS['allowcomments'] = "Pozwól automatycznie na komentarze";
- $LANGS['allowfriendcomments'] = "Tylko znajomi mogą komentować";
- $LANGS['disablecomments'] = "Nie zezwalaj na komentarze";
- $LANGS['dateandmap'] = "Data i mapa";
- $LANGS['clear'] = "Wyczyść";
+$LANGS['backtopreviouspage'] = "Back to Previous Page";
+$LANGS['editsavechanges'] = "Save Changes";
+$LANGS['editcancel'] = "cancel";
+$LANGS['videoinfo'] = "Video Information";
+$LANGS['videothumbnail'] = "Video Thumbnail";
+$LANGS['uploadthumbnail'] = "Upload Thumbnail";
+$LANGS['customthumbdesc'] = 'To set a custom thumbnail, click the thumbnail on the left side and select your desired image file. Then, click "Upload Thumbnail".';
+$LANGS['customthumbtitle'] = 'Do you want to change this thumbnail?';
+$LANGS['customthumbinfo'] = 'Custom thumbnails are exclusive to partners. To read more about the advantages of joining the partner program and its requirements, click the button below.';
+$LANGS['partnerreadmore'] = 'Read more';
+$LANGS['broadcastingoptions'] = 'Broadcasting and Sharing Options';
+$LANGS['publicdesc'] = "anyone can search for and view - recommended";
+$LANGS['privatedesc'] = "only specific BitView users can view";
+$LANGS['allowcomments'] = "Allow comments automatically";
+$LANGS['allowfriendcomments'] = "Only friends can comment";
+$LANGS['disablecomments'] = "Don't allow comments";
+$LANGS['dateandmap'] = "Date and Map";
+$LANGS['clear'] = "Clear";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Dodane";

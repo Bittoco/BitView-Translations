@@ -693,6 +693,25 @@ $LANGS['privacy'] = "Privacidad";
 $LANGS['saveinfo'] = "Guardar";
 $LANGS['saveinfoconfirm'] = "¿Estás seguro de que quieres guardar los cambios?";
 $LANGS['viewchart'] = "Gráfico de reproducciones";
+$LANGS['videodetails'] = "Detalles del video";
+$LANGS['backtopreviouspage'] = "Volver a la página anterior";
+$LANGS['editsavechanges'] = "Guardar cambios";
+$LANGS['editcancel'] = "cancelar";
+$LANGS['videoinfo'] = "Información del video";
+$LANGS['videothumbnail'] = "Miniatura de video";
+$LANGS['uploadthumbnail'] = "Subir miniatura";
+$LANGS['customthumbdesc'] = 'Para establecer una miniatura personalizada, haga click en la miniatura del lado izquierdo y seleccione el archivo a subir. Entonces, haga click en el botón "Subir miniatura".';
+$LANGS['customthumbtitle'] = '¿Quiere cambiar esta miniatura?';
+$LANGS['customthumbinfo'] = 'Las miniaturas personalizadas son exclusivas para partners. Si quiere leer más sobre las ventajas de unirse al programa de partners y revisar si cumple los requisitos, haga click en el botón de abajo.';
+$LANGS['partnerreadmore'] = 'Leer más';
+$LANGS['broadcastingoptions'] = 'Opciones de transmisión y para compartir';
+$LANGS['publicdesc'] = "todos pueden buscar y ver el video, recomendado";
+$LANGS['privatedesc'] = "sólo usuarios específicos de BitView pueden ver el video";
+$LANGS['allowcomments'] = "Permitir comentarios automáticamente";
+$LANGS['allowfriendcomments'] = "Sólo permitir comentarios de amigos";
+$LANGS['disablecomments'] = "No permitir comentarios";
+$LANGS['dateandmap'] = "Fecha y mapa";
+$LANGS['clear'] = "Borrar";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Creado";

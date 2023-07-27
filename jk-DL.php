@@ -693,6 +693,24 @@ $LANGS['privacy'] = "Privacy";
 $LANGS['saveinfo'] = "Save Info";
 $LANGS['saveinfoconfirm'] = "Are yew sure yew want to change the video information?";
 $LANGS['viewchart'] = "View Chart";
+$LANGS['backtopreviouspage'] = "Back to Previous Page";
+$LANGS['editsavechanges'] = "Save Changes";
+$LANGS['editcancel'] = "cancel";
+$LANGS['videoinfo'] = "Video Information";
+$LANGS['videothumbnail'] = "Video Thumbnail";
+$LANGS['uploadthumbnail'] = "Upload Thumbnail";
+$LANGS['customthumbdesc'] = 'To set a custom thumbnail, click the thumbnail on the left side and select your desired image file. Then, click "Upload Thumbnail".';
+$LANGS['customthumbtitle'] = 'Do you want to change this thumbnail?';
+$LANGS['customthumbinfo'] = 'Custom thumbnails are exclusive to partners. To read more about the advantages of joining the partner program and its requirements, click the button below.';
+$LANGS['partnerreadmore'] = 'Read more';
+$LANGS['broadcastingoptions'] = 'Broadcasting and Sharing Options';
+$LANGS['publicdesc'] = "anyone can search for and view - recommended";
+$LANGS['privatedesc'] = "only specific BitView users can view";
+$LANGS['allowcomments'] = "Allow comments automatically";
+$LANGS['allowfriendcomments'] = "Only friends can comment";
+$LANGS['disablecomments'] = "Don't allow comments";
+$LANGS['dateandmap'] = "Date and Map";
+$LANGS['clear'] = "Clear";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Added";

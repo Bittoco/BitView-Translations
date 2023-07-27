@@ -688,12 +688,31 @@ $LANGS['novideos'] = '您目前仍无任何视频。<a href="/my_videos_upload">
 $LANGS['nomyvideosresults'] = "没有任何结果。请检查您的搜索中是否有拼写错误。";
 
 /* Edit Video */
-$LANGS['title'] = "标题";
-$LANGS['desc'] = "资讯栏";
-$LANGS['privacy'] = "隐私设置";
-$LANGS['saveinfo'] = "保存";
-$LANGS['saveinfoconfirm'] = "您确定要改变视信息吗？";
-$LANGS['viewchart'] = "查看视频数据";
+$LANGS['title'] = "Title";
+$LANGS['desc'] = "Description";
+$LANGS['privacy'] = "Privacy";
+$LANGS['saveinfo'] = "Save Info";
+$LANGS['saveinfoconfirm'] = "Are you sure you want to change the video information?";
+$LANGS['viewchart'] = "View Chart";
+$LANGS['videodetails'] = "Video Details";
+$LANGS['backtopreviouspage'] = "Back to Previous Page";
+$LANGS['editsavechanges'] = "Save Changes";
+$LANGS['editcancel'] = "cancel";
+$LANGS['videoinfo'] = "Video Information";
+$LANGS['videothumbnail'] = "Video Thumbnail";
+$LANGS['uploadthumbnail'] = "Upload Thumbnail";
+$LANGS['customthumbdesc'] = 'To set a custom thumbnail, click the thumbnail on the left side and select your desired image file. Then, click "Upload Thumbnail".';
+$LANGS['customthumbtitle'] = 'Do you want to change this thumbnail?';
+$LANGS['customthumbinfo'] = 'Custom thumbnails are exclusive to partners. To read more about the advantages of joining the partner program and its requirements, click the button below.';
+$LANGS['partnerreadmore'] = 'Read more';
+$LANGS['broadcastingoptions'] = 'Broadcasting and Sharing Options';
+$LANGS['publicdesc'] = "anyone can search for and view - recommended";
+$LANGS['privatedesc'] = "only specific BitView users can view";
+$LANGS['allowcomments'] = "Allow comments automatically";
+$LANGS['allowfriendcomments'] = "Only friends can comment";
+$LANGS['disablecomments'] = "Don't allow comments";
+$LANGS['dateandmap'] = "Date and Map";
+$LANGS['clear'] = "Clear";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Added";

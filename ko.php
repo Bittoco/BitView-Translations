@@ -289,8 +289,8 @@ $LANGS['logintopl'] = '재생목록에 추가하고 싶으신가요? <a href="/l
 $LANGS['logintoflag'] = '동영상을 신고하고 싶으신가요? <a href="/login">로그인</a> 또는 <a href="/signup">가입하기</a>!';
 $LANGS['close'] = '닫기';
 $LANGS['addresponse'] = '비디오 응답 추가';
-$LANGS['recentlyrated'] = '최근 평가';
-$LANGS['commentsdisabled'] = '이 동영상에 댓글 추가가 비활성화되었습니다.';
+$LANGS['recentlyrated'] = 'Recently rated';
+$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';
@@ -696,6 +696,24 @@ $LANGS['privacy'] = "개인정보";
 $LANGS['saveinfo'] = "정보 저장";
 $LANGS['saveinfoconfirm'] = "동영상 정보를 변경하시겠습니까?";
 $LANGS['viewchart'] = "차트 보기";
+$LANGS['backtopreviouspage'] = "Back to Previous Page";
+$LANGS['editsavechanges'] = "Save Changes";
+$LANGS['editcancel'] = "cancel";
+$LANGS['videoinfo'] = "Video Information";
+$LANGS['videothumbnail'] = "Video Thumbnail";
+$LANGS['uploadthumbnail'] = "Upload Thumbnail";
+$LANGS['customthumbdesc'] = 'To set a custom thumbnail, click the thumbnail on the left side and select your desired image file. Then, click "Upload Thumbnail".';
+$LANGS['customthumbtitle'] = 'Do you want to change this thumbnail?';
+$LANGS['customthumbinfo'] = 'Custom thumbnails are exclusive to partners. To read more about the advantages of joining the partner program and its requirements, click the button below.';
+$LANGS['partnerreadmore'] = 'Read more';
+$LANGS['broadcastingoptions'] = 'Broadcasting and Sharing Options';
+$LANGS['publicdesc'] = "anyone can search for and view - recommended";
+$LANGS['privatedesc'] = "only specific BitView users can view";
+$LANGS['allowcomments'] = "Allow comments automatically";
+$LANGS['allowfriendcomments'] = "Only friends can comment";
+$LANGS['disablecomments'] = "Don't allow comments";
+$LANGS['dateandmap'] = "Date and Map";
+$LANGS['clear'] = "Clear";
 
 /* My Playlists */
 $LANGS['addedpl'] = "추가됨";
