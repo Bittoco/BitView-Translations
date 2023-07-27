@@ -289,8 +289,8 @@ $LANGS['logintopl'] = '재생목록에 추가하고 싶으신가요? <a href="/l
 $LANGS['logintoflag'] = '동영상을 신고하고 싶으신가요? <a href="/login">로그인</a> 또는 <a href="/signup">가입하기</a>!';
 $LANGS['close'] = '닫기';
 $LANGS['addresponse'] = '비디오 응답 추가';
-$LANGS['recentlyrated'] = 'Recently rated';
-$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
+$LANGS['recentlyrated'] = '최근 평가한 동영상';
+$LANGS['commentsdisabled'] = '이 동영상에 대한 댓글 추가가 비활성화되었습니다.';
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';
@@ -311,7 +311,7 @@ $LANGS['signindesc4'] = "디지털 카메라나 휴대전화로 찍은 동영상
 $LANGS['signindesc5'] = "친구와 가족들과 전 세계 어디에서든 안전하고 비공개로 동영상 공유하기";
 $LANGS['notallowed'] = "이미 3번 밴당했습니다. BitView를 더 이상 사용할 수 없습니다!";
 $LANGS['wrongpassword'] = '잘못된 비밀번호입니다! 다시 시도해주세요.';
-$LANGS['staysigned'] = "Stay signed in";
+$LANGS['staysigned'] = "로그인 유지";
 
 /* Sign Up */
 $LANGS['email'] = "이메일 주소";
@@ -696,24 +696,24 @@ $LANGS['privacy'] = "개인정보";
 $LANGS['saveinfo'] = "정보 저장";
 $LANGS['saveinfoconfirm'] = "동영상 정보를 변경하시겠습니까?";
 $LANGS['viewchart'] = "차트 보기";
-$LANGS['backtopreviouspage'] = "Back to Previous Page";
-$LANGS['editsavechanges'] = "Save Changes";
-$LANGS['editcancel'] = "cancel";
-$LANGS['videoinfo'] = "Video Information";
-$LANGS['videothumbnail'] = "Video Thumbnail";
-$LANGS['uploadthumbnail'] = "Upload Thumbnail";
-$LANGS['customthumbdesc'] = 'To set a custom thumbnail, click the thumbnail on the left side and select your desired image file. Then, click "Upload Thumbnail".';
-$LANGS['customthumbtitle'] = 'Do you want to change this thumbnail?';
-$LANGS['customthumbinfo'] = 'Custom thumbnails are exclusive to partners. To read more about the advantages of joining the partner program and its requirements, click the button below.';
-$LANGS['partnerreadmore'] = 'Read more';
-$LANGS['broadcastingoptions'] = 'Broadcasting and Sharing Options';
-$LANGS['publicdesc'] = "anyone can search for and view - recommended";
-$LANGS['privatedesc'] = "only specific BitView users can view";
-$LANGS['allowcomments'] = "Allow comments automatically";
-$LANGS['allowfriendcomments'] = "Only friends can comment";
-$LANGS['disablecomments'] = "Don't allow comments";
-$LANGS['dateandmap'] = "Date and Map";
-$LANGS['clear'] = "Clear";
+$LANGS['backtopreviouspage'] = "이전 페이지로 돌아가기";
+$LANGS['editsavechanges'] = "변경 사항 저장";
+$LANGS['editcancel'] = "취소";
+$LANGS['videoinfo'] = "비디오 정보";
+$LANGS['videothumbnail'] = "비디오 썸네일";
+$LANGS['uploadthumbnail'] = "썸네일 업로드";
+$LANGS['customthumbdesc'] = '사용자 정의 썸네일을 설정하려면 왼쪽에 있는 썸네일을 클릭하고 원하는 이미지 파일을 선택한 다음 "썸네일 업로드"를 클릭하세요.';
+$LANGS['customthumbtitle'] = '이 썸네일을 변경하시겠습니까?';
+$LANGS['customthumbinfo'] = '사용자 정의 썸네일은 파트너에게만 제공됩니다. 파트너 프로그램 가입의 장점과 요구 사항에 대해 더 알아보려면 아래 버튼을 클릭하세요.';
+$LANGS['partnerreadmore'] = '더 읽기';
+$LANGS['broadcastingoptions'] = '방송 및 공유 옵션';
+$LANGS['publicdesc'] = "누구나 검색하고 보기 가능 - 권장됨";
+$LANGS['privatedesc'] = "특정 BitView 사용자만 볼 수 있음";
+$LANGS['allowcomments'] = "자동으로 댓글 허용";
+$LANGS['allowfriendcomments'] = "친구만 댓글 작성 허용";
+$LANGS['disablecomments'] = "댓글 허용하지 않음";
+$LANGS['dateandmap'] = "날짜 및 지도";
+$LANGS['clear'] = "지우기";
 
 /* My Playlists */
 $LANGS['addedpl'] = "추가됨";
