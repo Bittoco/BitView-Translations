@@ -72,7 +72,7 @@ $LANGS['help'] = 'Помощь';
 $LANGS['viewall'] = 'все';
 $LANGS['videoviews'] = 'просмотров';
 $LANGS['beingwatched'] = 'Сейчас смотрят';
-$LANGS['featured'] = 'Рекомендуемые видео';
+$LANGS['featured'] = 'В центре внимания';
 $LANGS['mostpopular'] = 'Самые популярные';
 $LANGS['inboxstats'] = 'Входящие и статистика';
 $LANGS['profilesettings'] = 'настройки аккаунта';
@@ -232,7 +232,7 @@ $LANGS['novideosfound'] = 'Видео не найдено...';
 $LANGS['morevideos'] = 'Все видео';
 $LANGS['changeplayersize'] = 'Изменить размер проигрывателя';
 $LANGS['newwindow'] = 'Смотреть видео в новом окне';
-$LANGS['featuredtext'] = 'Это рекомендованное видео. Хотите посмотереть больше таких видео? <a href="/browse?t=2">Кликните здесь</a>.';
+$LANGS['featuredtext'] = 'Это видео в центре внимания. Хотите посмотереть больше таких видео? <a href="/browse?t=2">Кликните здесь</a>.';
 $LANGS['ratings'] = 'оценок';
 $LANGS['rating'] = 'оценка';
 $LANGS['favorite'] = 'Избранное';
@@ -286,8 +286,8 @@ $LANGS['logintopl'] = 'Хотите добавить в плейлист? <a hre
 $LANGS['logintoflag'] = 'Хотите пожаловаться на видео? <a href="/login">Войдите</a> или <a href="/signup">зарегистрируйтесь</a> сейчас!!';
 $LANGS['close'] = 'закрыть';
 $LANGS['addresponse'] = 'Добавить видеоответ';
-$LANGS['recentlyrated'] = 'Recently rated';
-$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
+$LANGS['recentlyrated'] = 'Недавно оценённые';
+$LANGS['commentsdisabled'] = 'Добавление комментариев отключено для этого видео.';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Все комментарии';
@@ -308,7 +308,7 @@ $LANGS['signindesc4'] = "Заружать в блоги видео снятые 
 $LANGS['signindesc5'] = "Безопасно и приватно делиться видео с вашими друзьями и близкими по всему миру";
 $LANGS['notallowed'] = "Вы уже были забанены 3 раза. Вы больше не можете пользоваться BitView!";
 $LANGS['wrongpassword'] = 'Неверный пароль! Попробуйте ещё раз.';
-$LANGS['staysigned'] = "Stay signed in";
+$LANGS['staysigned'] = "Запомнить меня";
 
 /* Sign Up */
 $LANGS['email'] = "Адрес эл. почты";
@@ -693,24 +693,24 @@ $LANGS['privacy'] = "Доступ";
 $LANGS['saveinfo'] = "Сохранить";
 $LANGS['saveinfoconfirm'] = "Вы точно хотите сохранить информацию о видео?";
 $LANGS['viewchart'] = "График просмотров";
-$LANGS['backtopreviouspage'] = "Back to Previous Page";
-$LANGS['editsavechanges'] = "Save Changes";
-$LANGS['editcancel'] = "cancel";
-$LANGS['videoinfo'] = "Video Information";
-$LANGS['videothumbnail'] = "Video Thumbnail";
-$LANGS['uploadthumbnail'] = "Upload Thumbnail";
-$LANGS['customthumbdesc'] = 'To set a custom thumbnail, click the thumbnail on the left side and select your desired image file. Then, click "Upload Thumbnail".';
-$LANGS['customthumbtitle'] = 'Do you want to change this thumbnail?';
-$LANGS['customthumbinfo'] = 'Custom thumbnails are exclusive to partners. To read more about the advantages of joining the partner program and its requirements, click the button below.';
-$LANGS['partnerreadmore'] = 'Read more';
-$LANGS['broadcastingoptions'] = 'Broadcasting and Sharing Options';
-$LANGS['publicdesc'] = "anyone can search for and view - recommended";
-$LANGS['privatedesc'] = "only specific BitView users can view";
-$LANGS['allowcomments'] = "Allow comments automatically";
-$LANGS['allowfriendcomments'] = "Only friends can comment";
-$LANGS['disablecomments'] = "Don't allow comments";
-$LANGS['dateandmap'] = "Date and Map";
-$LANGS['clear'] = "Clear";
+$LANGS['backtopreviouspage'] = "На предыдущую страницу";
+$LANGS['editsavechanges'] = "Сохранить";
+$LANGS['editcancel'] = "отмена";
+$LANGS['videoinfo'] = "Информация о видео";
+$LANGS['videothumbnail'] = "Превью видео";
+$LANGS['uploadthumbnail'] = "Загрузить превью";
+$LANGS['customthumbdesc'] = 'Чтобы задать своё превью, щёлкните превью слева и выберите желаемый файл изображения. Затем, щёлкните "Загрузить превью".';
+$LANGS['customthumbtitle'] = 'Вы хотите сменить это превью?';
+$LANGS['customthumbinfo'] = 'Собственные превью эксклюзивны для партнёров. Чтобы узнать больше о преймуществах участия в партнёрской программе и требованиях, щёлкните кнопку ниже.';
+$LANGS['partnerreadmore'] = 'Узнать больше';
+$LANGS['broadcastingoptions'] = 'Опции доступа';
+$LANGS['publicdesc'] = "все могут найти и смотреть - рекомендуется";
+$LANGS['privatedesc'] = "могут смотреть только определённые пользователи BitView";
+$LANGS['allowcomments'] = "Автоматически разрешать комментарии";
+$LANGS['allowfriendcomments'] = "Только друзья могут комментировать";
+$LANGS['disablecomments'] = "Не разрешать комментарии";
+$LANGS['dateandmap'] = "Дата и место";
+$LANGS['clear'] = "Очистить";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Добавлено";
@@ -733,10 +733,10 @@ $LANGS['createplaylisttitle'] = "Создать плейлист";
 $LANGS['createplaylist'] = "Создать плейлист";
 
 /* View Playlist */
-$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
-$LANGS['sortcomments'] = "Comments";
-$LANGS['unsorted'] = "Unsorted";
-$LANGS['playallvideos'] = "Play All Videos";
+$LANGS['plpermalink'] = "Ссылка на плейлист:";
+$LANGS['sortcomments'] = "Комментарии";
+$LANGS['unsorted'] = "Несортированные";
+$LANGS['playallvideos'] = "Смотреть всё";
 
 /* Inbox */
 $LANGS['compose'] = "Написать";
@@ -995,8 +995,8 @@ $LANGS['tagsdesc'] = 'Теги это ключевые слова которые
 $LANGS['requiredfield'] = '(* обязательное поле)';
 $LANGS['datemapoptions'] = 'Время и место';
 $LANGS['optional'] = '(необязательно)';
-$LANGS['chooseoptions'] = 'choose options';
-$LANGS['lessoptions'] = 'less options';
+$LANGS['chooseoptions'] = 'выберите опции';
+$LANGS['lessoptions'] = 'меньше опций';
 $LANGS['addressrecorded'] = 'Адрес записи';
 $LANGS['uploadcontinue'] = 'Загрузить видео...';
 $LANGS['file'] = 'Файл';
