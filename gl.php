@@ -355,6 +355,7 @@ $LANGS['alltime'] = 'Todo o tempo';
 $LANGS['when'] = 'When';
 $LANGS['videofavorites'] = 'favorites';
 $LANGS['videocomments'] = 'comments';
+$LANGS['trendingtopics'] = 'Trending Topics';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = 'Máis suscriptores';

@@ -353,6 +353,7 @@ $LANGS['alltime'] = '전체 기간';
 $LANGS['when'] = 'When';
 $LANGS['videofavorites'] = 'favorites';
 $LANGS['videocomments'] = 'comments';
+$LANGS['trendingtopics'] = 'Trending Topics';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = '가장 많은 구독자';

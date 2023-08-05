@@ -345,6 +345,7 @@ $LANGS['alltime'] = 'Od Svih Vremena';
 $LANGS['when'] = 'When';
 $LANGS['videofavorites'] = 'favorites';
 $LANGS['videocomments'] = 'comments';
+$LANGS['trendingtopics'] = 'Trending Topics';
  
 /* Channels Page */
 $LANGS['mostsubscribed'] = 'Najviše Preplaćeni'; 

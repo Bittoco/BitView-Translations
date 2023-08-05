@@ -350,6 +350,7 @@ $LANGS['alltime'] = 'All Time';
 $LANGS['when'] = 'When';
 $LANGS['videofavorites'] = 'favourites';
 $LANGS['videocomments'] = 'comments';
+$LANGS['trendingtopics'] = 'Trending Topics';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = 'Most Subscribed';
