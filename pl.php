@@ -94,7 +94,7 @@ $LANGS['joincontest'] = 'Dołącz teraz do konkursu!';
 $LANGS['personalize'] = 'Chcesz dostosować tę stronę główną?';
 $LANGS['signinnow'] = '<a href="/login">Zaloguj się</a> lub <a href="/signup">Zarejestruj się</a> teraz!';
 $LANGS['nowconverting'] = 'Ten film jest przetwarzany, poczekaj kilka minut.';
-$LANGS['modules'] = "Add / Remove Modules";
+$LANGS['modules'] = "Dodawanie / Usuwanie Modułów";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView użykownika "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
