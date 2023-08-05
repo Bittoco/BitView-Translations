@@ -935,12 +935,12 @@ $LANGS['sharingoptions1'] = '1. Copia y pega este enlace en un mensaje instantá
 $LANGS['sharingoptions2'] = '2. Envía este canal mediante el programa de correo electrónico de tu equipo.';
 $LANGS['clicktosend'] = 'Haz clic para enviar.';
 $LANGS['honorless'] = 'menos';
-$LANGS['activitycomment'] = 'commented on';
-$LANGS['activityfavorite'] = 'favorited a video';
-$LANGS['activityrating'] = 'rated a video:';
-$LANGS['activityupload'] = 'uploaded a new video';
-$LANGS['activityfriend'] = 'became friends with';
-$LANGS['activitysubscription'] = 'subscribed to';
+$LANGS['activitycomment'] = 'ha realizado un comentario sobre';
+$LANGS['activityfavorite'] = 'ha marcado un video como favorito';
+$LANGS['activityrating'] = 'ha calificado un video:';
+$LANGS['activityupload'] = 'ha subido un nuevo video';
+$LANGS['activityfriend'] = 'se ha hecho amigo de';
+$LANGS['activitysubscription'] = 'se ha suscrito a';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Esta página incluye toda la configuración de tu cuenta de BitView.';
