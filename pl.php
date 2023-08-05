@@ -743,10 +743,10 @@ $LANGS['createplaylisttitle'] = "Utwórz listę odtwarzania wideo";
 $LANGS['createplaylist'] = "Utwórz listę odtwarzania";
 
 /* View Playlist */
-$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
-$LANGS['sortcomments'] = "Comments";
-$LANGS['unsorted'] = "Unsorted";
-$LANGS['playallvideos'] = "Play All Videos";
+$LANGS['plpermalink'] = "Odtwarzanie wszystkich/URL (Permalink):";
+$LANGS['sortcomments'] = "Sortowane przez komentarze";
+$LANGS['unsorted'] = "Nieposortowane";
+$LANGS['playallvideos'] = "Odtwórz wszystkie filmy";
 
 /* Inbox */
 $LANGS['compose'] = "Napisz";
