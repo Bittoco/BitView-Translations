@@ -75,6 +75,7 @@ $LANGS['viewall'] = '모두 보기';
 $LANGS['videoviews'] = '조회수';
 $LANGS['beingwatched'] = '현재 시청 중인 동영상';
 $LANGS['featured'] = '주요 동영상';
+$LANGS['recommendedforyou'] = 'Recommended for You';
 $LANGS['mostpopular'] = '가장 인기 있는 동영상';
 $LANGS['inboxstats'] = '받은 편지함 및 통계';
 $LANGS['profilesettings'] = '계정 설정';
@@ -95,6 +96,7 @@ $LANGS['joincontest'] = '지금 대회에 참여하세요!';
 $LANGS['personalize'] = '이 홈페이지를 사용자 정의하고 싶나요?';
 $LANGS['signinnow'] = '<a href="/login">로그인</a> 또는 <a href="/signup">가입</a>하세요!';
 $LANGS['nowconverting'] = '이 동영상은 변환이 진행 중입니다. 잠시 기다려 주세요.';
+$LANGS['modules'] = "Add / Remove Modules";
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -291,6 +293,7 @@ $LANGS['close'] = '닫기';
 $LANGS['addresponse'] = '비디오 응답 추가';
 $LANGS['recentlyrated'] = '최근 평가한 동영상';
 $LANGS['commentsdisabled'] = '이 동영상에 대한 댓글 추가가 비활성화되었습니다.';
+$LANGS['ratingsdisabled'] = 'Ratings disabled';
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';
@@ -347,6 +350,9 @@ $LANGS['timetoday'] = '오늘';
 $LANGS['timeweek'] = '이번 주';
 $LANGS['timemonth'] = '이번 달';
 $LANGS['alltime'] = '전체 기간';
+$LANGS['when'] = 'When';
+$LANGS['videofavorites'] = 'favorites';
+$LANGS['videocomments'] = 'comments';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = '가장 많은 구독자';
@@ -714,6 +720,8 @@ $LANGS['allowfriendcomments'] = "친구만 댓글 작성 허용";
 $LANGS['disablecomments'] = "댓글 허용하지 않음";
 $LANGS['dateandmap'] = "날짜 및 지도";
 $LANGS['clear'] = "지우기";
+$LANGS['allowratings'] = "Yes, allow this video to be rated by others.";
+$LANGS['dontallowratings'] = "No, don't allow this video to be rated.";
 
 /* My Playlists */
 $LANGS['addedpl'] = "추가됨";
@@ -927,6 +935,7 @@ $LANGS['sharingoptionsdesc'] = '이 채널을 공유하는 두 가지 방법이 
 $LANGS['sharingoptions1'] = '1. 링크를 복사하여 이메일이나 즉시 메시지로 보냅니다.';
 $LANGS['sharingoptions2'] = '2. 컴퓨터의 이메일 프로그램을 사용하여 이 채널을 보냅니다.';
 $LANGS['clicktosend'] = '보내려면 클릭하세요!';
+$LANGS['honorless'] = 'less';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = '이 페이지에는 BitView 채널의 모든 설정이 포함되어 있습니다.';

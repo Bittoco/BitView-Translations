@@ -74,6 +74,7 @@ $LANGS['viewall'] = 'guarda tutto';
 $LANGS['videoviews'] = 'visualizzazioni';
 $LANGS['beingwatched'] = 'Video guardati ora';
 $LANGS['featured'] = 'In primo piano';
+$LANGS['recommendedforyou'] = 'Recommended for You';
 $LANGS['mostpopular'] = 'I più popolari';
 $LANGS['inboxstats'] = 'Messaggi & Statistiche';
 $LANGS['profilesettings'] = 'Impostazioni account';
@@ -94,6 +95,7 @@ $LANGS['joincontest'] = 'Unisciti al concorso ora!';
 $LANGS['personalize'] = 'Vuoi personalizzare questa pagina home?';
 $LANGS['signinnow'] = '<a href="/login">Accedi</a> o <a href="/signup">Crea un account</a> ora!';
 $LANGS['nowconverting'] = "This video is converting, wait a few minutes.";
+$LANGS['modules'] = "Add / Remove Modules";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView di "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -289,6 +291,7 @@ $LANGS['close'] = 'chiudi';
 $LANGS['addresponse'] = 'Aggiungi risposta';
 $LANGS['recentlyrated'] = 'Recently rated';
 $LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
+$LANGS['ratingsdisabled'] = 'Ratings disabled';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Tutti i Commenti';
@@ -345,6 +348,9 @@ $LANGS['timetoday'] = 'Oggi';
 $LANGS['timeweek'] = 'Questa settimana';
 $LANGS['timemonth'] = 'Questo mese';
 $LANGS['alltime'] = 'Tutto il tempo';
+$LANGS['when'] = 'When';
+$LANGS['videofavorites'] = 'favorites';
+$LANGS['videocomments'] = 'comments';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = 'Con più iscritti';
@@ -712,6 +718,8 @@ $LANGS['allowfriendcomments'] = "Only friends can comment";
 $LANGS['disablecomments'] = "Don't allow comments";
 $LANGS['dateandmap'] = "Date and Map";
 $LANGS['clear'] = "Clear";
+$LANGS['allowratings'] = "Yes, allow this video to be rated by others.";
+$LANGS['dontallowratings'] = "No, don't allow this video to be rated.";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Added";
@@ -925,6 +933,7 @@ $LANGS['sharingoptionsdesc'] = 'Ci sono 2 modi per condividere questo canale.';
 $LANGS['sharingoptions1'] = "1. Copia e incolla questo link in un'email o in un messaggio istantaneo.";
 $LANGS['sharingoptions2'] = "2. Invia questo canale utilizzando il programma di posta elettronica del tuo computer.";
 $LANGS['clicktosend'] = 'Clicca per inviare!';
+$LANGS['honorless'] = 'less';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Questa pagina contiene tutte le impostazioni per il tuo canale BitView.';

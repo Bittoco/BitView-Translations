@@ -74,6 +74,7 @@ $LANGS['viewall'] = '展开';
 $LANGS['videoviews'] = '次观看';
 $LANGS['beingwatched'] = '最近观看的视频';
 $LANGS['featured'] = '精选视频';
+$LANGS['recommendedforyou'] = 'Recommended for You';
 $LANGS['mostpopular'] = '时下最流行';
 $LANGS['inboxstats'] = '通知与个人信息';
 $LANGS['profilesettings'] = '账号设置';
@@ -94,6 +95,7 @@ $LANGS['joincontest'] = '立即加入大赛吧！';
 $LANGS['personalize'] = '想要加入这个天地吗？';
 $LANGS['signinnow'] = '立即<a href="/login">登入</a> 或 <a href="/signup">注册</a> 吧！';
 $LANGS['nowconverting'] = "这个视频正在解析中，请耐心等待。";
+$LANGS['modules'] = "Add / Remove Modules";
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -289,6 +291,7 @@ $LANGS['close'] = '关闭';
 $LANGS['addresponse'] = 'Add Response';
 $LANGS['recentlyrated'] = '最近评价的用户';
 $LANGS['commentsdisabled'] = '此视频禁止用户发布评论。';
+$LANGS['ratingsdisabled'] = 'Ratings disabled';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'All Comments';
@@ -345,6 +348,9 @@ $LANGS['timetoday'] = '今天';
 $LANGS['timeweek'] = '这周';
 $LANGS['timemonth'] = '这个月';
 $LANGS['alltime'] = '全部';
+$LANGS['when'] = 'When';
+$LANGS['videofavorites'] = 'favorites';
+$LANGS['videocomments'] = 'comments';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = '最多订阅者';
@@ -713,6 +719,8 @@ $LANGS['allowfriendcomments'] = "Only friends can comment";
 $LANGS['disablecomments'] = "Don't allow comments";
 $LANGS['dateandmap'] = "Date and Map";
 $LANGS['clear'] = "Clear";
+$LANGS['allowratings'] = "Yes, allow this video to be rated by others.";
+$LANGS['dontallowratings'] = "No, don't allow this video to be rated.";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Added";
@@ -926,6 +934,7 @@ $LANGS['sharingoptionsdesc'] = '以下是分享频道的两个办法。';
 $LANGS['sharingoptions1'] = '1. 复制并粘贴链接在您的信息或邮件中。';
 $LANGS['sharingoptions2'] = "2. 使用电邮发送此频道。";
 $LANGS['clicktosend'] = '点击以发送！';
+$LANGS['honorless'] = 'less';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = '这个页面展示了您的账号的所有信息。';

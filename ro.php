@@ -75,6 +75,7 @@ $LANGS['viewall'] = 'vezi toate';
 $LANGS['videoviews'] = 'vizionări';
 $LANGS['beingwatched'] = 'Videoclipuri vizionate acum';
 $LANGS['featured'] = 'Videoclipuri speciale';
+$LANGS['recommendedforyou'] = 'Recommended for You';
 $LANGS['mostpopular'] = 'Cele mai populare';
 $LANGS['inboxstats'] = 'Inbox și Statistici';
 $LANGS['profilesettings'] = 'setări cont';
@@ -95,6 +96,7 @@ $LANGS['joincontest'] = 'Intrați în concurs!';
 $LANGS['personalize'] = 'Doriți să personalizați această pagină?';
 $LANGS['signinnow'] = '<a href="/login">Logați-vă</a> sau <a href="/signup">crează un cont</a> acum!';
 $LANGS['nowconverting'] = "Acest videoclip se procesează, vă rugăm așteptați câteva minute.";
+$LANGS['modules'] = "Add / Remove Modules";
 
 /* Page title */
 $LANGS['homepretitle'] = "Bitview-ul lui "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -290,6 +292,7 @@ $LANGS['close'] = 'închide';
 $LANGS['addresponse'] = 'Adăugați răspuns';
 $LANGS['recentlyrated'] = 'Recently rated';
 $LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
+$LANGS['ratingsdisabled'] = 'Ratings disabled';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Toate comentariile';
@@ -347,6 +350,9 @@ $LANGS['timetoday'] = 'Astăzi';
 $LANGS['timeweek'] = 'Săptămâna aceasta';
 $LANGS['timemonth'] = 'Luna aceasta';
 $LANGS['alltime'] = 'Tot timpul';
+$LANGS['when'] = 'When';
+$LANGS['videofavorites'] = 'favorites';
+$LANGS['videocomments'] = 'comments';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = 'Cel mai abonat';
@@ -714,6 +720,8 @@ $LANGS['allowfriendcomments'] = "Only friends can comment";
 $LANGS['disablecomments'] = "Don't allow comments";
 $LANGS['dateandmap'] = "Date and Map";
 $LANGS['clear'] = "Clear";
+$LANGS['allowratings'] = "Yes, allow this video to be rated by others.";
+$LANGS['dontallowratings'] = "No, don't allow this video to be rated.";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Adăugat";
@@ -922,6 +930,12 @@ $LANGS['commentdesc'] = 'Comentariile apar pe canalul utilizatorului.';
 $LANGS['postbulletin'] = 'Postați un buletin';
 $LANGS['writeabulletin'] = 'Scrieți un buletin';
 $LANGS['bulletindesc'] = 'Buletinele apar pe paginile dvs. și ale prietenilor voștri.';
+$LANGS['sharingoptions'] = 'Sharing Options';
+$LANGS['sharingoptionsdesc'] = 'There are 2 ways to share this channel.';
+$LANGS['sharingoptions1'] = '1. Copy & Paste this link into an email or instant message.';
+$LANGS['sharingoptions2'] = "2. Send this channel using your computer's email program.";
+$LANGS['clicktosend'] = 'Click to send!';
+$LANGS['honorless'] = 'less';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Această pagina conține toate .';

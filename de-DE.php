@@ -68,11 +68,13 @@ $LANGS['favorites'] = 'Favoriten';
 $LANGS['playlists'] = 'Playlisten';
 $LANGS['help'] = 'Hilfe';
 
+
 /* Homepage */
 $LANGS['viewall'] = 'Alle anzeigen';
 $LANGS['videoviews'] = 'Aufrufe';
 $LANGS['beingwatched'] = 'Zurzeit geschaut';
 $LANGS['featured'] = 'Empfohlene Videos';
+$LANGS['recommendedforyou'] = 'Recommended for You';
 $LANGS['mostpopular'] = 'Meist gesehen';
 $LANGS['inboxstats'] = 'Über deinen Kanal';
 $LANGS['profilesettings'] = 'Einstellungen';
@@ -93,6 +95,7 @@ $LANGS['joincontest'] = 'Mach mit!';
 $LANGS['personalize'] = 'Möchtest du eine personalisierte Startseite?';
 $LANGS['signinnow'] = 'Dann <a href="/login">Log dich ein</a> oder <a href="/signup">Registrier dich</a>!';
 $LANGS['nowconverting'] = "Das Video wird verarbeitet, bitte warte ein paar Minuten.";
+$LANGS['modules'] = "Add / Remove Modules";
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -288,6 +291,7 @@ $LANGS['close'] = 'schließen';
 $LANGS['addresponse'] = 'absenden';
 $LANGS['recentlyrated'] = 'Recently rated';
 $LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
+$LANGS['ratingsdisabled'] = 'Ratings disabled';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Alle Kommentare';
@@ -344,6 +348,9 @@ $LANGS['timetoday'] = 'Heute';
 $LANGS['timeweek'] = 'Diese Woche';
 $LANGS['timemonth'] = 'Dieser Monat';
 $LANGS['alltime'] = 'Jede Zeit';
+$LANGS['when'] = 'When';
+$LANGS['videofavorites'] = 'favorites';
+$LANGS['videocomments'] = 'comments';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = 'Meist abonniert';
@@ -711,6 +718,8 @@ $LANGS['allowfriendcomments'] = "Only friends can comment";
 $LANGS['disablecomments'] = "Don't allow comments";
 $LANGS['dateandmap'] = "Date and Map";
 $LANGS['clear'] = "Clear";
+$LANGS['allowratings'] = "Yes, allow this video to be rated by others.";
+$LANGS['dontallowratings'] = "No, don't allow this video to be rated.";
 
 /* My Playlists */
 $LANGS['addedpl'] = "hinzugefügt";
@@ -924,6 +933,7 @@ $LANGS['sharingoptionsdesc'] = 'Es gibt zwei Möglichkeiten, diesen Kanal zu tei
 $LANGS['sharingoptions1'] = '1. Kopieren Sie diesen Link und fügen Sie ihn in eine E-Mail oder Sofortnachricht ein.';
 $LANGS['sharingoptions2'] = "2. Senden Sie diesen Kanal mit dem E-Mail-Programm Ihres Computers.";
 $LANGS['clicktosend'] = 'Zum Senden klicken!';
+$LANGS['honorless'] = 'less';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Diese Seite enthält alle Einstellungen für deinen Kanal.';
