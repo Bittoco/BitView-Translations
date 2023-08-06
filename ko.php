@@ -75,7 +75,7 @@ $LANGS['viewall'] = '모두 보기';
 $LANGS['videoviews'] = '조회수';
 $LANGS['beingwatched'] = '현재 시청 중인 동영상';
 $LANGS['featured'] = '주요 동영상';
-$LANGS['recommendedforyou'] = 'Recommended for You';
+$LANGS['recommendedforyou'] = '추천합니다';
 $LANGS['mostpopular'] = '가장 인기 있는 동영상';
 $LANGS['inboxstats'] = '받은 편지함 및 통계';
 $LANGS['profilesettings'] = '계정 설정';
@@ -96,7 +96,7 @@ $LANGS['joincontest'] = '지금 대회에 참여하세요!';
 $LANGS['personalize'] = '이 홈페이지를 사용자 정의하고 싶나요?';
 $LANGS['signinnow'] = '<a href="/login">로그인</a> 또는 <a href="/signup">가입</a>하세요!';
 $LANGS['nowconverting'] = '이 동영상은 변환이 진행 중입니다. 잠시 기다려 주세요.';
-$LANGS['modules'] = "Add / Remove Modules";
+$LANGS['modules'] = '모듈 추가 / 제거';
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -293,7 +293,7 @@ $LANGS['close'] = '닫기';
 $LANGS['addresponse'] = '비디오 응답 추가';
 $LANGS['recentlyrated'] = '최근 평가한 동영상';
 $LANGS['commentsdisabled'] = '이 동영상에 대한 댓글 추가가 비활성화되었습니다.';
-$LANGS['ratingsdisabled'] = 'Ratings disabled';
+$LANGS['ratingsdisabled'] = '평가 비활성화됨';
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';
@@ -350,10 +350,10 @@ $LANGS['timetoday'] = '오늘';
 $LANGS['timeweek'] = '이번 주';
 $LANGS['timemonth'] = '이번 달';
 $LANGS['alltime'] = '전체 기간';
-$LANGS['when'] = 'When';
-$LANGS['videofavorites'] = 'favorites';
-$LANGS['videocomments'] = 'comments';
-$LANGS['trendingtopics'] = 'Trending Topics';
+$LANGS['when'] = '언제';
+$LANGS['videofavorites'] = '즐겨찾기';
+$LANGS['videocomments'] = '댓글';
+$LANGS['trendingtopics'] = '인기 주제';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = '가장 많은 구독자';
@@ -721,8 +721,8 @@ $LANGS['allowfriendcomments'] = "친구만 댓글 작성 허용";
 $LANGS['disablecomments'] = "댓글 허용하지 않음";
 $LANGS['dateandmap'] = "날짜 및 지도";
 $LANGS['clear'] = "지우기";
-$LANGS['allowratings'] = "Yes, allow this video to be rated by others.";
-$LANGS['dontallowratings'] = "No, don't allow this video to be rated.";
+$LANGS['allowratings'] = '네, 다른 사람들이 이 비디오를 평가할 수 있도록 허용합니다.';
+$LANGS['dontallowratings'] = '아니오, 이 비디오를 평가할 수 없도록 허용하지 않습니다.';
 
 /* My Playlists */
 $LANGS['addedpl'] = "추가됨";
@@ -745,10 +745,10 @@ $LANGS['createplaylisttitle'] = "동영상 재생 목록 만들기";
 $LANGS['createplaylist'] = "재생 목록 만들기";
 
 /* View Playlist */
-$LANGS['plpermalink'] = "Playlist/URL (Permalink):";
-$LANGS['sortcomments'] = "Comments";
-$LANGS['unsorted'] = "Unsorted";
-$LANGS['playallvideos'] = "Play All Videos";
+$LANGS['plpermalink'] = "재생목록/URL (퍼링크):";
+$LANGS['sortcomments'] = "댓글";
+$LANGS['unsorted'] = "미분류";
+$LANGS['playallvideos'] = "모든 동영상 재생";
 
 /* Inbox */
 $LANGS['compose'] = "작성";
@@ -895,7 +895,7 @@ $LANGS['notfriendyourself'] = '자기 자신을 친구로 추가할 수 없습�
 $LANGS['logintofriend'] = '친구를 추가하려면 로그인하세요!';
 $LANGS['blockuser'] = '사용자 차단';
 $LANGS['channelembed'] = '채널 임베드';
-$LANGS['recentratings'] = '최근 평가';
+$LANGS['recentratings'] = 'Recent Activity';
 $LANGS['seeall'] = '모두 보기';
 $LANGS['writebulletin'] = '소식지 작성';
 $LANGS['bulletin'] = '소식지';
@@ -907,7 +907,7 @@ $LANGS['featuredchannels'] = '추천 채널';
 $LANGS['channelcomments'] = '채널 댓글';
 $LANGS['bggraphic'] = '배경 그래픽';
 $LANGS['reportthisuser'] = '이 사용자를 신고합니다.';
-$LANGS['norecentratings'] = '최근 평가가 없습니다...';
+$LANGS['norecentratings'] = 'No Recent Activity Found...';
 $LANGS['nosubscribers'] = '구독자가 없습니다...';
 $LANGS['nosubscriptions'] = '구독한 채널이 없습니다...';
 $LANGS['nofriends'] = '친구가 없습니다...';
@@ -936,7 +936,13 @@ $LANGS['sharingoptionsdesc'] = '이 채널을 공유하는 두 가지 방법이 
 $LANGS['sharingoptions1'] = '1. 링크를 복사하여 이메일이나 즉시 메시지로 보냅니다.';
 $LANGS['sharingoptions2'] = '2. 컴퓨터의 이메일 프로그램을 사용하여 이 채널을 보냅니다.';
 $LANGS['clicktosend'] = '보내려면 클릭하세요!';
-$LANGS['honorless'] = 'less';
+$LANGS['honorless'] = '없음';
+$LANGS['activitycomment'] = 'commented on';
+$LANGS['activityfavorite'] = 'favorited a video';
+$LANGS['activityrating'] = 'rated a video:';
+$LANGS['activityupload'] = 'uploaded a new video';
+$LANGS['activityfriend'] = 'became friends with';
+$LANGS['activitysubscription'] = 'subscribed to';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = '이 페이지에는 BitView 채널의 모든 설정이 포함되어 있습니다.';
@@ -985,7 +991,7 @@ $LANGS['videosbox'] = '동영상 상자';
 $LANGS['favoritesbox'] = '즐겨찾기 상자';
 $LANGS['playlistsbox'] = '재생 목록 상자';
 $LANGS['commentsbox'] = '댓글 상자';
-$LANGS['ratingsbox'] = '평가 상자';
+$LANGS['ratingsbox'] = 'Recent Activity Box';
 $LANGS['partnersettings'] = '파트너 설정';
 $LANGS['bannerimage'] = '배너 이미지';
 $LANGS['minibannerimage'] = '미니 배너 이미지';

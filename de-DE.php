@@ -73,8 +73,8 @@ $LANGS['help'] = 'Hilfe';
 $LANGS['viewall'] = 'Alle anzeigen';
 $LANGS['videoviews'] = 'Aufrufe';
 $LANGS['beingwatched'] = 'Zurzeit geschaut';
-$LANGS['featured'] = 'Empfohlene Videos';
-$LANGS['recommendedforyou'] = 'Recommended for You';
+$LANGS['featured'] = 'Ausgewählte Videos';
+$LANGS['recommendedforyou'] = 'Empfohlene Videos';
 $LANGS['mostpopular'] = 'Meist gesehen';
 $LANGS['inboxstats'] = 'Über deinen Kanal';
 $LANGS['profilesettings'] = 'Einstellungen';
@@ -95,14 +95,14 @@ $LANGS['joincontest'] = 'Mach mit!';
 $LANGS['personalize'] = 'Möchtest du eine personalisierte Startseite?';
 $LANGS['signinnow'] = 'Dann <a href="/login">Log dich ein</a> oder <a href="/signup">Registrier dich</a>!';
 $LANGS['nowconverting'] = "Das Video wird verarbeitet, bitte warte ein paar Minuten.";
-$LANGS['modules'] = "Add / Remove Modules";
+$LANGS['modules'] = "Hinzufügte / Entferne Module";
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['homeposttitle'] = "s BitView"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['homeposttitle'] = "'s BitView"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['chpretitle'] = ""; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['chposttitle'] = "s Channel"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['signintitle'] = "Log in";
+$LANGS['chposttitle'] = "'s Kanal"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['signintitle'] = "Einloggen";
 $LANGS['historytitle'] = "Video Verlauf";
 $LANGS['favtitle'] = "Favoriten";
 $LANGS['pltitle'] = "Playlisten";
@@ -241,13 +241,13 @@ $LANGS['rating'] = 'Bewertung';
 $LANGS['favorite'] = 'Favorit';
 $LANGS['addtofav'] = 'Favorisieren';
 $LANGS['removefav'] = 'Entfavorisieren';
-$LANGS['favadded'] = 'This video has been <strong>added</strong> to your <a href="/my_favorites">Favorites</a>.';
-$LANGS['favremoved'] = 'This video has been <strong>removed</strong> from your <a href="/my_favorites">Favorites</a>.';
+$LANGS['favadded'] = 'Dieses Video wurde <strong>Hinzufügt</strong> zu deinem <a href="/my_favorites">Favoriten</a>.';
+$LANGS['favremoved'] = 'Dieses Video wurde <strong>Entfernt</strong> von deinem <a href="/my_favorites">Favoriten</a>.';
 $LANGS['undo'] = 'Undo';
 $LANGS['thanksforrating'] = 'Thanks for rating!';
 $LANGS['playlistdesc'] = 'Um das Video einer Playlist hinzuzufügen, geh auf die <a href="/my_playlists">"Meine Playlisten"</a> Seite.';
-$LANGS['addtoplaylist'] = 'Add To Playlist';
-$LANGS['addtoplaylistsuccess'] = 'The video has been added to your playlist.';
+$LANGS['addtoplaylist'] = 'Zur einer Playlisten hinzufügen';
+$LANGS['addtoplaylistsuccess'] = 'Dieses video wurde zu deinen <a href="/my_playlists">Playlisten</a> hinzugefügt.';
 $LANGS['share'] = 'Teilen';
 $LANGS['flag'] = 'Melden';
 $LANGS['flagthisvid'] = 'Dieses Video melden';
@@ -289,9 +289,9 @@ $LANGS['logintopl'] = 'Möchtest du dieses Video zu einer Playlist hinzufügen? 
 $LANGS['logintoflag'] = 'Möchtest du dieses Video melden? <a href="/login">Loggen dich ein</a> oder <a href="/signup">registrier dich</a> jetzt!';
 $LANGS['close'] = 'schließen';
 $LANGS['addresponse'] = 'absenden';
-$LANGS['recentlyrated'] = 'Recently rated';
-$LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
-$LANGS['ratingsdisabled'] = 'Ratings disabled';
+$LANGS['recentlyrated'] = 'Kürzlich bewertet';
+$LANGS['commentsdisabled'] = 'Der Ersteller des videos hat die Kommentare Deaktivert!';
+$LANGS['ratingsdisabled'] = 'Bewertungen Deaktivert';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Alle Kommentare';
@@ -301,7 +301,7 @@ $LANGS['username'] = "Nutzername";
 $LANGS['password'] = "Kennwort";
 $LANGS['logindesc'] = "Log dich mit deinem Bitview Account ein";
 $LANGS['forgot'] = "Kennwort vergessen?";
-$LANGS['forgotmsg'] = 'Please contact us on Twitter (@BitView_) or send a message to the Moderators on the Discord. (link in footer)';
+$LANGS['forgotmsg'] = 'Bitte kontaktieren Sie uns auf Twitter (@BitView_) oder senden Sie eine Nachricht an die Moderatoren im Discord. (Link in der Fußzeile)';
 $LANGS['noaccount'] = "Du hast keinen Account?";
 $LANGS['signuptobv'] = "Registriere dich!";
 $LANGS['signintobv'] = "Log dich ein!";
@@ -312,7 +312,7 @@ $LANGS['signindesc4'] = "Die Videos die du mit deiner Digitalkamera oder deinem 
 $LANGS['signindesc5'] = "Sicher & Privat deiner Familie und Freunden auf der ganzen Welt deine Videos zeigen";
 $LANGS['notallowed'] = "Du wurdest schon 3 mal gebannt und darfst Bitview deshalb nichtmehr benutzen!";
 $LANGS['wrongpassword'] = 'Falsches Kennwort';
-$LANGS['staysigned'] = "Stay signed in";
+$LANGS['staysigned'] = "Bleibe eingeloggt";
 
 /* Sign Up */
 $LANGS['email'] = "E-Mail";
@@ -348,10 +348,10 @@ $LANGS['timetoday'] = 'Heute';
 $LANGS['timeweek'] = 'Diese Woche';
 $LANGS['timemonth'] = 'Dieser Monat';
 $LANGS['alltime'] = 'Jede Zeit';
-$LANGS['when'] = 'When';
-$LANGS['videofavorites'] = 'favorites';
-$LANGS['videocomments'] = 'comments';
-$LANGS['trendingtopics'] = 'Trending Topics';
+$LANGS['when'] = 'Wenn';
+$LANGS['videofavorites'] = 'Favoriten';
+$LANGS['videocomments'] = 'Kommentare';
+$LANGS['trendingtopics'] = 'Trend-Themen';
 
 /* Channels Page */
 $LANGS['mostsubscribed'] = 'Meist abonniert';
@@ -654,7 +654,7 @@ $LANGS['cat_ZM'] = "Zambia";
 $LANGS['cat_ZW'] = "Zimbabwe";
 
 /* My Subscriptions */
-$LANGS['newvideos'] = "New Videos";
+$LANGS['newvideos'] = "Neue Videos";
 
 /* Account */
 $LANGS['myaccount'] = "Mein Account";
@@ -701,26 +701,26 @@ $LANGS['privacy'] = "Status";
 $LANGS['saveinfo'] = "Speichern";
 $LANGS['saveinfoconfirm'] = "Bist du sicher dass du die Information ändern willst?";
 $LANGS['viewchart'] = "Aufrufe";
-$LANGS['backtopreviouspage'] = "Back to Previous Page";
-$LANGS['editsavechanges'] = "Save Changes";
-$LANGS['editcancel'] = "cancel";
-$LANGS['videoinfo'] = "Video Information";
+$LANGS['backtopreviouspage'] = "Zurück zur Hochgeladene Videos";
+$LANGS['editsavechanges'] = "Speichern";
+$LANGS['editcancel'] = "Abbrechen";
+$LANGS['videoinfo'] = "Video Infomationen";
 $LANGS['videothumbnail'] = "Video Thumbnail";
-$LANGS['uploadthumbnail'] = "Upload Thumbnail";
-$LANGS['customthumbdesc'] = 'To set a custom thumbnail, click the thumbnail on the left side and select your desired image file. Then, click "Upload Thumbnail".';
-$LANGS['customthumbtitle'] = 'Do you want to change this thumbnail?';
-$LANGS['customthumbinfo'] = 'Custom thumbnails are exclusive to partners. To read more about the advantages of joining the partner program and its requirements, click the button below.';
-$LANGS['partnerreadmore'] = 'Read more';
-$LANGS['broadcastingoptions'] = 'Broadcasting and Sharing Options';
-$LANGS['publicdesc'] = "anyone can search for and view - recommended";
-$LANGS['privatedesc'] = "only specific BitView users can view";
-$LANGS['allowcomments'] = "Allow comments automatically";
-$LANGS['allowfriendcomments'] = "Only friends can comment";
-$LANGS['disablecomments'] = "Don't allow comments";
-$LANGS['dateandmap'] = "Date and Map";
-$LANGS['clear'] = "Clear";
-$LANGS['allowratings'] = "Yes, allow this video to be rated by others.";
-$LANGS['dontallowratings'] = "No, don't allow this video to be rated.";
+$LANGS['uploadthumbnail'] = "Thumbnail Hochladen";
+$LANGS['customthumbdesc'] = 'Um eine benutzerdefinierte Thumbnail festzulegen, klicken auf das Thumbnail von der linken Seite und wählen Sie die gewünschte Bilddatei aus. Klicke dann auf "Thumbnail hochladen".';
+$LANGS['customthumbtitle'] = 'Willst du wirklich das Thumbnail ändern?';
+$LANGS['customthumbinfo'] = 'Benutzerdefinierte Thumbnails sind exklusiv für Partner. Klicken auf die Schaltfläche unten, um mehr über die Vorteile der Teilnahme am Partnerprogramm und seine Anforderungen zu erfahren.';
+$LANGS['partnerreadmore'] = 'Lese mehr vom Thema "Partner"';
+$LANGS['broadcastingoptions'] = 'Übertragungs- und Freigabeoptionen';
+$LANGS['publicdesc'] = "Jeder kann danach suchen und ansehen und bewerten - empfohlen";
+$LANGS['privatedesc'] = "Nur bestimme Bitview Benutzer können es sehen.";
+$LANGS['allowcomments'] = "Kommetare Automatisch Erlauben";
+$LANGS['allowfriendcomments'] = "Nur freunde können Kommetare schreiben";
+$LANGS['disablecomments'] = "Kommentare Nicht erlauben";
+$LANGS['dateandmap'] = "Uhrzeit und Ort";
+$LANGS['clear'] = "Löschen";
+$LANGS['allowratings'] = "Ja, dieses Video darf von jedem bewertet werden.";
+$LANGS['dontallowratings'] = "Nein, dieses Videos darf NICHT von jedem bewertet werden.";
 
 /* My Playlists */
 $LANGS['addedpl'] = "hinzugefügt";
@@ -744,9 +744,9 @@ $LANGS['createplaylist'] = "Playlist erstellen";
 
 /* View Playlist */
 $LANGS['plpermalink'] = "Playlist/URL (Permalink):";
-$LANGS['sortcomments'] = "Comments";
-$LANGS['unsorted'] = "Unsorted";
-$LANGS['playallvideos'] = "Play All Videos";
+$LANGS['sortcomments'] = "Kommentiert";
+$LANGS['unsorted'] = "Unsortiert";
+$LANGS['playallvideos'] = "Alle Videos anschauen.";
 
 /* Inbox */
 $LANGS['compose'] = "Verfassen";
@@ -807,15 +807,15 @@ $LANGS['decline'] = "Nicht Akzeptieren";
 
 /* Group Moderation */
 $LANGS['groupmoderation'] = "Gruppen Moderation";
-$LANGS['approvemembers'] = "Mitglieder annehmen";
-$LANGS['approvevideos'] = "Video annehmen";
+$LANGS['approvemembers'] = "Anfragen fürs beitreten";
+$LANGS['approvevideos'] = "Videos annehmen";
 $LANGS['yes'] = "Ja";
 $LANGS['no'] = "Nein";
 $LANGS['changeinfo'] = "Info ändern";
 $LANGS['changeimage'] = "Bild ändern";
 $LANGS['image'] = "Bild";
 $LANGS['styling'] = "Design";
-$LANGS['cssdesc'] = "Hintergründe dürfen keine Illegalen Dinge zeigen, ansonsten wird dein Account gelöscht.";
+$LANGS['cssdesc'] = "Hintergründe dürfen keine Illegalen Dinge zeigen, ansonsten wird dein Account (+ gruppe) gelöscht.";
 $LANGS['updatecss'] = "CSS aktualisieren";
 $LANGS['groupmessage'] = "Nachricht";
 $LANGS['sendmessagetomembers'] = "Nachricht an alle Mitglieder senden";
@@ -893,7 +893,7 @@ $LANGS['notfriendyourself'] = 'Du kannst dich nicht selbst als Freund hinzufüge
 $LANGS['logintofriend'] = 'Bitte log dich ein um Freunde hinzuzufügen!';
 $LANGS['blockuser'] = 'Blockieren';
 $LANGS['channelembed'] = 'Einbinden';
-$LANGS['recentratings'] = 'Als letztes Bewertet';
+$LANGS['recentratings'] = 'Letzte Aktivität';
 $LANGS['seeall'] = 'alle anziegen';
 $LANGS['writebulletin'] = 'Bulletin schreiben';
 $LANGS['bulletin'] = 'Bulletin';
@@ -905,7 +905,7 @@ $LANGS['featuredchannels'] = 'Empfohlene Kanäle';
 $LANGS['channelcomments'] = 'Kanal Kommentare';
 $LANGS['bggraphic'] = 'den Hintergrund ';
 $LANGS['reportthisuser'] = 'diesen Nutzer.';
-$LANGS['norecentratings'] = 'Keine letzten Bewertungen gefunden...';
+$LANGS['norecentratings'] = 'Es wurden keine Aktivitäten gefunden...';
 $LANGS['nosubscribers'] = 'Keine Abonnenten...';
 $LANGS['nosubscriptions'] = 'Keine Abonnements...';
 $LANGS['nofriends'] = 'Keine Freunde...';
@@ -915,7 +915,7 @@ $LANGS['nofavs'] = 'Keine Favoriten...';
 $LANGS['noplchannel'] = 'Keine Playlisten...';
 $LANGS['pvideos'] = 'Private Videos';
 $LANGS['pvideosallow'] = 'Du darfst diese Videos nicht sehen...';
-$LANGS['plvideoamount'] = 'videos';
+$LANGS['plvideoamount'] = 'Videos';
 $LANGS['bulletinpost'] = 'Bulletin';
 $LANGS['deletebulletin'] = 'Bulletin löschen';
 $LANGS['body'] = 'Text';
@@ -934,7 +934,13 @@ $LANGS['sharingoptionsdesc'] = 'Es gibt zwei Möglichkeiten, diesen Kanal zu tei
 $LANGS['sharingoptions1'] = '1. Kopieren Sie diesen Link und fügen Sie ihn in eine E-Mail oder Sofortnachricht ein.';
 $LANGS['sharingoptions2'] = "2. Senden Sie diesen Kanal mit dem E-Mail-Programm Ihres Computers.";
 $LANGS['clicktosend'] = 'Zum Senden klicken!';
-$LANGS['honorless'] = 'less';
+$LANGS['honorless'] = 'Wenig';
+$LANGS['activitycomment'] = 'Kommentierte bei dem Video:';
+$LANGS['activityfavorite'] = 'Favorite das Video:';
+$LANGS['activityrating'] = 'Hat ein Video bewertet:';
+$LANGS['activityupload'] = 'Hat ein neues video hochladen';
+$LANGS['activityfriend'] = 'ist jetzt befreundet mit';
+$LANGS['activitysubscription'] = 'Abonnierte';
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Diese Seite enthält alle Einstellungen für deinen Kanal.';
@@ -983,17 +989,17 @@ $LANGS['videosbox'] = 'Video Box';
 $LANGS['favoritesbox'] = 'Favoriten Box';
 $LANGS['playlistsbox'] = 'Playlisten Box';
 $LANGS['commentsbox'] = 'Kommentar Box';
-$LANGS['ratingsbox'] = 'Bewertungs Box';
+$LANGS['ratingsbox'] = 'Letzte Aktivität Box';
 $LANGS['partnersettings'] = 'Partner Settings';
-$LANGS['bannerimage'] = 'Banner Image';
-$LANGS['minibannerimage'] = 'Mini Banner Image';
-$LANGS['sideimage'] = 'Side Image';
-$LANGS['recommendedsize'] = 'recommended size';
-$LANGS['bannerlink'] = 'Banner Website';
-$LANGS['sideimagelink'] = 'Side Image Website';
-$LANGS['custombox'] = 'Custom Box';
-$LANGS['customboxtitle'] = 'Custom Box Title';
-$LANGS['customboxcontent'] = 'Custom Box Content';
+$LANGS['bannerimage'] = 'Banner Bild';
+$LANGS['minibannerimage'] = 'Mini Banner Bild';
+$LANGS['sideimage'] = 'Seiten Bild';
+$LANGS['recommendedsize'] = 'empfohlene Größe';
+$LANGS['bannerlink'] = 'Banner Link';
+$LANGS['sideimagelink'] = 'Seiten Bild Link';
+$LANGS['custombox'] = 'Benutzerdefinierte Box';
+$LANGS['customboxtitle'] = 'Benutzerdefinierter Boxtitel';
+$LANGS['customboxcontent'] = 'Benutzerdefinierter Boxinhalt';
 $LANGS['savechanges'] = 'Speichern';
 $LANGS['submitimage'] = 'Hochladen';
 
