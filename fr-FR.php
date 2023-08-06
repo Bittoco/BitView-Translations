@@ -98,6 +98,22 @@ $LANGS['personalize'] = 'Souhaitez-vous personnaliser cette page d\'accueil ?';
 $LANGS['signinnow'] = '<a href="/login">Connectez-vous</a> ou <a href="/signup">Inscrivez-vous</a> maintenant !';
 $LANGS['nowconverting'] = "Cette vidéo est en conversion, veuillez patienter...";
 $LANGS['modules'] = "Add / Remove Modules";
+$LANGS['friendactivity'] = "Friend Activity";
+$LANGS['customizehomepage'] = "Customize Homepage";
+$LANGS['customizethehomepage'] = "Customize the Homepage";
+$LANGS['customizehomepagedesc'] = "Select the modules you want to see on your customized homepage.";
+$LANGS['displaypreferences'] = "Display Preferences";
+$LANGS['thefeed'] = "The Feed";
+$LANGS['thefeeddesc'] = "Combine all of your modules into a single feed.";
+$LANGS['friendactivitytitle'] = "Friend Activity - Can people see what I do?";
+$LANGS['friendactivitydesc'] = "This section shows your confirmed friends the actions that you're publicly broacasting in your recent activity history. For example, if you favorite a video, then your new favorite video might show up in your channel's Recent Activity box, as well as on your friends' homepages.";
+$LANGS['feedfeatured'] = "Featured Video";
+$LANGS['feedbeingwatched'] = "Video Being Watched Now";
+$LANGS['feedrecommended'] = "Recommended Video";
+$LANGS['nosubscriptions'] = "You haven't subscribed to any channel yet.";
+$LANGS['nosubscriptionsdesc'] = "When you add new subscriptions, we'll show their uploads here on this page.";
+$LANGS['nofriendactivity'] = "Your friends haven't been active lately.";
+$LANGS['nofriendactivitydesc'] = "You can try adding some friends. Then, we'll show their activity here on this page.";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView de "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/

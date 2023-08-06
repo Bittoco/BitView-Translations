@@ -95,6 +95,22 @@ $LANGS['personalize'] = '¿Quieres personalizar esta página principal?';
 $LANGS['signinnow'] = '¡<a href="/login">Inicia sesión</a> o <a href="/signup">regístrate</a> ahora mismo!';
 $LANGS['nowconverting'] = "El vídeo se está procesando, espera unos minutos.";
 $LANGS['modules'] = "Agregar / Eliminar módulos";
+$LANGS['friendactivity'] = "Actividad de amigos";
+$LANGS['customizehomepage'] = "Personalizar página principal";
+$LANGS['customizethehomepage'] = "Personalizar la página principal";
+$LANGS['customizehomepagedesc'] = "Selecciona los módulos que quieres que aparezcan en tu página principal.";
+$LANGS['displaypreferences'] = "Preferencias de visualización";
+$LANGS['thefeed'] = "El feed";
+$LANGS['thefeeddesc'] = "combina todos tus módulos en un único feed.";
+$LANGS['friendactivitytitle'] = "Actividad de amigos: ¿pueden ver otros usuarios lo que hago?";
+$LANGS['friendactivitydesc'] = "Esta sección muestra a tus amigos confirmados las acciones que muestras de forma pública en tu historial de actividad. Por ejemplo, si añades un video como favorito, tu nuevo video favorito se mostrará en la caja de Actividad reciente de tu canal y en las páginas princiaples de tus amigos.";
+$LANGS['feedfeatured'] = "Video destacado";
+$LANGS['feedbeingwatched'] = "Video que se está viendo ahora";
+$LANGS['feedrecommended'] = "Video recomendado";
+$LANGS['nosubscriptions'] = "Aún no te has suscrito a ningún canal.";
+$LANGS['nosubscriptionsdesc'] = "Cuando te suscribas a algún canal, los nuevos videos subidos aparecerán en esta página.";
+$LANGS['nofriendactivity'] = "Aún no has añadido amigos.";
+$LANGS['nofriendactivitydesc'] = "Una vez hayas añadido amigos, esta página te mostrará sus puntuaciones de videos, favoritos, boletines y videos subidos más recientes.";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView de "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
