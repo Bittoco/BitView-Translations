@@ -95,22 +95,22 @@ $LANGS['personalize'] = 'Хотите персонализировать эту 
 $LANGS['signinnow'] = '<a href="/login">Войдите</a> или <a href="/signup">Зарегистрируйтесь</a> сейчас!';
 $LANGS['nowconverting'] = "Это видео конвертируется, подождите пару минут.";
 $LANGS['modules'] = "Добавить / Убрать Разделы";
-$LANGS['friendactivity'] = "Friend Activity";
-$LANGS['customizehomepage'] = "Customize Homepage";
-$LANGS['customizethehomepage'] = "Customize the Homepage";
-$LANGS['customizehomepagedesc'] = "Select the modules you want to see on your customized homepage.";
-$LANGS['displaypreferences'] = "Display Preferences";
-$LANGS['thefeed'] = "The Feed";
-$LANGS['thefeeddesc'] = "Combine all of your modules into a single feed.";
-$LANGS['friendactivitytitle'] = "Friend Activity - Can people see what I do?";
-$LANGS['friendactivitydesc'] = "This section shows your confirmed friends the actions that you're publicly broacasting in your recent activity history. For example, if you favorite a video, then your new favorite video might show up in your channel's Recent Activity box, as well as on your friends' homepages.";
-$LANGS['feedfeatured'] = "Featured Video";
-$LANGS['feedbeingwatched'] = "Video Being Watched Now";
-$LANGS['feedrecommended'] = "Recommended Video";
-$LANGS['nosubscriptions'] = "You haven't subscribed to any channel yet.";
-$LANGS['nosubscriptionsdesc'] = "When you add new subscriptions, we'll show their uploads here on this page.";
-$LANGS['nofriendactivity'] = "Your friends haven't been active lately.";
-$LANGS['nofriendactivitydesc'] = "You can try adding some friends. Then, we'll show their activity here on this page.";
+$LANGS['friendactivity'] = "Активность Друзей";
+$LANGS['customizehomepage'] = "Кастомизация Домашней страницы";
+$LANGS['customizethehomepage'] = "Кастомизировать Домашнюю страницу";
+$LANGS['customizehomepagedesc'] = "Выберите разделы, которые вы хотите видеть на вашей персонализированной домашней странице.";
+$LANGS['displaypreferences'] = "Настройки Отображения";
+$LANGS['thefeed'] = "Лента";
+$LANGS['thefeeddesc'] = "Объедините все ваши модули в единую ленту.";
+$LANGS['friendactivitytitle'] = "Активность друзей - могут ли люди видеть, что я делаю?";
+$LANGS['friendactivitydesc'] = "В этом разделе отображаются действия ваших друзей, о которых вы публично сообщаете в своей истории недавней активности. Например, если вам понравилось видео, то ваше новое любимое видео может появиться в окне последних действий вашего канала, а также на домашних страницах ваших друзей.";
+$LANGS['feedfeatured'] = "Добавил в избранное";
+$LANGS['feedbeingwatched'] = "Видео, которые смотрят прямо сейчас";
+$LANGS['feedrecommended'] = "Рекомендуемые Видео";
+$LANGS['nosubscriptions'] = "Вы ещё не подписались ни на один канал.";
+$LANGS['nosubscriptionsdesc'] = "Когда вы на кого-то подпишетесь, мы покажем их новые видео здесь, на этой странице.";
+$LANGS['nofriendactivity'] = "Ваши друзья в последнее время не проявляли активности.";
+$LANGS['nofriendactivitydesc'] = "Вы можете добавить несколько друзей. Затем мы покажем их активность здесь, на этой странице.";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -178,7 +178,7 @@ $LANGS['videoalreadyinpl'] = 'Это видео уже есть в этом пл
 $LANGS['plvideoremoved'] = 'Видео было удалено!';
 $LANGS['plinfochanged'] = 'Информация о плейлисте успешно изменена!';
 $LANGS['pltitleneeded'] = 'Вы должны дать плейлисту заголовок!';
-$LANGS['flashenabled'] = 'Adobe Flash Player включен!';
+$LANGS['flashenabled'] = 'Adobe Flash Player включён!';
 $LANGS['flashdisabled'] = 'Adobe Flash Player выключен!';
 $LANGS['messagesent'] = 'Сообщение успешно отправлено!';
 $LANGS['usernotexist'] = "Такого пользователя не существует!";
@@ -306,7 +306,7 @@ $LANGS['close'] = 'закрыть';
 $LANGS['addresponse'] = 'Добавить видеоответ';
 $LANGS['recentlyrated'] = 'Недавно оценённые';
 $LANGS['commentsdisabled'] = 'Добавление комментариев отключено для этого видео.';
-$LANGS['ratingsdisabled'] = 'Ratings disabled';
+$LANGS['ratingsdisabled'] = 'Рейтинги отключены';
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Все комментарии';
