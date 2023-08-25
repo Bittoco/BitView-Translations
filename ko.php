@@ -116,7 +116,7 @@ $LANGS['nofriendactivitydesc'] = "몇몇 친구를 추가해 보세요. 그럼 �
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['homeposttitle'] = "BitView"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['homeposttitle'] = " BitView "; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['chpretitle'] = ""; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['chposttitle'] = " 채널"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['signintitle'] = "로그인";
@@ -1200,13 +1200,13 @@ $LANGS['sharepvideo1'] = '친구와 가족이 비공개 동영상을 시청할 �
 $LANGS['sharechannellist1'] = '업로드한 BitView 동영상 목록을 보유하는 것은 매우 간단합니다. 웹사이트에 이 HTML 조각을 추가하면 됩니다.';
 
 /* TestView */
-$LANGS['testviewdesc'] = "Welcome to TestView, our ideas incubator. This is where BitView engineers and developers test out recipes and concoctions that aren't quite fully baked and invite you to tell us how they're coming along.";
-$LANGS['flashvideo'] = "Flash Video";
-$LANGS['flashvideodesc'] = "Your browser doesn't support HTML5 video? Don't worry! Try out our Flash player.";
-$LANGS['feather'] = "Feather";
-$LANGS['featherdesc'] = "View BitView videos on a super-low latency page.";
-$LANGS['tryitout'] = "Try it out";
-$LANGS['disabletest'] = "Disable";
+$LANGS['testviewdesc'] = "TestView에 오신 것을 환영합니다. 이곳은 BitView 엔지니어와 개발자들이 완전히 구워지지 않은 레시피와 혼합물을 시험하고, 그 진행 상황을 알려주시기를 초대하는 곳입니다.";
+$LANGS['flashvideo'] = "플래시 비디오";
+$LANGS['flashvideodesc'] = "당신의 브라우저가 HTML5 비디오를 지원하지 않나요? 걱정하지 마세요! 저희 플래시 플레이어를 시도해보세요.";
+$LANGS['feather'] = "깃털";
+$LANGS['featherdesc'] = "슈퍼 저지연 페이지에서 BitView 비디오를 시청하세요.";
+$LANGS['tryitout'] = "시도해보세요";
+$LANGS['disabletest'] = "비활성화";
 
 /* Footer */
 $LANGS['youraccount'] = '내 계정';
@@ -1223,12 +1223,12 @@ $LANGS['privacypolicy'] = '개인정보 보호 정책';
 $LANGS['currentlanguage'] = '현재 언어';
 $LANGS['showlanguages'] = '언어 표시';
 $LANGS['setlanguagepref'] = '언어 설정';
-$LANGS['programs'] = 'Programs';
-$LANGS['developers'] = 'Developers';
-$LANGS['bitviewblog'] = 'BitView Blog';
-$LANGS['policy'] = 'Policy';
-$LANGS['discover'] = 'Discover';
-$LANGS['bvphone'] = 'BitView on Your Phone';
-$LANGS['bvsite'] = 'BitView on Your Site';
-$LANGS['bvrss'] = 'BitView RSS Feeds';
-$LANGS['mobile'] = 'Mobile';
+$LANGS['programs'] = '프로그램';
+$LANGS['developers'] = '개발자';
+$LANGS['bitviewblog'] = 'BitView 블로그';
+$LANGS['policy'] = '정책';
+$LANGS['discover'] = '발견하기';
+$LANGS['bvphone'] = '당신의 핸드폰에서 BitView';
+$LANGS['bvsite'] = '당신의 사이트에서 BitView';
+$LANGS['bvrss'] = 'BitView RSS 피드';
+$LANGS['mobile'] = '모바일';
