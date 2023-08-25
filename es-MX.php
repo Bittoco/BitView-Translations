@@ -93,7 +93,7 @@ $LANGS['videocontest'] = '- Concurso de videos';
 $LANGS['joincontest'] = '¡Participa ya!';
 $LANGS['personalize'] = '¿Quieres personalizar esta página principal?';
 $LANGS['signinnow'] = '¡<a href="/login">Inicia sesión</a> o <a href="/signup">regístrate</a> ahora mismo!';
-$LANGS['nowconverting'] = "El vídeo se está procesando, espera unos minutos.";
+$LANGS['nowconverting'] = "El video se está procesando, espera unos minutos.";
 $LANGS['modules'] = "Agregar / Eliminar módulos";
 $LANGS['friendactivity'] = "Actividad de amigos";
 $LANGS['customizehomepage'] = "Personalizar página principal";
@@ -256,13 +256,13 @@ $LANGS['rating'] = 'calificación';
 $LANGS['favorite'] = 'Favoritos';
 $LANGS['addtofav'] = 'Agregar a favoritos';
 $LANGS['removefav'] = 'Eliminar de favoritos';
-$LANGS['favadded'] = 'Este vídeo se ha <strong>añadido</strong> a tus <a href="/my_favorites">favoritos</a>.';
-$LANGS['favremoved'] = 'Este vídeo se ha <strong>eliminado</strong> de tus <a href="/my_favorites">favoritos</a>.';
+$LANGS['favadded'] = 'Este video se ha <strong>añadido</strong> a tus <a href="/my_favorites">favoritos</a>.';
+$LANGS['favremoved'] = 'Este video se ha <strong>eliminado</strong> de tus <a href="/my_favorites">favoritos</a>.';
 $LANGS['undo'] = 'Deshacer';
 $LANGS['thanksforrating'] = '¡Gracias por calificar!';
 $LANGS['playlistdesc'] = 'Para agregar un video a tu lista de reproducción, entra en <a href="/my_playlists">"Listas de reproducción"</a>.';
 $LANGS['addtoplaylist'] = 'Añadir a lista de reproducción';
-$LANGS['addtoplaylistsuccess'] = 'El vídeo se ha añadido a tu lista de reproducción.';
+$LANGS['addtoplaylistsuccess'] = 'El video se ha añadido a tu lista de reproducción.';
 $LANGS['share'] = 'Compartir';
 $LANGS['flag'] = 'Marcar';
 $LANGS['flagthisvid'] = 'Marcar este video';
@@ -735,8 +735,8 @@ $LANGS['allowfriendcomments'] = "Sólo permitir comentarios de amigos";
 $LANGS['disablecomments'] = "No permitir comentarios";
 $LANGS['dateandmap'] = "Fecha y mapa";
 $LANGS['clear'] = "Borrar";
-$LANGS['allowratings'] = "Sí, permitir que otros usuarios puntúen este vídeo";
-$LANGS['dontallowratings'] = "No permitir que otros usuarios puntúen este vídeo";
+$LANGS['allowratings'] = "Sí, permitir que otros usuarios puntúen este video";
+$LANGS['dontallowratings'] = "No permitir que otros usuarios puntúen este video";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Creado";
@@ -762,7 +762,7 @@ $LANGS['createplaylist'] = "Crear lista";
 $LANGS['plpermalink'] = "Lista de reproducción/URL (enlace permanente):";
 $LANGS['sortcomments'] = "Comentarios";
 $LANGS['unsorted'] = "Sin ordenar";
-$LANGS['playallvideos'] = "Reproducir todos los vídeos";
+$LANGS['playallvideos'] = "Reproducir todos los videos";
 
 /* Inbox */
 $LANGS['compose'] = "Redactar";
@@ -1196,11 +1196,20 @@ $LANGS['sharepvideo1'] = 'Para que tus amigos y familiares puedan ver tus videos
     <b>También puedes agregar un amigo escribiendo su nombre de usuario en la caja de abajo:</b>';
 $LANGS['sharechannellist1'] = 'Tener todos tus videos de BitView en tu sitio web es muy fácil, simplemente añade el código HTML de abajo en tu página.';
 
+/* TestView */
+$LANGS['testviewdesc'] = 'Te damos la bienvenida a TestView, nuestra "incubadora" de ideas. Aquí es donde los desarrolladores e ingenieros de BitView prueban las recetas y las mezclas que aún están un poco crudas. Estás invitado a comentarnos qué te parecen.';
+$LANGS['flashvideo'] = "Video Flash";
+$LANGS['flashvideodesc'] = "¿Tu navegador no soporta HTML5? ¡No te preocupes! Prueba nuestro reproductor Flash.";
+$LANGS['feather'] = "Light";
+$LANGS['featherdesc'] = "Ver videos de BitView en una página de latencia muy baja.";
+$LANGS['tryitout'] = "Pruébalo";
+$LANGS['disabletest'] = "Deshabilitar";
+
 /* Footer */
 $LANGS['youraccount'] = 'Tu cuenta';
 $LANGS['inbox'] = 'Bandeja de entrada';
 $LANGS['footmore'] = 'más...';
-$LANGS['helpinfo'] = 'Ayuda e información';
+$LANGS['helpinfo'] = 'Ayuda';
 $LANGS['helpcenter'] = 'Obtén ayuda';
 $LANGS['ourtwitter'] = 'Nuestro Twitter';
 $LANGS['ourdiscord'] = 'Nuestro Discord';
@@ -1211,4 +1220,13 @@ $LANGS['privacypolicy'] = 'Política de privacidad';
 $LANGS['currentlanguage'] = 'Idioma actual';
 $LANGS['showlanguages'] = 'Mostrar idiomas';
 $LANGS['setlanguagepref'] = 'Establecer preferencia de idioma';
+$LANGS['programs'] = 'Programas';
+$LANGS['developers'] = 'Desarrolladores';
+$LANGS['bitviewblog'] = 'Blog de BitView';
+$LANGS['policy'] = 'Política';
+$LANGS['discover'] = 'Descubrir';
+$LANGS['bvphone'] = 'BitView en tu teléfono';
+$LANGS['bvsite'] = 'BitView en tu sitio';
+$LANGS['bvrss'] = 'Canales RSS de BitView';
+$LANGS['mobile'] = 'Móvil';
 ?>

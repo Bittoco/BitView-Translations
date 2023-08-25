@@ -1158,7 +1158,18 @@ $LANGS['sharevideo2'] = 'Tu će te vidjeti dva načina kako možete vaš videoza
 $LANGS['sharevideo3'] = '1. <b>Videozpisni URL</b>: Ovaj URL će vas poslati direktno do BitView stranicu i automatski će pokrenuti videozapis. Pošaljite link nekome preko E-Pošte ili poruke.';
 $LANGS['sharevideo4'] = '2. <b>Zaljepite</b>: Kopirajte HTML koji je ispod na vašoj stranici i vaš BitView videozapis će biti tu postavljen. Neće automatski biti pušten, već će te morati daga sami pustite ako ga želite pokrenuti. Zamjenite <i>"XXXXX"</i> sa ID-om vašeg Videozapisa.'; 
 $LANGS['sharepvideo1'] = "Ako želite da vam prijatelji i obitelj može gleda vaše privatne videozapise oni moraju svi prvo imati BitView račun. Nakon što saznate ime računa, odite na njihov kanal i pritisnite <i>Dodajte kao Prijatelja</i> dugme na desnoj strani. Nakon toga će oni morati potvrditi poziv prijateljsvta i moći će vidjeti vaše privatne videozapise.<br><b>Možete također dodati nekog kao prijatelja tako što upišete njohovo korisničo ime ispod:</b>";
-$LANGS['sharechannellist1'] = 'Ako želit imati listu svih vaših postavljenih BitView videozapisa, dodajte ovaj dio HTML-a na vašoj stranici.'; /* Footer */
+$LANGS['sharechannellist1'] = 'Ako želit imati listu svih vaših postavljenih BitView videozapisa, dodajte ovaj dio HTML-a na vašoj stranici.'; 
+
+/* TestView */
+$LANGS['testviewdesc'] = "Welcome to TestView, our ideas incubator. This is where BitView engineers and developers test out recipes and concoctions that aren't quite fully baked and invite you to tell us how they're coming along.";
+$LANGS['flashvideo'] = "Flash Video";
+$LANGS['flashvideodesc'] = "Your browser doesn't support HTML5 video? Don't worry! Try out our Flash player.";
+$LANGS['feather'] = "Feather";
+$LANGS['featherdesc'] = "View BitView videos on a super-low latency page.";
+$LANGS['tryitout'] = "Try it out";
+$LANGS['disabletest'] = "Disable";
+
+/* Footer */
 $LANGS['youraccount'] = 'Vaš Račun';
 $LANGS['inbox'] = 'Pošta';
 $LANGS['footmore'] = 'više...';
@@ -1173,4 +1184,13 @@ $LANGS['privacypolicy'] = 'Pravila Privatnosti';
 $LANGS['currentlanguage'] = 'Trenutni Jezik'; 
 $LANGS['showlanguages'] = 'Pokaži jezike'; 
 $LANGS['setlanguagepref'] = 'Odaberite Jezik';
+$LANGS['programs'] = 'Programs';
+$LANGS['developers'] = 'Developers';
+$LANGS['bitviewblog'] = 'BitView Blog';
+$LANGS['policy'] = 'Policy';
+$LANGS['discover'] = 'Discover';
+$LANGS['bvphone'] = 'BitView on Your Phone';
+$LANGS['bvsite'] = 'BitView on Your Site';
+$LANGS['bvrss'] = 'BitView RSS Feeds';
+$LANGS['mobile'] = 'Mobile';
 ?>

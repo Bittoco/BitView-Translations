@@ -1196,11 +1196,20 @@ $LANGS['sharevideo4'] = '2. <b>Einbetten</b>: Kopieren Sie den HTML-Code unten a
 $LANGS['sharepvideo1'] = "Damit Freunde und Familie Ihre privaten Videos ansehen können, müssen sie zunächst über ein BitView-Konto verfügen. Nachdem Sie den Kontonamen kennen, gehen Sie zu ihrem Kanal und klicken Sie auf <i>Hinzufügen als Klicken Sie rechts auf die Schaltfläche „Freund“</i>. Jetzt müssen sie nur noch die Freundschaftsanfrage genehmigen und können Ihre privaten Videos ansehen.<br><b>Sie können einen Freund auch hinzufügen, indem Sie unten einfach seinen Benutzernamen eingeben :</b>";
 $LANGS['sharechannellist1'] = 'Eine Liste aller Ihrer hochgeladenen BitView-Videos zu haben ist sehr einfach, fügen Sie einfach dieses HTML-Snippet zu Ihrer Website hinzu.';
 
+/* TestView */
+$LANGS['testviewdesc'] = "Welcome to TestView, our ideas incubator. This is where BitView engineers and developers test out recipes and concoctions that aren't quite fully baked and invite you to tell us how they're coming along.";
+$LANGS['flashvideo'] = "Flash Video";
+$LANGS['flashvideodesc'] = "Your browser doesn't support HTML5 video? Don't worry! Try out our Flash player.";
+$LANGS['feather'] = "Feather";
+$LANGS['featherdesc'] = "View BitView videos on a super-low latency page.";
+$LANGS['tryitout'] = "Try it out";
+$LANGS['disabletest'] = "Disable";
+
 /* Footer */
 $LANGS['youraccount'] = 'Dein Account';
 $LANGS['inbox'] = 'Posteingang';
 $LANGS['footmore'] = 'mehr...';
-$LANGS['helpinfo'] = 'Hilfe & Info';
+$LANGS['helpinfo'] = 'Hilfe';
 $LANGS['helpcenter'] = 'Hilfe';
 $LANGS['ourtwitter'] = 'Unser Twitter';
 $LANGS['ourdiscord'] = 'Unser Discord';
@@ -1211,4 +1220,13 @@ $LANGS['privacypolicy'] = 'Datenschutzbestimmungen';
 $LANGS['currentlanguage'] = 'Aktuelle Sprache';
 $LANGS['showlanguages'] = 'Sprachen anzeigen';
 $LANGS['setlanguagepref'] = 'Sprache ändern';
+$LANGS['programs'] = 'Programs';
+$LANGS['developers'] = 'Developers';
+$LANGS['bitviewblog'] = 'BitView Blog';
+$LANGS['policy'] = 'Policy';
+$LANGS['discover'] = 'Discover';
+$LANGS['bvphone'] = 'BitView on Your Phone';
+$LANGS['bvsite'] = 'BitView on Your Site';
+$LANGS['bvrss'] = 'BitView RSS Feeds';
+$LANGS['mobile'] = 'Mobile';
 ?>

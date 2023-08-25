@@ -1194,11 +1194,20 @@ $LANGS['sharevideo4'] = '2. <b>Embed</b>: Copy the HTML below onto yews website 
 $LANGS['sharepvideo1'] = "To ave babbers and familee be able to watch yews private videos they must first of all have a BitView account. After yew know the account name, go to their channel and click the <i>Add me Babber</i> button on the right. Now they just need to approve the friend request and they'll be all set to view yews private videos.<br><b>You can also add a friend by simply entering their username below:</b>";
 $LANGS['sharechannellist1'] = 'Aving a list of all yews uploaded BitView videos is very simple, just add this HTML snippet to yews website.';
 
+/* TestView */
+$LANGS['testviewdesc'] = "Welcome to TestView, our ideas incubator. This is where BitView engineers and developers test out recipes and concoctions that aren't quite fully baked and invite you to tell us how they're coming along.";
+$LANGS['flashvideo'] = "Flash Video";
+$LANGS['flashvideodesc'] = "Your browser doesn't support HTML5 video? Don't worry! Try out our Flash player.";
+$LANGS['feather'] = "Feather";
+$LANGS['featherdesc'] = "View BitView videos on a super-low latency page.";
+$LANGS['tryitout'] = "Try it out";
+$LANGS['disabletest'] = "Disable";
+
 /* Footer */
 $LANGS['youraccount'] = 'Yews Account';
 $LANGS['inbox'] = 'Inbox';
 $LANGS['footmore'] = 'more...';
-$LANGS['helpinfo'] = 'Help & Info';
+$LANGS['helpinfo'] = 'Help';
 $LANGS['helpcenter'] = 'Get Elp';
 $LANGS['ourtwitter'] = 'Our Twitter';
 $LANGS['ourdiscord'] = 'Our Discord';
@@ -1209,4 +1218,13 @@ $LANGS['privacypolicy'] = 'Privacy Policy';
 $LANGS['currentlanguage'] = 'Current Language';
 $LANGS['showlanguages'] = 'Show languages';
 $LANGS['setlanguagepref'] = 'Set Your Language Preference';
+$LANGS['programs'] = 'Programs';
+$LANGS['developers'] = 'Developers';
+$LANGS['bitviewblog'] = 'BitView Blog';
+$LANGS['policy'] = 'Policy';
+$LANGS['discover'] = 'Discover';
+$LANGS['bvphone'] = 'BitView on Your Phone';
+$LANGS['bvsite'] = 'BitView on Your Site';
+$LANGS['bvrss'] = 'BitView RSS Feeds';
+$LANGS['mobile'] = 'Mobile';
 ?>

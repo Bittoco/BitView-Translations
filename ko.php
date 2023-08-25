@@ -1199,6 +1199,15 @@ $LANGS['sharevideo4'] = '2. <b>삽입</b>: 아래의 HTML 코드를 복사하여
 $LANGS['sharepvideo1'] = '친구와 가족이 비공개 동영상을 시청할 수 있도록 하려면 먼저 BitView 계정이 있어야 합니다. 계정 이름을 알고 있다면, 그들의 채널로 이동하여 오른쪽에 있는 <i>"친구로 추가"</i> 버튼을 클릭하세요. 이제 그들은 친구 요청을 승인하기만 하면 비공개 동영상을 시청할 수 있게 됩니다.<br><b>또는 단순히 아래에 사용자 이름을 입력하여 친구를 추가할 수도 있습니다:</b>';
 $LANGS['sharechannellist1'] = '업로드한 BitView 동영상 목록을 보유하는 것은 매우 간단합니다. 웹사이트에 이 HTML 조각을 추가하면 됩니다.';
 
+/* TestView */
+$LANGS['testviewdesc'] = "Welcome to TestView, our ideas incubator. This is where BitView engineers and developers test out recipes and concoctions that aren't quite fully baked and invite you to tell us how they're coming along.";
+$LANGS['flashvideo'] = "Flash Video";
+$LANGS['flashvideodesc'] = "Your browser doesn't support HTML5 video? Don't worry! Try out our Flash player.";
+$LANGS['feather'] = "Feather";
+$LANGS['featherdesc'] = "View BitView videos on a super-low latency page.";
+$LANGS['tryitout'] = "Try it out";
+$LANGS['disabletest'] = "Disable";
+
 /* Footer */
 $LANGS['youraccount'] = '내 계정';
 $LANGS['inbox'] = '수신함';
@@ -1214,3 +1223,12 @@ $LANGS['privacypolicy'] = '개인정보 보호 정책';
 $LANGS['currentlanguage'] = '현재 언어';
 $LANGS['showlanguages'] = '언어 표시';
 $LANGS['setlanguagepref'] = '언어 설정';
+$LANGS['programs'] = 'Programs';
+$LANGS['developers'] = 'Developers';
+$LANGS['bitviewblog'] = 'BitView Blog';
+$LANGS['policy'] = 'Policy';
+$LANGS['discover'] = 'Discover';
+$LANGS['bvphone'] = 'BitView on Your Phone';
+$LANGS['bvsite'] = 'BitView on Your Site';
+$LANGS['bvrss'] = 'BitView RSS Feeds';
+$LANGS['mobile'] = 'Mobile';

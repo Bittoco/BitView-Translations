@@ -1194,6 +1194,15 @@ $LANGS['sharevideo4'] = "2. <b>Incorpora</b>: copia il codice HTML riportato di 
 $LANGS['sharepvideo1'] = "Per fare in modo che amici e familiari possano guardare i tuoi video privati, devono prima di tutto avere un account BitView. Dopo aver conosciuto il nome dell'account, vai al loro canale e clicca su <i>Aggiungi come Amico</i> sulla destra. Ora devono solo approvare la richiesta di amicizia e saranno pronti a visualizzare i tuoi video privati.<br><b>Puoi anche aggiungere un amico semplicemente inserendo il suo nome utente di seguito:</b>";
 $LANGS['sharechannellist1'] = 'Avere un elenco di tutti i tuoi video BitView caricati è molto semplice, basta aggiungere questo snippet HTML al tuo sito web.';
 
+/* TestView */
+$LANGS['testviewdesc'] = "Welcome to TestView, our ideas incubator. This is where BitView engineers and developers test out recipes and concoctions that aren't quite fully baked and invite you to tell us how they're coming along.";
+$LANGS['flashvideo'] = "Flash Video";
+$LANGS['flashvideodesc'] = "Your browser doesn't support HTML5 video? Don't worry! Try out our Flash player.";
+$LANGS['feather'] = "Feather";
+$LANGS['featherdesc'] = "View BitView videos on a super-low latency page.";
+$LANGS['tryitout'] = "Try it out";
+$LANGS['disabletest'] = "Disable";
+
 /* Footer */
 $LANGS['youraccount'] = 'Il tuo Account';
 $LANGS['inbox'] = 'Posta in arrivo';
@@ -1209,3 +1218,13 @@ $LANGS['privacypolicy'] = 'Informativa sulla privacy';
 $LANGS['currentlanguage'] = 'Lingua corrente';
 $LANGS['showlanguages'] = 'Mostra lingue';
 $LANGS['setlanguagepref'] = 'Imposta la tua lingua preferita';
+$LANGS['programs'] = 'Programs';
+$LANGS['developers'] = 'Developers';
+$LANGS['bitviewblog'] = 'BitView Blog';
+$LANGS['policy'] = 'Policy';
+$LANGS['discover'] = 'Discover';
+$LANGS['bvphone'] = 'BitView on Your Phone';
+$LANGS['bvsite'] = 'BitView on Your Site';
+$LANGS['bvrss'] = 'BitView RSS Feeds';
+$LANGS['mobile'] = 'Mobile';
+?>
