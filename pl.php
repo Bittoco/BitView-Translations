@@ -1198,13 +1198,13 @@ $LANGS['sharepvideo1'] = "Aby przyjaciele i rodzina mogli oglądać twoje prywat
 $LANGS['sharechannellist1'] = 'Posiadanie listy wszystkich przesłanych filmów z BitView jest bardzo proste, po prostu dodaj ten fragment HTML do swojej strony internetowej.';
 
 /* TestView */
-$LANGS['testviewdesc'] = "Welcome to TestView, our ideas incubator. This is where BitView engineers and developers test out recipes and concoctions that aren't quite fully baked and invite you to tell us how they're coming along.";
-$LANGS['flashvideo'] = "Flash Video";
-$LANGS['flashvideodesc'] = "Your browser doesn't support HTML5 video? Don't worry! Try out our Flash player.";
-$LANGS['feather'] = "Feather";
-$LANGS['featherdesc'] = "View BitView videos on a super-low latency page.";
-$LANGS['tryitout'] = "Try it out";
-$LANGS['disabletest'] = "Disable";
+$LANGS['testviewdesc'] = "Witaj w TestView, naszym inkubatorze pomysłów. To tutaj inżynierowie i programiści BitView testują przepisy i mikstury, które nie są jeszcze w pełni upieczone, i proszą Cię o podzielenie się opinią na ich temat.";
+$LANGS['flashvideo'] = "Flash Player";
+$LANGS['flashvideodesc'] = "Twoja przeglądarka nie obsługuje wideo HTML5? Nie martw się! Wypróbuj nasz odtwarzacz Flash Player.";
+$LANGS['feather'] = "Pióro";
+$LANGS['featherdesc'] = "Oglądaj wideo na BitView na stronie o super niskiej opóźnieniu.";
+$LANGS['tryitout'] = "Wypróbuj to";
+$LANGS['disabletest'] = "Wyłącz";
 
 /* Footer */
 $LANGS['youraccount'] = 'Twoje konto';
@@ -1221,13 +1221,13 @@ $LANGS['privacypolicy'] = 'Polityka prywatności';
 $LANGS['currentlanguage'] = 'Obecny język';
 $LANGS['showlanguages'] = 'Pokaż języki';
 $LANGS['setlanguagepref'] = 'Ustaw preferowany język';
-$LANGS['programs'] = 'Programs';
-$LANGS['developers'] = 'Developers';
-$LANGS['bitviewblog'] = 'BitView Blog';
-$LANGS['policy'] = 'Policy';
-$LANGS['discover'] = 'Discover';
-$LANGS['bvphone'] = 'BitView on Your Phone';
-$LANGS['bvsite'] = 'BitView on Your Site';
-$LANGS['bvrss'] = 'BitView RSS Feeds';
-$LANGS['mobile'] = 'Mobile';
+$LANGS['programs'] = 'Programy';
+$LANGS['developers'] = 'Dla programistów';
+$LANGS['bitviewblog'] = 'Blog BitView';
+$LANGS['policy'] = 'Polityka';
+$LANGS['discover'] = 'Odkrywaj';
+$LANGS['bvphone'] = 'BitView na Twoim telefonie';
+$LANGS['bvsite'] = 'BitView na Twojej stronie';
+$LANGS['bvrss'] = 'Kanały RSS BitView';
+$LANGS['mobile'] = 'Mobilne';
 ?>
