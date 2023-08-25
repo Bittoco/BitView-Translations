@@ -1124,7 +1124,7 @@ $LANGS['cgtitle1'] = 'Szanuj Społeczność BitView';
 $LANGS['cgtitle2'] = 'Nie Przekraczaj Granicy';
 $LANGS['cgtitle3'] = 'Egzekwujemy Te Wytyczne';
 $LANGS['cgtitle4'] = 'BitView Jest Dla Społeczności';
-$LANGS['cgtitle5'] = 'BitView Jest Dla Społeczności';
+$LANGS['cgtitle5'] = 'Wskazówki Dotyczące Zasad Społeczności';
 $LANGS['cgdesc1'] = 'Nie prosimy o ten rodzaj szacunku, który jest zastrzeżony dla zakonnic, osób starszych i neurochirurgów. Chodzi nam o to, aby nie nadużywać witryny. Każda nowa, fajna funkcja społecznościowa na BitView wymaga pewnego poziomu zaufania. Wierzymy, że będziesz odpowiedzialny, a miliony użytkowników szanują to zaufanie. Prosimy, abyś był jednym z nich.';
 $LANGS['cgdesc2'] = 'Oto kilka zasad zdrowego rozsądku, które pomogą Ci uniknąć kłopotów:';
 $LANGS['cgdesc3'] = 'Prosimy, abyś traktował te zasady poważnie i wziął je do serca. Nie próbuj szukać luk w przepisach ani nie kombinuj, jakbyś był prawnikiem, aby ominąć wytyczne — po prostu je zrozum i staraj się szanować ducha, w jakim zostały stworzone. Jeśli chcesz uzyskać więcej informacji, zajrzyj do naszych <a href="#tips">Wskazówek dotyczących Zasad Społeczności</a>.';
