@@ -1118,24 +1118,54 @@ $LANGS['abouthelp'] = 'Para conocer más sobre nuestro servicio, consulta nuestr
 $LANGS['aboutmail'] = 'Siéntete libre de <a href="mailto:contact@vidlii.co">contactarnos</a>.';
 
 /* Community Guidelines */
-$LANGS['bvguidelines'] = 'Instrucciones de la comunidad de BitView';
-$LANGS['aboutguidelines'] = 'Sobre las normas de la comunidad de BitView';
-$LANGS['aboutguidelinesdesc'] = "Las normas de BitView son autoexplicativas y fáciles de entender. Intentan abarcar a todo el mundo. Síguelas, ¡y no te meterás en ningún problema!";
-$LANGS['therules'] = 'Las normas';
-$LANGS['rule1'] = "Está prohibido publicar videos que contengan actos sexuales. ¡Lo mismo aplica de forma animada!";
-$LANGS['rule2'] = "Está prohibido hacer spam en perfiles, comentarios, mensajes o notificaciones.";
-$LANGS['rule3'] = "Está prohibido publicar contenido que muestre ideologías extremistas de forma positiva.";
-$LANGS['rule4'] = "Está prohibido el uso de nombres de usuario o subir videos que promuevan odio dirigido hacia un individuo o grupo de individuos.";
-$LANGS['rule5'] = "Está prohibido publicar videos o usar imágenes que contengan contenido gráfico, incluyendo: torturas, suicidios, decapitaciones, tiroteos, asesinatos, aplastamiento de cosas conscientes y desgarros de piel. Publicar contenido animado violento está permitido siempre que no llegue a ser realista.";
-$LANGS['rule6'] = "Está prohibido publicar videos que contengan abuso hacia animales.";
-$LANGS['rule7'] = "Está prohibido publicitar servicios o sitios web en forma de video o comentario.";
-$LANGS['rule8'] = "Está prohibido intentar entrar a una cuenta que no posees por la fuerza.";
-$LANGS['rule9'] = "Está prohibido usar más de una cuenta para calificar videos, comentarios, o suscribirte a ti mismo.";
-$LANGS['rule10'] = "Está prohibido evadir una suspensión de cuenta. Cada nueva cuenta creada por la persona suspendida será eliminada automáticamente.";
-$LANGS['rule11'] = "Está prohibido compartir tus credenciales de incio de sesión.";
-$LANGS['enforceguidelines'] = "Hacemos cumplir estas normas";
-$LANGS['enforceguidelinesdesc'] = "Esto se trata más de nosotros. El equipo de BitView revisa los videos marcados sobre una vez al año para determinar si incumplen nuestras Instrucciones de la comunidad. 
-<br>Cuando ese es el caso, los borramos, y aplicamos una penalización, suspendiendo las cuentas en casos reincidentes o serios. <br>No intentes encontrar vacíos ni escaquearte de cumplir estas simples normas.";
+$LANGS['bvguidelines'] = 'BitView Community Guidelines';
+$LANGS['cgtitle1'] = 'Respect the BitView Community';
+$LANGS['cgtitle2'] = "Don't Cross the Line";
+$LANGS['cgtitle3'] = 'We Enforce These Guidelines';
+$LANGS['cgtitle4'] = 'BitView is for the Community';
+$LANGS['cgtitle5'] = 'BitView is for the Community';
+$LANGS['cgdesc1'] = "We're not asking for the kind of respect reserved for nuns, the elderly, and brain surgeons. We mean don't abuse the site. Every cool new community feature on BitView involves a certain level of trust. We trust you to be responsible, and millions of users respect that trust. Please be one of them.";
+$LANGS['cgdesc2'] = "Here are some common-sense rules that will help you steer clear of trouble:";
+$LANGS['cgdesc3'] = "Please take these rules seriously and take them to heart. Don't try to look for loopholes or try to lawyer your way around the guidelines — just understand them and try to respect the spirit in which they were created. If you'd like more details, check out our <a href='#tips'>Community Guideline Tips</a>.";
+$LANGS['cgdesc4'] = "Okay, this one is more about us than you. BitView staff review flagged videos 24 hours a day, seven days a week to determine whether they violate our Community Guidelines. When they do, we remove them. Sometimes a video doesn’t violate our Community Guidelines, but may not be appropriate for everyone. These videos may be age-restricted. Accounts are penalized for Community Guidelines violations and serious or repeated violations can lead to account termination. If your account is terminated, you won’t be allowed to create any new accounts. For more information about how the Community Guidelines are enforced and the consequences of violating them, please visit the <a href='/help'>Help Center</a>.";
+$LANGS['cgdesc5'] = "Remember that this is your community! Each and every  user of BitView makes the site what it is, so don't be afraid to dig in and get involved!";
+$LANGS['cgdesc6'] = "That's it! Thanks for reading!";
+$LANGS['cgdesc7'] = "Want a little more insight into the limits and exceptions in the Community Guidelines? Here are some helpful examples and tips:";
+$LANGS['rule1'] = "BitView is not for pornography or sexually explicit content. If this describes your video, even if it's a video of yourself, don't post it on BitView. Also, be advised that we work closely with law enforcement and we report child exploitation.";
+$LANGS['rule2'] = "Don't post videos showing bad stuff like animal abuse, drug abuse, under-age drinking and smoking, or bomb making.";
+$LANGS['rule3'] = "Graphic or gratuitous violence is not allowed. If your video shows someone being physically hurt, attacked, or humiliated, don't post it.";
+$LANGS['rule4'] = "BitView is not a shock site. Don't post gross-out videos of accidents, dead bodies or similar things intended to shock or disgust.";
+$LANGS['rule5'] = "Respect copyright. Only upload videos that you made or that you are authorized to use. This means don't upload videos you didn't make, or use content in your videos that someone else owns the copyright to, such as music tracks, snippets of copyrighted programs, or videos made by other users, without necessary authorizations.";
+$LANGS['rule6'] = "We encourage free speech and defend everyone's right to express unpopular points of view. But we don't permit hate speech (speech which attacks or demeans a group based on race or ethnic origin, religion, disability, gender, age, veteran status, and sexual orientation/gender identity). This also applies to the promotion of extremist ideologies in a positive light.";
+$LANGS['rule7'] = "Things like predatory behavior, stalking, threats, harassment, intimidation, invading privacy, revealing other people’s personal information, and inciting others to commit violent acts or to violate the Terms of Use are taken very seriously. Anyone caught doing these things may be permanently banned from BitView.";
+$LANGS['rule8'] = "Everyone hates spam. Don’t create misleading descriptions, tags, titles or thumbnails in order to increase views. It's not okay to post large amounts of untargeted, unwanted or repetitive content, including comments and private messages.";
+$LANGS['rule9'] = "Let's keep the website safe. Don't try to brute force an account you do not own. Moreover, sharing an account's login information publicly is not allowed.";
+$LANGS['rule10'] = "Multi-accounts suck. We want genuine numbers on videos and channels. Don't use more than one account to rate videos and/or comments. You are not allowed to use multiple accounts to subscribe to yourself either.";
+$LANGS['rule11'] = "Did you break one of this rules and your account has been suspended? It goes without saying that evading this punishment is not accepted. Every new account that has been created by a suspended person will be automatically deleted.";
+$LANGS['cglist1'] = "Have fun with the site. There's a lot to see here, and lots of folks making amazing stuff — one of them might be you! Equipment's getting cheaper and easier to use all the time, so dive in and enjoy.";
+$LANGS['cglist2'] = "Let folks know what you think. Feedback's part of the experience, and when done with respect, can be a great way to make friends, share stories, and make your time on BitView richer. So leave comments, rate videos, make your own responses to videos that affect you, enter contests of interest — there's a lot going on and a lot of ways to participate.";
+$LANGS['cglist3'] = "You may not like everbvhing you see. Some of the content here may offend you — if you find that it violates our Terms of Use, then click the button that says &quot;Flag&quot; under the video you're watching to submit it for review by BitView staff. If it doesn't, then consider just clicking on something else — why waste time watching videos you don't like?";
+$LANGS['thebitviewteam'] = "— The BitView Team";
+$LANGS['cgcat1'] = "Sex and Nudity";
+$LANGS['cgcat2'] = "Hate Speech";
+$LANGS['cgcat3'] = "Shocking and Disgusting";
+$LANGS['cgcat4'] = "Dangerous Illegal Acts";
+$LANGS['cgcat5'] = "Children";
+$LANGS['cgcat6'] = "Copyright";
+$LANGS['cgcat7'] = "Privacy";
+$LANGS['cgcat8'] = "Harassment";
+$LANGS['cgcat9'] = "Impersonation";
+$LANGS['cgcat10'] = "Threats";
+$LANGS['cgcat1desc'] = "Most nudity is not allowed, particularly if it is in a sexual context. Generally if a video is intended to be sexually provocative, it is less likely to be acceptable for BitView. There are exceptions for some educational, documentary and scientific content, but only if that is the sole purpose of the video and it is not gratuitously graphic. For example, a documentary on breast cancer would be appropriate, but posting clips out of context from the documentary might not be. This also applies for animated content.";
+$LANGS['cgcat2desc'] = 'Hate speech" refers to content that promotes hatred against members of a protected group. For instance, racist or sexist content may be considered hate speech. Sometimes there is a fine line between what is and what is not considered hate speech. For instance, it is generally okay to criticize a nation, but not okay to make insulting generalizations about people of a particular nationality.';
+$LANGS['cgcat3desc'] = "The world is a dangerous place. Sometimes people do get hurt and it’s inevitable that these events may be documented on BitView. However, it’s not okay to post violent or gory content that’s primarily intended to be shocking, sensational or disrespectful. If a video is particularly graphic or disturbing, it should be balanced with additional context and information. For instance, including a clip from a slaughter house in a video on factory farming may be appropriate. However, stringing together unrelated and gruesome clips of animals being slaughtered in a video may be considered gratuitous if its purpose is to shock rather than illustrate.";
+$LANGS['cgcat4desc'] = "While it might not seem fair to say you can’t show something because of what viewers theoretically might do in response, we draw the line at content that’s intended to incite violence or encourage dangerous, illegal activities that have an inherent risk of serious physical harm or death. This means not posting videos on things like instructional bomb making, ninja assassin training, sniper attacks, videos that train terrorists, or tips on illegal street racing. Any depictions like these should be educational or documentary and shouldn’t be designed to help or encourage others to imitate them.";
+$LANGS['cgcat5desc'] = "Videos involving children (anyone under the age of 18) are particularly sensitive. Videos containing children should never be sexually suggestive or violent. Please be cautious when posting something involving a child. If you’re sharing a private moment or home movie, consider making it a private video so that only your family and friends can see it. Moreover, by agreeing to the <a href='/terms'>Terms of Use</a>, you affirm that you are over the age of 13. Accounts belonging to underage users will be suspended.";
+$LANGS['cgcat6desc'] = "When you create something original, you own the copyright for it. Likewise, when other people create content, they may have a copyright to it. As a creative community, it’s essential that everyone on BitView respect the copyrights of others. If you’re not sure if something will violate someone’s copyright, the safest thing to do is to create something completely original, with images and audio you’ve created. If it’s all yours you never have to worry about copyright — you own it. If you’ve recorded something from a DVD, videotaped your TV screen, or downloaded a video online, don’t post it unless you have permission.";
+$LANGS['cgcat7desc'] = "If a video you've recorded features people who are readily identifiable and who haven't consented to being filmed, there's a chance they'll file a privacy complaint seeking its removal. We'll notify you if that happens and give you a chance to edit and re-upload your video before we act on the complaint. If we do remove your video for privacy reasons, don't upload another version featuring the same people. Chances are those people will file another privacy complaint or report you for harassment. Don't post other people's personal information, including phone numbers, addresses, credit card numbers, and government IDs. We're serious about keeping our users safe and suspend accounts that violate people's privacy.";
+$LANGS['cgcat8desc'] = "It comes down to respect. BitView is all about sharing and interacting with the community in respectful ways. If you're not sure whether a video or comment you've made crosses the line, follow a simple rule of thumb: if you wouldn't say it to someone's face, don't say it on BitView. And if you're looking to attack, harass, demean, or impersonate others, go elsewhere.";
+$LANGS['cgcat9desc'] = "Impersonating another user by copying someone's exact channel layout, using a similar username, or posing as that person in comments, emails or videos is considered harassment. If you want to keep your account, stay away from participating in any form of impersonation or harassing activity on the site.";
+$LANGS['cgcat10desc'] = "Users shouldn't feel threatened when they're on BitView. Period. Don't leave threatening comments on other people's videos.";
 
 /* Contests */
 $LANGS['monthlycontest'] = "Concurso mensual";
@@ -1184,17 +1214,41 @@ $LANGS['activate'] = 'Activar';
 $LANGS['deactivate'] = 'Desactivar';
 $LANGS['flashdisclaimer'] = "<b>Nota:</b> Ofrecemos el reproductor de BitView que usa Adobe Flash como una solución de compatibilidad. Si tu navegador soporta HTML5, no actives esta opción.";
 
-/* Share */
-$LANGS['sharevideo'] = '¿Cómo comparto un video normal de BitView?';
-$LANGS['sharepvideo'] = '¿Cómo comparto un video privado con mis amigos?';
-$LANGS['sharechannellist'] = '¿Cómo muestro mis videos de BitView en mi página web?';
-$LANGS['sharevideo1'] = 'Primero, entra en el video que quieres compartir. Busca la caja a la derecha del reproductor.';
-$LANGS['sharevideo2'] = 'Allí verás dos formas de compartir tu video:';
-$LANGS['sharevideo3'] = '1. <b>Enlace del video</b>: Este enlace te mostrará la página de BitView y te reproducirá automáticamente el video. Envíalo a alguien vía chat o correo electrónico.';
-$LANGS['sharevideo4'] = '2. <b>Insertar</b>: Copia el HTML de abajo a tu página web y el reproductor de BitVire aparecerá allí. No se reproducirá automáticamente y el usuario tendrá que hacer clic para reproducir. Reemplaza el <i>"XXXXX"</i> con el ID del video.';
-$LANGS['sharepvideo1'] = 'Para que tus amigos y familiares puedan ver tus videos privados necesitan una cuenta de BitView. Si sabes el nombre de usuario, vas a sus canales y pulsas "Agregar como amigo". Ahora solo tienen que aceptar esta solicitud y podrán ver tus videos privados.<br/>
-    <b>También puedes agregar un amigo escribiendo su nombre de usuario en la caja de abajo:</b>';
-$LANGS['sharechannellist1'] = 'Tener todos tus videos de BitView en tu sitio web es muy fácil, simplemente añade el código HTML de abajo en tu página.';
+/* BitView on your site */
+$LANGS['bvsitetitle1'] = "The Basics";
+$LANGS['bvsitetitle2'] = "APIs and User Engagement";
+$LANGS['bvsitedesc1'] = 'Whatever presence you have on the Internet—a large website, a blog, a social network page, or pretty much anbvhing else—there are many ways to integrate BitView into it. From simple video embeds to our full-powered APIs, you can integrate video at all levels of technical expertise.';
+$LANGS['bvsitedesc2'] = 'Bringing BitView to your site is more than just adding some of the thousands of videos available on BitView. It keeps your visitors interested and allows self-expression and interaction with one of their favorite services. And it brings your site, blog, or page into the BitView video community — an international network of users, creators, and sites connected through a huge collection of online videos.';
+$LANGS['bvsitedesc3'] = "We've highlighted some typical ways of integrating video content below — just click the arrow next to the question to get the answer. If you have any questions or suggestions, or projects that you would like us to know about, please leave the questions in our <a href='https://discord.gg/wgGaqCmwuQ'>Discord server</a>.";
+$LANGS['bvsitesectiontitle1'] = "How do I add a video to my blog or web page?";
+$LANGS['bvsitesectiontitle2'] = "How do I add a video to my social network page?";
+$LANGS['bvsitesectiontitle3'] = "I work for a large blog/web company. How can video increase user engagement on our site?";
+$LANGS['bvsitesectiontitle4'] = "We have a site and we have our own videos. Can we post these on our site using BitView?";
+$LANGS['bvsitesection1desc1'] = "You'll need to edit the HTML of your blog entry or page—this should be relatively straightforward. In Blogger, for example, just click the &quot;Edit HTML&quot; tab.";
+$LANGS['bvsitesection1desc2'] = "Next, go to the video that you want, and look for the 'Embed' box in the &quot;About This Video&quot; section. Copying the HTML code that's there into your website will create an embedded player; the video will play within your site when the user clicks on the 'Play' button.";
+$LANGS['bvsitesection1desc3'] = "You can resize the player by editing the <em>object width=&quot;425&quot;</em> and  <em>height=&quot;350&quot;</em> fields at both the beginning and end of the embedded player code. Make sure that the sizes you choose have the same ratio as the default numbers, so that the video doesn't get stretched—just multiply the width by 0.8235 to get the height.";
+$LANGS['bvsitesection2desc1'] = "Adding videos to your profiles on social networks like SpaceHey is a great way to share your videos or favorites with friends. Or, if you're promoting something (like your band) on SpaceHey, videos will help attract visitors to your page, who can then then share the link with their friends. The social network sites have similar ways to add videos, so we'll use SpaceHey as an example.";
+$LANGS['bvsitesection2desc2'] = 'Sign in to your SpaceHey profile, then click the "Edit Profile" button.';
+$LANGS['bvsitesection2desc3'] = "Next, go to the video that you want, and look for the 'Embed' box in the &quot;About This Video&quot; section. Copying the HTML code that's there into your website will create an embedded player.";
+$LANGS['bvsitesection2desc4'] = "You can resize the player by editing the object width=&quot;425&quot; and height=&quot;350&quot; fields at both the beginning and end of the embedded player code. Make sure that the sizes you choose have the same ratio as the default numbers, so that the video doesn't get stretched—just multiply the width by 0.8235 to get the height.";
+$LANGS['bvsitesection2desc5'] = 'Click "Preview", and then "Submit".';
+$LANGS['bvsitesection3desc1'] = "Video is much more engaging than text. It draws more users and keeps them on your site for longer. BitView has a large repository of Internet video content along with the search, playback and API tools to make adding video easier for you.";
+$LANGS['bvsitesection3desc2'] = "When looking to increase engagement, try using video as a way to start discussion or make a commentary by creating more context for your users:";
+$LANGS['bvsitesection4desc1'] = "It's very easy to build out your own site with your own videos for free. All you need to do is upload the videos to BitView first. There's no charge and we will cover hosting and streaming costs. It's not only a great way to increase user engagement on your site, but it's very easy, and free as well.";
+$LANGS['bvsitesection4desc2'] = "Once you have uploaded the videos you can pull them back to the site:";
+$LANGS['bvsitesection4desc3'] = "<b>Embed videos one-by-one:</b> Go to the video that you want to put on your website, and look for the 'Embed' box next to the video player. Copying the HTML code that's there into your blog will create an embedded player; the video will play within your site when the user clicks on the 'Play' button.";
+
+/* RSS Feeds */
+$LANGS['rsstitle1'] = "What Are RSS Feeds?";
+$LANGS['rsstitle2'] = "How to Access RSS Feeds";
+$LANGS['rsstitle3'] = "How to Subscribe to BitView's RSS Feeds";
+$LANGS['rssdesc1'] = "Really Simple Syndication (RSS) is an XML-based format used for content distribution and syndication. Subscribing to RSS feeds allows you to receive custom, up-to-date information from your favorite online content sources without having to regularly check the site for updates.";
+$LANGS['rssdesc2'] = "News readers that display RSS feeds from the websites you specify—they check the RSS feeds you have subscribed to and display new items from each feed. You can download news reader applications for your computer, and here are also many popular web-based news readers available, such as Google Reader and Bloglines. Some web browsers and email applications also have RSS capabilities built in.";
+$LANGS['rssdesc3'] = "You can see a list of many available news readers at <a href='http://en.wikipedia.org/wiki/List_of_feed_aggregators'>Wikipedia</a>."; //Use your language's Wikipedia article if possible
+$LANGS['rssdesc4'] = "BitView offers several RSS feeds for categorized groups of videos (such as recently uploaded, top viewed etc) as well as customized feeds for users and tags.";
+$LANGS['rssdesc5'] = "To subscribe to categorized groups of videos, simply go to the category you want (for example, &quot;<a href='/browse'>Most Viewed - Today</a>&quot;). Then click on the orange 'RSS' button. This should trigger your chosen news reader to add the subscription.";
+$LANGS['rssdesc6'] = "If your browser has RSS capabilities, then you can add the feed there. The command varies between browsers, but can usually be found on the 'File' or 'Bookmarks' menus, and will be called something like &quot;Subscribe to this page&quot; or &quot;New Live Bookmark&quot;.";
+$LANGS['rssthispage'] = "RSS this page";
 
 /* TestView */
 $LANGS['testviewdesc'] = 'Te damos la bienvenida a TestView, nuestra "incubadora" de ideas. Aquí es donde los desarrolladores e ingenieros de BitView prueban las recetas y las mezclas que aún están un poco crudas. Estás invitado a comentarnos qué te parecen.';
