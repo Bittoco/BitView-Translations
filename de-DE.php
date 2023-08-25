@@ -1123,7 +1123,7 @@ $LANGS['cgtitle1'] = 'Respect the BitView Community';
 $LANGS['cgtitle2'] = "Don't Cross the Line";
 $LANGS['cgtitle3'] = 'We Enforce These Guidelines';
 $LANGS['cgtitle4'] = 'BitView is for the Community';
-$LANGS['cgtitle5'] = 'BitView is for the Community';
+$LANGS['cgtitle5'] = 'Community Guideline Tips';
 $LANGS['cgdesc1'] = "We're not asking for the kind of respect reserved for nuns, the elderly, and brain surgeons. We mean don't abuse the site. Every cool new community feature on BitView involves a certain level of trust. We trust you to be responsible, and millions of users respect that trust. Please be one of them.";
 $LANGS['cgdesc2'] = "Here are some common-sense rules that will help you steer clear of trouble:";
 $LANGS['cgdesc3'] = "Please take these rules seriously and take them to heart. Don't try to look for loopholes or try to lawyer your way around the guidelines — just understand them and try to respect the spirit in which they were created. If you'd like more details, check out our <a href='#tips'>Community Guideline Tips</a>.";
