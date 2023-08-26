@@ -1257,8 +1257,8 @@ $LANGS['rssthispage'] = "RSS tej strony";
 $LANGS['testviewdesc'] = "Witaj w TestView, naszym inkubatorze pomysłów. To tutaj inżynierowie i programiści BitView testują przepisy i mikstury, które nie są jeszcze w pełni upieczone, i proszą Cię o podzielenie się opinią na ich temat.";
 $LANGS['flashvideo'] = "Flash Player";
 $LANGS['flashvideodesc'] = "Twoja przeglądarka nie obsługuje wideo HTML5? Nie martw się! Wypróbuj nasz odtwarzacz Flash Player.";
-$LANGS['feather'] = "Pióro";
-$LANGS['featherdesc'] = "Oglądaj wideo na BitView na stronie o super niskiej opóźnieniu.";
+$LANGS['feather'] = "Tryb piórka";
+$LANGS['featherdesc'] = "Oglądaj wideo na BitView na stronie o super niskim opóźnieniu.";
 $LANGS['tryitout'] = "Wypróbuj to";
 $LANGS['disabletest'] = "Wyłącz";
 
