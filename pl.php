@@ -1210,8 +1210,8 @@ $LANGS['q9'] = 'Q: Co zrobić, jeśli zostałem niesłusznie oskarżony o narusz
 $LANGS['a9'] = 'A: Poinformujemy cię, jeśli otrzymamy skargę na naruszenie praw autorskich dotyczącą treści filmowej, którą hostuje BitView. Udzielimy ci możliwości odpowiedniego zareagowania.';
 $LANGS['q10'] = 'Q: Co robicie, aby zapobiegać pojawianiu się treści naruszających wasze zasady na BitView?';
 $LANGS['a10'] = 'A: Przed przesłaniem filmów przeprowadzamy wstępną kontrolę zarówno ręczną, jak i zautomatyzowaną. Choć staramy się jak najlepiej wykrywać i usuwać filmy, które naruszają nasze zasady, nasz proces kontroli koncentruje się przede wszystkim na usuwaniu treści dla dorosłych lub oczywistych naruszeń praw autorskich i nie jest w 100% skuteczny. Jednak zachęcamy naszych widzów do zgłaszania nam naruszeń zasad lub problemów z prawami autorskimi. Posiadamy procedurę przeglądu zgłaszanych naruszeń zasad i reagujemy na zgłoszone naruszenia praw autorskich zgodnie z ustawą o prawach autorskich w erze cyfrowej.';
-$LANGS['q11'] = 'Q: Czy posiadacie serwer Discorda lub Twittera?';
-$LANGS['a11'] = 'Tak! Faktycznie posiadamy serwer Discorda i konto na Twitterze. Możesz dołączyć do serwera Discord, klikając <a href="https://discord.gg/wgGaqCmwuQ">tutaj</a>, a nas możesz śledzić na Twitterze <a href="https://twitter.com/bitview_">tutaj</a>.';
+$LANGS['q11'] = 'Q: Czy posiadacie serwer Discord lub Twittera?';
+$LANGS['a11'] = 'Tak! Faktycznie posiadamy serwer Discord i konto na Twitterze. Możesz dołączyć do serwera Discord, klikając <a href="https://discord.gg/wgGaqCmwuQ">tutaj</a>, a nas możesz śledzić na Twitterze <a href="https://twitter.com/bitview_">tutaj</a>.';
 $LANGS['q12'] = 'Q: Korzystam ze starej przeglądarki na BitView i nie mogę oglądać filmów. Co mogę zrobić?';
 $LANGS['activate'] = 'Aktywuj';
 $LANGS['deactivate'] = 'Dezaktywuj';
@@ -1220,8 +1220,8 @@ $LANGS['flashdisclaimer'] = "<b>Uwaga:</b> Odtwarzacz Flash na BitView jest udos
 /* BitView on your site */
 $LANGS['bvsitetitle1'] = "Podstawy";
 $LANGS['bvsitetitle2'] = "API i Zaangażowanie Użytkowników";
-$LANGS['bvsitedesc1'] = 'Nie ważne, jaka obecność Cię reprezentuje w Internecie — duża strona internetowa, blog, strona na portalu społecznościowym, czy praktycznie cokolwiek innego — istnieje wiele sposobów, aby zintegrować BitView z tą obecnością. Od prostego osadzenia filmów po pełne API, możesz integrować treści wideo na różnych poziomach umiejętności technicznych.';
-$LANGS['bvsitedesc2'] = 'Przynoszenie BitView na Twoją stronę to nie tylko dodawanie kilku tysięcy filmów dostępnych na BitView. To utrzymuje zainteresowanie Twoich odwiedzających, pozwala na wyrażanie siebie i interakcję z jedną z ich ulubionych usług. I wprowadza Twoją stronę, bloga lub stronę w społeczność wideo BitView — międzynarodową sieć użytkowników, twórców i witryn połączonych ogromną kolekcją filmów online.';
+$LANGS['bvsitedesc1'] = 'Nie ważne, jaką osobliwością jesteś w Internecie — czy jesteś posiadaczem dużej strony internetowej, blogu, stronie na portalu społecznościowym, czy praktycznie cokolwiek innego — istnieje wiele sposobów, aby zintegrować BitView z tą obecnością. Od prostego osadzenia filmów po pełne API, możesz integrować treści wideo na różnych poziomach umiejętności technicznych.';
+$LANGS['bvsitedesc2'] = 'BitView na Twojej stronie to nie tylko dodawanie kilku tysięcy filmów dostępnych na BitView. To utrzymuje zainteresowanie Twoich odwiedzających, pozwala na wyrażanie siebie i interakcję z jedną z ich ulubionych usług. I wprowadza Twoją stronę, bloga lub stronę w społeczność wideo BitView — międzynarodową sieć użytkowników, twórców i witryn połączonych ogromną kolekcją filmów online.';
 $LANGS['bvsitedesc3'] = "Poniżej przedstawiliśmy kilka typowych sposobów integracji treści wideo — wystarczy kliknąć strzałkę obok pytania, aby uzyskać odpowiedź. Jeśli masz jakieś pytania, sugestie lub projekty, o których chciałbyś nas poinformować, prosimy zostawić pytania na naszym <a href='https://discord.gg/wgGaqCmwuQ'>serwerze Discord</a>.";
 $LANGS['bvsitesectiontitle1'] = "Jak dodać film do mojego bloga lub strony internetowej?";
 $LANGS['bvsitesectiontitle2'] = "Jak dodać film do mojej strony na portalu społecznościowym?";
@@ -1250,7 +1250,7 @@ $LANGS['rssdesc2'] = "Programy do czytania wiadomości, które wyświetlają kan
 $LANGS['rssdesc3'] = "Możesz zobaczyć listę wielu dostępnych czytników wiadomości na stronie <a href='https://pl.wikipedia.org/wiki/Kategoria:Oprogramowanie_RSS'>Wikipedia</a>.";
 $LANGS['rssdesc4'] = "BitView oferuje kilka kanałów RSS dla zgrupowanych kategorii filmów (takich jak ostatnio przesłane, najczęściej oglądane itp.), a także dostosowane kanały dla użytkowników i tagów.";
 $LANGS['rssdesc5'] = "Aby zasubskrybować kategorie filmów, po prostu przejdź do wybranej kategorii (na przykład &quot;<a href='/browse'>Najczęściej oglądane - Dziś</a>&quot;). Następnie kliknij pomarańczowy przycisk 'RSS'. To powinno spowodować dodanie subskrypcji w wybranym czytniku wiadomości.";
-$LANGS['rssdesc6'] = "Jeśli Twoja przeglądarka obsługuje kanały RSS, możesz dodać kanał tam. Polecenie różni się w zależności od przeglądarki, ale zazwyczaj można je znaleźć w menu 'Plik' lub 'Zakładki', i będzie nazywane coś w rodzaju &quot;Zasubskrybuj tę stronę&quot; lub &quot;Nowy żywy zakładka&quot;.";
+$LANGS['rssdesc6'] = "Jeśli Twoja przeglądarka obsługuje kanały RSS, możesz dodać kanał tam. Polecenie różni się w zależności od przeglądarki, ale zazwyczaj można je znaleźć w menu 'Plik' lub 'Zakładki', i będzie nazywane coś w rodzaju &quot;Zasubskrybuj tę stronę&quot; lub &quot;Nowa zakładka na żywo&quot;.";
 $LANGS['rssthispage'] = "RSS tej strony";
 
 /* TestView */
