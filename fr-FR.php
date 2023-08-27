@@ -1149,7 +1149,7 @@ $LANGS['rule10'] = "Multi-accounts suck. We want genuine numbers on videos and c
 $LANGS['rule11'] = "Did you break one of this rules and your account has been suspended? It goes without saying that evading this punishment is not accepted. Every new account that has been created by a suspended person will be automatically deleted.";
 $LANGS['cglist1'] = "Have fun with the site. There's a lot to see here, and lots of folks making amazing stuff — one of them might be you! Equipment's getting cheaper and easier to use all the time, so dive in and enjoy.";
 $LANGS['cglist2'] = "Let folks know what you think. Feedback's part of the experience, and when done with respect, can be a great way to make friends, share stories, and make your time on BitView richer. So leave comments, rate videos, make your own responses to videos that affect you, enter contests of interest — there's a lot going on and a lot of ways to participate.";
-$LANGS['cglist3'] = "You may not like everbvhing you see. Some of the content here may offend you — if you find that it violates our Terms of Use, then click the button that says &quot;Flag&quot; under the video you're watching to submit it for review by BitView staff. If it doesn't, then consider just clicking on something else — why waste time watching videos you don't like?";
+$LANGS['cglist3'] = "You may not like everything you see. Some of the content here may offend you — if you find that it violates our Terms of Use, then click the button that says &quot;Flag&quot; under the video you're watching to submit it for review by BitView staff. If it doesn't, then consider just clicking on something else — why waste time watching videos you don't like?";
 $LANGS['thebitviewteam'] = "— The BitView Team";
 $LANGS['cgcat1'] = "Sex and Nudity";
 $LANGS['cgcat2'] = "Hate Speech";
@@ -1222,7 +1222,7 @@ $LANGS['flashdisclaimer'] = "<b>Note:</b> BitView's Flash Player is being offere
 /* BitView on your site */
 $LANGS['bvsitetitle1'] = "The Basics";
 $LANGS['bvsitetitle2'] = "APIs and User Engagement";
-$LANGS['bvsitedesc1'] = 'Whatever presence you have on the Internet—a large website, a blog, a social network page, or pretty much anbvhing else—there are many ways to integrate BitView into it. From simple video embeds to our full-powered APIs, you can integrate video at all levels of technical expertise.';
+$LANGS['bvsitedesc1'] = 'Whatever presence you have on the Internet—a large website, a blog, a social network page, or pretty much anything else—there are many ways to integrate BitView into it. From simple video embeds to our full-powered APIs, you can integrate video at all levels of technical expertise.';
 $LANGS['bvsitedesc2'] = 'Bringing BitView to your site is more than just adding some of the thousands of videos available on BitView. It keeps your visitors interested and allows self-expression and interaction with one of their favorite services. And it brings your site, blog, or page into the BitView video community — an international network of users, creators, and sites connected through a huge collection of online videos.';
 $LANGS['bvsitedesc3'] = "We've highlighted some typical ways of integrating video content below — just click the arrow next to the question to get the answer. If you have any questions or suggestions, or projects that you would like us to know about, please leave the questions in our <a href='https://discord.gg/wgGaqCmwuQ'>Discord server</a>.";
 $LANGS['bvsitesectiontitle1'] = "How do I add a video to my blog or web page?";
