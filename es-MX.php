@@ -307,6 +307,27 @@ $LANGS['addresponse'] = 'Agregar respuesta';
 $LANGS['recentlyrated'] = 'Calificaciones recientes';
 $LANGS['commentsdisabled'] = 'No se pueden añadir comentarios sobre este video.';
 $LANGS['ratingsdisabled'] = 'Calificaciones desactivadas';
+$LANGS['rating1'] = 'Malo';
+$LANGS['rating2'] = 'Nada especial';
+$LANGS['rating3'] = 'Vale la pena';
+$LANGS['rating4'] = 'Bastante bueno';
+$LANGS['rating5'] = '¡Impresionante!';
+$LANGS['saving'] = 'Guardando...';
+$LANGS['signintorate'] = '<a href="/login">Accede</a> para calificar';
+$LANGS['addingcomment'] = "Añadiendo comentario...";
+$LANGS['commentposted'] = "Comentario publicado";
+$LANGS['commentspammsg'] = "Publicar el mismo comentario nuevamente se considera spam. Vuelve a intentarlo más tarde.";
+$LANGS['commentspammsg2'] = "Publicar más de 5 comentarios consecutivos se considera spam. Vuelve a intentarlo más tarde.";
+$LANGS['emptycomment'] = "Tu comentario no puede estar vacío.";
+$LANGS['spambutton'] = "Spam";
+$LANGS['notspambutton'] = "No es spam";
+$LANGS['commentsspam'] = "Comentario marcado como spam";
+$LANGS['marked'] = "Marcado como spam";
+$LANGS['spamshow'] = "Mostrar";
+$LANGS['spamhide'] = "Esconder";
+$LANGS['poorcomment'] = "Comentario deficiente";
+$LANGS['goodcomment'] = "Buen comentario";
+$LANGS['pleasesignin'] = "Inicia sesión";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Todos los comentarios';

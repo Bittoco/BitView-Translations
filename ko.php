@@ -310,6 +310,27 @@ $LANGS['addresponse'] = '비디오 응답 추가';
 $LANGS['recentlyrated'] = '최근 평가한 동영상';
 $LANGS['commentsdisabled'] = '이 동영상에 대한 댓글 추가가 비활성화되었습니다.';
 $LANGS['ratingsdisabled'] = '평가 비활성화됨';
+$LANGS['rating1'] = 'Poor';
+$LANGS['rating2'] = 'Nothing special';
+$LANGS['rating3'] = 'Worth watching';
+$LANGS['rating4'] = 'Pretty cool';
+$LANGS['rating5'] = 'Awesome!';
+$LANGS['saving'] = 'Saving...';
+$LANGS['signintorate'] = '<a href="/login">Sign in</a> to rate';
+$LANGS['addingcomment'] = "Adding comment...";
+$LANGS['commentposted'] = "Comment Posted!";
+$LANGS['commentspammsg'] = "Posting the same comment again is considered spam. Try again later.";
+$LANGS['commentspammsg2'] = "Posting more than 5 comments consecutively is considered spam. Try again later.";
+$LANGS['emptycomment'] = "Your comment can't be empty.";
+$LANGS['spambutton'] = "Spam";
+$LANGS['notspambutton'] = "Not Spam";
+$LANGS['commentsspam'] = "Comment(s) marked as spam";
+$LANGS['marked'] = "Marked as spam";
+$LANGS['spamshow'] = "Show";
+$LANGS['spamhide'] = "Hide";
+$LANGS['poorcomment'] = "Poor comment";
+$LANGS['goodcomment'] = "Good comment";
+$LANGS['pleasesignin'] = "Please sign in";
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';

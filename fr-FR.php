@@ -313,6 +313,27 @@ $LANGS['addresponse'] = 'Ajouter une réponse';
 $LANGS['recentlyrated'] = 'Recently rated';
 $LANGS['commentsdisabled'] = 'Adding comments has been disabled for this video.';
 $LANGS['ratingsdisabled'] = 'Ratings disabled';
+$LANGS['rating1'] = 'Poor';
+$LANGS['rating2'] = 'Nothing special';
+$LANGS['rating3'] = 'Worth watching';
+$LANGS['rating4'] = 'Pretty cool';
+$LANGS['rating5'] = 'Awesome!';
+$LANGS['saving'] = 'Saving...';
+$LANGS['signintorate'] = '<a href="/login">Sign in</a> to rate';
+$LANGS['addingcomment'] = "Adding comment...";
+$LANGS['commentposted'] = "Comment Posted!";
+$LANGS['commentspammsg'] = "Posting the same comment again is considered spam. Try again later.";
+$LANGS['commentspammsg2'] = "Posting more than 5 comments consecutively is considered spam. Try again later.";
+$LANGS['emptycomment'] = "Your comment can't be empty.";
+$LANGS['spambutton'] = "Spam";
+$LANGS['notspambutton'] = "Not Spam";
+$LANGS['commentsspam'] = "Comment(s) marked as spam";
+$LANGS['marked'] = "Marked as spam";
+$LANGS['spamshow'] = "Show";
+$LANGS['spamhide'] = "Hide";
+$LANGS['poorcomment'] = "Poor comment";
+$LANGS['goodcomment'] = "Good comment";
+$LANGS['pleasesignin'] = "Please sign in";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Tout les commentaires';
