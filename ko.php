@@ -113,6 +113,11 @@ $LANGS['nosubscriptions'] = "아직 어떤 채널도 구독하지 않았습니�
 $LANGS['nosubscriptionsdesc'] = "새로운 구독을 추가하면 해당 페이지에서 업로드를 보여줍니다.";
 $LANGS['nofriendactivity'] = "최근에 친구들의 활동이 없습니다.";
 $LANGS['nofriendactivitydesc'] = "몇몇 친구를 추가해 보세요. 그럼 그들의 활동을 이 페이지에서 볼 수 있습니다.";
+$LANGS['homeediting'] = "Editing";
+$LANGS['homedisplay'] = "Display as";
+$LANGS['homerows'] = "Number of rows to display";
+$LANGS['gridview'] = "Grid View";
+$LANGS['listview'] = "List View";
 
 /* Page title */
 $LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -331,6 +336,8 @@ $LANGS['spamhide'] = "숨기기";
 $LANGS['poorcomment'] = "별로인 댓글";
 $LANGS['goodcomment'] = "좋은 댓글";
 $LANGS['pleasesignin'] = "로그인해주세요";
+$LANGS['showmorecomments'] = "Show More Comments";
+$LANGS['showingamount'] = "<strong>Showing {number}</strong> of {total} comments";
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';
@@ -980,6 +987,8 @@ $LANGS['activityrating'] = '비디오를 평가했습니다:';
 $LANGS['activityupload'] = '새로운 비디오를 업로드했습니다';
 $LANGS['activityfriend'] = '친구가 되었습니다';
 $LANGS['activitysubscription'] = '구독했습니다';
+$LANGS['next'] = "Next";
+$LANGS['previous'] = "Previous";
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = '이 페이지에는 BitView 채널의 모든 설정이 포함되어 있습니다.';

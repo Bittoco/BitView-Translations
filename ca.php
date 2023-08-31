@@ -111,6 +111,11 @@ $LANGS['nosubscriptions'] = "Encara no t'has subscrit a cap canal.";
 $LANGS['nosubscriptionsdesc'] = "Quan afegiu subscripcions noves, mostrarem les seves penjades aquí en aquesta pàgina.";
 $LANGS['nofriendactivity'] = "Encara no has afegit cap amic.";
 $LANGS['nofriendactivitydesc'] = "Pots intentar afegir alguns amics. Aleshores, mostrarem la seva activitat aquí en aquesta pàgina.";
+$LANGS['homeediting'] = "Editing";
+$LANGS['homedisplay'] = "Display as";
+$LANGS['homerows'] = "Number of rows to display";
+$LANGS['gridview'] = "Grid View";
+$LANGS['listview'] = "List View";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView de "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -328,6 +333,8 @@ $LANGS['spamhide'] = "Hide";
 $LANGS['poorcomment'] = "Poor comment";
 $LANGS['goodcomment'] = "Good comment";
 $LANGS['pleasesignin'] = "Please sign in";
+$LANGS['showmorecomments'] = "Show More Comments";
+$LANGS['showingamount'] = "<strong>Showing {number}</strong> of {total} comments";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Tots els comentaris';
@@ -977,6 +984,8 @@ $LANGS['activityrating'] = 'rated a video:';
 $LANGS['activityupload'] = 'uploaded a new video';
 $LANGS['activityfriend'] = 'became friends with';
 $LANGS['activitysubscription'] = 'subscribed to';
+$LANGS['next'] = "Next";
+$LANGS['previous'] = "Previous";
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'This page contains all of the settings for your BitView channel.';

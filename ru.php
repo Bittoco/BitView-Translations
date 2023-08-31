@@ -111,6 +111,11 @@ $LANGS['nosubscriptions'] = "Вы ещё не подписались ни на �
 $LANGS['nosubscriptionsdesc'] = "Когда вы на кого-то подпишетесь, мы покажем их новые видео здесь, на этой странице.";
 $LANGS['nofriendactivity'] = "Ваши друзья в последнее время не проявляли активности.";
 $LANGS['nofriendactivitydesc'] = "Попробуйте добавить нескольких друзей. Затем мы покажем их активность здесь, на этой странице.";
+$LANGS['homeediting'] = "Editing";
+$LANGS['homedisplay'] = "Display as";
+$LANGS['homerows'] = "Number of rows to display";
+$LANGS['gridview'] = "Grid View";
+$LANGS['listview'] = "List View";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -328,6 +333,8 @@ $LANGS['spamhide'] = "Спрятать";
 $LANGS['poorcomment'] = "Плохой комментарий";
 $LANGS['goodcomment'] = "Хороший комментарий";
 $LANGS['pleasesignin'] = "Пожауйста, войдите в аккаунт";
+$LANGS['showmorecomments'] = "Show More Comments";
+$LANGS['showingamount'] = "<strong>Showing {number}</strong> of {total} comments";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Все комментарии';
@@ -977,6 +984,8 @@ $LANGS['activityrating'] = 'оценил видео:';
 $LANGS['activityupload'] = 'загрузил новое видео';
 $LANGS['activityfriend'] = 'стал дружить с';
 $LANGS['activitysubscription'] = 'подписался на';
+$LANGS['next'] = "Next";
+$LANGS['previous'] = "Previous";
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Эта страница содержит все настройки вашего канала BitView.';

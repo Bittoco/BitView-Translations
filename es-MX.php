@@ -111,6 +111,11 @@ $LANGS['nosubscriptions'] = "Aún no te has suscrito a ningún canal.";
 $LANGS['nosubscriptionsdesc'] = "Cuando te suscribas a algún canal, los nuevos videos subidos aparecerán en esta página.";
 $LANGS['nofriendactivity'] = "Aún no has añadido amigos.";
 $LANGS['nofriendactivitydesc'] = "Una vez hayas añadido amigos, esta página te mostrará sus puntuaciones de videos, favoritos, boletines y videos subidos más recientes.";
+$LANGS['homeediting'] = "Edición";
+$LANGS['homedisplay'] = "Mostrar como";
+$LANGS['homerows'] = "Número de filas que mostrar";
+$LANGS['gridview'] = "Vista de cuadrícula";
+$LANGS['listview'] = "Vista de lista";
 
 /* Page title */
 $LANGS['homepretitle'] = "BitView de "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
@@ -328,6 +333,8 @@ $LANGS['spamhide'] = "Esconder";
 $LANGS['poorcomment'] = "Comentario deficiente";
 $LANGS['goodcomment'] = "Buen comentario";
 $LANGS['pleasesignin'] = "Inicia sesión";
+$LANGS['showmorecomments'] = "Mostrar más contenidos";
+$LANGS['showingamount'] = "<strong>Mostrando {number}</strong> de {total} comentarios";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Todos los comentarios';
@@ -978,6 +985,8 @@ $LANGS['activityrating'] = 'ha calificado un video:';
 $LANGS['activityupload'] = 'ha subido un nuevo video';
 $LANGS['activityfriend'] = 'se ha hecho amigo de';
 $LANGS['activitysubscription'] = 'se ha suscrito a';
+$LANGS['next'] = "Siguiente";
+$LANGS['previous'] = "Anterior";
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = 'Esta página incluye toda la configuración de tu cuenta de BitView.';
