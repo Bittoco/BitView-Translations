@@ -336,8 +336,8 @@ $LANGS['spamhide'] = "숨기기";
 $LANGS['poorcomment'] = "별로인 댓글";
 $LANGS['goodcomment'] = "좋은 댓글";
 $LANGS['pleasesignin'] = "로그인해주세요";
-$LANGS['showmorecomments'] = "Show More Comments";
-$LANGS['showingamount'] = "<strong>Showing {number}</strong> of {total} comments";
+$LANGS['showmorecomments'] = "더 많은 댓글 보기";
+$LANGS['showingamount'] = "<strong>{number}개</strong> 중 {total}개의 댓글 표시";
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';
@@ -883,7 +883,7 @@ $LANGS['creatediscussiondesc'] = "토론은 그룹 내에서 주제에 대해 �
 
 /* Search Results */
 $LANGS['resultspre'] = ""; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['resultspost'] = "결과"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['resultspost'] = " 결과"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['relevance'] = '관련성';
 $LANGS['viewcount'] = '조회수';
 $LANGS['searchrating'] = '평점';
@@ -987,8 +987,8 @@ $LANGS['activityrating'] = '비디오를 평가했습니다:';
 $LANGS['activityupload'] = '새로운 비디오를 업로드했습니다';
 $LANGS['activityfriend'] = '친구가 되었습니다';
 $LANGS['activitysubscription'] = '구독했습니다';
-$LANGS['next'] = "Next";
-$LANGS['previous'] = "Previous";
+$LANGS['next'] = "다음";
+$LANGS['previous'] = "이전";
 
 /* My Profile page */
 $LANGS['myprofiledesc'] = '이 페이지에는 BitView 채널의 모든 설정이 포함되어 있습니다.';
@@ -1037,7 +1037,7 @@ $LANGS['videosbox'] = '동영상 상자';
 $LANGS['favoritesbox'] = '즐겨찾기 상자';
 $LANGS['playlistsbox'] = '재생 목록 상자';
 $LANGS['commentsbox'] = '댓글 상자';
-$LANGS['ratingsbox'] = 'Recent Activity Box';
+$LANGS['ratingsbox'] = '최근 활동 상자';
 $LANGS['partnersettings'] = '파트너 설정';
 $LANGS['bannerimage'] = '배너 이미지';
 $LANGS['minibannerimage'] = '미니 배너 이미지';
