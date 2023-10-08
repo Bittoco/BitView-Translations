@@ -69,6 +69,7 @@ $LANGS['myvideos'] = 'Videoclipurile mele';
 $LANGS['favorites'] = 'Preferate';
 $LANGS['playlists'] = 'Playlisturi';
 $LANGS['help'] = 'Ajutor';
+$LANGS['suggestions'] = 'Suggestions';
 
 /* Homepage */
 $LANGS['viewall'] = 'vezi toate';

@@ -68,6 +68,7 @@ $LANGS['myvideos'] = '上传的视频';
 $LANGS['favorites'] = '喜爱的视频';
 $LANGS['playlists'] = '播放列表';
 $LANGS['help'] = '帮助';
+$LANGS['suggestions'] = 'Suggestions';
 
 /* Homepage */
 $LANGS['viewall'] = '展开';
