@@ -69,7 +69,7 @@ $LANGS['myvideos'] = '내 동영상';
 $LANGS['favorites'] = '즐겨찾기';
 $LANGS['playlists'] = '재생 목록';
 $LANGS['help'] = '도움말';
-$LANGS['suggestions'] = 'Suggestions';
+$LANGS['suggestions'] = '제안';
 
 /* Homepage */
 $LANGS['viewall'] = '모두 보기';
