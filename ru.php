@@ -319,7 +319,7 @@ $LANGS['rating2'] = 'Ничего особенного';
 $LANGS['rating3'] = 'Стоило просмотра';
 $LANGS['rating4'] = 'Довольно круто';
 $LANGS['rating5'] = 'Потрясающе!';
-$LANGS['saving'] = 'Сохраненяем...';
+$LANGS['saving'] = 'Сохраняем...';
 $LANGS['signintorate'] = '<a href="/login">Войдите</a>, чтобы оставить рейтинг';
 $LANGS['addingcomment'] = "Добавление комментария...";
 $LANGS['commentposted'] = "Комментарий опубликован!";
