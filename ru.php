@@ -68,7 +68,7 @@ $LANGS['myvideos'] = 'Мои Видео';
 $LANGS['favorites'] = 'Избранное';
 $LANGS['playlists'] = 'Плейлисты';
 $LANGS['help'] = 'Помощь';
-$LANGS['suggestions'] = 'Suggestions';
+$LANGS['suggestions'] = 'Поисковые подсказки';
 
 /* Homepage */
 $LANGS['viewall'] = 'все';
@@ -114,7 +114,7 @@ $LANGS['nosubscriptionsdesc'] = "Когда вы на кого-то подпиш
 $LANGS['nofriendactivity'] = "Ваши друзья в последнее время не проявляли активности.";
 $LANGS['nofriendactivitydesc'] = "Попробуйте добавить нескольких друзей. Затем мы покажем их активность здесь, на этой странице.";
 $LANGS['homeediting'] = "Редактировать";
-$LANGS['homedisplay'] = "Отображать как:";
+$LANGS['homedisplay'] = "Отображать как";
 $LANGS['homerows'] = "Количество строк";
 $LANGS['gridview'] = "Сетка";
 $LANGS['listview'] = "Список";
@@ -319,7 +319,7 @@ $LANGS['rating2'] = 'Ничего особенного';
 $LANGS['rating3'] = 'Стоило просмотра';
 $LANGS['rating4'] = 'Довольно круто';
 $LANGS['rating5'] = 'Потрясающе!';
-$LANGS['saving'] = 'Сохраненяем...';
+$LANGS['saving'] = 'Сохраняем...';
 $LANGS['signintorate'] = '<a href="/login">Войдите</a>, чтобы оставить рейтинг';
 $LANGS['addingcomment'] = "Добавление комментария...";
 $LANGS['commentposted'] = "Комментарий опубликован!";
