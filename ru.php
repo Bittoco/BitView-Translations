@@ -68,7 +68,7 @@ $LANGS['myvideos'] = 'Мои Видео';
 $LANGS['favorites'] = 'Избранное';
 $LANGS['playlists'] = 'Плейлисты';
 $LANGS['help'] = 'Помощь';
-$LANGS['suggestions'] = 'Suggestions';
+$LANGS['suggestions'] = 'Поисковые подсказки';
 
 /* Homepage */
 $LANGS['viewall'] = 'все';
