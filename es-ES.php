@@ -68,6 +68,7 @@ $LANGS['favorites'] = 'Favoritos';
 $LANGS['playlists'] = 'Listas de reproducción';
 $LANGS['help'] = 'Ayuda';
 $LANGS['suggestions'] = 'Sugerencias';
+$LANGS['quicklist'] = 'Lista rápida';
 
 /* Homepage */
 $LANGS['viewall'] = 'ver todos';
@@ -336,6 +337,8 @@ $LANGS['goodcomment'] = "Buen comentario";
 $LANGS['pleasesignin'] = "Accede a tu cuenta.";
 $LANGS['showmorecomments'] = "Mostrar más comentarios";
 $LANGS['showingamount'] = "<strong>Mostrando {number}</strong> de {total} comentarios";
+$LANGS['customize'] = "Personalizar";
+$LANGS['customizedesc'] = "Después de hacer tu selección, copia y pega el código de insertación que se encuentra arriba. El código se modifica en función a tu selección.";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Todos los comentarios';
@@ -890,6 +893,10 @@ $LANGS['newest'] = 'Fecha de subida';
 $LANGS['nochannelsfound'] = 'No se ha encontrado ningún canal...';
 $LANGS['noplfound'] = 'No se ha encontrado ninguna lista de reproducción...';
 $LANGS['nogroupsfound'] = 'No se ha encontrado ningún grupo...';
+$LANGS['uploaded'] = 'Subido';
+$LANGS['anytime'] = 'En cualquier momento';
+$LANGS['partnervideos'] = 'Vídeos de partners';
+$LANGS['resultcount'] = 'resultados {r} de aprox. {t}';
 
 /* Profile */
 $LANGS['channelsuspended'] = 'Esta cuenta está suspendida.';
@@ -1134,6 +1141,21 @@ $LANGS['changeemailaddress'] = "Cambiar la dirección de correo electrónico";
 $LANGS['changeemail'] = "Cambiar correo";
 $LANGS['partnerimages'] = "Imágenes de partner";
 $LANGS['partnerimagelinks'] = "Enlaces de imágenes de partner";
+$LANGS['accountstatuscg'] = "Estado de la cuenta: normas de la comunidad";
+$LANGS['accountstatuscopy'] = "Estado de la cuenta: copyright";
+$LANGS['changeusername'] = "Cambio de nombre de usuario";
+$LANGS['changepassword'] = "Cambio de contraseña";
+$LANGS['deleteaccount'] = "Eliminar cuenta";
+$LANGS['goodaccount'] = "El estado de tu cuenta es bueno.";
+$LANGS['accountstrike'] = "Tienes {s} infracción de copyright. ¡Ten cuidado!";
+$LANGS['accountstrikes'] = "Tienes {s} infracciones de copyright. ¡Ten cuidado!";
+$LANGS['cannotchangeusername'] = "Aún no puedes cambiar tu nombre de usuario. Podrás hacer esto el día ";
+$LANGS['usernamechangedesc'] = "Solo podrás cambiar tu nombre de usuaro una vez al año, así que elígelo con cautela.";
+$LANGS['newusername'] = "Nuevo nombre de usuario";
+$LANGS['currentpassword'] = "Contraseña actual";
+$LANGS['newpassword'] = "Nueva contraseña";
+$LANGS['confirmnewpassword'] = "Confirmar contraseña";
+$LANGS['enterpassword'] = "Por motivos de seguridad, introduce tu contraseña";
 
 /* Upload page */
 $LANGS['uploadpagetitle'] = 'Subida de vídeos';
@@ -1219,6 +1241,18 @@ $LANGS['incominginvites'] = 'Solicitudes de amistad';
 $LANGS['noinvites'] = 'No hay invitaciones...';
 $LANGS['actions'] = 'Acciones';
 $LANGS['retract'] = 'Retirar';
+
+/* History */
+$LANGS['clearhistory'] = "Borrar historial";
+$LANGS['noviewinghistory'] = "No hay vídeos en tu historial.";
+
+/* QuickList */
+$LANGS['playquicklist'] = "Reproducir la lista rápida";
+$LANGS['clearquicklist'] = "Borrar lista rápida";
+$LANGS['noquicklist'] = "No hay ningún vídeo en tu lista rápida.";
+$LANGS['noquicklistdesc'] = "La lista rápida te permite crear una lista de vídeos para reproducirlos más tarde. Haz clic en el símbolo &quot;+&quot; (situado en la parte inferior izquierda) de cualquier vídeo para agregarlo a tu lista rápida. Para ver tu lista, busca en la barra Lista rápida que aparecerá debajo del vídeo que estés viendo.";
+$LANGS['quicklistcleared'] = "Tu lista rápida se ha limpiado exitosamente.";
+$LANGS['addedtoquicklist'] = "Se ha añadido a<br> la lista rápida.";
 
 /* About */
 $LANGS['aboutus'] = 'Sobre nosotros';

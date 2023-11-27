@@ -70,6 +70,7 @@ $LANGS['favorites'] = 'Omiljeni';
 $LANGS['playlists'] = 'Popisi';
 $LANGS['help'] = 'Pomoć'; 
 $LANGS['suggestions'] = 'Suggestions';
+$LANGS['quicklist'] = 'QuickList';
 
 /* Homepage */
 $LANGS['viewall'] = 'vidite sve';
@@ -333,6 +334,8 @@ $LANGS['goodcomment'] = "Good comment";
 $LANGS['pleasesignin'] = "Please sign in";
  $LANGS['showmorecomments'] = "Show More Comments";
 $LANGS['showingamount'] = "<strong>Showing {number}</strong> of {total} comments";
+$LANGS['customize'] = "Customize";
+$LANGS['customizedesc'] = "After making your selection, copy and paste the embed code above. The code changes based on your selection.";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Svi Komentari';
@@ -880,6 +883,10 @@ $LANGS['newest'] = 'Najnovije';
 $LANGS['nochannelsfound'] = 'Niti Jedan Kanal Nije Pronađen...'; 
 $LANGS['noplfound'] = 'Niti Jedan Popis Nije Pronađen...'; 
 $LANGS['nogroupsfound'] = 'Niti Jedno Društvo Nije Pronađeno...';
+$LANGS['uploaded'] = 'Uploaded';
+$LANGS['anytime'] = 'Anytime';
+$LANGS['partnervideos'] = 'Partner Videos';
+$LANGS['resultcount'] = 'results {r} of about {t}';
 /* Profile */
 $LANGS['channelsuspended'] = 'Ovaj račun je obrisan zbog kršenja pravila.'; 
 $LANGS['accountnotfound'] = 'Ovaj račun nije pronađen.';
@@ -1123,6 +1130,21 @@ $LANGS['changeemailaddress'] = "Change Email Address";
 $LANGS['changeemail'] = "Change Email";
 $LANGS['partnerimages'] = "Partner Images";
 $LANGS['partnerimagelinks'] = "Partner Image Links";
+$LANGS['accountstatuscg'] = "Account Status: Community Guidelines";
+$LANGS['accountstatuscopy'] = "Account Status: Copyright";
+$LANGS['changeusername'] = "Change Username";
+$LANGS['changepassword'] = "Change Password";
+$LANGS['deleteaccount'] = "Delete Account";
+$LANGS['goodaccount'] = "Your account is in good standing.";
+$LANGS['accountstrike'] = "You have {s} strikes. Be careful!";
+$LANGS['accountstrikes'] = "You have {s} strikes. Be careful!";
+$LANGS['cannotchangeusername'] = "You cannot change your username yet! Please wait until ";
+$LANGS['usernamechangedesc'] = "You'll only be able to change your username once a year, so choose your new username wisely.";
+$LANGS['newusername'] = "New username";
+$LANGS['currentpassword'] = "Current password";
+$LANGS['newpassword'] = "New password";
+$LANGS['confirmnewpassword'] = "Confirm new password";
+$LANGS['enterpassword'] = "For security reasons, please enter your password";
  
 /* Upload page */
 $LANGS['uploadpagetitle'] = 'Postavljeni Videozapis'; 
@@ -1192,6 +1214,18 @@ $LANGS['incominginvites'] = 'Dolazne Pozivnice';
 $LANGS['noinvites'] = 'Nemate niti jednu pozinicu...'; 
 $LANGS['actions'] = 'Šta možete napraviti';
 $LANGS['retract'] = 'Vratite Natrag';
+
+/* History */
+$LANGS['clearhistory'] = "Clear Viewing History";
+$LANGS['noviewinghistory'] = "There are no videos in your history.";
+
+/* QuickList */
+$LANGS['playquicklist'] = "Play Quicklist";
+$LANGS['clearquicklist'] = "Clear Quicklist";
+$LANGS['noquicklist'] = "There are no videos in your quicklist.";
+$LANGS['noquicklistdesc'] = "QuickList lets you make a video list for later viewing. Click on the &quot;+&quot; (in the lower left) of any video to add it to your QuickList. To view your list, look for the QuickList bar under any video you're watching.";
+$LANGS['quicklistcleared'] = "Your Quicklist has been cleared successfully.";
+$LANGS['addedtoquicklist'] = "Added to <br> Quicklist";
  
 /* About */
 $LANGS['aboutus'] = 'Uvezi Nas';

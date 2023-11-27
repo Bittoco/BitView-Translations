@@ -69,6 +69,7 @@ $LANGS['favorites'] = '喜爱的视频';
 $LANGS['playlists'] = '播放列表';
 $LANGS['help'] = '帮助';
 $LANGS['suggestions'] = 'Suggestions';
+$LANGS['quicklist'] = 'QuickList';
 
 /* Homepage */
 $LANGS['viewall'] = '展开';
@@ -337,6 +338,8 @@ $LANGS['goodcomment'] = "Good comment";
 $LANGS['pleasesignin'] = "Please sign in";
 $LANGS['showmorecomments'] = "Show More Comments";
 $LANGS['showingamount'] = "<strong>Showing {number}</strong> of {total} comments";
+$LANGS['customize'] = "Customize";
+$LANGS['customizedesc'] = "After making your selection, copy and paste the embed code above. The code changes based on your selection.";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'All Comments';
@@ -891,6 +894,10 @@ $LANGS['newest'] = '最近上传';
 $LANGS['nochannelsfound'] = '无任何频道...';
 $LANGS['noplfound'] = '无任何播放列表...';
 $LANGS['nogroupsfound'] = '无任何群组...';
+$LANGS['uploaded'] = 'Uploaded';
+$LANGS['anytime'] = 'Anytime';
+$LANGS['partnervideos'] = 'Partner Videos';
+$LANGS['resultcount'] = 'results {r} of about {t}';
 
 /* Profile */
 $LANGS['channelsuspended'] = '此账号已被终止。';
@@ -1135,6 +1142,21 @@ $LANGS['changeemailaddress'] = "Change Email Address";
 $LANGS['changeemail'] = "Change Email";
 $LANGS['partnerimages'] = "Partner Images";
 $LANGS['partnerimagelinks'] = "Partner Image Links";
+$LANGS['accountstatuscg'] = "Account Status: Community Guidelines";
+$LANGS['accountstatuscopy'] = "Account Status: Copyright";
+$LANGS['changeusername'] = "Change Username";
+$LANGS['changepassword'] = "Change Password";
+$LANGS['deleteaccount'] = "Delete Account";
+$LANGS['goodaccount'] = "Your account is in good standing.";
+$LANGS['accountstrike'] = "You have {s} strikes. Be careful!";
+$LANGS['accountstrikes'] = "You have {s} strikes. Be careful!";
+$LANGS['cannotchangeusername'] = "You cannot change your username yet! Please wait until ";
+$LANGS['usernamechangedesc'] = "You'll only be able to change your username once a year, so choose your new username wisely.";
+$LANGS['newusername'] = "New username";
+$LANGS['currentpassword'] = "Current password";
+$LANGS['newpassword'] = "New password";
+$LANGS['confirmnewpassword'] = "Confirm new password";
+$LANGS['enterpassword'] = "For security reasons, please enter your password";
 
 /* Upload page */
 $LANGS['uploadpagetitle'] = '上传视频';
@@ -1220,6 +1242,18 @@ $LANGS['incominginvites'] = 'Incoming Invites';
 $LANGS['noinvites'] = 'You have no invites...';
 $LANGS['actions'] = 'Actions';
 $LANGS['retract'] = 'Retract';
+
+/* History */
+$LANGS['clearhistory'] = "Clear Viewing History";
+$LANGS['noviewinghistory'] = "There are no videos in your history.";
+
+/* QuickList */
+$LANGS['playquicklist'] = "Play Quicklist";
+$LANGS['clearquicklist'] = "Clear Quicklist";
+$LANGS['noquicklist'] = "There are no videos in your quicklist.";
+$LANGS['noquicklistdesc'] = "QuickList lets you make a video list for later viewing. Click on the &quot;+&quot; (in the lower left) of any video to add it to your QuickList. To view your list, look for the QuickList bar under any video you're watching.";
+$LANGS['quicklistcleared'] = "Your Quicklist has been cleared successfully.";
+$LANGS['addedtoquicklist'] = "Added to <br> Quicklist";
 
 /* About */
 $LANGS['aboutus'] = '关于我们';
