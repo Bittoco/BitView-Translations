@@ -49,6 +49,7 @@ $LANGS['timehourformat'] = '%b %e, %Y %I:%M %p';
 $LANGS['myvideostimeformat'] = '%A, %b %e %Y, %I:%M:%S %p';
 $LANGS['blogpostformat'] = '%A, %B %e, %Y';
 $LANGS['timenumberformat'] = 'd.m.Y';
+$LANGS['monthformat'] = '%B %Y';
 
 /* Header */
 $LANGS['home'] = 'Главная';

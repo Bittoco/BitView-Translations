@@ -47,6 +47,7 @@ $LANGS['longtimeformat'] = '%e %B %Y';
 $LANGS['timehourformat'] = '%e %B %Y %I:%M %p';
 $LANGS['myvideostimeformat'] = '%A, %e %b %Y, %I:%M:%S %p';
 $LANGS['blogpostformat'] = '%A, %e %B %Y';
+$LANGS['monthformat'] = '%B %Y';
 $LANGS['timenumberformat'] = 'd/m/Y';
 
 /* Header */
@@ -886,9 +887,9 @@ $LANGS['creatediscussiondesc'] = "Discussions are parts of groups in which you d
 $LANGS['resultspre'] = ""; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
 $LANGS['resultspost'] = "results"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
 $LANGS['relevance'] = 'Relevance';
-$LANGS['viewcount'] = 'View Count';
+$LANGS['viewcount'] = 'View count';
 $LANGS['searchrating'] = 'Rating';
-$LANGS['newest'] = 'Newest';
+$LANGS['newest'] = 'Upload date';
 $LANGS['nochannelsfound'] = 'No Channels Found...';
 $LANGS['noplfound'] = 'No Playlists Found...';
 $LANGS['nogroupsfound'] = 'No Groups Found...';

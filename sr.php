@@ -47,6 +47,7 @@ $LANGS['shorttimeformat'] = '%b %e, %Y'; $LANGS['videotimeformat'] = '%b %e, %Y'
 $LANGS['longtimeformat'] = '%B %e, %Y'; $LANGS['timehourformat'] = '%b %e, %Y %I:%M %p'; 
 $LANGS['myvideostimeformat'] = '%A, %b %e %Y, %I:%M:%S %p';
 $LANGS['blogpostformat'] = '%A, %B %e, %Y'; 
+$LANGS['monthformat'] = '%B %Y';
 $LANGS['timenumberformat'] = 'd.m.Y';
 
 /* Header */
