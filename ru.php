@@ -71,6 +71,7 @@ $LANGS['playlists'] = 'Плейлисты';
 $LANGS['help'] = 'Помощь';
 $LANGS['suggestions'] = 'Поисковые подсказки';
 $LANGS['quicklist'] = 'КвикЛист';
+$LANGS['browse'] = 'Browse';
 
 /* Homepage */
 $LANGS['viewall'] = 'все';
@@ -85,6 +86,10 @@ $LANGS['messages'] = 'Сообщения';
 $LANGS['message'] = 'Сообщение';
 $LANGS['comments'] = 'Комментарии';
 $LANGS['comment'] = 'Комментарий';
+$LANGS['sharedwithyou'] = 'Shared with You';
+$LANGS['sharedwithyousingular'] = 'Shared with You';
+$LANGS['videoresponses'] = 'Video Responses';
+$LANGS['videoresponse'] = 'Video Response';
 $LANGS['friendinvites'] = 'Запросы в друзья';
 $LANGS['friendinvite'] = 'Запрос в друзья';
 $LANGS['subscribers'] = 'Подписчики';
@@ -806,7 +811,57 @@ $LANGS['allmsg'] = "Все сообщения";
 $LANGS['msgcom'] = "Комментарии";
 $LANGS['sentmsg'] = "Отправленные";
 $LANGS['nomsg'] = "У вас нет сообщений...";
+$LANGS['personalmessages'] = "Personal Messages";
+$LANGS['sharedwithyouinbox'] = "Shared with You";
+$LANGS['friendinvitesinbox'] = "Friend Invites";
+$LANGS['videoresponsesinbox'] = "Video Responses";
+$LANGS['sent'] = "Sent";
+$LANGS['attachvideo'] = "Attach Video";
+$LANGS['msgchannelcomment'] = "Comment on your channel";
+$LANGS['msgcomment'] = "Comment on your video";
+$LANGS['msgvideoresponse'] = "Video response on your video";
+$LANGS['msgmention'] = "Mention on a video";
+$LANGS['msgmentionchannel'] = "Mention on {channel}'s channel";
 
+/* Address Book */
+$LANGS['addressbook'] = "Address Book";
+$LANGS['allcontacts'] = "All Contacts";
+$LANGS['selectedcontacts'] = "Selected Contacts";
+$LANGS['choosecontacts'] = "Choose from your list of contacts";
+$LANGS['friendssince'] = "Friends since";
+$LANGS['friendsinvitenot'] = "Friend invite not accepted yet";
+$LANGS['friendstatus'] = "Friend Status";
+$LANGS['unselect'] = "Unselect";
+$LANGS['unselectall'] = "Unselect All";
+$LANGS['nocontacts'] = "No contacts...";
+$LANGS['selectacontact'] = "Please select at least a contact to delete!";
+$LANGS['selectacontactmsg'] = "Please select at least a contact to message!";
+$LANGS['selectonecompose'] = "You can not compose to multiple contacts at once!<br>Please, select the contact you wish to send a message.";
+
+/* Insight */
+$LANGS['insighttitle'] = "Insight: Statistics and Data";
+$LANGS['allvideos'] = "All Videos";
+$LANGS['summary'] = "Summary";
+$LANGS['demographics'] = "Demographics";
+$LANGS['viewsdesc'] = "How many views are my videos getting?";
+$LANGS['demodesc'] = "Who is subscribed to my channel?";
+$LANGS['commdesc'] = "Where are my subscribers located?";
+$LANGS['video'] = "Video";
+$LANGS['topvideos'] = "Top videos";
+$LANGS['viewspercentage'] = "Views (&percnt; of total)";
+$LANGS['percentoftotalviews'] = "&percnt; of total views";
+$LANGS['searchmyvideos'] = "Search My Videos";
+$LANGS['insufdemo'] = "There is insufficient data to display Demographics. Try selecting a different time range.";
+$LANGS['ageranges'] = "Age ranges for both genders";
+$LANGS['genderranges'] = "Genders for all age groups";
+$LANGS['engdesc'] = "Number of users that have commented, favorited or rated your videos";
+$LANGS['engagements'] = "Community engagements";
+$LANGS['dailysubs'] = "Daily subscribers";
+$LANGS['daily'] = "Daily";
+$LANGS['total'] = "Total";
+$LANGS['insightvideodesc'] = "How many times has this video been watched?";
+$LANGS['videototalviews'] = "Total views";
+$LANGS['dailyviews'] = "Daily views";
 
 /* Send Message */
 $LANGS['messagecont'] = "Сообщение";
@@ -898,6 +953,14 @@ $LANGS['uploaded'] = 'Дата загрузки';
 $LANGS['anytime'] = 'За всё время';
 $LANGS['partnervideos'] = 'Видео Партнёров';
 $LANGS['resultcount'] = 'показано {r} результаатов из {t}';
+$LANGS['searchoptions'] = 'Search options';
+$LANGS['resulttype'] = 'Result type';
+$LANGS['duration'] = 'Duration';
+$LANGS['durshort'] = 'Short (~4 minutes)';
+$LANGS['durlong'] = 'Long (15~ minutes)';
+$LANGS['features'] = 'Features';
+$LANGS['novideosfoundfor'] = 'No videos found for';
+$LANGS['noresultsfoundfor'] = 'No results found for';
 
 /* Profile */
 $LANGS['channelsuspended'] = 'Аккаунт заблокирован.';

@@ -70,6 +70,7 @@ $LANGS['playlists'] = 'Listas de reproducción';
 $LANGS['help'] = 'Ayuda';
 $LANGS['suggestions'] = 'Sugerencias';
 $LANGS['quicklist'] = 'Lista rápida';
+$LANGS['browse'] = 'Explorar';
 
 /* Homepage */
 $LANGS['viewall'] = 'ver todos';
@@ -84,6 +85,10 @@ $LANGS['messages'] = 'mensajes';
 $LANGS['message'] = 'mensaje';
 $LANGS['comments'] = 'comentarios';
 $LANGS['comment'] = 'comentario';
+$LANGS['sharedwithyou'] = 'compartidos contigo';
+$LANGS['sharedwithyousingular'] = 'compartido contigo';
+$LANGS['videoresponses'] = 'respuestas en vídeo';
+$LANGS['videoresponse'] = 'respuesta en vídeo';
 $LANGS['friendinvites'] = 'peticiones de amistad';
 $LANGS['friendinvite'] = 'petición de amistad';
 $LANGS['subscribers'] = 'suscriptores';
@@ -806,7 +811,57 @@ $LANGS['allmsg'] = "Todos los mensajes";
 $LANGS['msgcom'] = "Comentarios";
 $LANGS['sentmsg'] = "Mensajes enviados";
 $LANGS['nomsg'] = "No tienes mensajes";
+$LANGS['personalmessages'] = "Mensajes personales";
+$LANGS['sharedwithyouinbox'] = "Compartido contigo";
+$LANGS['friendinvitesinbox'] = "Invitaciones de amigos";
+$LANGS['videoresponsesinbox'] = "Respuestas en video";
+$LANGS['sent'] = "Enviados";
+$LANGS['attachvideo'] = "Adjuntar video";
+$LANGS['msgchannelcomment'] = "Comentario en tu canal";
+$LANGS['msgcomment'] = "Comentario en tu video";
+$LANGS['msgvideoresponse'] = "Respuesta en tu video";
+$LANGS['msgmention'] = "Mención en un video";
+$LANGS['msgmentionchannel'] = "Mención en el canal de {channel}";
 
+/* Address Book */
+$LANGS['addressbook'] = "Libreta de direcciones";
+$LANGS['allcontacts'] = "Todos los contactos";
+$LANGS['selectedcontacts'] = "Contactos seleccionados";
+$LANGS['choosecontacts'] = "Elegir de tu lista de contactos";
+$LANGS['friendssince'] = "Amigos desde ";
+$LANGS['friendsinvitenot'] = "Invitación de amistad no aceptada";
+$LANGS['friendstatus'] = "Estado de amistad";
+$LANGS['unselect'] = "Anular la selección";
+$LANGS['unselectall'] = "Anular la selección";
+$LANGS['nocontacts'] = "No hay contactos...";
+$LANGS['selectacontact'] = "Elige al menos un contacto para eliminar.";
+$LANGS['selectacontactmsg'] = "Elige al menos un contacto al que enviar un mensaje.";
+$LANGS['selectonecompose'] = "No puedes enviar mensajes a múltiples usuarios a la vez.<br>Por favor, elige el contacto al que quieras redactar.";
+
+/* Insight */
+$LANGS['insighttitle'] = "Insight: Estadísticas e información";
+$LANGS['allvideos'] = "Todos los videos";
+$LANGS['summary'] = "Resumen";
+$LANGS['demographics'] = "Datos demográficos";
+$LANGS['viewsdesc'] = "¿Cuántas reproducciones están teniendo mis videos?";
+$LANGS['demodesc'] = "¿Quién está suscrito al canal?";
+$LANGS['commdesc'] = "¿Dónde están ubicados mis suscriptores?";
+$LANGS['video'] = "Video";
+$LANGS['topvideos'] = "Mejores videos";
+$LANGS['viewspercentage'] = "Reproducciones (&percnt; del total)";
+$LANGS['percentoftotalviews'] = "&percnt; de las reproducciones totales";
+$LANGS['searchmyvideos'] = "Buscar mis videos";
+$LANGS['insufdemo'] = "No hay información suficiente para mostrar datos demográficos. Intenta seleccionar un rango de tiempo diferente.";
+$LANGS['ageranges'] = "Rangos de edad para ambos géneros";
+$LANGS['genderranges'] = "Géneros para todos los grupos de edad";
+$LANGS['engdesc'] = "Número de usuarios que han comentado, puntuado o añadido tus videos en favoritos";
+$LANGS['engagements'] = "Participaciones de la comunidad";
+$LANGS['dailysubs'] = "Suscriptores diarios";
+$LANGS['daily'] = "Diario";
+$LANGS['total'] = "Total";
+$LANGS['insightvideodesc'] = "¿Cuántas veces se ha visto este vídeo?";
+$LANGS['videototalviews'] = "Reproducciones totales";
+$LANGS['dailyviews'] = "Reproducciones diarias";
 
 /* Send Message */
 $LANGS['messagecont'] = "Mensaje";
@@ -898,6 +953,14 @@ $LANGS['uploaded'] = 'Subido';
 $LANGS['anytime'] = 'En cualquier momento';
 $LANGS['partnervideos'] = 'Videos de partners';
 $LANGS['resultcount'] = 'resultados {r} de aprox. {t}';
+$LANGS['searchoptions'] = 'Opciones de búsqueda';
+$LANGS['resulttype'] = 'Tipos de resultados';
+$LANGS['duration'] = 'Duración';
+$LANGS['durshort'] = 'Corta (aproximadamente 4 minutos)';
+$LANGS['durlong'] = 'Long (aproximadamente 15 minutos)';
+$LANGS['features'] = 'Características';
+$LANGS['novideosfoundfor'] = 'No se han encontrado videos para';
+$LANGS['noresultsfoundfor'] = 'No se han encontrado resultados para';
 
 /* Profile */
 $LANGS['channelsuspended'] = 'Esta cuenta está suspendida.';

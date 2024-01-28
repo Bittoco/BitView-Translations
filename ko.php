@@ -72,6 +72,7 @@ $LANGS['playlists'] = '재생 목록';
 $LANGS['help'] = '도움말';
 $LANGS['suggestions'] = 'Suggestions';
 $LANGS['quicklist'] = 'QuickList';
+$LANGS['browse'] = 'Browse';
 
 /* Homepage */
 $LANGS['viewall'] = '모두 보기';
@@ -86,6 +87,10 @@ $LANGS['messages'] = '편지';
 $LANGS['message'] = '편지';
 $LANGS['comments'] = '댓글';
 $LANGS['comment'] = '댓글';
+$LANGS['sharedwithyou'] = 'Shared with You';
+$LANGS['sharedwithyousingular'] = 'Shared with You';
+$LANGS['videoresponses'] = 'Video Responses';
+$LANGS['videoresponse'] = 'Video Response';
 $LANGS['friendinvites'] = '친구 초대';
 $LANGS['friendinvite'] = '친구 초대';
 $LANGS['subscribers'] = '구독자';
@@ -808,7 +813,57 @@ $LANGS['allmsg'] = "모든 메시지";
 $LANGS['msgcom'] = "댓글";
 $LANGS['sentmsg'] = "보낸 메시지";
 $LANGS['nomsg'] = "메시지가 없습니다...";
+$LANGS['personalmessages'] = "Personal Messages";
+$LANGS['sharedwithyouinbox'] = "Shared with You";
+$LANGS['friendinvitesinbox'] = "Friend Invites";
+$LANGS['videoresponsesinbox'] = "Video Responses";
+$LANGS['sent'] = "Sent";
+$LANGS['attachvideo'] = "Attach Video";
+$LANGS['msgchannelcomment'] = "Comment on your channel";
+$LANGS['msgcomment'] = "Comment on your video";
+$LANGS['msgvideoresponse'] = "Video response on your video";
+$LANGS['msgmention'] = "Mention on a video";
+$LANGS['msgmentionchannel'] = "Mention on {channel}'s channel";
 
+/* Address Book */
+$LANGS['addressbook'] = "Address Book";
+$LANGS['allcontacts'] = "All Contacts";
+$LANGS['selectedcontacts'] = "Selected Contacts";
+$LANGS['choosecontacts'] = "Choose from your list of contacts";
+$LANGS['friendssince'] = "Friends since";
+$LANGS['friendsinvitenot'] = "Friend invite not accepted yet";
+$LANGS['friendstatus'] = "Friend Status";
+$LANGS['unselect'] = "Unselect";
+$LANGS['unselectall'] = "Unselect All";
+$LANGS['nocontacts'] = "No contacts...";
+$LANGS['selectacontact'] = "Please select at least a contact to delete!";
+$LANGS['selectacontactmsg'] = "Please select at least a contact to message!";
+$LANGS['selectonecompose'] = "You can not compose to multiple contacts at once!<br>Please, select the contact you wish to send a message.";
+
+/* Insight */
+$LANGS['insighttitle'] = "Insight: Statistics and Data";
+$LANGS['allvideos'] = "All Videos";
+$LANGS['summary'] = "Summary";
+$LANGS['demographics'] = "Demographics";
+$LANGS['viewsdesc'] = "How many views are my videos getting?";
+$LANGS['demodesc'] = "Who is subscribed to my channel?";
+$LANGS['commdesc'] = "Where are my subscribers located?";
+$LANGS['video'] = "Video";
+$LANGS['topvideos'] = "Top videos";
+$LANGS['viewspercentage'] = "Views (&percnt; of total)";
+$LANGS['percentoftotalviews'] = "&percnt; of total views";
+$LANGS['searchmyvideos'] = "Search My Videos";
+$LANGS['insufdemo'] = "There is insufficient data to display Demographics. Try selecting a different time range.";
+$LANGS['ageranges'] = "Age ranges for both genders";
+$LANGS['genderranges'] = "Genders for all age groups";
+$LANGS['engdesc'] = "Number of users that have commented, favorited or rated your videos";
+$LANGS['engagements'] = "Community engagements";
+$LANGS['dailysubs'] = "Daily subscribers";
+$LANGS['daily'] = "Daily";
+$LANGS['total'] = "Total";
+$LANGS['insightvideodesc'] = "How many times has this video been watched?";
+$LANGS['videototalviews'] = "Total views";
+$LANGS['dailyviews'] = "Daily views";
 
 /* Send Message */
 $LANGS['messagecont'] = "메시지";
@@ -900,6 +955,14 @@ $LANGS['uploaded'] = 'Uploaded';
 $LANGS['anytime'] = 'Anytime';
 $LANGS['partnervideos'] = 'Partner Videos';
 $LANGS['resultcount'] = 'results {r} of about {t}';
+$LANGS['searchoptions'] = 'Search options';
+$LANGS['resulttype'] = 'Result type';
+$LANGS['duration'] = 'Duration';
+$LANGS['durshort'] = 'Short (~4 minutes)';
+$LANGS['durlong'] = 'Long (15~ minutes)';
+$LANGS['features'] = 'Features';
+$LANGS['novideosfoundfor'] = 'No videos found for';
+$LANGS['noresultsfoundfor'] = 'No results found for';
 
 
 /* Profile */
