@@ -1,6 +1,6 @@
 <?php
 /* General stuff */
-$langs['language'] = '日本語';
+$LANGS['language'] = '日本語';
 $LANGS['languageenglish'] = 'Japanese';
 $LANGS['languagecode'] = 'ja_JP.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
 $LANGS['languagechange'] = '言語が日本語 に設定されました。';
