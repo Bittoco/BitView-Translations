@@ -171,7 +171,6 @@ $LANGS['onlyonecomment'] = '1つのコメントしか残すことができませ
 $LANGS['vpnbrowser'] = "BitViewアカウントを作成するためにVPNを使用することはできません！";
 $LANGS['torbrowser'] = "BitViewアカウントを作成するためにTORを使用することはできません！";
 $LANGS['captchaincorrect'] = "コードを正しく入力していませんでした。";
-ChatGPT
 
 $LANGS['toomanyaccounts'] = 'アカウントが多すぎます！';
 $LANGS['banned2times'] = 'あなたは既に2回禁止されています。もうアカウントを作成することはできません！';
