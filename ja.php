@@ -1,9 +1,9 @@
 <?php
 /* General stuff */
-$langs['language'] = '日本語 (jp)';
-$LANGS['languageenglish'] = 'Japanese (jp)';
-$LANGS['languagecode'] = 'jp.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
-$LANGS['languagechange'] = '言語が日本語 (jp) に設定されました。';
+$langs['language'] = '日本語';
+$LANGS['languageenglish'] = 'Japanese';
+$LANGS['languagecode'] = 'ja_JP.UTF-8'; /* Leave the ".UTF-8" in the end as-is, as it might break some dates */
+$LANGS['languagechange'] = '言語が日本語 に設定されました。';
 $LANGS['numberformat'] = 0; /* If your language uses comma separators (example: 1,000,000), value will be 1. If it uses dots (example: 1.000.000) or doesn't use separators, value will be 0.*/
 
 /* Language window */
