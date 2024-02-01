@@ -52,7 +52,7 @@ $LANGS['timenumberformat'] = 'd/m/Y';
 
 /* Header */
 $LANGS['home'] = 'Strona główna';
-$LANGS['videos'] = 'Filmy';
+$LANGS['videos'] = 'Wideo';
 $LANGS['channels'] = 'Kanały';
 $LANGS['community'] = 'Społeczność';
 $LANGS['search'] = 'Szukaj';
