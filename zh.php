@@ -1330,7 +1330,7 @@ $LANGS['about4'] = '安全并私密地向您的家人和来自世界各地的好
 $LANGS['about5'] = '...和其他用途！';
 $LANGS['aboutsignup'] = '立即 <a href="/signup">注册</a> 一个新账号吧！';
 $LANGS['abouthelp'] = '想要了解更多信息吗？请参见<a href="help">帮助</a> 。';
-$LANGS['aboutmail'] = '请随时 <a href="mailto:contact@vidlii.co">联系我们</a>。';
+$LANGS['aboutmail'] = '请随时 <a href="mailto:bitview@vistafan12.eu.org">联系我们</a>。';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView社区准则';
@@ -1393,7 +1393,7 @@ $LANGS['whowins'] = "谁是赢家？";
 $LANGS['whowinsdesc'] = "获胜者将由 BitView 工作人员于月底选出。";
 $LANGS['theprize'] = "赢了有什么奖励？";
 $LANGS['theprizedesc'] = "名声，财富和来自许多人羡（ji）慕（du）的眼光。";
-$LANGS['contestsuggestion'] = '如您想对创作大赛提出建议，请 <a href="mailto:contact@vidlii.co">联系我们</a> 。';
+$LANGS['contestsuggestion'] = '如您想对创作大赛提出建议，请 <a href="mailto:bitview@vistafan12.eu.org">联系我们</a> 。';
 
 /* Help */
 $LANGS['q1'] = 'Q: 如何分享我上传的视频How can I share my videos and link to them from my website?';
@@ -1417,7 +1417,7 @@ $LANGS['a6'] = '答：是的，您仍保留对您的视频的所有权利。BitV
 $LANGS['q7'] = '问：BitView对于侵犯版权的政策是什么？';
 $LANGS['a7'] = "答：BitView尊重版权所有者和发布者的权利，并且仅接受对所上传的材料拥有所有必要权利的人上传的视频。Our policy is to respond to any notices of alleged infringement that comply with the Digital Millennium Copyright Act (DMCA). If we receive a notice or otherwise have reason to believe that content you submitted infringes another party's copyright, your account may be terminated and the video removed from BitView.";
 $LANGS['q8'] = 'Q: 如何举报侵犯版权行为？';
-$LANGS['a8'] = 'A: 如果您认为有人未经您许可上传了您的版权内容，我们建议您直接与该人联系以解决任何分歧。您也可以通过此<a href="mailto:contact@vidlii.co">电子邮件</a>联系我们的支持团队。';
+$LANGS['a8'] = 'A: 如果您认为有人未经您许可上传了您的版权内容，我们建议您直接与该人联系以解决任何分歧。您也可以通过此<a href="mailto:bitview@vistafan12.eu.org">电子邮件</a>联系我们的支持团队。';
 $LANGS['q9'] = 'Q: 如果我被错误指控侵犯版权怎么办？';
 $LANGS['a9'] = "A: 如果我们收到有关托管在 BitView 上的您的任何视频内容的版权投诉，我们会通知您并给予您适当的回应机会。";
 $LANGS['q10'] = 'Q: 你们在防止违反政策的内容出现在 BitView 中做了什么？';

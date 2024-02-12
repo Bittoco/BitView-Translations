@@ -1332,7 +1332,7 @@ $LANGS['about4'] = 'Bezpiecznie i prywatnie pokazywać filmy swoim przyjaciołom
 $LANGS['about5'] = '... i wiele, wiele więcej!';
 $LANGS['aboutsignup'] = '<a href="/signup">Zarejestruj się teraz</a> i załóż darmowe konto.';
 $LANGS['abouthelp'] = 'Aby dowiedzieć się więcej o naszej usłudze, zapoznaj się z naszą sekcją <a href="help">Pomoc</a>.';
-$LANGS['aboutmail'] = 'Jeśli masz jakieś pytania, <a href="mailto:contact@vidlii.co">skontaktuj się z nami przez e-mail</a> bądź pod komentarzem na <a href="/user/BitViewPL">Polskim kanale BitView</a>.';
+$LANGS['aboutmail'] = 'Jeśli masz jakieś pytania, <a href="mailto:bitview@vistafan12.eu.org">skontaktuj się z nami przez e-mail</a> bądź pod komentarzem na <a href="/user/BitViewPL">Polskim kanale BitView</a>.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'Zasady Społeczności BitView';
@@ -1396,7 +1396,7 @@ $LANGS['whowins'] = "Kto wygrywa?";
 $LANGS['whowinsdesc'] = "Zwycięzcę wybierze personel BitView na koniec miesiąca.";
 $LANGS['theprize'] = "Nagroda?";
 $LANGS['theprizedesc'] = "Sława, fortuna i zazdrość wszystkich oczu.";
-$LANGS['contestsuggestion'] = 'Masz sugestię na temat miesięcznego konkursu filmowego? Prosimy <a href="mailto:contact@vidlii.co">powiedz nam o tym</a>.';
+$LANGS['contestsuggestion'] = 'Masz sugestię na temat miesięcznego konkursu filmowego? Prosimy <a href="mailto:bitview@vistafan12.eu.org">powiedz nam o tym</a>.';
 
 /* Help */
 
@@ -1421,7 +1421,7 @@ $LANGS['a6'] = 'A: Tak. Zachowujesz wszystkie prawa do swojej treści. BitView n
 $LANGS['q7'] = 'Q: Jaka jest polityka dotycząca naruszeń praw autorskich?';
 $LANGS['a7'] = 'A: BitView szanuje prawa autorów i wydawców i akceptuje jedynie przesyłanie filmów przez osoby posiadające wszystkie niezbędne prawa do przesłanego materiału. Nasza polityka polega na reagowaniu na wszelkie zgłoszenia domniemanych naruszeń zgodnie z ustawą o prawach autorskich w erze cyfrowej (DMCA). Jeśli otrzymamy zgłoszenie lub w inny sposób uzyskamy informację, że przesłana przez ciebie treść narusza prawa autorskie innej strony, twoje konto może zostać zablokowane, a film usunięty z BitView.';
 $LANGS['q8'] = 'Q: Jak zgłosić naruszenie praw autorskich?';
-$LANGS['a8'] = 'A: Jeśli uważasz, że ktoś przesłał twój chroniony prawami autorskimi materiał bez twojej zgody, zachęcamy do kontaktu z tą osobą w celu rozwiązania ewentualnych różnic między wami. Możesz również skontaktować się z naszym zespołem pomocy za pomocą <a href="mailto:contact@vidlii.co">tego adresu e-mail</a>.';
+$LANGS['a8'] = 'A: Jeśli uważasz, że ktoś przesłał twój chroniony prawami autorskimi materiał bez twojej zgody, zachęcamy do kontaktu z tą osobą w celu rozwiązania ewentualnych różnic między wami. Możesz również skontaktować się z naszym zespołem pomocy za pomocą <a href="mailto:bitview@vistafan12.eu.org">tego adresu e-mail</a>.';
 $LANGS['q9'] = 'Q: Co zrobić, jeśli zostałem niesłusznie oskarżony o naruszenie praw autorskich?';
 $LANGS['a9'] = 'A: Poinformujemy cię, jeśli otrzymamy skargę na naruszenie praw autorskich dotyczącą treści filmowej, którą hostuje BitView. Udzielimy ci możliwości odpowiedniego zareagowania.';
 $LANGS['q10'] = 'Q: Co robicie, aby zapobiegać pojawianiu się treści naruszających wasze zasady na BitView?';

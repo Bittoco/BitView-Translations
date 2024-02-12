@@ -1328,7 +1328,7 @@ $LANGS['about4'] = 'Securely and privately show vidjoes to yews friends and fami
 $LANGS['about5'] = '... and much, much more!';
 $LANGS['aboutsignup'] = '<a href="/signup">Sign up now</a> and open a free account.';
 $LANGS['abouthelp'] = 'To learn more about our service, please see our <a href="help">Help</a> section.';
-$LANGS['aboutmail'] = 'Please feel free to <a href="mailto:contact@vidlii.co">contact us</a>.';
+$LANGS['aboutmail'] = 'Please feel free to <a href="mailto:bitview@vistafan12.eu.org">contact us</a>.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView Community Guidelines';

@@ -1301,7 +1301,7 @@ $LANGS['about4'] = 'Sigurno i privatno pokažite videozapise vašim prijateljima
 $LANGS['about5'] = '... i još mnogo, mnogo više toga!'; 
 $LANGS['aboutsignup'] = '<a href="/signup">Prijavite se sad</a> i otvorite besplatni račun.';
 $LANGS['abouthelp'] = 'Da saznate više o našoj usluzi, molimo vas odete na našem <a href="help">pomoć</a> dijelu stranice.'; 
-$LANGS['aboutmail'] = 'Molimo vas da <a href="mailto:contact@vidlii.co">nas kontaktirate</a> ako nešto trebate.';
+$LANGS['aboutmail'] = 'Molimo vas da <a href="mailto:bitview@vistafan12.eu.org">nas kontaktirate</a> ako nešto trebate.';
  
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView Community Guidelines';
@@ -1364,7 +1364,7 @@ $LANGS['whowins'] = "Tko pobjeđuje?";
 $LANGS['whowinsdesc'] = "Pobjednik će biti odabran na kraju mjeseca od BitView vlasnika i čistača.";
 $LANGS['theprize'] = "Nagrada?";
 $LANGS['theprizedesc'] = "Popularnost, uspjeh i ljubomora od svih.";
-$LANGS['contestsuggestion'] = 'Imate prijedlog za mjesečno natjecanje videozapisa? Molimo vas da <a href="mailto:contact@vidlii.co">nas informišete</a> uvezi njega.'; 
+$LANGS['contestsuggestion'] = 'Imate prijedlog za mjesečno natjecanje videozapisa? Molimo vas da <a href="mailto:bitview@vistafan12.eu.org">nas informišete</a> uvezi njega.'; 
  
 /* Help */
 $LANGS['q1'] = 'P: Kako mogu podijeliti moje videozapise i linkovati ih na mojoj stranici?';
@@ -1382,7 +1382,7 @@ $LANGS['a6'] = 'O: Da. Vi držite autorska prava nad svim vašim sadržajima. Bi
 $LANGS['q7'] = 'P: Što su vaša pravila što se tiče prekršavanja autorskih prava?';
 $LANGS['a7'] = "O: BitView poštuje autorska prava od vlasnika i izdavača i samo prihvaća videozapise od onih koji imaju sva potrebna prava nad sadržajem. Mi ćemo reagovati kada god je kršenje DMCA-a (Digital Millenium Copyright Act) prijavljeno. Ako dobijemo poruku ili zbog negog drugog razloga vijerujemo da postavljeni sadržaj krši autorska prava, vaš račun će možda biti zabranjen i postavljeni videozapis obrisan sa BitView-a.";
 $LANGS['q8'] = 'P: Kako mogu prijaviti kršenje autorskih prava?'; 
-$LANGS['a8'] = 'O: Ako vjerujete da je neko postavio sadržaj koji krši vaša autorska prava bez vaše dozvole, mi vam preporučujemo da kontaktirate tu osobu i direktno riješite bilo koji problem što imate sa njom. Možete također kontaktirati naš tim koristeći ovu <a href="mailto:contact@vidlii.co">E-Poštu</a>.';
+$LANGS['a8'] = 'O: Ako vjerujete da je neko postavio sadržaj koji krši vaša autorska prava bez vaše dozvole, mi vam preporučujemo da kontaktirate tu osobu i direktno riješite bilo koji problem što imate sa njom. Možete također kontaktirati naš tim koristeći ovu <a href="mailto:bitview@vistafan12.eu.org">E-Poštu</a>.';
 $LANGS['q9'] = 'P: Što ako sam netačno okrivljen/a da sam prekršio/la autorska prava?';
 $LANGS['a9'] = "O: Rećićemo vam ako dobijemo optužbu o vašem videozapisnom sadržaju na BitView-u. Daćemo vam mogućnost da točno reagujete.";
 $LANGS['q10'] = 'P: Što radite da biste sprečili da se na BitView-u postave sadržaji koji krše vaša pravila?'; 

@@ -1328,7 +1328,7 @@ $LANGS['about4'] = 'Vis videoer sikkert og privat til venner og familie rundt om
 $LANGS['about5'] = '... og mye, mye mer!';
 $LANGS['aboutsignup'] = '<a href="/signup">Registrer deg nå</a> og åpne en gratis konto.';
 $LANGS['abouthelp'] = 'For å lære mer om tjenesten vår, se vår <a href="help">Hjelp</a>-seksjon.';
-$LANGS['aboutmail'] = 'Vennligst <a href="mailto:contact@vidlii.co">kontakt oss</a>.';
+$LANGS['aboutmail'] = 'Vennligst <a href="mailto:bitview@vistafan12.eu.org">kontakt oss</a>.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView Retningslinjer for fellesskapet';
@@ -1391,7 +1391,7 @@ $LANGS['whowins'] = "Hvem vinner?";
 $LANGS['whowinsdesc'] = "Vinneren vil bli plukket ut i slutten av måneden av BitView-personalet.";
 $LANGS['theprize'] = "Prisen?";
 $LANGS['theprizedesc'] = "Berømmelse, formue og misunnelse av alle øyne.";
-$LANGS['contestsuggestion'] = 'Har du et forslag til en månedlig videokonkurranse? Vennligst <a href="mailto:contact@vidlii.co">Fortell oss</a> om det.';
+$LANGS['contestsuggestion'] = 'Har du et forslag til en månedlig videokonkurranse? Vennligst <a href="mailto:bitview@vistafan12.eu.org">Fortell oss</a> om det.';
 
 /* Help */
 $LANGS['q1'] = 'Sp: Hvordan kan jeg dele videoene mine og lenke til dem fra nettstedet mitt?';
@@ -1415,7 +1415,7 @@ $LANGS['a6'] = 'A: Ja. Du beholder alle rettigheter til innholdet ditt. BitView 
 $LANGS['q7'] = 'Q: Hva er din policy for brudd på opphavsrett?';
 $LANGS['a7'] = "Sv: BitView respekterer rettighetene til opphavsrettsinnehavere og utgivere og aksepterer kun videoopplastinger fra personer som har alle nødvendige rettigheter til det opplastede materialet. Vår policy er å svare på eventuelle varsler om påståtte krenkelser som overholde Digital Millennium Copyright Act (DMCA). Hvis vi mottar et varsel eller på annen måte har grunn til å tro at innhold du har sendt inn krenker en annen parts opphavsrett, kan kontoen din bli avsluttet og videoen fjernet fra BitView.";
 $LANGS['q8'] = 'Q: Hvordan rapporterer jeg brudd på opphavsretten?';
-$LANGS['a8'] = 'Sv: Hvis du tror at noen andre har lastet opp det opphavsrettsbeskyttede innholdet ditt uten din tillatelse, oppfordrer vi deg til å kontakte vedkommende for å løse eventuelle uenigheter med dem direkte. Du kan også kontakte supportteamet vårt ved å bruke denne <a href="mailto:contact@vidlii.co">e-posten</a>.';
+$LANGS['a8'] = 'Sv: Hvis du tror at noen andre har lastet opp det opphavsrettsbeskyttede innholdet ditt uten din tillatelse, oppfordrer vi deg til å kontakte vedkommende for å løse eventuelle uenigheter med dem direkte. Du kan også kontakte supportteamet vårt ved å bruke denne <a href="mailto:bitview@vistafan12.eu.org">e-posten</a>.';
 $LANGS['q9'] = 'Q: Hva om jeg har blitt feilaktig anklaget for brudd på opphavsretten?';
 $LANGS['a9'] = "Sv: Vi gir deg beskjed hvis vi mottar en opphavsrettsklage på noe av videoinnholdet ditt som er vert på BitView. Vi gir deg muligheten til å svare på riktig måte.";
 $LANGS['q10'] = 'Q: Hva gjør du for å forhindre at innhold som bryter retningslinjene dine vises i BitView?';

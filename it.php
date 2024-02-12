@@ -1329,7 +1329,7 @@ $LANGS['about4'] = 'Mostra video in modo sicuro e privato ai tuoi amici e famili
 $LANGS['about5'] = '... e molto, molto altro!';
 $LANGS['aboutsignup'] = '<a href="/signup">Registrati ora</a> e apri un account gratuito.';
 $LANGS['abouthelp'] = 'Per saperne di più sul nostro servizio, consulta la nostra sezione <a href="help">Aiuto</a>.';
-$LANGS['aboutmail'] = 'Non esitare a <a href="mailto:contact@vidlii.co">contattarci</a>.';
+$LANGS['aboutmail'] = 'Non esitare a <a href="mailto:bitview@vistafan12.eu.org">contattarci</a>.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView Community Guidelines';
@@ -1392,7 +1392,7 @@ $LANGS['whowins'] = "Chi vince?";
 $LANGS['whowinsdesc'] = "Il vincitore sarà scelto alla fine del mese dallo staff di BitView.";
 $LANGS['theprize'] = "Il Premio?";
 $LANGS['theprizedesc'] = "Fama, fortuna e l'invidia di tutti.";
-$LANGS['contestsuggestion'] = 'Hai un suggerimento per un concorso video mensile? <a href="mailto:contact@vidlii.co">Raccontacelo</a> per favore.';
+$LANGS['contestsuggestion'] = 'Hai un suggerimento per un concorso video mensile? <a href="mailto:bitview@vistafan12.eu.org">Raccontacelo</a> per favore.';
 
 /* Help */
 $LANGS['q1'] = 'D: Come posso condividere i miei video e collegarli dal mio sito web?';
@@ -1416,7 +1416,7 @@ $LANGS['a6'] = 'R: Sì. Conservi tutti i diritti sui tuoi contenuti. BitView non
 $LANGS['q7'] = 'D: Qual è la tua politica sulla violazione del copyright?';
 $LANGS['a7'] = "R: BitView rispetta i diritti dei detentori del copyright e degli editori e accetta caricamenti video solo da persone che detengono tutti i diritti necessari sul materiale caricato. La nostra politica è di rispondere a qualsiasi notifica di presunta violazione che rispettare il Digital Millennium Copyright Act (DMCA). Se riceviamo un avviso o altrimenti abbiamo motivo di ritenere che il contenuto inviato violi il copyright di un'altra parte, il tuo account potrebbe essere chiuso e il video rimosso da BitView.";
 $LANGS['q8'] = 'D: Come posso segnalare una violazione del copyright?';
-$LANGS['a8'] = 'R: Se ritieni che qualcun altro abbia caricato il tuo contenuto protetto da copyright senza il tuo permesso, ti invitiamo a contattare quella persona per risolvere eventuali divergenze direttamente con lei. Puoi anche contattare il nostro team di supporto utilizzando questa <a href="mailto:contact@vidlii.co">email</a>.';
+$LANGS['a8'] = 'R: Se ritieni che qualcun altro abbia caricato il tuo contenuto protetto da copyright senza il tuo permesso, ti invitiamo a contattare quella persona per risolvere eventuali divergenze direttamente con lei. Puoi anche contattare il nostro team di supporto utilizzando questa <a href="mailto:bitview@vistafan12.eu.org">email</a>.';
 $LANGS['q9'] = 'D: Cosa succede se sono stato falsamente accusato di violazione del copyright?';
 $LANGS['a9'] = "R: Ti faremo sapere se riceviamo un reclamo per violazione del copyright su uno qualsiasi dei tuoi contenuti video ospitati su BitView. Ti daremo l'opportunità di rispondere in modo appropriato.";
 $LANGS['q10'] = 'D: Cosa stai facendo per evitare che i contenuti che violano le tue policy vengano visualizzati in BitView?';

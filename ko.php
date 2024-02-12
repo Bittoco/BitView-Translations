@@ -1335,7 +1335,7 @@ $LANGS['about4'] = '친구와 가족들에게 안전하고 비공개로 동영�
 $LANGS['about5'] = '... 그리고 더 많은 것들을 할 수 있습니다!';
 $LANGS['aboutsignup'] = '<a href="/signup">지금 가입</a>하여 무료 계정을 만드세요.';
 $LANGS['abouthelp'] = '더 많은 정보를 알고 싶으시면 <a href="help">도움말</a> 섹션을 참조하세요.';
-$LANGS['aboutmail'] = '문의 사항이 있으시면 언제든지 <a href="mailto:contact@vidlii.co">contact@vidlii.co</a>로 문의해주세요.';
+$LANGS['aboutmail'] = '문의 사항이 있으시면 언제든지 <a href="mailto:bitview@vistafan12.eu.org">bitview@vistafan12.eu.org</a>로 문의해주세요.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView 커뮤니티 지침';
@@ -1398,7 +1398,7 @@ $LANGS['whowins'] = "누가 우승하나요?";
 $LANGS['whowinsdesc'] = "우승자는 비트뷰 스태프에 의해 달의 끝에서 결정됩니다.";
 $LANGS['theprize'] = "상은?";
 $LANGS['theprizedesc'] = "명예, 부와 모든 이들의 부러움을 얻게 됩니다.";
-$LANGS['contestsuggestion'] = '월간 비디오 대회에 대한 제안이 있나요? <a href="mailto:contact@vidlii.co">저희에게 알려주세요</a>.';
+$LANGS['contestsuggestion'] = '월간 비디오 대회에 대한 제안이 있나요? <a href="mailto:bitview@vistafan12.eu.org">저희에게 알려주세요</a>.';
 
 /* Help */
 $LANGS['q1'] = 'Q: 어떻게 동영상을 공유하고 웹사이트에서 링크를 할 수 있나요?';
@@ -1422,7 +1422,7 @@ $LANGS['a6'] = 'A: 네. 동영상에 대한 모든 권리는 여러분에게 있
 $LANGS['q7'] = 'Q: 저작권 침해에 대한 정책은 어떻게 되나요?';
 $LANGS['a7'] = "A: BitView는 저작권 소유자와 출판사의 권리를 존중하며, 모든 필요한 권리를 소지한 사람들에게만 동영상 업로드를 허용합니다. 저작권법 디지털 밀레니엄 저작권법 (DMCA)을 준수하는 모든 저작권 침해 통지에 대해 대응하는 것이 정책입니다. 만약 저희가 여러분이 제출한 콘텐츠가 다른 당사자의 저작권을 침해한다는 통지를 받거나 다른 이유로 여러분의 콘텐츠가 저작권을 침해한다고 판단하면, 여러분의 계정이 종료되고 비디오가 BitView에서 삭제될 수 있습니다.";
 $LANGS['q8'] = 'Q: 저작권 침해를 신고하는 방법은 어떻게 되나요?';
-$LANGS['a8'] = 'A: 다른 사람이 여러분의 저작권으로 보호되는 콘텐츠를 허가 없이 업로드했다고 믿으신다면, 해당 사람과 직접 해결하도록 권장합니다. 또는 지원팀에 <a href="mailto:contact@vidlii.co">이메일</a>을 보내 저희와 연락할 수 있습니다.';
+$LANGS['a8'] = 'A: 다른 사람이 여러분의 저작권으로 보호되는 콘텐츠를 허가 없이 업로드했다고 믿으신다면, 해당 사람과 직접 해결하도록 권장합니다. 또는 지원팀에 <a href="mailto:bitview@vistafan12.eu.org">이메일</a>을 보내 저희와 연락할 수 있습니다.';
 $LANGS['q9'] = 'Q: 저작권 침해로 잘못 신고받은 경우 어떻게 되나요?';
 $LANGS['a9'] = "A: BitView에서 여러분의 비디오 콘텐츠 중 저작권 침해에 대한 신고를 받으면 알려드립니다. 적절한 대응 방법에 대해 여러분에게 기회를 드립니다.";
 $LANGS['q10'] = 'Q: 여러분은 정책을 위반하는 콘텐츠가 BitView에 표시되지 않도록 하기 위해 무엇을 하고 있나요?';
