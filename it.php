@@ -979,6 +979,7 @@ $LANGS['age'] = 'Età';
 $LANGS['gender'] = 'Sesso';
 $LANGS['male'] = 'Uomo';
 $LANGS['female'] = 'Femmina';
+$LANGS['nonbinary'] = 'Non-Binary';
 $LANGS['status'] = 'Stato';
 $LANGS['single_m'] = 'Singolo';
 $LANGS['single_f'] = 'Singolo';

@@ -981,6 +981,7 @@ $LANGS['age'] = 'Vărstă';
 $LANGS['gender'] = 'Sex';
 $LANGS['male'] = 'Bărbat';
 $LANGS['female'] = 'Femeie';
+$LANGS['nonbinary'] = 'Non-Binary';
 $LANGS['status'] = 'Status';
 $LANGS['single_m'] = 'Singur';
 $LANGS['single_f'] = 'Singură';

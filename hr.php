@@ -969,6 +969,7 @@ $LANGS['age'] = 'Godina';
 $LANGS['gender'] = 'Spol';
 $LANGS['male'] = 'Muško';
 $LANGS['female'] = 'Žensko';
+$LANGS['nonbinary'] = 'Non-Binary';
 $LANGS['status'] = 'Status';
 $LANGS['single_m'] = 'Sam';
 $LANGS['single_f'] = 'Sama';

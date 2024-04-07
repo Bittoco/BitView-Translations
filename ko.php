@@ -982,6 +982,7 @@ $LANGS['age'] = '나이';
 $LANGS['gender'] = '성별';
 $LANGS['male'] = '남성';
 $LANGS['female'] = '여성';
+$LANGS['nonbinary'] = 'Non-Binary';
 $LANGS['status'] = '상태';
 $LANGS['single_m'] = '독신';
 $LANGS['single_f'] = '독신';
