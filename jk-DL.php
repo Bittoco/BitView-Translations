@@ -978,6 +978,7 @@ $LANGS['age'] = 'Age';
 $LANGS['gender'] = 'Gender';
 $LANGS['male'] = 'Mayawl';
 $LANGS['female'] = 'Femayawl';
+$LANGS['nonbinary'] = 'Non-Binary';
 $LANGS['status'] = 'Status';
 $LANGS['single_m'] = 'Singawl';
 $LANGS['single_f'] = 'Singawl';

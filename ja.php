@@ -980,6 +980,7 @@ $LANGS['age'] = '年齢';
 $LANGS['gender'] = '性別';
 $LANGS['male'] = '男性';
 $LANGS['female'] = '女性';
+$LANGS['nonbinary'] = 'Non-Binary';
 $LANGS['status'] = 'ステータス';
 $LANGS['single_m'] = '独身';
 $LANGS['single_f'] = '独身';
