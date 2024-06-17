@@ -15,7 +15,8 @@ Bonjour! You can now create translations for BitView. Please, use en-US.php as a
 | Español (España) | 100% | Herotrap
 | Español (Latinoamérica) | 100% | Herotrap
 | Polski (pl) | 100% | vistafan12
-| Français (France) | 90-95% | iplux / ipluxteamx
+| Français (France) | 50% | ipluxteamx
+| Portuguese (Brazil) | 33% | yuuinet, koopdawhoop
 | Русский (RU) | 100% | purpletheblaze, CoolestGuy94
 | Deutsch | 100% | realdantopf
 | Hrvatski (HR) | 100% | HelluvaEmployee
