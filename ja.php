@@ -27,8 +27,7 @@ $LANGS['days'] = '日';
 $LANGS['weeks'] = '週間';
 $LANGS['months'] = '月';
 $LANGS['years'] = '年';
-$LANGS['ago1'] = '';
-$LANGS['ago2'] = '前';
+$LANGS['ago'] = '{t} 前';
 $LANGS['january'] = '1月';
 $LANGS['february'] = '2月';
 $LANGS['march'] = '3月';
@@ -126,10 +125,8 @@ $LANGS['gridview'] = 'グリッドビュー';
 $LANGS['listview'] = 'リストビュー';
 
 /* Page title */
-$LANGS['homepretitle'] = "";
-$LANGS['homeposttitle'] = "のBitView";
-$LANGS['chpretitle'] = "";
-$LANGS['chposttitle'] = "のチャンネル";
+$LANGS['hometitle'] = "{n}のBitView";
+$LANGS['channeltitle'] = "{n}のチャンネル";
 $LANGS['signintitle'] = "サインイン";
 $LANGS['historytitle'] = "閲覧履歴";
 $LANGS['favtitle'] = "お気に入り";
@@ -941,8 +938,7 @@ $LANGS['discussiontitle'] = "ディスカッションタイトル";
 $LANGS['creatediscussiondesc'] = "ディスカッションは、設定されたトピックについて議論するグループの一部です。";
 
 /* Search Results */
-$LANGS['resultspre'] = ""; // Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''
-$LANGS['resultspost'] = "結果"; // Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: ''
+$LANGS['results'] = "{s}結果";
 $LANGS['relevance'] = '関連性';
 $LANGS['viewcount'] = '再生回数';
 $LANGS['searchrating'] = '評価';

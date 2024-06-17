@@ -27,8 +27,7 @@ $LANGS['days'] = 'días';
 $LANGS['weeks'] = 'semanas';
 $LANGS['months'] = 'meses';
 $LANGS['years'] = 'años';
-$LANGS['ago1'] = 'hace '; /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['ago2'] = ''; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['ago'] = 'hace {t}';
 $LANGS['january'] = 'Enero';
 $LANGS['february'] = 'Febrero';
 $LANGS['march'] = 'Marzo';
@@ -126,10 +125,8 @@ $LANGS['gridview'] = "Vista de cuadrícula";
 $LANGS['listview'] = "Vista de lista";
 
 /* Page title */
-$LANGS['homepretitle'] = "BitView de "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['homeposttitle'] = ""; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['chpretitle'] = "Canal de "; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['chposttitle'] = ""; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['hometitle'] = "BitView de {n}";
+$LANGS['channeltitle'] = "Canal de {n}";
 $LANGS['signintitle'] = "Iniciar sesión";
 $LANGS['historytitle'] = "Historial";
 $LANGS['favtitle'] = "Favoritos";
@@ -940,8 +937,7 @@ $LANGS['discussiontitle'] = "Título del debate";
 $LANGS['creatediscussiondesc'] = "Los debates son partes de los grupos donde puedes discutir un tema.";
 
 /* Search Results */
-$LANGS['resultspre'] = "Resultados para"; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['resultspost'] = ""; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['results'] = "Resultados para{s}";
 $LANGS['relevance'] = 'Relevancia';
 $LANGS['viewcount'] = 'Número de reproducciones';
 $LANGS['searchrating'] = 'Puntuación';

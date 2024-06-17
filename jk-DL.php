@@ -27,8 +27,7 @@ $LANGS['days'] = 'days';
 $LANGS['weeks'] = 'weeks';
 $LANGS['months'] = 'months';
 $LANGS['years'] = 'years';
-$LANGS['ago1'] = ''; /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If yews language doesn't use this, leave it empty like dis: ''*/
-$LANGS['ago2'] = ' ago'; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['ago'] = '{t} ago';
 $LANGS['january'] = 'January';
 $LANGS['february'] = 'February';
 $LANGS['march'] = 'March';
@@ -126,10 +125,8 @@ $LANGS['gridview'] = "Grid View";
 $LANGS['listview'] = "List View";
 
 /* Page title */
-$LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['homeposttitle'] = "'s BitView"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['chpretitle'] = "Channawl"; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['chposttitle'] = "'s Channawl"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['hometitle'] = "{n}'s BitView";
+$LANGS['channeltitle'] = "{n}'s Channawl";
 $LANGS['signintitle'] = "Sign In";
 $LANGS['historytitle'] = "Viewing History";
 $LANGS['favtitle'] = "Favourites";
@@ -939,8 +936,7 @@ $LANGS['discussiontitle'] = "Discussion Title";
 $LANGS['creatediscussiondesc'] = "Discussions are parts of groups in which yew discuss the set topic.";
 
 /* Search Results */
-$LANGS['resultspre'] = ""; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If yews language doesn't use this, leave it empty like this: ''*/
-$LANGS['resultspost'] = "results"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If yews language doesn't use this, leave it empty like this: '' */
+$LANGS['results'] = "{s} results";
 $LANGS['relevance'] = 'Relevance';
 $LANGS['viewcount'] = 'View Count';
 $LANGS['searchrating'] = 'Rating';

@@ -28,8 +28,7 @@ $LANGS['days'] = 'дней';
 $LANGS['weeks'] = 'недель';
 $LANGS['months'] = 'месяцев';
 $LANGS['years'] = 'лет';
-$LANGS['ago1'] = ''; /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['ago2'] = ' назад'; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['ago'] = '{t} назад';
 $LANGS['january'] = 'Январь';
 $LANGS['february'] = 'Февраль';
 $LANGS['march'] = 'Март';
@@ -127,10 +126,8 @@ $LANGS['gridview'] = "Сетка";
 $LANGS['listview'] = "Список";
 
 /* Page title */
-$LANGS['homepretitle'] = "BitView "; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['homeposttitle'] = ""; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['chpretitle'] = "Канал "; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['chposttitle'] = ""; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['hometitle'] = "BitView {n}";
+$LANGS['channeltitle'] = "Канал {n}";
 $LANGS['signintitle'] = "Войти";
 $LANGS['historytitle'] = "История";
 $LANGS['favtitle'] = "Избранное";
@@ -940,8 +937,7 @@ $LANGS['discussiontitle'] = "Название обсуждения";
 $LANGS['creatediscussiondesc'] = "Обсуждения это части группы где участники обсуждают заданную тему.";
 
 /* Search Results */
-$LANGS['resultspre'] = "Результаты"; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['resultspost'] = ""; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['results'] = "Результаты {s}";
 $LANGS['relevance'] = 'Актуальность';
 $LANGS['viewcount'] = 'Просмотры';
 $LANGS['searchrating'] = 'Оценка';

@@ -28,8 +28,7 @@ $LANGS['days'] = '天';
 $LANGS['weeks'] = '周';
 $LANGS['months'] = '个月';
 $LANGS['years'] = '年';
-$LANGS['ago1'] = ''; /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['ago2'] = '前'; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['ago'] = '{t} 前';
 $LANGS['january'] = '1月';
 $LANGS['february'] = '2月';
 $LANGS['march'] = '3月';
@@ -127,10 +126,8 @@ $LANGS['gridview'] = "网格视图";
 $LANGS['listview'] = "列表视图";
 
 /* Page title */
-$LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['homeposttitle'] = "的BitView账号"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['chpretitle'] = ""; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['chposttitle'] = "的频道"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['hometitle'] = "{n}的BitView账号";
+$LANGS['channeltitle'] = "{n}的频道";
 $LANGS['signintitle'] = "登录";
 $LANGS['historytitle'] = "历史记录";
 $LANGS['favtitle'] = "收藏";
@@ -941,8 +938,7 @@ $LANGS['discussiontitle'] = "讨论名称";
 $LANGS['creatediscussiondesc'] = "讨论是小组中讨论设定主题的部分。";
 
 /* Search Results */
-$LANGS['resultspre'] = ""; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['resultspost'] = "搜索结果"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['results'] = "{s} 搜索结果";
 $LANGS['relevance'] = '关于';
 $LANGS['viewcount'] = '观看次数';
 $LANGS['searchrating'] = '评分';

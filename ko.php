@@ -29,8 +29,7 @@ $LANGS['days'] = '일';
 $LANGS['weeks'] = '주';
 $LANGS['months'] = '달';
 $LANGS['years'] = '년';
-$LANGS['ago1'] = '전 '; /* Explanation: Text before "x seconds/minutes/hours..." Example: "hace (1 día)" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['ago2'] = ''; /* Explanation: ago2 -> Text after "x seconds/minutes/hours..." Example: "(1 day) ago" in English, "(1 anno) fa" in Italian. If your language doesn't use this, leave it empty like this: ''*/
+$LANGS['ago'] = '전 {t}';
 $LANGS['january'] = '1월';
 $LANGS['february'] = '2월';
 $LANGS['march'] = '3월';
@@ -128,10 +127,8 @@ $LANGS['gridview'] = "그리드 보기";
 $LANGS['listview'] = "리스트 보기";
 
 /* Page title */
-$LANGS['homepretitle'] = ""; /* Explanation: Use if "BitView" goes before the username. Example: "BitView de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['homeposttitle'] = "BitView"; /* Explanation: Use if "BitView" goes after the username. Example: "username's BitView" in English. If your language doesn't use this, leave it empty like this: '' */
-$LANGS['chpretitle'] = ""; /* Explanation: Use if "channel" goes before the username. Example: "Canal de username" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['chposttitle'] = " 채널"; /* Explanation: Use if "channel" goes after the username. Example: "username's Channel" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['hometitle'] = "{n} BitView";
+$LANGS['channeltitle'] = "{n} 채널";
 $LANGS['signintitle'] = "로그인";
 $LANGS['historytitle'] = "시청 기록";
 $LANGS['favtitle'] = "즐겨찾기";
@@ -942,8 +939,7 @@ $LANGS['discussiontitle'] = "토론 제목";
 $LANGS['creatediscussiondesc'] = "토론은 그룹 내에서 주제에 대해 토론하는 부분입니다.";
 
 /* Search Results */
-$LANGS['resultspre'] = ""; /* Explanation: Use if the search query goes before "results". Example: "Resultados para search" in Spanish. If your language doesn't use this, leave it empty like this: ''*/
-$LANGS['resultspost'] = " 결과"; /* Explanation: Use if "BitView" goes after the username. Example: "search results" in English. If your language doesn't use this, leave it empty like this: '' */
+$LANGS['results'] = "{s} 결과";
 $LANGS['relevance'] = '관련성';
 $LANGS['viewcount'] = '조회수';
 $LANGS['searchrating'] = '평점';
