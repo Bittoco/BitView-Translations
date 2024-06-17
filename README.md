@@ -14,18 +14,26 @@ If the language system does not consider some aspects of your language, please [
 
 | Language | Completion | Contributor(s)
 | - | - | - |
-| English (US) | 100% | Original language
+| Català | 10% | Herotrap
+| Deutsch | 100% | realdantopf
+| English (US) | 100% | Original
 | English (UK) | 100% | Herotrap, sks2002
+| English (Canada) | 100% | Herotrap
+| Esperanto | 5% | xzjul
 | Español (España) | 100% | Herotrap
 | Español (Latinoamérica) | 100% | Herotrap
-| Polski (pl) | 100% | vistafan12
-| Français (France) | 50% | ipluxteamx
-| Portuguese (Brazil) | 33% | yuuinet, koopdawhoop
-| Русский (RU) | 100% | purpletheblaze, CoolestGuy94
-| Deutsch | 100% | realdantopf
-| Hrvatski (HR) | 100% | HelluvaEmployee
-| Србски (SR) | 100% | HelluvaEmployee
-| Català | 10% | Herotrap
-| Galego | 25% | dswitchfofo
-| Română | 70% | conneath
+| Français (France) | 95% | ipluxteamx
+| Galego | 20% | dswitchfofo
+| Hrvatski | 70% | purpleblλze
+| Italiano | 50% | Venus5687
+| Norsk | 50% | FatalFit
+| Polski | 100% | vistafan12
+| Shqip | 5% | SUPERCPMAN12
+| Português (Brasil) | 50% | yuuinet, koopdawhoop
+| Română | 80% | conneath, andreiixe
+| Русский | 100% | purpletheblaze, CoolestGuy94, LITE228
+| Србски | 85% | HelluvaEmployee, purpleblλze
+| Українська | 10% | Kiril Misnikov
+| 日本語 | 100% | vistafan12
 | 한국인 | 100% | vistafan12
+| 中文 | 100% | SuzuranIsCute
