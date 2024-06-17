@@ -1,6 +1,10 @@
 # BitView Translations
 
-Bonjour! You can now create translations for BitView. Please, use en-US.php as a template.
+Bonjour! You can now create translations for BitView. 
+Please, use en-US.php as a template.
+
+If the language system does not consider some aspects of your language, please [create an issue](https://github.com/Bittoco/BitView-translations/issues) or tell us in our [Discord server](https://discord.gg/wgGaqCmwuQ).
+
 ## Useful Information
 
  - [Date Format Info](https://doc.bccnsoft.com/docs/php-docs-7-en/function.strftime.html)
