@@ -849,7 +849,7 @@ $LANGS['allvideos'] = "Toutes les vidéos";
 $LANGS['summary'] = "Résumé";
 $LANGS['demographics'] = "Données démographiques";
 $LANGS['viewsdesc'] = "Combien de vues mes vidéos obtiennent-elles ?";
-$LANGS['demodesc'] = "Qui est abonné à ma chaîne?"
+$LANGS['demodesc'] = "Qui est abonné à ma chaîne?";
 $LANGS['commdesc'] = "Où se trouvent mes abonnés?";
 $LANGS['video'] = "Vidéo";
 $LANGS['topvideos'] = "Top vidéos";
@@ -1267,7 +1267,7 @@ $LANGS['partnerdesc'] = "Vous proposez des vidéos géniales et votre audience n
 $LANGS['applynow'] = 'Inscrivez-vous dès maintenant';
 $LANGS['contentpartners'] = 'Partenaires de contenu';
 $LANGS['partnerbenefits'] = 'Avantages du partenariat';
-$LANGS['partnerbenefitsdesc'] = 'Devenir partenaire BitView vous offre de nombreux avantages. En voici quelques-uns :<br><br>- Image de marque : démarquez-vous grâce à une image de marque personnalisée, qui comprend des bannières, un encadré personnalisé pour votre chaîne et un badge de partenaire sur toutes vos vidéos.<br><br>- D'autres avantages seront proposés à l\'avenir !';
+$LANGS['partnerbenefitsdesc'] = 'Devenir partenaire BitView vous offre de nombreux avantages. En voici quelques-uns :<br><br>- Image de marque : démarquez-vous grâce à une image de marque personnalisée, qui comprend des bannières, un encadré personnalisé pour votre chaîne et un badge de partenaire sur toutes vos vidéos.<br><br>- D\'autres avantages seront proposés à l\'avenir !';
 $LANGS['qualificationsfaq'] = 'Qualifications et FAQ';
 $LANGS['qualificationsfaqdesc'] = 'Pour être éligible au programme de partenariat BitView, vous devez remplir certains critères minimum :<br><br>- Vous créez des vidéos originales adaptées au streaming en ligne.<br><br>- Vous avez plus de 75 abonnés.<br><br>- Votre compte ne contrevient à aucune <a href="/guidelines">règle de la communauté.</a>';
 
@@ -1518,5 +1518,5 @@ $LANGS['mobile'] = 'Mobile';
 
 /*
 mister v s'il n'était pas un mister et qu'il ne connaissaît pas la lettre v:
- 
+ */
 ?>
