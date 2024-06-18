@@ -70,6 +70,7 @@ $LANGS['help'] = 'Hjelp';
 $LANGS['suggestions'] = 'Forslag';
 $LANGS['quicklist'] = 'HurtigListe';
 $LANGS['browse'] = 'Browse';
+$LANGS['messagesmenu'] = 'Messages';
 
 /* Homepage */
 $LANGS['viewall'] = 'vis alle';
@@ -342,6 +343,42 @@ $LANGS['showmorecomments'] = "Vis flere kommentarer";
 $LANGS['showingamount'] = "<strong>Viser {number}</strong> av {total} kommentarer";
 $LANGS['customize'] = "Tilpass";
 $LANGS['customizedesc'] = "Etter å ha gjort valget ditt, kopier og lim inn innebyggingskoden ovenfor. Koden endres basert på valget ditt.";
+$LANGS['editvideodetail'] = "Edit Video Detail";
+$LANGS['editannotations'] = "Edit annotations";
+$LANGS['insightstats'] = "Insight stats";
+$LANGS['allowratingscheck'] = "Allow this video to be <b>rated</b> by others.";
+$LANGS['thisvideoispublic'] = "This video is public.";
+$LANGS['thisvideoisprivate'] = "This video is private.";
+$LANGS['thisvideois'] = "This video is";
+$LANGS['like'] = "Like";
+$LANGS['saveto'] = "Save to";
+$LANGS['uservideoamount'] = "{n} videos";
+$LANGS['respondvideo'] = "Respond to this video...";
+$LANGS['signinnowcomment'] = '<a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now to post a comment!';
+$LANGS['charactersremaining'] = 'characters remaining';
+$LANGS['attachavideo'] = 'Attach a video';
+$LANGS['commentok'] = 'OK';
+$LANGS['commenterror'] = 'Error';
+$LANGS['highestratedcomments'] = 'Highest Rated Comments';
+$LANGS['options'] = 'Options';
+$LANGS['openplaylist'] = 'Open Playlist';
+$LANGS['autoplayon'] = 'Autoplay (on)';
+$LANGS['autoplayoff'] = 'Autoplay (off)';
+$LANGS['playlistposition'] = '<b>{n1}</b> of {n2}';
+$LANGS['nextin'] = 'Next in {n}';
+$LANGS['subscribetooltip'] = "Click to be notified of new videos from this channel";
+$LANGS['unsubscribetooltip'] = "Click to stop being notified of new videos from this channel";
+$LANGS['liketooltip'] = "I like this";
+$LANGS['disliketooltip'] = "I dislike this";
+$LANGS['likeratiotooltip'] = "{l} likes, {d} dislikes";
+$LANGS['savetotooltip'] = "Save to favorites or playlist";
+$LANGS['sharetooltip'] = "Share this video";
+$LANGS['embedtooltip'] = "Get video embed code";
+$LANGS['flagtooltip'] = "Flag as inappropriate";
+$LANGS['voteuptooltip'] = "Vote Up";
+$LANGS['votedowntooltip'] = "Vote Down";
+$LANGS['flagspamtooltip'] = "Flag for spam";
+$LANGS['removetooltip'] = "Remove";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Alle kommentarer';
@@ -705,6 +742,8 @@ $LANGS['cat_ZW'] = "Zimbabwe";
 
 /* My Subscriptions */
 $LANGS['newvideos'] = "Nye Videoer";
+$LANGS['addselectedto'] = "Add the selected videos to:";
+$LANGS['addtoplaylists'] = "Add to Playlists";
 
 /* Account */
 $LANGS['myaccount'] = "Min konto";
@@ -745,6 +784,10 @@ $LANGS['novideos'] = 'Du har ikke lastet opp noen videoer. <a href="/my_videos_u
 $LANGS['nomyvideosresults'] = "Ingen resultater. Sjekk om stavemåten din er riktig.";
 
 /* Edit Video */
+$LANGS['infoandsettings'] = "Info and Settings";
+$LANGS['annotations'] = "Annotations";
+$LANGS['captionsandsubtitles'] = "Captions and Subtitles";
+$LANGS['viewonvideopage'] = "View on video page »";
 $LANGS['title'] = "Tittel";
 $LANGS['desc'] = "Beskrivelse";
 $LANGS['privacy'] = "Personvern";
@@ -771,6 +814,29 @@ $LANGS['dateandmap'] = "Dato og Kart";
 $LANGS['clear'] = "Slett";
 $LANGS['allowratings'] = "Ja, la denne videoen bli vurdert av andre.";
 $LANGS['dontallowratings'] = "Nei, ikke la denne videoen bli vurdert.";
+$LANGS['updatevideo'] = "Update Video";
+$LANGS['updatevideofilesize'] = "(maximum file size: 100MB)";
+
+/* Edit Video Annotations */
+$LANGS['publish'] = "Publish";
+$LANGS['published'] = "Published";
+$LANGS['saved'] = "Saved";
+$LANGS['notvaliddate'] = "You have entered an unvalid timestamp!";
+$LANGS['outsiderange'] = "You have entered a timestamp outside of the video duration range!";
+$LANGS['video_pl'] = "Paste a link to a Video";
+$LANGS['playlist_pl'] = "Paste a link to a Playlist";
+$LANGS['channel_pl'] = "Enter an username";
+$LANGS['group_pl'] = "Paste a link to a Group";
+$LANGS['search_pl'] = "Enter your search query";
+$LANGS['entertext'] = "Enter your text here";
+$LANGS['loading'] = "Loading...";
+$LANGS['addlink'] = "Add link";
+$LANGS['linktype'] = "Link Type";
+$LANGS['group'] = "Group";
+$LANGS['composemessage'] = "Compose Message";
+$LANGS['videoresponseupload'] = "Video Response Upload";
+$LANGS['searchquery'] = "BitView Search Query";
+$LANGS['entervalidurl'] = "Please enter a valid URL";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Lagt til";
@@ -782,6 +848,16 @@ $LANGS['playlistedit'] = "Rediger Spilleliste";
 $LANGS['videourl'] = "Video URL";
 $LANGS['add'] = "Legg Til";
 $LANGS['editinfo'] = "Rediger Informasjon";
+$LANGS['editdetails'] = "Edit details";
+$LANGS['deleteplaylist'] = "Delete playlist";
+$LANGS['addvideostoplaylist'] = "Add videos to playlist";
+$LANGS['novideoswerefound'] = "No videos were found.";
+$LANGS['position'] = "Position";
+$LANGS['move'] = "Move";
+$LANGS['deleteplaylistconfirmdesc'] = "Are you sure you want to delete <strong>{p}</strong>?<br><br>Note: Deleting playlists is a permanent action and cannot be undone.";
+$LANGS['deleteplaylistconfirm'] = "Yes, delete it";
+$LANGS['titledesctags'] = "Title, description, tags";
+$LANGS['savechangespl'] = "Save changes";
 
 /* Edit Playlist */
 $LANGS['pledittitle'] = "Rediger Spilleliste";
@@ -1049,6 +1125,7 @@ $LANGS['clicktosend'] = 'Klikk for å sende!';
 $LANGS['honorless'] = 'mindre';
 $LANGS['activitycomment'] = 'kommentert';
 $LANGS['activityfavorite'] = 'favoriserte en video';
+$LANGS['activitylike'] = 'liked a video';
 $LANGS['activityrating'] = 'vurderte en video:';
 $LANGS['activityupload'] = 'lastet opp en ny video';
 $LANGS['activityfriend'] = 'ble venner med';
@@ -1249,6 +1326,43 @@ $LANGS['thankyou'] = 'Takk';
 $LANGS['sharelink'] = 'Del videolenken din! Kopier og lim inn nedenfor:';
 $LANGS['embedlink'] = 'Spill av denne videoen direkte PÅ nettstedet ditt! Kopier og lim inn følgende kodebit:';
 $LANGS['allrequiredinfo'] = 'Vennligst fyll ut alle obligatoriske felter!';
+$LANGS['videoscanbe'] = 'Videos can be...';
+$LANGS['uploadhd'] = 'High Definition';
+$LANGS['uploadsize'] = 'Up to 2 GB in size';
+$LANGS['uploadlength'] = 'Up to 15 minutes in length';
+$LANGS['uploadlengthpartners'] = 'Up to 1 hour in length';
+$LANGS['uploadformats'] = 'A wide variety of formats';
+$LANGS['basicuploader'] = 'Upload problems? Try the <a href="/my_videos_upload_basic">basic uploader</a> (works on older computers and web browsers).';
+$LANGS['uploadinstruction1'] = '<strong>Important:</strong> Do not upload any TV shows, music videos, music concerts, or commercials without permission unless they consist entirely of content you created yourself.';
+$LANGS['uploadinstruction2'] = 'The <a href="/guidelines">Community Guidelines</a> can help you determine whether your video infringes someone else\'s copyright.';
+$LANGS['uploadinstruction3'] = 'By clicking "Upload Video", you are representing that this video does not violate BitView\'s <a id="terms-of-use-link" href="/terms">Terms of Use</a> and that you own all copyrights in this video or have authorization to upload it.';
+$LANGS['fileuploaded'] = 'Your file has been uploaded. We are now processing the video...';
+$LANGS['videosettingssaved'] = 'Your video settings have been saved.';
+$LANGS['timeremaining'] = 'About {m} min. remaining...';
+$LANGS['minuteremaining'] = 'Less than a minute remaining...';
+$LANGS['preview'] = 'Preview';
+$LANGS['processing'] = 'Processing';
+$LANGS['generatingpreviews'] = 'Generating previews...';
+$LANGS['errorpreview'] = "Error: couldn't generate preview";
+$LANGS['infoandprivacy'] = "Video information and privacy settings";
+$LANGS['sharingoptions'] = "Sharing options";
+$LANGS['url'] = "URL";
+$LANGS['durationerror'] = "You can only upload videos up to {n} minutes in length.";
+
+/* Video Response Upload */
+$LANGS['postingresponse'] = "You are posting a Video Response to: ";
+$LANGS['responsessofar'] = "{n} Video Response(s) so far";
+$LANGS['chooseavideo'] = "Choose a Video";
+$LANGS['uploadavideo'] = "Upload a Video";
+$LANGS['responsesdesc1'] = "<h4>What is a Video Response?</h4><p>Ever wanted to talk back to a video? Now's your chance – you can upload a response to this video and we'll link them together.</p>";
+$LANGS['responsesdesc2'] = "<h4>How do I post a Video Response?</h4><p>You can record a new video, choose from the videos that you already have or create and upload a new video. Select the option on the left that best suits your needs.</p>";
+$LANGS['responsesdesc3'] = '<h4>Oops! I actually meant to post a text comment. How do I do this?</h4><p>Return to the video (by hitting the "back" button on your browser or clicking the title of the video at the top of this page) and click "Post a Text Comment".</p>';
+$LANGS['choosevideotitle'] = "Choose one of your existing videos as a response";
+$LANGS['selectvideo'] = "Select the video that you want to respond with:";
+$LANGS['useselectedvideo'] = "Use the selected video";
+$LANGS['uploadvideoresponse'] = "Upload your Video Response";
+$LANGS['clickstart'] = 'Click "Start" to begin uploading your Video Response.';
+$LANGS['start'] = 'Start';
 
 /* Partners */
 $LANGS['partnerhead'] = 'Partnerskap';
@@ -1305,6 +1419,26 @@ $LANGS['retract'] = 'Trekk Tilbake';
 /* History */
 $LANGS['clearhistory'] = "Tøm Visningshistorikk";
 $LANGS['noviewinghistory'] = "Det er ingen videoer i historien din.";
+$LANGS['addto'] = "Add to";
+$LANGS['sortorder'] = "Order";
+$LANGS['sortnewest'] = "Newest";
+$LANGS['sortoldest'] = "Oldest";
+$LANGS['sortmostviewed'] = "Most viewed";
+$LANGS['sortlongest'] = "Longest";
+$LANGS['sortshortest'] = "Shortest";
+$LANGS['sortaz'] = "A-Z";
+$LANGS['sortza'] = "Z-A";
+$LANGS['newpltitle'] = "Playlist title";
+$LANGS['newpldesc'] = "Playlist description";
+$LANGS['newpltags'] = "Playlist tags";
+$LANGS['newplbutton'] = "Create playlist";
+$LANGS['addvideos'] = "Add videos";
+$LANGS['liked'] = "Liked";
+$LANGS['mylikedvideos'] = "My Liked Videos";
+$LANGS['savedtoplaylist'] = "Videos saved to playlist(s) successfully!";
+$LANGS['sureremovevideos'] = "Are you sure you want to delete the selected videos?";
+$LANGS['remove'] = "Remove";
+$LANGS['plvideoamountsingular'] = "video";
 
 /* QuickList */
 $LANGS['playquicklist'] = "Spill Hurtigliste";
@@ -1313,6 +1447,11 @@ $LANGS['noquicklist'] = "Det er ingen videoer i hurtiglisten din.";
 $LANGS['noquicklistdesc'] = "Hurtigliste lar deg lage en videoliste for senere visning. Klikk på " + " (nederst til venstre) på en video for å legge den til hurtiglisten din. For å se listen din, se for hurtiglistelinjen under hvilken som helst video du ser på.";
 $LANGS['quicklistcleared'] = "Hurtiglisten din har blitt slettet.";
 $LANGS['addedtoquicklist'] = "Lagt til <br> Hurtigliste";
+$LANGS['queue'] = "Queue";
+$LANGS['playqueue'] = "Play Queue";
+$LANGS['clearqueue'] = "Clear Queue";
+$LANGS['addtoqueue'] = "Add to queue";
+$LANGS['addedtoqueue'] = "Added to <br> queue";
 
 /* About */
 $LANGS['aboutus'] = 'Om Oss';
@@ -1479,18 +1618,25 @@ $LANGS['featherdisabled'] = '"Fjær" er nå deaktivert!';
 $LANGS['timemachinedisabled'] = '"Tidsmaskin" er nå deaktivert!';
 $LANGS['lightsoutdisabled'] = '"Lyser ut" er nå deaktivert!';
 
+/* Email Confirmation */
+$LANGS['checkemail'] = "Please Check Your Email";
+$LANGS['checkemaildesc'] = "A confirmation email has been sent to your email address. Please click on the link in the email to verify your email address. If you do not recieve the message within a few minutes, please also check your bulk or spam folders.";
+$LANGS['resendemail'] = "Resend Confirmation Email";
+
 /* Footer */
 $LANGS['youraccount'] = 'Din Konto';
 $LANGS['inbox'] = 'Innboks';
 $LANGS['footmore'] = 'mer...';
 $LANGS['helpinfo'] = 'Hjelp';
 $LANGS['helpcenter'] = 'Få Hjelp';
-$LANGS['ourtwitter'] = 'Vår Twitter';
-$LANGS['ourdiscord'] = 'Vår uenighet';
-$LANGS['guidelines'] = 'Retningslinjer for fellesskapet';
-$LANGS['partnerships'] = 'Partnerskap';
-$LANGS['terms'] = 'Tjenestevilkår';
-$LANGS['privacypolicy'] = 'Personvernregler';
+$LANGS['ourtwitter'] = 'Twitter';
+$LANGS['ourdiscord'] = 'Discord';
+$LANGS['guidelines'] = 'Guidelines';
+$LANGS['partnerships'] = 'Partners';
+$LANGS['terms'] = 'Terms';
+$LANGS['about'] = 'About';
+$LANGS['privacypolicy'] = 'Privacy';
+$LANGS['languageselector'] = 'Language';
 $LANGS['currentlanguage'] = 'Gjeldende Språk';
 $LANGS['showlanguages'] = 'Vis språk';
 $LANGS['setlanguagepref'] = 'Angi din Språkpreferanse';

@@ -71,6 +71,7 @@ $LANGS['help'] = 'Помощь';
 $LANGS['suggestions'] = 'Поисковые подсказки';
 $LANGS['quicklist'] = 'КвикЛист';
 $LANGS['browse'] = 'Категории';
+$LANGS['messagesmenu'] = 'Messages';
 
 /* Homepage */
 $LANGS['viewall'] = 'все';
@@ -343,6 +344,42 @@ $LANGS['showmorecomments'] = "Показать Больше Комментари
 $LANGS['showingamount'] = "<strong>Показано {number}</strong> из {total} комментариев";
 $LANGS['customize'] = "Кастомизировать";
 $LANGS['customizedesc'] = "После выбора скопируйте и вставьте приведённый выше код для встраивания. Код изменяется сразу в зависимости от вашего выбора.";
+$LANGS['editvideodetail'] = "Edit Video Detail";
+$LANGS['editannotations'] = "Edit annotations";
+$LANGS['insightstats'] = "Insight stats";
+$LANGS['allowratingscheck'] = "Allow this video to be <b>rated</b> by others.";
+$LANGS['thisvideoispublic'] = "This video is public.";
+$LANGS['thisvideoisprivate'] = "This video is private.";
+$LANGS['thisvideois'] = "This video is";
+$LANGS['like'] = "Like";
+$LANGS['saveto'] = "Save to";
+$LANGS['uservideoamount'] = "{n} videos";
+$LANGS['respondvideo'] = "Respond to this video...";
+$LANGS['signinnowcomment'] = '<a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now to post a comment!';
+$LANGS['charactersremaining'] = 'characters remaining';
+$LANGS['attachavideo'] = 'Attach a video';
+$LANGS['commentok'] = 'OK';
+$LANGS['commenterror'] = 'Error';
+$LANGS['highestratedcomments'] = 'Highest Rated Comments';
+$LANGS['options'] = 'Options';
+$LANGS['openplaylist'] = 'Open Playlist';
+$LANGS['autoplayon'] = 'Autoplay (on)';
+$LANGS['autoplayoff'] = 'Autoplay (off)';
+$LANGS['playlistposition'] = '<b>{n1}</b> of {n2}';
+$LANGS['nextin'] = 'Next in {n}';
+$LANGS['subscribetooltip'] = "Click to be notified of new videos from this channel";
+$LANGS['unsubscribetooltip'] = "Click to stop being notified of new videos from this channel";
+$LANGS['liketooltip'] = "I like this";
+$LANGS['disliketooltip'] = "I dislike this";
+$LANGS['likeratiotooltip'] = "{l} likes, {d} dislikes";
+$LANGS['savetotooltip'] = "Save to favorites or playlist";
+$LANGS['sharetooltip'] = "Share this video";
+$LANGS['embedtooltip'] = "Get video embed code";
+$LANGS['flagtooltip'] = "Flag as inappropriate";
+$LANGS['voteuptooltip'] = "Vote Up";
+$LANGS['votedowntooltip'] = "Vote Down";
+$LANGS['flagspamtooltip'] = "Flag for spam";
+$LANGS['removetooltip'] = "Remove";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Все комментариев';
@@ -706,6 +743,8 @@ $LANGS['cat_ZW'] = "Зимбабве";
 
 /* My Subscriptions */
 $LANGS['newvideos'] = "Новые видео";
+$LANGS['addselectedto'] = "Add the selected videos to:";
+$LANGS['addtoplaylists'] = "Add to Playlists";
 
 /* Account */
 $LANGS['myaccount'] = "Мой аккаунт";
@@ -746,6 +785,10 @@ $LANGS['novideos'] = 'Вы ещё не загружали видео. <a href="/
 $LANGS['nomyvideosresults'] = "Нет результатов. Убедитесь, что в запросе нет ошибок.";
 
 /* Edit Video */
+$LANGS['infoandsettings'] = "Info and Settings";
+$LANGS['annotations'] = "Annotations";
+$LANGS['captionsandsubtitles'] = "Captions and Subtitles";
+$LANGS['viewonvideopage'] = "View on video page »";
 $LANGS['title'] = "Название";
 $LANGS['desc'] = "Описание";
 $LANGS['privacy'] = "Доступ";
@@ -772,6 +815,34 @@ $LANGS['dateandmap'] = "Дата и место";
 $LANGS['clear'] = "Очистить";
 $LANGS['allowratings'] = "Да, разрешить другим пользователям оценивать это видео.";
 $LANGS['dontallowratings'] = "Нет, запретить другим пользователям оценивать это видео.";
+$LANGS['updatevideo'] = "Update Video";
+$LANGS['updatevideofilesize'] = "(maximum file size: 100MB)";
+
+/* Email Confirmation */
+$LANGS['checkemail'] = "Please Check Your Email";
+$LANGS['checkemaildesc'] = "A confirmation email has been sent to your email address. Please click on the link in the email to verify your email address. If you do not recieve the message within a few minutes, please also check your bulk or spam folders.";
+$LANGS['resendemail'] = "Resend Confirmation Email";
+
+/* Edit Video Annotations */
+$LANGS['publish'] = "Publish";
+$LANGS['published'] = "Published";
+$LANGS['saved'] = "Saved";
+$LANGS['notvaliddate'] = "You have entered an unvalid timestamp!";
+$LANGS['outsiderange'] = "You have entered a timestamp outside of the video duration range!";
+$LANGS['video_pl'] = "Paste a link to a Video";
+$LANGS['playlist_pl'] = "Paste a link to a Playlist";
+$LANGS['channel_pl'] = "Enter an username";
+$LANGS['group_pl'] = "Paste a link to a Group";
+$LANGS['search_pl'] = "Enter your search query";
+$LANGS['entertext'] = "Enter your text here";
+$LANGS['loading'] = "Loading...";
+$LANGS['addlink'] = "Add link";
+$LANGS['linktype'] = "Link Type";
+$LANGS['group'] = "Group";
+$LANGS['composemessage'] = "Compose Message";
+$LANGS['videoresponseupload'] = "Video Response Upload";
+$LANGS['searchquery'] = "BitView Search Query";
+$LANGS['entervalidurl'] = "Please enter a valid URL";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Добавлено";
@@ -783,6 +854,16 @@ $LANGS['playlistedit'] = "Редактировать плейлист";
 $LANGS['videourl'] = "URL видео";
 $LANGS['add'] = "Добавить";
 $LANGS['editinfo'] = "Редактировать";
+$LANGS['editdetails'] = "Edit details";
+$LANGS['deleteplaylist'] = "Delete playlist";
+$LANGS['addvideostoplaylist'] = "Add videos to playlist";
+$LANGS['novideoswerefound'] = "No videos were found.";
+$LANGS['position'] = "Position";
+$LANGS['move'] = "Move";
+$LANGS['deleteplaylistconfirmdesc'] = "Are you sure you want to delete <strong>{p}</strong>?<br><br>Note: Deleting playlists is a permanent action and cannot be undone.";
+$LANGS['deleteplaylistconfirm'] = "Yes, delete it";
+$LANGS['titledesctags'] = "Title, description, tags";
+$LANGS['savechangespl'] = "Save changes";
 
 /* Edit Playlist */
 $LANGS['pledittitle'] = "Редактировать плейлист";
@@ -1050,6 +1131,7 @@ $LANGS['clicktosend'] = 'Щелкните для отправки!';
 $LANGS['honorless'] = 'меньше';
 $LANGS['activitycomment'] = 'прокомментировал';
 $LANGS['activityfavorite'] = 'добавил в избранное';
+$LANGS['activitylike'] = 'liked a video';
 $LANGS['activityrating'] = 'оценил видео:';
 $LANGS['activityupload'] = 'загрузил новое видео';
 $LANGS['activityfriend'] = 'стал дружить с';
@@ -1250,6 +1332,43 @@ $LANGS['thankyou'] = 'Спасибо';
 $LANGS['sharelink'] = 'Поделитесь ссылкой на видео! Скопируйте и вставьте эту ссылку:';
 $LANGS['embedlink'] = 'Смотрите это видео прямо на вашем сайте! Скопируйте и вставьте этот виджет:';
 $LANGS['allrequiredinfo'] = 'Пожалуйста, заполните все необходимые поля!';
+$LANGS['videoscanbe'] = 'Videos can be...';
+$LANGS['uploadhd'] = 'High Definition';
+$LANGS['uploadsize'] = 'Up to 2 GB in size';
+$LANGS['uploadlength'] = 'Up to 15 minutes in length';
+$LANGS['uploadlengthpartners'] = 'Up to 1 hour in length';
+$LANGS['uploadformats'] = 'A wide variety of formats';
+$LANGS['basicuploader'] = 'Upload problems? Try the <a href="/my_videos_upload_basic">basic uploader</a> (works on older computers and web browsers).';
+$LANGS['uploadinstruction1'] = '<strong>Important:</strong> Do not upload any TV shows, music videos, music concerts, or commercials without permission unless they consist entirely of content you created yourself.';
+$LANGS['uploadinstruction2'] = 'The <a href="/guidelines">Community Guidelines</a> can help you determine whether your video infringes someone else\'s copyright.';
+$LANGS['uploadinstruction3'] = 'By clicking "Upload Video", you are representing that this video does not violate BitView\'s <a id="terms-of-use-link" href="/terms">Terms of Use</a> and that you own all copyrights in this video or have authorization to upload it.';
+$LANGS['fileuploaded'] = 'Your file has been uploaded. We are now processing the video...';
+$LANGS['videosettingssaved'] = 'Your video settings have been saved.';
+$LANGS['timeremaining'] = 'About {m} min. remaining...';
+$LANGS['minuteremaining'] = 'Less than a minute remaining...';
+$LANGS['preview'] = 'Preview';
+$LANGS['processing'] = 'Processing';
+$LANGS['generatingpreviews'] = 'Generating previews...';
+$LANGS['errorpreview'] = "Error: couldn't generate preview";
+$LANGS['infoandprivacy'] = "Video information and privacy settings";
+$LANGS['sharingoptions'] = "Sharing options";
+$LANGS['url'] = "URL";
+$LANGS['durationerror'] = "You can only upload videos up to {n} minutes in length.";
+
+/* Video Response Upload */
+$LANGS['postingresponse'] = "You are posting a Video Response to: ";
+$LANGS['responsessofar'] = "{n} Video Response(s) so far";
+$LANGS['chooseavideo'] = "Choose a Video";
+$LANGS['uploadavideo'] = "Upload a Video";
+$LANGS['responsesdesc1'] = "<h4>What is a Video Response?</h4><p>Ever wanted to talk back to a video? Now's your chance – you can upload a response to this video and we'll link them together.</p>";
+$LANGS['responsesdesc2'] = "<h4>How do I post a Video Response?</h4><p>You can record a new video, choose from the videos that you already have or create and upload a new video. Select the option on the left that best suits your needs.</p>";
+$LANGS['responsesdesc3'] = '<h4>Oops! I actually meant to post a text comment. How do I do this?</h4><p>Return to the video (by hitting the "back" button on your browser or clicking the title of the video at the top of this page) and click "Post a Text Comment".</p>';
+$LANGS['choosevideotitle'] = "Choose one of your existing videos as a response";
+$LANGS['selectvideo'] = "Select the video that you want to respond with:";
+$LANGS['useselectedvideo'] = "Use the selected video";
+$LANGS['uploadvideoresponse'] = "Upload your Video Response";
+$LANGS['clickstart'] = 'Click "Start" to begin uploading your Video Response.';
+$LANGS['start'] = 'Start';
 
 /* Partners */
 $LANGS['partnerhead'] = 'Партнёрская программа';
@@ -1306,6 +1425,26 @@ $LANGS['retract'] = 'Отказаться';
 /* History */
 $LANGS['clearhistory'] = "Очистить историю просмотра";
 $LANGS['noviewinghistory'] = "В вашей истории пока нет видео.";
+$LANGS['addto'] = "Add to";
+$LANGS['sortorder'] = "Order";
+$LANGS['sortnewest'] = "Newest";
+$LANGS['sortoldest'] = "Oldest";
+$LANGS['sortmostviewed'] = "Most viewed";
+$LANGS['sortlongest'] = "Longest";
+$LANGS['sortshortest'] = "Shortest";
+$LANGS['sortaz'] = "A-Z";
+$LANGS['sortza'] = "Z-A";
+$LANGS['newpltitle'] = "Playlist title";
+$LANGS['newpldesc'] = "Playlist description";
+$LANGS['newpltags'] = "Playlist tags";
+$LANGS['newplbutton'] = "Create playlist";
+$LANGS['addvideos'] = "Add videos";
+$LANGS['liked'] = "Liked";
+$LANGS['mylikedvideos'] = "My Liked Videos";
+$LANGS['savedtoplaylist'] = "Videos saved to playlist(s) successfully!";
+$LANGS['sureremovevideos'] = "Are you sure you want to delete the selected videos?";
+$LANGS['remove'] = "Remove";
+$LANGS['plvideoamountsingular'] = "video";
 
 /* QuickList */
 $LANGS['playquicklist'] = "Запустить КвикЛист";
@@ -1314,6 +1453,11 @@ $LANGS['noquicklist'] = "В вашем КвикЛисте нет видео.";
 $LANGS['noquicklistdesc'] = 'КвикЛист позволяет создать список видео, которые вы хотите посмотреть позднее. Нажмите на "+" (слева внизу) у любого видео, чтобы добавить его в свой КвикЛист. Чтобы посмотреть текущий список, найдите панель КвикЛист под любым видео, которое вы смотрите.';
 $LANGS['quicklistcleared'] = "Ваш КвикЛист был успешно очищен.";
 $LANGS['addedtoquicklist'] = "Добавлено в <br> КвикЛист";
+$LANGS['queue'] = "Queue";
+$LANGS['playqueue'] = "Play Queue";
+$LANGS['clearqueue'] = "Clear Queue";
+$LANGS['addtoqueue'] = "Add to queue";
+$LANGS['addedtoqueue'] = "Added to <br> queue";
 
 /* About */
 $LANGS['aboutus'] = 'О нас';
@@ -1487,12 +1631,14 @@ $LANGS['inbox'] = 'Входящие';
 $LANGS['footmore'] = 'ещё...';
 $LANGS['helpinfo'] = 'Справка и поддержка';
 $LANGS['helpcenter'] = 'Справочный центр';
-$LANGS['ourtwitter'] = 'Наш Твиттер';
-$LANGS['ourdiscord'] = 'Наш Дискорд';
-$LANGS['guidelines'] = 'Принципы Сообщества';
-$LANGS['partnerships'] = 'Партнёрская программа';
-$LANGS['terms'] = 'Условия использования';
-$LANGS['privacypolicy'] = 'Политика конфиденциальности';
+$LANGS['ourtwitter'] = 'Twitter';
+$LANGS['ourdiscord'] = 'Discord';
+$LANGS['guidelines'] = 'Guidelines';
+$LANGS['partnerships'] = 'Partners';
+$LANGS['terms'] = 'Terms';
+$LANGS['about'] = 'About';
+$LANGS['privacypolicy'] = 'Privacy';
+$LANGS['languageselector'] = 'Language';
 $LANGS['currentlanguage'] = 'Текущий язык';
 $LANGS['showlanguages'] = 'Показать языки';
 $LANGS['setlanguagepref'] = 'Выберите ваш язык';

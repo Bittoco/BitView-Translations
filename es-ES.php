@@ -70,6 +70,7 @@ $LANGS['help'] = 'Ayuda';
 $LANGS['suggestions'] = 'Sugerencias';
 $LANGS['quicklist'] = 'Lista rápida';
 $LANGS['browse'] = 'Explorar';
+$LANGS['messagesmenu'] = 'Mensajes';
 
 /* Homepage */
 $LANGS['viewall'] = 'ver todos';
@@ -342,6 +343,45 @@ $LANGS['showmorecomments'] = "Mostrar más comentarios";
 $LANGS['showingamount'] = "<strong>Mostrando {number}</strong> de {total} comentarios";
 $LANGS['customize'] = "Personalizar";
 $LANGS['customizedesc'] = "Después de hacer tu selección, copia y pega el código de insertación que se encuentra arriba. El código se modifica en función a tu selección.";
+$LANGS['editvideodetail'] = "Editar detalles del vídeo";
+$LANGS['editannotations'] = "Editar anotaciones";
+$LANGS['insightstats'] = "Estadísticas de Insight";
+$LANGS['allowratingscheck'] = "Permitir que otros usuarios <b>puntúen</b> este vídeo";
+$LANGS['thisvideoispublic'] = "Este vídeo es público.";
+$LANGS['thisvideoisprivate'] = "Este vídeo es privado.";
+$LANGS['thisvideois'] = "Este vídeo es";
+$LANGS['like'] = "Me gusta";
+$LANGS['saveto'] = "Guardar en";
+$LANGS['uservideoamount'] = "{n} vídeos";
+$LANGS['respondvideo'] = "Responder a este vídeo...";
+$LANGS['charactersremaining'] = 'caracteres restantes';
+$LANGS['attachavideo'] = 'Adjuntar un vídeo';
+$LANGS['commentok'] = 'OK';
+$LANGS['commenterror'] = 'Error';
+$LANGS['highestratedcomments'] = 'Mejores comentarios';
+$LANGS['options'] = 'Opciones';
+$LANGS['openplaylist'] = 'Abrir lista de reproducción';
+$LANGS['autoplayon'] = 'Reproducción automática (activada)';
+$LANGS['autoplayoff'] = 'Reproducción automática (desactivada)';
+$LANGS['playlistposition'] = '<strong>{n1}</strong> de {n2}';
+$LANGS['nextin'] = 'Siguiente en {n}';
+$LANGS['subscribetooltip'] = "Haz clic para recibir notificaciones de nuevos vídeos de este canal";
+$LANGS['unsubscribetooltip'] = "Haz clic para dejar de recibir notificaciones de nuevos vídeos de este canal";
+$LANGS['liketooltip'] = "Me gusta este vídeo";
+$LANGS['disliketooltip'] = "No me gusta este vídeo";
+$LANGS['likeratiotooltip'] = "{l} me gusta, {d} no me gusta";
+$LANGS['savetotooltip'] = "Guardar en favoritos o en lista de reproducción";
+$LANGS['sharetooltip'] = "Comparte este vídeo";
+$LANGS['embedtooltip'] = "Obtener el código de inserción del vídeo";
+$LANGS['flagtooltip'] = "Marcar como inadecuado";
+$LANGS['voteuptooltip'] = "Votar a favor";
+$LANGS['votedowntooltip'] = "Votar en contra";
+$LANGS['flagspamtooltip'] = "Marcación de spam";
+$LANGS['removetooltip'] = "Eliminar";
+$LANGS['likemessage'] = "Has indicado que te ha gustado este vídeo. ¡Gracias por tu puntuación!<br>Mira más <a href='/my_liked_videos'>vídeos que te han gustado</a>.";
+$LANGS['dislikemessage'] = "Has indicado que te no ha gustado este vídeo. ¡Gracias por tu puntuación!";
+$LANGS['ratingsforthisvideo'] = "Puntuaciones para este vídeo";
+$LANGS['liketotal'] = "{l} en total";
 
 /* Watch comments */
 $LANGS['allcomments'] = 'Todos los comentarios';
@@ -705,6 +745,8 @@ $LANGS['cat_ZW'] = "Zimbabue";
 
 /* My Subscriptions */
 $LANGS['newvideos'] = "Vídeos nuevos";
+$LANGS['addselectedto'] = "Añadir los vídeos seleccionados a:";
+$LANGS['addtoplaylists'] = "Añadir a listas de reproducción";
 
 /* Account */
 $LANGS['myaccount'] = "Mi cuenta";
@@ -745,6 +787,10 @@ $LANGS['novideos'] = "No has subido ningún vídeo. ¡<a href='/my_videos_upload
 $LANGS['nomyvideosresults'] = "No se han encontrado resultados. Comprueba que has escrito bien tu búsqueda.";
 
 /* Edit Video */
+$LANGS['infoandsettings'] = "Información y configuración";
+$LANGS['annotations'] = "Anotaciones";
+$LANGS['captionsandsubtitles'] = "Títulos y subtítulos";
+$LANGS['viewonvideopage'] = "Ver en la página del vídeo »";
 $LANGS['title'] = "Título";
 $LANGS['desc'] = "Descripción";
 $LANGS['privacy'] = "Privacidad";
@@ -772,6 +818,29 @@ $LANGS['dateandmap'] = "Fecha y mapa";
 $LANGS['clear'] = "Borrar";
 $LANGS['allowratings'] = "Sí, permitir que otros usuarios puntúen este vídeo";
 $LANGS['dontallowratings'] = "No permitir que otros usuarios puntúen este vídeo";
+$LANGS['updatevideo'] = "Actualizar vídeo";
+$LANGS['updatevideofilesize'] = "(tamaño de archivo máximo: 100MB)";
+
+/* Edit Video Annotations */
+$LANGS['publish'] = "Publicar";
+$LANGS['published'] = "Publicado";
+$LANGS['saved'] = "Guardado";
+$LANGS['notvaliddate'] = "Has introducido una marca de tiempo inválida.";
+$LANGS['outsiderange'] = "Has introducido una marca de tiempo fuera del rango de la duración del vídeo.";
+$LANGS['video_pl'] = "Pega aquí el enlace a un vídeo";
+$LANGS['playlist_pl'] = "Pega aquí el enlace a una lista de reproducción";
+$LANGS['channel_pl'] = "Escribe un nombre de usuario";
+$LANGS['group_pl'] = "Pega aquí el enlace a un grupo";
+$LANGS['search_pl'] = "Escribe tu búsqueda";
+$LANGS['entertext'] = "Escribe tu texto aquí";
+$LANGS['loading'] = "Cargando...";
+$LANGS['addlink'] = "Añadir enlace";
+$LANGS['linktype'] = "Tipo de enlace";
+$LANGS['group'] = "Grupo";
+$LANGS['composemessage'] = "Redactar mensaje";
+$LANGS['videoresponseupload'] = "Subida de respuesta en vídeo";
+$LANGS['searchquery'] = "Búsqueda de BitView";
+$LANGS['entervalidurl'] = "Introduce un enlace válido";
 
 /* My Playlists */
 $LANGS['addedpl'] = "Creado";
@@ -783,6 +852,17 @@ $LANGS['playlistedit'] = "Editar lista de reproducción";
 $LANGS['videourl'] = "Enlace del vídeo";
 $LANGS['add'] = "Añadir";
 $LANGS['editinfo'] = "Editar información";
+$LANGS['editdetails'] = "Editar detalles";
+$LANGS['deleteplaylist'] = "Eliminar lista de reproducción";
+$LANGS['addvideostoplaylist'] = "Añadir vídeos a la lista de reproducción";
+$LANGS['novideoswerefound'] = "No se ha encontrado ningún vídeo.";
+$LANGS['playlisturl'] = "Enlace de la lista de reproducción";
+$LANGS['position'] = "Posición";
+$LANGS['move'] = "Mover";
+$LANGS['deleteplaylistconfirmdesc'] = "¿Estás seguro de que quieres eliminar <strong>{p}</strong>?<br><br>Nota: Eliminar esta lista de reproducción es una acción permanente y no se puede deshacer.";
+$LANGS['deleteplaylistconfirm'] = "Sí, elimínala";
+$LANGS['titledesctags'] = "Título, descripción, etiquetas";
+$LANGS['savechangespl'] = "Guardar cambios";
 
 /* Edit Playlist */
 $LANGS['pledittitle'] = "Editar lista de reproducción";
@@ -1050,6 +1130,7 @@ $LANGS['clicktosend'] = 'Haz clic para enviar.';
 $LANGS['honorless'] = 'menos';
 $LANGS['activitycomment'] = 'ha realizado un comentario sobre';
 $LANGS['activityfavorite'] = 'ha marcado un vídeo como favorito';
+$LANGS['activitylike'] = 'ha indicado que le ha gustado un vídeo';
 $LANGS['activityrating'] = 'ha puntuado un vídeo:';
 $LANGS['activityupload'] = 'ha subido un nuevo vídeo';
 $LANGS['activityfriend'] = 'se ha hecho amigo de';
@@ -1250,6 +1331,44 @@ $LANGS['thankyou'] = 'Gracias';
 $LANGS['sharelink'] = 'Comparte este vídeo. Copia el enlace de abajo:';
 $LANGS['embedlink'] = 'Inserta este vídeo en tu página web. Copia el siguiente código:';
 $LANGS['allrequiredinfo'] = 'Tienes que llenar todos los campos obligatorios.';
+$LANGS['videoscanbe'] = 'Los vídeos pueden tener...';
+$LANGS['uploadhd'] = 'Alta definición';
+$LANGS['uploadsize'] = 'Un tamaño de hasta 2 GB';
+$LANGS['uploadlength'] = 'Hasta quince minutos de duración';
+$LANGS['uploadlengthpartners'] = 'Hasta una hora de duración';
+$LANGS['uploadformats'] = 'Una amplia variedad de formatos';
+$LANGS['basicuploader'] = '¿Tienes problemas subiendo vídeos? Prueba la <a href="/my_videos_upload_basic">herramienta básica para subir vídeos</a> (funciona en ordenadores y navegadores antiguos).';
+$LANGS['uploadinstruction1'] = '<strong>Importante:</strong> No subas programas de TV, vídeos musicales, conciertos ni anuncios sin permiso a menos de que se trate de contenido creado completamente por ti.';
+$LANGS['uploadinstruction2'] = 'Las <a href="/guidelines">normas de la comunidad</a> pueden ayudarte a averiguar si tu vídeo infringe los derechos de copyright de otra persona.';
+$LANGS['uploadinstruction3'] = 'Si haces clic en "Subir vídeo", estarás declarando que este vídeo no infringe los <a id="terms-of-use-link" href="/terms">términos de uso</a> de BitView y que posees todos los derechos de copyright del vídeo o tienes autorización para subirlo.';
+$LANGS['fileuploaded'] = 'Tu archivo se ha subido. Estamos procesando ahora el vídeo...';
+$LANGS['videosettingssaved'] = 'Se han guardado los ajustes del vídeo.';
+$LANGS['uploadprogress'] = 'Progreso de subida';
+$LANGS['timeremaining'] = 'Quedan aproximadamente {m} minutos...';
+$LANGS['minuteremaining'] = 'Queda menos de un minuto...';
+$LANGS['preview'] = 'Vista previa';
+$LANGS['processing'] = 'Procesando';
+$LANGS['generatingpreviews'] = 'Generando vista previa...';
+$LANGS['errorpreview'] = "Error: no se ha podido generar la vista previa";
+$LANGS['infoandprivacy'] = "Información acerca del vídeo";
+$LANGS['sharingoptions'] = "Compartir";
+$LANGS['url'] = "Enlace";
+$LANGS['durationerror'] = "Solo puedes subir vídeos de hasta {n} minutos de duración.";
+
+/* Video Response Upload */
+$LANGS['postingresponse'] = "Estás publicando una respuesta en vídeo en: ";
+$LANGS['responsessofar'] = "{n} respuesta(s) en vídeo hasta el momento";
+$LANGS['chooseavideo'] = "Elige un vídeo";
+$LANGS['uploadavideo'] = "Sube un vídeo";
+$LANGS['responsesdesc1'] = "<h4>¿Qué es una respuesta en vídeo?</h4><p>¿Alguna vez has querido responder a un vídeo? Esta es tu oportunidad: puedes subir una respuesta a este vídeo y los enlazaremos.</p>";
+$LANGS['responsesdesc2'] = "<h4>¿Cómo publico una respuesta en vídeo?</h4><p>Puedes grabar un nuevo vídeo, elegir entre los vídeos que ya tienes o crear y subir un nuevo vídeo. Selecciona la opción de la izquierda que mejor se adapte a tus necesidades.</p>";
+$LANGS['responsesdesc3'] = '<h4>¡Uy! En realidad quería publicar un comentario de texto. ¿Cómo lo hago?</h4><p>Vuelve al vídeo (pulsando el botón "atrás" de tu navegador o haciendo clic en el título del vídeo en la parte superior de esta página) y haz clic en "Publicar un comentario de texto".</p>';
+$LANGS['choosevideotitle'] = "Elige uno de tus vídeos como respuesta";
+$LANGS['selectvideo'] = "Selecciona el vídeo con el que deseas responder:";
+$LANGS['useselectedvideo'] = "Usar el vídeo seleccionado";
+$LANGS['uploadvideoresponse'] = "Sube tu respuesta en vídeo";
+$LANGS['clickstart'] = 'Haz click en "Iniciar" para empezar a subir tu respuesta en vídeo.';
+$LANGS['start'] = 'Iniciar';
 
 /* Partners */
 $LANGS['partnerhead'] = 'Programas para partners';
@@ -1306,14 +1425,39 @@ $LANGS['retract'] = 'Retirar';
 /* History */
 $LANGS['clearhistory'] = "Borrar historial";
 $LANGS['noviewinghistory'] = "No hay vídeos en tu historial.";
+$LANGS['addto'] = "Añadir a";
+$LANGS['sortorder'] = "Orden";
+$LANGS['sortnewest'] = "Más recientes";
+$LANGS['sortoldest'] = "Más antiguos";
+$LANGS['sortmostviewed'] = "Más vistos";
+$LANGS['sortlongest'] = "Más largos";
+$LANGS['sortshortest'] = "Más cortos";
+$LANGS['sortaz'] = "A-Z";
+$LANGS['sortza'] = "Z-A";
+$LANGS['newpltitle'] = "Título de la lista de reproducción";
+$LANGS['newpldesc'] = "Descripción de la lista de reproducción";
+$LANGS['newpltags'] = "Etiquetas de la lista de reproducción";
+$LANGS['newplbutton'] = "Crear lista de reproducción";
+$LANGS['addvideos'] = "Añadir vídeos";
+$LANGS['liked'] = "Vídeos que me han gustado";
+$LANGS['mylikedvideos'] = "Vídeos que me han gustado";
+$LANGS['savedtoplaylist'] = "Los vídeos se han añadido a las listas de reproducción seleccionadas.";
+$LANGS['sureremovevideos'] = "¿Estás seguro de que deseas eliminar los videos seleccionados?";
+$LANGS['remove'] = "Eliminar";
+$LANGS['plvideoamountsingular'] = "vídeo";
 
 /* QuickList */
 $LANGS['playquicklist'] = "Reproducir la lista rápida";
 $LANGS['clearquicklist'] = "Borrar lista rápida";
 $LANGS['noquicklist'] = "No hay ningún vídeo en tu lista rápida.";
 $LANGS['noquicklistdesc'] = "La lista rápida te permite crear una lista de vídeos para reproducirlos más tarde. Haz clic en el símbolo &quot;+&quot; (situado en la parte inferior izquierda) de cualquier vídeo para agregarlo a tu lista rápida. Para ver tu lista, busca en la barra Lista rápida que aparecerá debajo del vídeo que estés viendo.";
-$LANGS['quicklistcleared'] = "Tu lista rápida se ha limpiado exitosamente.";
+$LANGS['quicklistcleared'] = "Tu cola se ha limpiado exitosamente.";
 $LANGS['addedtoquicklist'] = "Se ha añadido a<br> la lista rápida.";
+$LANGS['queue'] = "Cola";
+$LANGS['playqueue'] = "Reproducir cola";
+$LANGS['clearqueue'] = "Borrar cola";
+$LANGS['addtoqueue'] = "Añadir a cola";
+$LANGS['addedtoqueue'] = "Se ha añadido a<br> la cola";
 
 /* About */
 $LANGS['aboutus'] = 'Sobre nosotros';
@@ -1480,18 +1624,25 @@ $LANGS['featherdisabled'] = '¡Se ha desactivado "Feather"!';
 $LANGS['timemachinedisabled'] = '¡Se ha desactivado "Máquina del tiempo"!';
 $LANGS['lightsoutdisabled'] = '¡Se ha desactivado "Apaga las luces"!';
 
+/* Email Confirmation */
+$LANGS['checkemail'] = "Por favor, revisa tu correo";
+$LANGS['checkemaildesc'] = "Se ha enviado un mensaje de confirmación a tu dirección de correo electrónico. Haz clic en el enlace del mensaje para verificar tu dirección de correo electrónico. Si no recibes el mensaje en unos minutos, comprueba también tus carpetas de correo no deseado.";
+$LANGS['resendemail'] = "Reenviar correo de confirmación";
+
 /* Footer */
 $LANGS['youraccount'] = 'Tu cuenta';
 $LANGS['inbox'] = 'Bandeja de entrada';
 $LANGS['footmore'] = 'más...';
 $LANGS['helpinfo'] = 'Ayuda';
 $LANGS['helpcenter'] = 'Obtener ayuda';
-$LANGS['ourtwitter'] = 'Nuestro Twitter';
-$LANGS['ourdiscord'] = 'Nuestro Discord';
-$LANGS['guidelines'] = 'Normas de la comunidad';
-$LANGS['partnerships'] = 'Asociaciones';
-$LANGS['terms'] = 'Términos de uso';
-$LANGS['privacypolicy'] = 'Política de privacidad';
+$LANGS['ourtwitter'] = 'Twitter';
+$LANGS['ourdiscord'] = 'Discord';
+$LANGS['guidelines'] = 'Normas';
+$LANGS['partnerships'] = 'Partners';
+$LANGS['terms'] = 'Términos';
+$LANGS['about'] = 'Acerca de';
+$LANGS['privacypolicy'] = 'Privacidad';
+$LANGS['languageselector'] = 'Idioma';
 $LANGS['currentlanguage'] = 'Idioma actual';
 $LANGS['showlanguages'] = 'Mostrar idiomas';
 $LANGS['setlanguagepref'] = 'Establecer preferencia de idioma';

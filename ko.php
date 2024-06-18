@@ -72,6 +72,7 @@ $LANGS['help'] = '도움말';
 $LANGS['suggestions'] = '제안';
 $LANGS['quicklist'] = '빠른 목록';
 $LANGS['browse'] = '찾아보기';
+$LANGS['messagesmenu'] = 'Messages';
 
 /* Homepage */
 $LANGS['viewall'] = '모두 보기';
@@ -345,6 +346,42 @@ $LANGS['showmorecomments'] = "더 많은 댓글 보기";
 $LANGS['showingamount'] = "<strong>{number}개</strong> 중 {total}개의 댓글 표시";
 $LANGS['customize'] = "맞춤설정";
 $LANGS['customizedesc'] = "선택을 완료한 후에는 위의 임베드 코드를 복사하여 붙여넣으세요. 코드는 선택에 따라 변경됩니다.";
+$LANGS['editvideodetail'] = "Edit Video Detail";
+$LANGS['editannotations'] = "Edit annotations";
+$LANGS['insightstats'] = "Insight stats";
+$LANGS['allowratingscheck'] = "Allow this video to be <b>rated</b> by others.";
+$LANGS['thisvideoispublic'] = "This video is public.";
+$LANGS['thisvideoisprivate'] = "This video is private.";
+$LANGS['thisvideois'] = "This video is";
+$LANGS['like'] = "Like";
+$LANGS['saveto'] = "Save to";
+$LANGS['uservideoamount'] = "{n} videos";
+$LANGS['respondvideo'] = "Respond to this video...";
+$LANGS['signinnowcomment'] = '<a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now to post a comment!';
+$LANGS['charactersremaining'] = 'characters remaining';
+$LANGS['attachavideo'] = 'Attach a video';
+$LANGS['commentok'] = 'OK';
+$LANGS['commenterror'] = 'Error';
+$LANGS['highestratedcomments'] = 'Highest Rated Comments';
+$LANGS['options'] = 'Options';
+$LANGS['openplaylist'] = 'Open Playlist';
+$LANGS['autoplayon'] = 'Autoplay (on)';
+$LANGS['autoplayoff'] = 'Autoplay (off)';
+$LANGS['playlistposition'] = '<b>{n1}</b> of {n2}';
+$LANGS['nextin'] = 'Next in {n}';
+$LANGS['subscribetooltip'] = "Click to be notified of new videos from this channel";
+$LANGS['unsubscribetooltip'] = "Click to stop being notified of new videos from this channel";
+$LANGS['liketooltip'] = "I like this";
+$LANGS['disliketooltip'] = "I dislike this";
+$LANGS['likeratiotooltip'] = "{l} likes, {d} dislikes";
+$LANGS['savetotooltip'] = "Save to favorites or playlist";
+$LANGS['sharetooltip'] = "Share this video";
+$LANGS['embedtooltip'] = "Get video embed code";
+$LANGS['flagtooltip'] = "Flag as inappropriate";
+$LANGS['voteuptooltip'] = "Vote Up";
+$LANGS['votedowntooltip'] = "Vote Down";
+$LANGS['flagspamtooltip'] = "Flag for spam";
+$LANGS['removetooltip'] = "Remove";
 
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';
@@ -708,6 +745,8 @@ $LANGS['cat_ZW'] = "짐바브웨";
 
 /* My Subscriptions */
 $LANGS['newvideos'] = "새로운 비디오";
+$LANGS['addselectedto'] = "Add the selected videos to:";
+$LANGS['addtoplaylists'] = "Add to Playlists";
 
 /* Account */
 $LANGS['myaccount'] = "내 계정";
@@ -748,6 +787,10 @@ $LANGS['novideos'] = '업로드한 동영상이 없습니다. <a href="/my_video
 $LANGS['nomyvideosresults'] = "검색 결과가 없습니다. 철자가 올바른지 확인하세요.";
 
 /* Edit Video */
+$LANGS['infoandsettings'] = "Info and Settings";
+$LANGS['annotations'] = "Annotations";
+$LANGS['captionsandsubtitles'] = "Captions and Subtitles";
+$LANGS['viewonvideopage'] = "View on video page »";
 $LANGS['title'] = "제목";
 $LANGS['desc'] = "설명";
 $LANGS['privacy'] = "개인정보";
@@ -774,6 +817,29 @@ $LANGS['dateandmap'] = "날짜 및 지도";
 $LANGS['clear'] = "지우기";
 $LANGS['allowratings'] = '네, 다른 사람들이 이 비디오를 평가할 수 있도록 허용합니다.';
 $LANGS['dontallowratings'] = '아니오, 이 비디오를 평가할 수 없도록 허용하지 않습니다.';
+$LANGS['updatevideo'] = "Update Video";
+$LANGS['updatevideofilesize'] = "(maximum file size: 100MB)";
+
+/* Edit Video Annotations */
+$LANGS['publish'] = "Publish";
+$LANGS['published'] = "Published";
+$LANGS['saved'] = "Saved";
+$LANGS['notvaliddate'] = "You have entered an unvalid timestamp!";
+$LANGS['outsiderange'] = "You have entered a timestamp outside of the video duration range!";
+$LANGS['video_pl'] = "Paste a link to a Video";
+$LANGS['playlist_pl'] = "Paste a link to a Playlist";
+$LANGS['channel_pl'] = "Enter an username";
+$LANGS['group_pl'] = "Paste a link to a Group";
+$LANGS['search_pl'] = "Enter your search query";
+$LANGS['entertext'] = "Enter your text here";
+$LANGS['loading'] = "Loading...";
+$LANGS['addlink'] = "Add link";
+$LANGS['linktype'] = "Link Type";
+$LANGS['group'] = "Group";
+$LANGS['composemessage'] = "Compose Message";
+$LANGS['videoresponseupload'] = "Video Response Upload";
+$LANGS['searchquery'] = "BitView Search Query";
+$LANGS['entervalidurl'] = "Please enter a valid URL";
 
 /* My Playlists */
 $LANGS['addedpl'] = "추가됨";
@@ -785,6 +851,16 @@ $LANGS['playlistedit'] = "재생 목록 편집";
 $LANGS['videourl'] = "동영상 URL";
 $LANGS['add'] = "추가";
 $LANGS['editinfo'] = "정보 편집";
+$LANGS['editdetails'] = "Edit details";
+$LANGS['deleteplaylist'] = "Delete playlist";
+$LANGS['addvideostoplaylist'] = "Add videos to playlist";
+$LANGS['novideoswerefound'] = "No videos were found.";
+$LANGS['position'] = "Position";
+$LANGS['move'] = "Move";
+$LANGS['deleteplaylistconfirmdesc'] = "Are you sure you want to delete <strong>{p}</strong>?<br><br>Note: Deleting playlists is a permanent action and cannot be undone.";
+$LANGS['deleteplaylistconfirm'] = "Yes, delete it";
+$LANGS['titledesctags'] = "Title, description, tags";
+$LANGS['savechangespl'] = "Save changes";
 
 /* Edit Playlist */
 $LANGS['pledittitle'] = "재생 목록 편집";
@@ -1053,6 +1129,7 @@ $LANGS['clicktosend'] = '보내려면 클릭하세요!';
 $LANGS['honorless'] = '없음';
 $LANGS['activitycomment'] = '댓글을 남겼습니다';
 $LANGS['activityfavorite'] = '비디오를 즐겨찾기에 추가했습니다';
+$LANGS['activitylike'] = 'liked a video';
 $LANGS['activityrating'] = '비디오를 평가했습니다:';
 $LANGS['activityupload'] = '새로운 비디오를 업로드했습니다';
 $LANGS['activityfriend'] = '친구가 되었습니다';
@@ -1253,6 +1330,43 @@ $LANGS['thankyou'] = '감사합니다';
 $LANGS['sharelink'] = '동영상 링크 공유! 아래를 복사하여 붙여넣으세요:';
 $LANGS['embedlink'] = '동영상을 웹사이트에서 직접 재생하세요! 다음 코드 조각을 복사하여 붙여넣으세요:';
 $LANGS['allrequiredinfo'] = '필수 항목을 모두 입력해주세요!';
+$LANGS['videoscanbe'] = 'Videos can be...';
+$LANGS['uploadhd'] = 'High Definition';
+$LANGS['uploadsize'] = 'Up to 2 GB in size';
+$LANGS['uploadlength'] = 'Up to 15 minutes in length';
+$LANGS['uploadlengthpartners'] = 'Up to 1 hour in length';
+$LANGS['uploadformats'] = 'A wide variety of formats';
+$LANGS['basicuploader'] = 'Upload problems? Try the <a href="/my_videos_upload_basic">basic uploader</a> (works on older computers and web browsers).';
+$LANGS['uploadinstruction1'] = '<strong>Important:</strong> Do not upload any TV shows, music videos, music concerts, or commercials without permission unless they consist entirely of content you created yourself.';
+$LANGS['uploadinstruction2'] = 'The <a href="/guidelines">Community Guidelines</a> can help you determine whether your video infringes someone else\'s copyright.';
+$LANGS['uploadinstruction3'] = 'By clicking "Upload Video", you are representing that this video does not violate BitView\'s <a id="terms-of-use-link" href="/terms">Terms of Use</a> and that you own all copyrights in this video or have authorization to upload it.';
+$LANGS['fileuploaded'] = 'Your file has been uploaded. We are now processing the video...';
+$LANGS['videosettingssaved'] = 'Your video settings have been saved.';
+$LANGS['timeremaining'] = 'About {m} min. remaining...';
+$LANGS['minuteremaining'] = 'Less than a minute remaining...';
+$LANGS['preview'] = 'Preview';
+$LANGS['processing'] = 'Processing';
+$LANGS['generatingpreviews'] = 'Generating previews...';
+$LANGS['errorpreview'] = "Error: couldn't generate preview";
+$LANGS['infoandprivacy'] = "Video information and privacy settings";
+$LANGS['sharingoptions'] = "Sharing options";
+$LANGS['url'] = "URL";
+$LANGS['durationerror'] = "You can only upload videos up to {n} minutes in length.";
+
+/* Video Response Upload */
+$LANGS['postingresponse'] = "You are posting a Video Response to: ";
+$LANGS['responsessofar'] = "{n} Video Response(s) so far";
+$LANGS['chooseavideo'] = "Choose a Video";
+$LANGS['uploadavideo'] = "Upload a Video";
+$LANGS['responsesdesc1'] = "<h4>What is a Video Response?</h4><p>Ever wanted to talk back to a video? Now's your chance – you can upload a response to this video and we'll link them together.</p>";
+$LANGS['responsesdesc2'] = "<h4>How do I post a Video Response?</h4><p>You can record a new video, choose from the videos that you already have or create and upload a new video. Select the option on the left that best suits your needs.</p>";
+$LANGS['responsesdesc3'] = '<h4>Oops! I actually meant to post a text comment. How do I do this?</h4><p>Return to the video (by hitting the "back" button on your browser or clicking the title of the video at the top of this page) and click "Post a Text Comment".</p>';
+$LANGS['choosevideotitle'] = "Choose one of your existing videos as a response";
+$LANGS['selectvideo'] = "Select the video that you want to respond with:";
+$LANGS['useselectedvideo'] = "Use the selected video";
+$LANGS['uploadvideoresponse'] = "Upload your Video Response";
+$LANGS['clickstart'] = 'Click "Start" to begin uploading your Video Response.';
+$LANGS['start'] = 'Start';
 
 /* Partners */
 
@@ -1311,6 +1425,26 @@ $LANGS['retract'] = '철회';
 /* History */
 $LANGS['clearhistory'] = "시청 기록 지우기";
 $LANGS['noviewinghistory'] = "시청 기록이 없습니다.";
+$LANGS['addto'] = "Add to";
+$LANGS['sortorder'] = "Order";
+$LANGS['sortnewest'] = "Newest";
+$LANGS['sortoldest'] = "Oldest";
+$LANGS['sortmostviewed'] = "Most viewed";
+$LANGS['sortlongest'] = "Longest";
+$LANGS['sortshortest'] = "Shortest";
+$LANGS['sortaz'] = "A-Z";
+$LANGS['sortza'] = "Z-A";
+$LANGS['newpltitle'] = "Playlist title";
+$LANGS['newpldesc'] = "Playlist description";
+$LANGS['newpltags'] = "Playlist tags";
+$LANGS['newplbutton'] = "Create playlist";
+$LANGS['addvideos'] = "Add videos";
+$LANGS['liked'] = "Liked";
+$LANGS['mylikedvideos'] = "My Liked Videos";
+$LANGS['savedtoplaylist'] = "Videos saved to playlist(s) successfully!";
+$LANGS['sureremovevideos'] = "Are you sure you want to delete the selected videos?";
+$LANGS['remove'] = "Remove";
+$LANGS['plvideoamountsingular'] = "video";
 
 /* QuickList */
 $LANGS['playquicklist'] = "빠른 재생 목록 재생";
@@ -1319,7 +1453,11 @@ $LANGS['noquicklist'] = "빠른 재생 목록에 동영상이 없습니다.";
 $LANGS['noquicklistdesc'] = "빠른 재생 목록을 사용하면 나중에 시청할 동영상 목록을 작성할 수 있습니다. 동영상의 왼쪽 아래에 있는 \"+\"를 클릭하여 해당 동영상을 빠른 재생 목록에 추가할 수 있습니다. 목록을 보려면 시청 중인 동영상 아래에 빠른 재생 목록 막대를 찾으세요.";
 $LANGS['quicklistcleared'] = "빠른 재생 목록이 성공적으로 지워졌습니다.";
 $LANGS['addedtoquicklist'] = "빠른 재생 목록에 추가됨";
-
+$LANGS['queue'] = "Queue";
+$LANGS['playqueue'] = "Play Queue";
+$LANGS['clearqueue'] = "Clear Queue";
+$LANGS['addtoqueue'] = "Add to queue";
+$LANGS['addedtoqueue'] = "Added to <br> queue";
 
 /* About */
 $LANGS['aboutus'] = '회사 소개';
@@ -1486,18 +1624,25 @@ $LANGS['featherdisabled'] = '"Feather"가 비활성화되었습니다!';
 $LANGS['timemachinedisabled'] = '"타임 머신"이 비활성화되었습니다!';
 $LANGS['lightsoutdisabled'] = '"라이츠 아웃"이 비활성화되었습니다!';
 
+/* Email Confirmation */
+$LANGS['checkemail'] = "Please Check Your Email";
+$LANGS['checkemaildesc'] = "A confirmation email has been sent to your email address. Please click on the link in the email to verify your email address. If you do not recieve the message within a few minutes, please also check your bulk or spam folders.";
+$LANGS['resendemail'] = "Resend Confirmation Email";
+
 /* Footer */
 $LANGS['youraccount'] = '내 계정';
 $LANGS['inbox'] = '수신함';
 $LANGS['footmore'] = '더 보기...';
 $LANGS['helpinfo'] = '도움말 및 정보';
 $LANGS['helpcenter'] = '도움말 센터';
-$LANGS['ourtwitter'] = '우리의 Twitter';
-$LANGS['ourdiscord'] = '우리의 Discord';
-$LANGS['guidelines'] = '커뮤니티 가이드라인';
-$LANGS['partnerships'] = '파트너십';
-$LANGS['terms'] = '서비스 약관';
-$LANGS['privacypolicy'] = '개인정보 보호 정책';
+$LANGS['ourtwitter'] = 'Twitter';
+$LANGS['ourdiscord'] = 'Discord';
+$LANGS['guidelines'] = 'Guidelines';
+$LANGS['partnerships'] = 'Partners';
+$LANGS['terms'] = 'Terms';
+$LANGS['about'] = 'About';
+$LANGS['privacypolicy'] = 'Privacy';
+$LANGS['languageselector'] = 'Language';
 $LANGS['currentlanguage'] = '현재 언어';
 $LANGS['showlanguages'] = '언어 표시';
 $LANGS['setlanguagepref'] = '언어 설정';

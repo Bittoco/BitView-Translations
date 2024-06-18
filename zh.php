@@ -71,6 +71,7 @@ $LANGS['help'] = '帮助';
 $LANGS['suggestions'] = 'Suggestions';
 $LANGS['quicklist'] = 'QuickList';
 $LANGS['browse'] = '浏览';
+$LANGS['messagesmenu'] = 'Messages';
 
 /* Homepage */
 $LANGS['viewall'] = '展开';
@@ -343,6 +344,42 @@ $LANGS['showmorecomments'] = "显示更多评论";
 $LANGS['showingamount'] = "<strong>显示 {number}</strong> 条评论中的 {total}";
 $LANGS['customize'] = "自定义";
 $LANGS['customizedesc'] = "选择完成后，请复制并粘贴上面的嵌入代码。代码会根据您的选择而变化。";
+$LANGS['editvideodetail'] = "Edit Video Detail";
+$LANGS['editannotations'] = "Edit annotations";
+$LANGS['insightstats'] = "Insight stats";
+$LANGS['allowratingscheck'] = "Allow this video to be <b>rated</b> by others.";
+$LANGS['thisvideoispublic'] = "This video is public.";
+$LANGS['thisvideoisprivate'] = "This video is private.";
+$LANGS['thisvideois'] = "This video is";
+$LANGS['like'] = "Like";
+$LANGS['saveto'] = "Save to";
+$LANGS['uservideoamount'] = "{n} videos";
+$LANGS['respondvideo'] = "Respond to this video...";
+$LANGS['signinnowcomment'] = '<a href="/login">Sign In</a> or <a href="/signup">Sign Up</a> now to post a comment!';
+$LANGS['charactersremaining'] = 'characters remaining';
+$LANGS['attachavideo'] = 'Attach a video';
+$LANGS['commentok'] = 'OK';
+$LANGS['commenterror'] = 'Error';
+$LANGS['highestratedcomments'] = 'Highest Rated Comments';
+$LANGS['options'] = 'Options';
+$LANGS['openplaylist'] = 'Open Playlist';
+$LANGS['autoplayon'] = 'Autoplay (on)';
+$LANGS['autoplayoff'] = 'Autoplay (off)';
+$LANGS['playlistposition'] = '<b>{n1}</b> of {n2}';
+$LANGS['nextin'] = 'Next in {n}';
+$LANGS['subscribetooltip'] = "Click to be notified of new videos from this channel";
+$LANGS['unsubscribetooltip'] = "Click to stop being notified of new videos from this channel";
+$LANGS['liketooltip'] = "I like this";
+$LANGS['disliketooltip'] = "I dislike this";
+$LANGS['likeratiotooltip'] = "{l} likes, {d} dislikes";
+$LANGS['savetotooltip'] = "Save to favorites or playlist";
+$LANGS['sharetooltip'] = "Share this video";
+$LANGS['embedtooltip'] = "Get video embed code";
+$LANGS['flagtooltip'] = "Flag as inappropriate";
+$LANGS['voteuptooltip'] = "Vote Up";
+$LANGS['votedowntooltip'] = "Vote Down";
+$LANGS['flagspamtooltip'] = "Flag for spam";
+$LANGS['removetooltip'] = "Remove";
 
 /* Watch comments */
 $LANGS['allcomments'] = '所有评论';
@@ -706,6 +743,8 @@ $LANGS['cat_ZW'] = "津巴布韦";
 
 /* My Subscriptions */
 $LANGS['newvideos'] = "新上传的视频";
+$LANGS['addselectedto'] = "Add the selected videos to:";
+$LANGS['addtoplaylists'] = "Add to Playlists";
 
 /* Account */
 $LANGS['myaccount'] = "我的账号";
@@ -746,6 +785,10 @@ $LANGS['novideos'] = '您目前仍无任何视频。<a href="/my_videos_upload">
 $LANGS['nomyvideosresults'] = "没有任何结果。请检查您的搜索中是否有拼写错误。";
 
 /* Edit Video */
+$LANGS['infoandsettings'] = "Info and Settings";
+$LANGS['annotations'] = "Annotations";
+$LANGS['captionsandsubtitles'] = "Captions and Subtitles";
+$LANGS['viewonvideopage'] = "View on video page »";
 $LANGS['title'] = "标题";
 $LANGS['desc'] = "描述";
 $LANGS['privacy'] = "隐私";
@@ -773,6 +816,29 @@ $LANGS['dateandmap'] = "日期和地图";
 $LANGS['clear'] = "清除";
 $LANGS['allowratings'] = "是的，允许其他人对此视频进行评分。";
 $LANGS['dontallowratings'] = "不，不允许对此视频进行评分。";
+$LANGS['updatevideo'] = "Update Video";
+$LANGS['updatevideofilesize'] = "(maximum file size: 100MB)";
+
+/* Edit Video Annotations */
+$LANGS['publish'] = "Publish";
+$LANGS['published'] = "Published";
+$LANGS['saved'] = "Saved";
+$LANGS['notvaliddate'] = "You have entered an unvalid timestamp!";
+$LANGS['outsiderange'] = "You have entered a timestamp outside of the video duration range!";
+$LANGS['video_pl'] = "Paste a link to a Video";
+$LANGS['playlist_pl'] = "Paste a link to a Playlist";
+$LANGS['channel_pl'] = "Enter an username";
+$LANGS['group_pl'] = "Paste a link to a Group";
+$LANGS['search_pl'] = "Enter your search query";
+$LANGS['entertext'] = "Enter your text here";
+$LANGS['loading'] = "Loading...";
+$LANGS['addlink'] = "Add link";
+$LANGS['linktype'] = "Link Type";
+$LANGS['group'] = "Group";
+$LANGS['composemessage'] = "Compose Message";
+$LANGS['videoresponseupload'] = "Video Response Upload";
+$LANGS['searchquery'] = "BitView Search Query";
+$LANGS['entervalidurl'] = "Please enter a valid URL";
 
 /* My Playlists */
 $LANGS['addedpl'] = "已添加";
@@ -784,6 +850,16 @@ $LANGS['playlistedit'] = "编辑";
 $LANGS['videourl'] = "复制视频链接";
 $LANGS['add'] = "添加";
 $LANGS['editinfo'] = "编辑信息";
+$LANGS['editdetails'] = "Edit details";
+$LANGS['deleteplaylist'] = "Delete playlist";
+$LANGS['addvideostoplaylist'] = "Add videos to playlist";
+$LANGS['novideoswerefound'] = "No videos were found.";
+$LANGS['position'] = "Position";
+$LANGS['move'] = "Move";
+$LANGS['deleteplaylistconfirmdesc'] = "Are you sure you want to delete <strong>{p}</strong>?<br><br>Note: Deleting playlists is a permanent action and cannot be undone.";
+$LANGS['deleteplaylistconfirm'] = "Yes, delete it";
+$LANGS['titledesctags'] = "Title, description, tags";
+$LANGS['savechangespl'] = "Save changes";
 
 /* Edit Playlist */
 $LANGS['pledittitle'] = "编辑播放列表";
@@ -1051,6 +1127,7 @@ $LANGS['clicktosend'] = '点击以发送！';
 $LANGS['honorless'] = '无荣誉';
 $LANGS['activitycomment'] = '评论了';
 $LANGS['activityfavorite'] = '收藏了一段视频';
+$LANGS['activitylike'] = 'liked a video';
 $LANGS['activityrating'] = '对一段视频进行了评分：';
 $LANGS['activityupload'] = '上传了新视频';
 $LANGS['activityfriend'] = '与某人成为了好友';
@@ -1251,6 +1328,43 @@ $LANGS['thankyou'] = '感谢';
 $LANGS['sharelink'] = '分享您的视频吧！复制下方的链接吧：';
 $LANGS['embedlink'] = '在您的网站上直接播放此视频！复制并粘贴以下片段：';
 $LANGS['allrequiredinfo'] = '请填写所有的空格！';
+$LANGS['videoscanbe'] = 'Videos can be...';
+$LANGS['uploadhd'] = 'High Definition';
+$LANGS['uploadsize'] = 'Up to 2 GB in size';
+$LANGS['uploadlength'] = 'Up to 15 minutes in length';
+$LANGS['uploadlengthpartners'] = 'Up to 1 hour in length';
+$LANGS['uploadformats'] = 'A wide variety of formats';
+$LANGS['basicuploader'] = 'Upload problems? Try the <a href="/my_videos_upload_basic">basic uploader</a> (works on older computers and web browsers).';
+$LANGS['uploadinstruction1'] = '<strong>Important:</strong> Do not upload any TV shows, music videos, music concerts, or commercials without permission unless they consist entirely of content you created yourself.';
+$LANGS['uploadinstruction2'] = 'The <a href="/guidelines">Community Guidelines</a> can help you determine whether your video infringes someone else\'s copyright.';
+$LANGS['uploadinstruction3'] = 'By clicking "Upload Video", you are representing that this video does not violate BitView\'s <a id="terms-of-use-link" href="/terms">Terms of Use</a> and that you own all copyrights in this video or have authorization to upload it.';
+$LANGS['fileuploaded'] = 'Your file has been uploaded. We are now processing the video...';
+$LANGS['videosettingssaved'] = 'Your video settings have been saved.';
+$LANGS['timeremaining'] = 'About {m} min. remaining...';
+$LANGS['minuteremaining'] = 'Less than a minute remaining...';
+$LANGS['preview'] = 'Preview';
+$LANGS['processing'] = 'Processing';
+$LANGS['generatingpreviews'] = 'Generating previews...';
+$LANGS['errorpreview'] = "Error: couldn't generate preview";
+$LANGS['infoandprivacy'] = "Video information and privacy settings";
+$LANGS['sharingoptions'] = "Sharing options";
+$LANGS['url'] = "URL";
+$LANGS['durationerror'] = "You can only upload videos up to {n} minutes in length.";
+
+/* Video Response Upload */
+$LANGS['postingresponse'] = "You are posting a Video Response to: ";
+$LANGS['responsessofar'] = "{n} Video Response(s) so far";
+$LANGS['chooseavideo'] = "Choose a Video";
+$LANGS['uploadavideo'] = "Upload a Video";
+$LANGS['responsesdesc1'] = "<h4>What is a Video Response?</h4><p>Ever wanted to talk back to a video? Now's your chance – you can upload a response to this video and we'll link them together.</p>";
+$LANGS['responsesdesc2'] = "<h4>How do I post a Video Response?</h4><p>You can record a new video, choose from the videos that you already have or create and upload a new video. Select the option on the left that best suits your needs.</p>";
+$LANGS['responsesdesc3'] = '<h4>Oops! I actually meant to post a text comment. How do I do this?</h4><p>Return to the video (by hitting the "back" button on your browser or clicking the title of the video at the top of this page) and click "Post a Text Comment".</p>';
+$LANGS['choosevideotitle'] = "Choose one of your existing videos as a response";
+$LANGS['selectvideo'] = "Select the video that you want to respond with:";
+$LANGS['useselectedvideo'] = "Use the selected video";
+$LANGS['uploadvideoresponse'] = "Upload your Video Response";
+$LANGS['clickstart'] = 'Click "Start" to begin uploading your Video Response.';
+$LANGS['start'] = 'Start';
 
 /* Partners */
 $LANGS['partnerhead'] = 'BitView合作伙伴计划';
@@ -1307,6 +1421,26 @@ $LANGS['retract'] = '撤回';
 /* History */
 $LANGS['clearhistory'] = "清除观看历史";
 $LANGS['noviewinghistory'] = "您的历史记录中没有视频。";
+$LANGS['addto'] = "Add to";
+$LANGS['sortorder'] = "Order";
+$LANGS['sortnewest'] = "Newest";
+$LANGS['sortoldest'] = "Oldest";
+$LANGS['sortmostviewed'] = "Most viewed";
+$LANGS['sortlongest'] = "Longest";
+$LANGS['sortshortest'] = "Shortest";
+$LANGS['sortaz'] = "A-Z";
+$LANGS['sortza'] = "Z-A";
+$LANGS['newpltitle'] = "Playlist title";
+$LANGS['newpldesc'] = "Playlist description";
+$LANGS['newpltags'] = "Playlist tags";
+$LANGS['newplbutton'] = "Create playlist";
+$LANGS['addvideos'] = "Add videos";
+$LANGS['liked'] = "Liked";
+$LANGS['mylikedvideos'] = "My Liked Videos";
+$LANGS['savedtoplaylist'] = "Videos saved to playlist(s) successfully!";
+$LANGS['sureremovevideos'] = "Are you sure you want to delete the selected videos?";
+$LANGS['remove'] = "Remove";
+$LANGS['plvideoamountsingular'] = "video";
 
 /* QuickList */
 $LANGS['playquicklist'] = "播放快速列表";
@@ -1315,6 +1449,11 @@ $LANGS['noquicklist'] = "您的快速列表中没有视频。";
 $LANGS['noquicklistdesc'] = "快速列表允许您创建一个稍后观看的视频列表。点击任何视频的左下角的“+”号即可将其添加到您的快速列表中。要查看您的列表，请查找您正在观看的任何视频下面的快速列表栏。";
 $LANGS['quicklistcleared'] = "您的快速列表已成功清除。";
 $LANGS['addedtoquicklist'] = "已添加到 <br> 快速列表";
+$LANGS['queue'] = "Queue";
+$LANGS['playqueue'] = "Play Queue";
+$LANGS['clearqueue'] = "Clear Queue";
+$LANGS['addtoqueue'] = "Add to queue";
+$LANGS['addedtoqueue'] = "Added to <br> queue";
 
 /* About */
 $LANGS['aboutus'] = '关于我们';
@@ -1481,6 +1620,11 @@ $LANGS['featherdisabled'] = '"Feather" 现在已禁用！';
 $LANGS['timemachinedisabled'] = '"时光机" 现在已禁用！';
 $LANGS['lightsoutdisabled'] = '"关灯" 现在已禁用！';
 
+/* Email Confirmation */
+$LANGS['checkemail'] = "Please Check Your Email";
+$LANGS['checkemaildesc'] = "A confirmation email has been sent to your email address. Please click on the link in the email to verify your email address. If you do not recieve the message within a few minutes, please also check your bulk or spam folders.";
+$LANGS['resendemail'] = "Resend Confirmation Email";
+
 /* Footer */
 $LANGS['youraccount'] = '您的账号';
 $LANGS['inbox'] = '邮箱';
@@ -1489,10 +1633,12 @@ $LANGS['helpinfo'] = '帮助';
 $LANGS['helpcenter'] = '帮助';
 $LANGS['ourtwitter'] = 'Twitter';
 $LANGS['ourdiscord'] = 'Discord';
-$LANGS['guidelines'] = '社区准则';
-$LANGS['partnerships'] = '合作伙伴计划';
-$LANGS['terms'] = '使用条款';
-$LANGS['privacypolicy'] = '隐私政策';
+$LANGS['guidelines'] = 'Guidelines';
+$LANGS['partnerships'] = 'Partners';
+$LANGS['terms'] = 'Terms';
+$LANGS['about'] = 'About';
+$LANGS['privacypolicy'] = 'Privacy';
+$LANGS['languageselector'] = 'Language';
 $LANGS['currentlanguage'] = '目前所使用的语言';
 $LANGS['showlanguages'] = '展示所有语言';
 $LANGS['setlanguagepref'] = '选择您的语言';
