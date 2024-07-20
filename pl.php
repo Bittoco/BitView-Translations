@@ -1341,6 +1341,7 @@ $LANGS['uploadinstruction2'] = '<a href="/guidelines">Wytyczne dla społecznośc
 $LANGS['uploadinstruction3'] = 'Klikając "Prześlij wideo", oświadczasz, że to wideo nie narusza <a id="terms-of-use-link" href="/terms">Warunków korzystania</a> BitView i że posiadasz wszelkie prawa autorskie do tego wideo lub masz zgodę na jego przesłanie.';
 $LANGS['fileuploaded'] = 'Twój plik został przesłany. Przetwarzamy teraz wideo...';
 $LANGS['videosettingssaved'] = 'Twoje ustawienia wideo zostały zapisane.';
+$LANGS['uploadprogress'] = 'Upload progress';
 $LANGS['timeremaining'] = 'Pozostało około {m} min. ...';
 $LANGS['minuteremaining'] = 'Pozostało mniej niż minuta...';
 $LANGS['preview'] = 'Podgląd';

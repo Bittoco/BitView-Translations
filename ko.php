@@ -1342,6 +1342,7 @@ $LANGS['uploadinstruction2'] = 'The <a href="/guidelines">Community Guidelines</
 $LANGS['uploadinstruction3'] = 'By clicking "Upload Video", you are representing that this video does not violate BitView\'s <a id="terms-of-use-link" href="/terms">Terms of Use</a> and that you own all copyrights in this video or have authorization to upload it.';
 $LANGS['fileuploaded'] = 'Your file has been uploaded. We are now processing the video...';
 $LANGS['videosettingssaved'] = 'Your video settings have been saved.';
+$LANGS['uploadprogress'] = 'Upload progress';
 $LANGS['timeremaining'] = 'About {m} min. remaining...';
 $LANGS['minuteremaining'] = 'Less than a minute remaining...';
 $LANGS['preview'] = 'Preview';
