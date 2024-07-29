@@ -387,6 +387,14 @@ $LANGS['liketotal'] = "{l} total";
 /* Watch comments */
 $LANGS['allcomments'] = 'All Comments';
 
+/* Player */
+$LANGS['fullscreen'] = "Full screen";
+$LANGS['expand'] = "Expand";
+$LANGS['shrink'] = "Shrink";
+$LANGS['popout'] = "Pop out";
+$LANGS['mute'] = "Mute";
+$LANGS['unmute'] = "Unmute";
+
 /* Sign In */
 $LANGS['username'] = "Username";
 $LANGS['password'] = "Password";

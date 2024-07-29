@@ -386,6 +386,14 @@ $LANGS['removetooltip'] = "Remove";
 /* Watch comments */
 $LANGS['allcomments'] = '모든 댓글';
 
+/* Player */
+$LANGS['fullscreen'] = "Full screen";
+$LANGS['expand'] = "Expand";
+$LANGS['shrink'] = "Shrink";
+$LANGS['popout'] = "Pop out";
+$LANGS['mute'] = "Mute";
+$LANGS['unmute'] = "Unmute";
+
 /* Sign In */
 $LANGS['username'] = "사용자 이름";
 $LANGS['password'] = "비밀번호";

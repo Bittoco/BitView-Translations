@@ -384,6 +384,14 @@ $LANGS['removetooltip'] = "Удалить";
 /* Watch comments */
 $LANGS['allcomments'] = 'Все комментарии';
 
+/* Player */
+$LANGS['fullscreen'] = "Full screen";
+$LANGS['expand'] = "Expand";
+$LANGS['shrink'] = "Shrink";
+$LANGS['popout'] = "Pop out";
+$LANGS['mute'] = "Mute";
+$LANGS['unmute'] = "Unmute";
+
 /* Sign In */
 $LANGS['username'] = "Имя";
 $LANGS['password'] = "Пароль";
