@@ -127,7 +127,7 @@ $LANGS['gridview'] = "Сетка";
 $LANGS['listview'] = "Список";
 
 /* Page title */
-$LANGS['hometitle'] = "BitView {n}";
+$LANGS['hometitle'] = "BitView пользователя {n}";
 $LANGS['channeltitle'] = "Канал {n}";
 $LANGS['signintitle'] = "Войти";
 $LANGS['historytitle'] = "История";
