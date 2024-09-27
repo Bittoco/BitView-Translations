@@ -69,8 +69,8 @@ $LANGS['playlists'] = 'Playlisten';
 $LANGS['help'] = 'Hilfe';
 $LANGS['suggestions'] = 'Suggestions';
 $LANGS['quicklist'] = 'QuickList';
-$LANGS['browse'] = 'Browse';
-$LANGS['messagesmenu'] = 'Messages';
+$LANGS['browse'] = 'Kategorien';
+$LANGS['messagesmenu'] = 'Nachrichten';
 
 /* Homepage */
 $LANGS['viewall'] = 'Alle anzeigen';
@@ -384,12 +384,12 @@ $LANGS['removetooltip'] = "Entfernen";
 $LANGS['allcomments'] = 'Alle Kommentare';
 
 /* Player */
-$LANGS['fullscreen'] = "Full screen";
-$LANGS['expand'] = "Expand";
-$LANGS['shrink'] = "Shrink";
+$LANGS['fullscreen'] = "Vollbild";
+$LANGS['expand'] = "Flimodus";
+$LANGS['shrink'] = "Standardansicht";
 $LANGS['popout'] = "Pop out";
-$LANGS['mute'] = "Mute";
-$LANGS['unmute'] = "Unmute";
+$LANGS['mute'] = "Stummschalten";
+$LANGS['unmute'] = "Stummschalten Aufheben";
 
 /* Sign In */
 $LANGS['username'] = "Nutzername";
@@ -750,8 +750,8 @@ $LANGS['cat_ZW'] = "Simbabwe";
 
 /* My Subscriptions */
 $LANGS['newvideos'] = "Neue Videos";
-$LANGS['addselectedto'] = "Add the selected videos to:";
-$LANGS['addtoplaylists'] = "Add to Playlists";
+$LANGS['addselectedto'] = "Videos zur einer Playlist hinzufügn:";
+$LANGS['addtoplaylists'] = "Zur einer Playlist hinzufügen";
 
 /* Account */
 $LANGS['myaccount'] = "Mein Account";
@@ -1133,7 +1133,7 @@ $LANGS['clicktosend'] = 'Zum Senden klicken!';
 $LANGS['honorless'] = 'Wenig';
 $LANGS['activitycomment'] = 'Kommentierte bei dem Video:';
 $LANGS['activityfavorite'] = 'Favorite das Video:';
-$LANGS['activitylike'] = 'liked a video';
+$LANGS['activitylike'] = 'Hat ein Video bewertet:';
 $LANGS['activityrating'] = 'Hat ein Video bewertet:';
 $LANGS['activityupload'] = 'Hat ein neues video hochladen';
 $LANGS['activityfriend'] = 'ist jetzt befreundet mit';
