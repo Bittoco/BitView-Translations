@@ -386,12 +386,12 @@ $LANGS['removetooltip'] = "Usuń";
 $LANGS['allcomments'] = 'Wszystkie komentarze';
 
 /* Player */
-$LANGS['fullscreen'] = "Full screen";
-$LANGS['expand'] = "Expand";
-$LANGS['shrink'] = "Shrink";
-$LANGS['popout'] = "Pop out";
-$LANGS['mute'] = "Mute";
-$LANGS['unmute'] = "Unmute";
+$LANGS['fullscreen'] = "Pełny ekran";
+$LANGS['expand'] = "Rozwiń";
+$LANGS['shrink'] = "Zwiń";
+$LANGS['popout'] = "Otwórz w nowym oknie";
+$LANGS['mute'] = "Wycisz";
+$LANGS['unmute'] = "Wyłącz wyciszenie";
 
 /* Sign In */
 $LANGS['username'] = "Nazwa użytkownika";
