@@ -40,7 +40,6 @@ $LANGS['september'] = 'Eylül';
 $LANGS['october'] = 'Ekim';
 $LANGS['november'] = 'Kasım';
 $LANGS['december'] = 'Aralık';
-// burda napıcam la
 $LANGS['shorttimeformat'] = '%b %e, %Y';
 $LANGS['videotimeformat'] = '%b %e, %Y';
 $LANGS['longtimeformat'] = '%B %e, %Y';
