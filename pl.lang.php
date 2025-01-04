@@ -380,6 +380,10 @@ $LANGS['voteuptooltip'] = "Głosuj na tak";
 $LANGS['votedowntooltip'] = "Głosuj na nie";
 $LANGS['flagspamtooltip'] = "Oznacz jako spam";
 $LANGS['removetooltip'] = "Usuń";
+$LANGS['likemessage'] = "Lubisz ten film. Dzięki za opinię!<br>Zobacz więcej <a href='/my_liked_videos'>filmów, które polubiłeś</a>.";
+$LANGS['dislikemessage'] = "Nie lubisz tego filmu. Dzięki za opinię!";
+$LANGS['ratingsforthisvideo'] = "Oceny dla tego filmu";
+$LANGS['liketotal'] = "{l} łącznie";
 
 
 /* Watch comments */
