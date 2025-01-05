@@ -1450,12 +1450,12 @@ $LANGS['remove'] = "Entfernen";
 $LANGS['plvideoamountsingular'] = "Video";
 
 /* QuickList */
-$LANGS['playquicklist'] = "Schnell-Liste abspielen";
-$LANGS['clearquicklist'] = "Schnell-Liste löschen";
-$LANGS['noquicklist'] = "Es sind keine Videos in deiner Schnell-Liste.";
-$LANGS['noquicklistdesc'] = "Die Schnell-Liste ermöglicht es dir, eine Liste von Videos für späteres Ansehen zu erstellen. Klicke auf das &quot;+&quot; (in der unteren linken Ecke) eines Videos, um es zu deiner Schnell-Liste hinzuzufügen. Um deine Liste anzusehen, suche die Schnell-Liste-Leiste unter jedem Video, das du ansiehst.";
-$LANGS['quicklistcleared'] = "Deine Schnell-Liste wurde erfolgreich gelöscht.";
-$LANGS['addedtoquicklist'] = "Zur <br> Schnell-Liste hinzugefügt";
+$LANGS['playquicklist'] = "Quickliste abspielen";
+$LANGS['clearquicklist'] = "Quickliste löschen";
+$LANGS['noquicklist'] = "Es sind keine Videos in deiner Quickliste.";
+$LANGS['noquicklistdesc'] = "Die Quickliste ermöglicht es dir, eine Liste von Videos für späteres Ansehen zu erstellen. Klicke auf das &quot;+&quot; (in der unteren linken Ecke) eines Videos, um es zu deiner Quickliste hinzuzufügen. Um deine Liste anzusehen, suche die QuickList-Leiste unter jedem Video, das du ansiehst.";
+$LANGS['quicklistcleared'] = "Deine Quickliste wurde erfolgreich gelöscht.";
+$LANGS['addedtoquicklist'] = "Zur <br> Quickliste hinzugefügt";
 $LANGS['queue'] = "Warteschlange";
 $LANGS['playqueue'] = "Warteschlange abspielen";
 $LANGS['clearqueue'] = "Warteschlange löschen";
