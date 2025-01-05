@@ -999,7 +999,7 @@ $LANGS['changeinfo'] = "Info ändern";
 $LANGS['changeimage'] = "Bild ändern";
 $LANGS['image'] = "Bild";
 $LANGS['styling'] = "CSS";
-$LANGS['cssdesc'] = "Hintergründe dürfen keine Illegalen Dinge zeigen, ansonsten wird dein Account (+ gruppe) gelöscht.";
+$LANGS['cssdesc'] = "Hintergründe dürfen keine Illegalen Dinge zeigen, ansonsten wird dein Account (+ Gruppe) gelöscht.";
 $LANGS['updatecss'] = "CSS aktualisieren";
 $LANGS['groupmessage'] = "Nachricht";
 $LANGS['sendmessagetomembers'] = "Nachricht an alle Mitglieder senden";
@@ -1058,7 +1058,7 @@ $LANGS['age'] = 'Alter';
 $LANGS['gender'] = 'Geschlecht';
 $LANGS['male'] = 'Männlich';
 $LANGS['female'] = 'Weiblich';
-$LANGS['nonbinary'] = 'Non-Binary';
+$LANGS['nonbinary'] = 'Non-Binär';
 $LANGS['status'] = 'Beziehungsstatus';
 $LANGS['single_m'] = 'Single';
 $LANGS['single_f'] = 'Single';
@@ -1127,8 +1127,8 @@ $LANGS['writeabulletin'] = 'Bulletin schreiben';
 $LANGS['bulletindesc'] = 'Bulletins werden auf deinem und auf den Kanälen deiner Freunde angezeigt.';
 $LANGS['sharingoptions'] = 'Teilungs optionen';
 $LANGS['sharingoptionsdesc'] = 'Es gibt zwei Möglichkeiten, diesen Kanal zu teilen.';
-$LANGS['sharingoptions1'] = '1. Kopieren Sie diesen Link und fügen Sie ihn in eine E-Mail oder Sofortnachricht ein.';
-$LANGS['sharingoptions2'] = "2. Senden Sie diesen Kanal mit dem E-Mail-Programm Ihres Computers.";
+$LANGS['sharingoptions1'] = '1. Kopiere diesen Link und füge ihn in eine E-Mail oder Sofortnachricht ein.';
+$LANGS['sharingoptions2'] = "2. Teile diesen Kanal mit dem E-Mail-Programm deines Computers.";
 $LANGS['clicktosend'] = 'Zum Senden klicken!';
 $LANGS['honorless'] = 'Wenig';
 $LANGS['activitycomment'] = 'kommentierte das Video:';
@@ -1376,13 +1376,13 @@ $LANGS['start'] = 'Start';
 /* Partners */
 $LANGS['partnerhead'] = 'Partnerschaften'; 
 $LANGS['partnertitle'] = 'Partner mit Bitview!';
-$LANGS['partnerdesc'] = "Du hast tolle Videos und ein wachsendes Publikum. Lassen Sie sich von BitView durch unser Partnerprogramm dabei helfen, die nächste Stufe zu erreichen!";
+$LANGS['partnerdesc'] = "Du hast tolle Videos und ein wachsendes Publikum. Lasse durch unser Partnerprogramm dir dabei helfen, die nächste Stufe zu erreichen!";
 $LANGS['applynow'] = 'Jetzt bewerben';
 $LANGS['contentpartners'] = 'Content Partners';
 $LANGS['partnerbenefits'] = 'Partner Vorteile';
-$LANGS['partnerbenefitsdesc'] = 'Es gibt viele Vorteile, ein BitView-Partner zu werden. Einige davon sind:<br><br>- Branding: Heben Sie sich mit individuellem Branding hervor, das Banner, eine individuelle Box für Ihren Kanal und ein Partnerabzeichen für alle Ihre Videos umfasst.<br><br>- Das gibt es Weitere Vorteile für die Zukunft!';
+$LANGS['partnerbenefitsdesc'] = 'Als ein BitView-Partner hat man viele Vorteile. Einige davon sind:<br><br>- Branding: Hebe dich mit individuellem Branding hervor, das Banner, eine individuelle Box für deinen Kanal und ein Partnerabzeichen für alle Ihre Videos.<br><br>- In Zukunft wird es auch noch mehr Vorteile geben!';
 $LANGS['qualificationsfaq'] = 'Qualifikationen und FAQ';
-$LANGS['qualificationsfaqdesc'] = 'Um sich für das BitView-Partnerprogramm zu qualifizieren, müssen Sie einige Mindestkriterien erfüllen:<br><br>- eigene Originalvideos, die für das Online-Streaming geeignet sind.<br><br>- Sie brauchen >75 Abonnenten.<br><br> - Achten sie drauf das ihr konto nicht die <a href="/guidelines">Community-Richtlinien</a> verstößt';
+$LANGS['qualificationsfaqdesc'] = 'Um sich für das BitView-Partnerprogramm zu qualifizieren, musst du einige Mindestkriterien erfüllen:<br><br>- eigene Originalvideos, die für das Online-Streaming geeignet sind.<br><br>- Du brauchst >75 Abonnenten.<br><br> - Achte drauf das dein Konto nicht gegen die <a href="/guidelines">Community-Richtlinien</a> verstößt.';
 
 /* Staff */
 $LANGS['bvstaff'] = 'BitView Team';
@@ -1393,26 +1393,26 @@ $LANGS['coowndev'] = 'Miteigentümer und <br> Entwicklern';
 $LANGS['owndev'] = 'eigentümer und <br> Entwicklern';
 $LANGS['coownserver'] = 'Miteigentümer und <br> Server eigentümer/Entwicklern';
 $LANGS['modsanddevs'] = 'Moderatoren und Entwicklern';
-$LANGS['modsanddevsdesc'] = 'Menschen, die Website sicher und übersichtlich halten. Haben Sie ein Problem mit Ihrem Konto? Sie sollten sie kontaktieren.';
+$LANGS['modsanddevsdesc'] = 'Mitglieder, die die Website sicher und übersichtlich halten. Hast du ein Problem mit deinem Konto? Kontaktiere sie!';
 $LANGS['moderator'] = 'Moderator';
 $LANGS['moddev'] = 'Entwickler &<br>Moderator';
 $LANGS['lettertitle'] = 'Brief an alle Menschen, die bei der Website geholfen haben';
 $LANGS['letter'] = "Liebe Miteigentümer, Entwickler und Moderatoren von BitView,<br><br>
-                Im Namen des gesamten BitView-Teams möchte ich Ihnen meinen herzlichen Dank für Ihr außergewöhnliches Engagement und Ihre harte Arbeit aussprechen. Als einer der Eigentümer erfüllt es mich mit großem Stolz, das Wachstum und den Erfolg unserer Video-Sharing-Plattform mitzuerleben, und ohne Ihre unschätzbaren Beiträge wäre dies nicht möglich gewesen.
+                Im Namen des gesamten BitView-Teams möchte ich euch meinen herzlichen Dank für euer außergewöhnliches Engagement und eure harte Arbeit aussprechen. Als einer der Eigentümer erfüllt es mich mit großem Stolz, das Wachstum und den Erfolg unserer Video-Sharing-Plattform mitzuerleben, und ohne eure unschätzbaren Beiträge wäre dies nicht möglich gewesen.
                 <br><br>
-                Vielen Dank an die übrigen Miteigentümer für Ihre unerschütterliche Unterstützung und Vision. Ihr Engagement für die Entwicklung und Verbesserung der Plattform hat maßgeblich dazu beigetragen, BitView.net zu der bemerkenswerten Community zu machen, die es heute ist. Ihre Führung und strategische Führung waren von entscheidender Bedeutung bei der Bewältigung der Herausforderungen und Chancen, die sich uns boten.                
+                Vielen Dank an die übrigen Miteigentümer für eure unerschütterliche Unterstützung und Vision. Euer Engagement für die Entwicklung und Verbesserung der Plattform hat maßgeblich dazu beigetragen, BitView.net zu der bemerkenswerten Community zu machen, die es heute ist. Eure Führung und strategische Ausrichtung waren von entscheidender Bedeutung bei der Bewältigung der Herausforderungen und Chancen, die sich uns boten.                
                 <br><br>
-                Für unsere talentierten Entwickler: Ihr technisches Fachwissen und Ihre innovativen Ideen haben BitView in eine hochmoderne Plattform verwandelt, die perfekt widerspiegelt, wie YouTube damals aussah. Ihre unzähligen Stunden an Codierung, Problemlösung und Funktionsimplementierung haben das Benutzererlebnis verbessert und unsere Plattform zu einem Zentrum der Kreativität und Unterhaltung gemacht. Ihr Engagement für die Verbesserung der Funktionalität und Leistung der Website war wirklich lobenswert.
+                Für unsere talentierten Entwickler: Euer technisches Fachwissen und eure innovativen Ideen haben BitView in eine hochmoderne Plattform verwandelt, die perfekt widerspiegelt, wie YouTube damals aussah. Eure unzähligen Stunden an Coding, Problemlösung und Funktionsimplementierung haben das Benutzererlebnis um einiges verbessert und unsere Plattform zu einem Zentrum der Kreativität und Unterhaltung gemacht. Euer Engagement für die Verbesserung der Funktionalität und Leistung der Website ist wirklich lobenswert.
                 <br><br>
-                Unseren fleißigen Moderatoren möchte ich meinen tiefsten Dank für die Wahrung der Integrität und Sicherheit unserer Community aussprechen. Ihre Wachsamkeit bei der Durchsetzung der Regeln und Richtlinien, der Gewährleistung eines respektvollen Umgangs und der schnellen Behebung auftretender Probleme war entscheidend für die Schaffung einer einladenden Umgebung für alle Benutzer. Ihre Bemühungen, BitView zu einem Raum für konstruktives Engagement und positive Inhalte zu machen, sind äußerst lobenswert.
+                Unseren fleißigen Moderatoren möchte ich meinen tiefsten Dank für die Wahrung der Integrität und Sicherheit unserer Community aussprechen. Eure Wachsamkeit bei der Durchsetzung der Regeln und Richtlinien, der Gewährleistung eines respektvollen Umgangs und der schnellen Behebung auftretender Probleme war entscheidend für die Schaffung einer einladenden Umgebung für alle Benutzer. Eure Bemühungen, BitView zu einem Raum für konstruktives Engagement und positive Inhalte zu machen, sind äußerst lobenswert.
                 <br><br>
-                Gemeinsam haben wir als geeintes Team bedeutende Meilensteine ​​erreicht und zahlreiche Hindernisse überwunden. Der Erfolg von BitView ist ein Beweis für die gemeinsame Anstrengung und Leidenschaft, die jeder von Ihnen mitbringt. Ihr Engagement für unsere gemeinsame Vision war wirklich inspirierend und ich bin dankbar, so außergewöhnliche Menschen an meiner Seite zu haben.
+                Gemeinsam haben wir als geeintes Team bedeutende Meilensteine erreicht und zahlreiche Hindernisse überwunden. Der Erfolg von BitView ist ein Beweis für die gemeinsame Anstrengung und Leidenschaft, die jeder von euch mitbringt. Euer Engagement für unsere gemeinsame Vision war wirklich inspirierend und ich bin dankbar, so außergewöhnliche Menschen an meiner Seite zu haben.
                 <br><br>
                 Während wir weiter wachsen und uns weiterentwickeln, sollten wir die Bindungen, die wir geknüpft haben, schätzen und den Werten verpflichtet bleiben, die unseren kleinen Standort ausmachen. Gemeinsam werden wir diese Nostalgiereise fortsetzen und den Kreativen eine Plattform bieten, auf der sie ihre Talente präsentieren können.
                 <br><br>
-                Nochmals vielen Dank: Miteigentümer, Entwickler und Moderatoren, für Ihren unerschütterlichen Einsatz, Ihr Fachwissen und Ihre unerschütterliche Unterstützung. Ihre harte Arbeit ist nicht unbemerkt geblieben und ich bin unglaublich stolz, Teil dieses bemerkenswerten Teams zu sein.
+                Nochmals vielen Dank: Miteigentümer, Entwickler und Moderatoren, für euren unerschütterlichen Einsatz, euer Fachwissen und eure unglaubliche Unterstützung. Eure harte Arbeit ist nicht unbemerkt geblieben und ich bin unglaublich stolz, Teil dieses bemerkenswerten Teams zu sein.
                 <br><br>
-                Drücken Sie sich weiterhin aus,<br>
+                Bleibt weiterhin kreativ und zeigt der Welt weiterhin, wer ihr seid!<br>
                 <3 vistafan12";
 $LANGS['backtobitview'] = "Zurück zu Bitview";
 
@@ -1465,18 +1465,18 @@ $LANGS['addedtoqueue'] = "Zur <br> Warteschlange hinzugefügt";
 /* About */
 $LANGS['aboutus'] = 'Über uns';
 $LANGS['abouttitle'] = 'Was ist BitView?';
-$LANGS['aboutdesc'] = 'Mit BitView können Sie Ihre Videos den Menschen zugänglich machen, die Ihnen wichtig sind. Mit BitView können Sie:';
-$LANGS['about1'] = 'Zeigen Sie der Welt Ihre Lieblingsvideos';
-$LANGS['about2'] = 'Machen Sie Videos von Ihren Hunden, Katzen und anderen Haustieren';
-$LANGS['about3'] = 'Bloggen Sie die Videos, die Sie mit Ihrer Digitalkamera oder Ihrem Mobiltelefon aufnehmen.';
-$LANGS['about4'] = 'Zeigen Sie Videos sicher und privat Ihren Freunden und Ihrer Familie auf der ganzen Welt';
+$LANGS['aboutdesc'] = 'Mit BitView kannst du deine Videos den Menschen zugänglich machen, die dir wichtig sind. Mit BitView kannst du:';
+$LANGS['about1'] = 'Der Welt deine Lieblingsvideos zeigen';
+$LANGS['about2'] = 'Videos von deinen Hunden, Katzen und anderen Haustieren machen';
+$LANGS['about3'] = 'die Videos Bloggen, die du mit deiner Kamera oder deinem Handy aufnimmst';
+$LANGS['about4'] = 'Videos sicher und privat deiner Familie und Freunden auf der ganzen Welt zeigen';
 $LANGS['about5'] = '... und noch viel, viel mehr!';
 $LANGS['aboutsignup'] = '<a href="/signup">Jetzt anmelden</a> und ein kostenloses Konto eröffnen.';
-$LANGS['abouthelp'] = 'Weitere Informationen zu unserem Service finden Sie in unserem Abschnitt <a href="help">Hilfe</a>.';
-$LANGS['aboutmail'] = 'Please feel free to <a href="mailto:bitview@vistafan12.eu.org">contact us</a>.';
+$LANGS['abouthelp'] = 'Weitere Informationen zu unserem Service findest du <a href="help">hier</a>.';
+$LANGS['aboutmail'] = 'Bitte zögern Sie nicht, uns zu <a href="mailto:bitview@vistafan12.eu.org">kontaktieren</a>.';
 
 /* Community Guidelines */
-$LANGS['bvguidelines'] = 'BitView-Community-Richtlinien';
+$LANGS['bvguidelines'] = 'BitView Community-Richtlinien';
 $LANGS['cgtitle1'] = 'Respektieren Sie die BitView-Community';
 $LANGS['cgtitle2'] = "Überschreiten Sie nicht die Grenze";
 $LANGS['cgtitle3'] = 'Wir setzen diese Richtlinien durch';
@@ -1536,42 +1536,42 @@ $LANGS['whowins'] = "Wer gewinnt?";
 $LANGS['whowinsdesc'] = "Der Gewinner wird am Ende des Monats von den BitView-Mitarbeitern ausgewählt.";
 $LANGS['theprize'] = "Der Preis?";
 $LANGS['theprizedesc'] = "Ruhm, Reichtum und der Neid aller Augen.";
-$LANGS['contestsuggestion'] = 'Haben Sie einen Vorschlag für einen monatlichen Videowettbewerb? Bitte <a href="mailto:bitview@vistafan12.eu.org">Erzählen Sie uns</a> davon.';
+$LANGS['contestsuggestion'] = 'Hast du einen Vorschlag für einen monatlichen Videowettbewerb? Bitte <a href="mailto:bitview@vistafan12.eu.org">erzähle uns davon</a>!';
 
 /* Help */
 $LANGS['q1'] = 'F: Wie kann ich meine Videos teilen und von meiner Website aus darauf verlinken?';
-$LANGS['a1'] = 'A: <a href="/sharing">So teilen Sie Ihre Videos und verlinken sie</a>';
+$LANGS['a1'] = 'A: <a href="/sharing">So teilst und verlinkst du deine Videos</a>';
 $LANGS['q2'] = 'F: Welche Art von Videos kann ich hochladen?';
-$LANGS['a2'] = 'A: Sie können jede Art von persönlichem Video hochladen, das Sie mit der Welt teilen möchten. Wir erlauben keine Nacktheit und Ihr Video muss für alle Zielgruppen geeignet sein.
+$LANGS['a2'] = 'A: Du kannst jede Art von Videos hochladen, die du mit der Welt teilen möchtest. Wir erlauben keine Nacktheit und dein Video muss für alle Zielgruppen geeignet sein.
 <br/>
 <br/>
-Dies lässt jedoch noch viel Raum für Kreativität!! Besitzen Sie einen <a href="results?search=dog&t=Search+Videos">Hund</a> oder eine <a href="/results?search=cat&t=Search+Videos">Katze</a>? Waren Sie schon einmal im Urlaub in <a href="/results?search=mexico&t=Search+Videos">Mexiko</a>? Lebst du in den <a href="/results?search=netherlands&t=Search+Videos">den Niederlanden</a>?
+Dies lässt jedoch noch viel Raum für Kreativität!! Besitzt du einen <a href="results?search=dog&t=Search+Videos">Hund</a> oder eine <a href="/results?search=cat&t=Search+Videos">Katze</a>? Warst du schon einmal im Urlaub in <a href="/results?search=mexico&t=Search+Videos">Mexiko</a>? Lebst du in den <a href="/results?search=netherlands&t=Search+Videos">den Niederlanden</a>?
 <br/>
 <br/>
-Dies sind nur einige Beispiele der Videos, die unsere Benutzer hochladen. Am Ende kennst du dich selbst am besten. Was möchten <i>Sie</i> auf Video festhalten?';
+Dies sind nur einige Beispiele der Videos, die unsere Benutzer hochladen. Am Ende kennst du dich selbst am besten. Was möchtest <i>du</i> auf Video festhalten?';
 $LANGS['q3'] = 'F: Wie lang darf mein Video sein?';
-$LANGS['a3'] = 'A: Das Video muss weniger als 15 Minuten lang und weniger als 2 GB groß sein (100 MB, wenn Sie einen alten Browser verwenden).';
+$LANGS['a3'] = 'A: Das Video muss weniger als 15 Minuten lang und weniger als 2 GB groß sein (100 MB, wenn du einen alten Browser verwendest).';
 $LANGS['q4'] = 'F: Welche Videodateiformate kann ich hochladen?';
 $LANGS['a4'] = 'A: BitView akzeptiert Videodateien von den meisten Digitalkameras und von Mobiltelefonen in den Dateiformaten .WMV, .AVI, .MOV, .MPG, .MP4.';
 $LANGS['q5'] = 'F: Wie kann ich meine videos verbessern?';
 $LANGS['a5'] = 'A: Wir empfehlen Ihnen, Ihre Videos mit Software wie <a href="https://archive.org/details/windows-movie-maker-6.0_202101" target="_blank">Windows Movie Maker</a> zu bearbeiten oder <a href="https://www.apple.com/lae/imovie/" target="_blank">Apple iMovie</a>. Mit diesen Programmen können Sie ganz einfach Ihre Videos bearbeiten, Soundtracks hinzufügen usw.';
 $LANGS['q6'] = 'F: Behalte ich Urheberrechte und andere gesetzliche Rechte an meinen Videos?';
-$LANGS['a6'] = 'A: Ja. Sie behalten alle Rechte an Ihren Inhalten. BitView übernimmt kein Urheberrecht an Ihrem Material.';
+$LANGS['a6'] = 'A: Ja. Du behaltest alle Rechte an deinen Inhalten. BitView übernimmt kein Urheberrecht an deinem Material.';
 $LANGS['q7'] = 'F: Wie lauten Ihre Richtlinien zu Urheberrechtsverletzungen?';
 $LANGS['a7'] = "A: BitView respektiert die Rechte von Urheberrechtsinhabern und Herausgebern und akzeptiert Video-Uploads nur von Personen, die alle erforderlichen Rechte an dem hochgeladenen Material besitzen. Unsere Richtlinie besteht darin, auf alle Hinweise auf mutmaßliche Verstöße zu reagieren den Digital Millennium Copyright Act (DMCA) einhalten. Wenn wir eine Benachrichtigung erhalten oder anderweitig Grund zu der Annahme haben, dass von Ihnen übermittelte Inhalte das Urheberrecht einer anderen Partei verletzen, kann Ihr Konto gekündigt und das Video aus BitView entfernt werden.";
 $LANGS['q8'] = 'F: Wie melde ich Urheberrechtsverletzungen?';
-$LANGS['a8'] = 'A: Wenn Sie glauben, dass jemand anderes Ihre urheberrechtlich geschützten Inhalte ohne Ihre Erlaubnis hochgeladen hat, empfehlen wir Ihnen, diese Person zu kontaktieren, um eventuelle Differenzen direkt mit ihr zu klären. Sie können unser Support-Team auch über diese <a href="mailto:bitview@vistafan12.eu.org">E-Mail</a> kontaktieren.';
+$LANGS['a8'] = 'A: Wenn du glaubst, dass jemand anderes Ihre urheberrechtlich geschützten Inhalte ohne Ihre Erlaubnis hochgeladen hat, empfehlen wir dir, diese Person zu kontaktieren, um eventuelle Differenzen direkt mit ihm/ihr zu klären. Ansonsten kannst du unser Support-Team auch über diese <a href="mailto:bitview@vistafan12.eu.org">E-Mail</a> kontaktieren.';
 $LANGS['q9'] = 'F: Was passiert, wenn mir fälschlicherweise eine Urheberrechtsverletzung vorgeworfen wird?';
-$LANGS['a9'] = "A: Wir informieren Sie, wenn wir eine Urheberrechtsbeschwerde zu Ihren auf BitView gehosteten Videoinhalten erhalten. Wir geben Ihnen die Möglichkeit, angemessen zu reagieren.";
-$LANGS['q10'] = 'F: Was tun Sie, um zu verhindern, dass Inhalte, die gegen Ihre Richtlinien verstoßen, in BitView angezeigt werden?';
+$LANGS['a9'] = "A: Wir informieren dich, wenn wir eine Urheberrechtsbeschwerde zu Ihren auf BitView gehosteten Videoinhalten erhalten. Wir geben Ihnen die Möglichkeit, angemessen zu reagieren.";
+$LANGS['q10'] = 'F: Was tut ihr, um zu verhindern, dass Inhalte, die gegen Ihre Richtlinien verstoßen, in BitView angezeigt werden?';
 $LANGS['a10'] = 'A: Wir führen eine vorläufige Überprüfung der hochgeladenen Videos durch, sowohl manuell als auch automatisiert. Obwohl wir unser Bestes tun, um Videos zu erkennen und zu entfernen, die gegen unsere Richtlinien verstoßen, konzentriert sich unser Überprüfungsprozess in erster Linie auf die Entfernung nicht jugendfreier Inhalte oder offensichtlicher Urheberrechtsverletzungen und ist nicht absolut sicher. Wir ermutigen unsere Zuschauer jedoch, uns zu benachrichtigen, wenn sie Richtlinienverstöße oder Urheberrechtsprobleme entdecken. Wir verfügen über ein Verfahren zur Überprüfung gemeldeter Richtlinienverstöße und reagieren auf gemeldete Urheberrechtsverletzungen gemäß dem Digital Millennium Copyright Act.';
-$LANGS['q11'] = 'F: Haben Sie einen Discord-Server oder Twitter?';
-$LANGS['a11'] = 'Ja! Wir haben tatsächlich einen Discord-Server und Twitter. Sie können dem Discord-Server beitreten, indem Sie <a href="https://discord.gg/wgGaqCmwuQ">hier</a> klicken und uns auf Twitter folgen <a href="https://twitter.com/bitview_ ">hier</a>.';
+$LANGS['q11'] = 'F: Habt ihr einen Discord-Server oder Twitter?';
+$LANGS['a11'] = 'Ja! Wir haben tatsächlich einen Discord-Server und Twitter. Du kannst dem Discord-Server beitreten, indem du <a href="https://discord.gg/wgGaqCmwuQ">hier klickst</a> und uns <a href="https://twitter.com/bitview_ ">hier</a> auf Twitter folgst.';
 $LANGS['q12'] = "F: Ich verwende bei BitView einen alten Browser und kann daher keine Videos ansehen. Was kann ich tun?";
 $LANGS['activate'] = 'Aktivieren';
 $LANGS['deactivate'] = 'Deaktivieren';
 
-$LANGS['flashdisclaimer'] = "<b>Hinweis:</b> Der Flash Player von BitView wird als Kompatibilitätsoption angeboten. Wenn Ihr Browser den HTML5-Player von BitView unterstützt, sollten Sie diese Option nicht aktivieren.";
+$LANGS['flashdisclaimer'] = "<b>Hinweis:</b> Der Flash Player von BitView wird als Kompatibilitätsoption angeboten. Wenn Ihr Browser den HTML5-Player von BitView unterstützt, solltest du diese Option nicht aktivieren.";
 
 /* BitView on your site */
 $LANGS['bvsitetitle1'] = "Die Basics";
