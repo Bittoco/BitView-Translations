@@ -116,9 +116,9 @@ $LANGS['feedfeatured'] = "Empfohlene Videos";
 $LANGS['feedbeingwatched'] = "Video wird gerade angesehen";
 $LANGS['feedrecommended'] = "Empfohlenes Video";
 $LANGS['homenosubscriptions'] = "Du hast noch keinen Kanal abonniert.";
-$LANGS['homenosubscriptionsdesc'] = "Wenn Sie neue Abonnements hinzufügen, zeigen wir deren Uploads hier auf dieser Seite.";
+$LANGS['homenosubscriptionsdesc'] = "Wenn du neue Abonnements hinzufügst, zeigen wir deren Uploads hier auf dieser Seite.";
 $LANGS['homenofriendactivity'] = "Deine Freunde waren in letzter Zeit nicht aktiv.";
-$LANGS['homenofriendactivitydesc'] = "Sie können versuchen, einige Freunde hinzuzufügen. Anschließend zeigen wir ihre Aktivitäten hier auf dieser Seite.";
+$LANGS['homenofriendactivitydesc'] = "Du kannst versuchen, einige Freunde hinzuzufügen. Anschließend zeigen wir deine Aktivitäten hier auf dieser Seite.";
 $LANGS['homeediting'] = "Bearbeiten";
 $LANGS['homedisplay'] = "Anzeigen als";
 $LANGS['homerows'] = "Anzahl der anzuzeigenden Zeilen";
@@ -1473,7 +1473,7 @@ $LANGS['about4'] = 'Videos sicher und privat deiner Familie und Freunden auf der
 $LANGS['about5'] = '... und noch viel, viel mehr!';
 $LANGS['aboutsignup'] = '<a href="/signup">Jetzt anmelden</a> und ein kostenloses Konto eröffnen.';
 $LANGS['abouthelp'] = 'Weitere Informationen zu unserem Service findest du <a href="help">hier</a>.';
-$LANGS['aboutmail'] = 'Bitte zögern Sie nicht, uns zu <a href="mailto:bitview@vistafan12.eu.org">kontaktieren</a>.';
+$LANGS['aboutmail'] = 'Bitte zögere nicht, uns zu <a href="mailto:bitview@vistafan12.eu.org">kontaktieren</a>.';
 
 /* Community Guidelines */
 $LANGS['bvguidelines'] = 'BitView Community-Richtlinien';
@@ -1554,15 +1554,15 @@ $LANGS['a3'] = 'A: Das Video muss weniger als 15 Minuten lang und weniger als 2 
 $LANGS['q4'] = 'F: Welche Videodateiformate kann ich hochladen?';
 $LANGS['a4'] = 'A: BitView akzeptiert Videodateien von den meisten Digitalkameras und von Mobiltelefonen in den Dateiformaten .WMV, .AVI, .MOV, .MPG, .MP4.';
 $LANGS['q5'] = 'F: Wie kann ich meine videos verbessern?';
-$LANGS['a5'] = 'A: Wir empfehlen Ihnen, Ihre Videos mit Software wie <a href="https://archive.org/details/windows-movie-maker-6.0_202101" target="_blank">Windows Movie Maker</a> zu bearbeiten oder <a href="https://www.apple.com/lae/imovie/" target="_blank">Apple iMovie</a>. Mit diesen Programmen können Sie ganz einfach Ihre Videos bearbeiten, Soundtracks hinzufügen usw.';
+$LANGS['a5'] = 'A: Wir empfehlen dir, deine Videos mit Software wie <a href="https://archive.org/details/windows-movie-maker-6.0_202101" target="_blank">Windows Movie Maker</a> zu bearbeiten oder <a href="https://www.apple.com/lae/imovie/" target="_blank">Apple iMovie</a>. Mit diesen Programmen kannst du ganz einfach deine Videos bearbeiten, Soundtracks hinzufügen usw.';
 $LANGS['q6'] = 'F: Behalte ich Urheberrechte und andere gesetzliche Rechte an meinen Videos?';
 $LANGS['a6'] = 'A: Ja. Du behaltest alle Rechte an deinen Inhalten. BitView übernimmt kein Urheberrecht an deinem Material.';
 $LANGS['q7'] = 'F: Wie lauten Ihre Richtlinien zu Urheberrechtsverletzungen?';
-$LANGS['a7'] = "A: BitView respektiert die Rechte von Urheberrechtsinhabern und Herausgebern und akzeptiert Video-Uploads nur von Personen, die alle erforderlichen Rechte an dem hochgeladenen Material besitzen. Unsere Richtlinie besteht darin, auf alle Hinweise auf mutmaßliche Verstöße zu reagieren den Digital Millennium Copyright Act (DMCA) einhalten. Wenn wir eine Benachrichtigung erhalten oder anderweitig Grund zu der Annahme haben, dass von Ihnen übermittelte Inhalte das Urheberrecht einer anderen Partei verletzen, kann Ihr Konto gekündigt und das Video aus BitView entfernt werden.";
+$LANGS['a7'] = "A: BitView respektiert die Rechte von Urheberrechtsinhabern und Herausgebern und akzeptiert Video-Uploads nur von Personen, die alle erforderlichen Rechte an dem hochgeladenen Material besitzen. Unsere Richtlinie besteht darin, auf alle Hinweise auf mutmaßliche Verstöße zu reagieren den Digital Millennium Copyright Act (DMCA) einhalten. Wenn wir eine Benachrichtigung erhalten oder anderweitig Grund zu der Annahme haben, dass von dir übermittelte Inhalte das Urheberrecht einer anderen Partei verletzen, kann Ihr Konto gekündigt und das Video aus BitView entfernt werden.";
 $LANGS['q8'] = 'F: Wie melde ich Urheberrechtsverletzungen?';
 $LANGS['a8'] = 'A: Wenn du glaubst, dass jemand anderes Ihre urheberrechtlich geschützten Inhalte ohne Ihre Erlaubnis hochgeladen hat, empfehlen wir dir, diese Person zu kontaktieren, um eventuelle Differenzen direkt mit ihm/ihr zu klären. Ansonsten kannst du unser Support-Team auch über diese <a href="mailto:bitview@vistafan12.eu.org">E-Mail</a> kontaktieren.';
 $LANGS['q9'] = 'F: Was passiert, wenn mir fälschlicherweise eine Urheberrechtsverletzung vorgeworfen wird?';
-$LANGS['a9'] = "A: Wir informieren dich, wenn wir eine Urheberrechtsbeschwerde zu Ihren auf BitView gehosteten Videoinhalten erhalten. Wir geben Ihnen die Möglichkeit, angemessen zu reagieren.";
+$LANGS['a9'] = "A: Wir informieren dich, wenn wir eine Urheberrechtsbeschwerde zu deinen auf BitView gehosteten Videoinhalten erhalten. Wir geben dir die Möglichkeit, angemessen zu reagieren.";
 $LANGS['q10'] = 'F: Was tut ihr, um zu verhindern, dass Inhalte, die gegen Ihre Richtlinien verstoßen, in BitView angezeigt werden?';
 $LANGS['a10'] = 'A: Wir führen eine vorläufige Überprüfung der hochgeladenen Videos durch, sowohl manuell als auch automatisiert. Obwohl wir unser Bestes tun, um Videos zu erkennen und zu entfernen, die gegen unsere Richtlinien verstoßen, konzentriert sich unser Überprüfungsprozess in erster Linie auf die Entfernung nicht jugendfreier Inhalte oder offensichtlicher Urheberrechtsverletzungen und ist nicht absolut sicher. Wir ermutigen unsere Zuschauer jedoch, uns zu benachrichtigen, wenn sie Richtlinienverstöße oder Urheberrechtsprobleme entdecken. Wir verfügen über ein Verfahren zur Überprüfung gemeldeter Richtlinienverstöße und reagieren auf gemeldete Urheberrechtsverletzungen gemäß dem Digital Millennium Copyright Act.';
 $LANGS['q11'] = 'F: Habt ihr einen Discord-Server oder Twitter?';
@@ -1612,7 +1612,7 @@ $LANGS['rssthispage'] = "RSS diese Seite";
 /* TestView */
 $LANGS['testviewdesc'] = "Willkommen bei TestView, unserem Ideen-Inkubator. Hier testen die Ingenieure und Entwickler von BitView Rezepte und Zubereitungen, die noch nicht ganz ausgereift sind, und laden Sie ein, uns zu erzählen, wie sie sich entwickeln.";
 $LANGS['flashvideo'] = "Flash Player";
-$LANGS['flashvideodesc'] = "Ihr Browser unterstützt kein HTML5-Video? Mach dir keine Sorge! Probieren Sie unseren Flash-Player aus.";
+$LANGS['flashvideodesc'] = "Ihr Browser unterstützt kein HTML5-Video? Mach dir keine Sorge! Probiere unseren Flash-Player aus.";
 $LANGS['feather'] = "Feather";
 $LANGS['featherdesc'] = "Schaue BitView-Videos auf einer Seite mit extrem geringer Latenz an.";
 $LANGS['tryitout'] = "Ausprobieren";
