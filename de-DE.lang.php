@@ -8,9 +8,9 @@ $LANGS['numberformat'] = 1; /* If your language uses comma separators (example: 
 
 /* Language window */
 $LANGS['welcometobitview'] = 'Willkommen auf Bitview!';
-$LANGS['languagesuggestion'] = 'Ihre Sprache (Wir haben ihre Einstellung zu dieser Sprache geändert):';
-$LANGS['languagesuggestiondesc1'] = 'Wenn sie die Sprache ändern möchten, können sie dies in der Fußzeile tun. (Ganz unten auf der Seite).';
-$LANGS['languagesuggestiondesc2'] = 'Drücken sie OK um die Einstellung beizubehalten, oder Abbrechen um wieder zu Englisch zurückzukehren.';
+$LANGS['languagesuggestion'] = 'Empfohlene Sprache (in den Einstellungen festgelegt):';
+$LANGS['languagesuggestiondesc1'] = 'Wenn du die Sprache ändern möchtest, kannst du dies in der Fußzeile tun. (Ganz unten auf der Seite).';
+$LANGS['languagesuggestiondesc2'] = 'Drücke "OK" um die Einstellung beizubehalten, oder "Abbrechen" um wieder zu Englisch zurückzukehren.';
 
 /* Time, dates, etc */
 $LANGS['second'] = 'Sekunde';
@@ -105,14 +105,14 @@ $LANGS['nowconverting'] = "Das Video wird verarbeitet, bitte warte ein paar Minu
 $LANGS['modules'] = "Hinzufügte / Entferne Module";
 $LANGS['friendactivity'] = "Freundesaktivität";
 $LANGS['customizehomepage'] = "Startseite anpassen";
-$LANGS['customizethehomepage'] = "Passen Sie die Homepage an";
-$LANGS['customizehomepagedesc'] = "Wählen Sie die Module aus, die Sie auf Ihrer individuellen Homepage sehen möchten.";
+$LANGS['customizethehomepage'] = "Passe die Homepage an";
+$LANGS['customizehomepagedesc'] = "Wähle die Module aus, die du auf deiner individuellen Homepage sehen möchtest.";
 $LANGS['displaypreferences'] = "Anzeigeeinstellungen";
-$LANGS['thefeed'] = "Das akivitäten-zentrum";
-$LANGS['thefeeddesc'] = "Kombinieren Sie alle Ihre Module in einem einzigen Akivitäten-Zentrum!.";
+$LANGS['thefeed'] = "Das Aktivitäten-Zentrum";
+$LANGS['thefeeddesc'] = "Kombiniere alle deine Module in einem einzigen Aktivitäten-Zentrum!";
 $LANGS['friendactivitytitle'] = "Freundesaktivität – Können andere sehen, was ich mache?";
-$LANGS['friendactivitydesc'] = "In diesem Abschnitt werden Ihren bestätigten Freunden die Aktionen angezeigt, die Sie in Ihrem letzten Aktivitätsverlauf öffentlich bekannt geben. Wenn Sie beispielsweise ein Video zu Ihren Favoriten hinzufügen, wird Ihr neues Favorit Video möglicherweise im Feld „Freundesaktivität“ Ihres Kanals sowie auf den Homepages Ihrer Freunde angezeigt.";
-$LANGS['feedfeatured'] = "Ausgewählte Video";
+$LANGS['friendactivitydesc'] = "Dieser Abschnitt zeigt deinen Freunden die Aktionen, die du in deinem öffentlichen Aktivitätsverlauf bekannt machst. Zum Beispiel, wenn du ein Video als Favorit markierst, könnte dieses Video sowohl im Bereich 'Letzte Aktivität' auf deinem Kanal als auch auf den Startseiten deiner Freunde angezeigt werden.";
+$LANGS['feedfeatured'] = "Empfohlene Videos";
 $LANGS['feedbeingwatched'] = "Video wird gerade angesehen";
 $LANGS['feedrecommended'] = "Empfohlenes Video";
 $LANGS['homenosubscriptions'] = "Du hast noch keinen Kanal abonniert.";
