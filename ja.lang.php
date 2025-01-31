@@ -40,14 +40,14 @@ $LANGS['september'] = '9月';
 $LANGS['october'] = '10月';
 $LANGS['november'] = '11月';
 $LANGS['december'] = '12月';
-$LANGS['shorttimeformat'] = '%b %e, %Y';
-$LANGS['videotimeformat'] = '%b %e, %Y';
-$LANGS['longtimeformat'] = '%B %e, %Y';
-$LANGS['timehourformat'] = '%b %e, %Y %I:%M %p';
-$LANGS['myvideostimeformat'] = '%A, %b %e %Y, %I:%M:%S %p';
-$LANGS['blogpostformat'] = '%A, %B %e, %Y';
-$LANGS['monthformat'] = '%B %Y';
-$LANGS['timenumberformat'] = 'd.m.Y';
+$LANGS['shorttimeformat'] = '%Y年%B%e日'; // %B is a hack to use single-digit date, will format to i.e. "2025年1月31日"
+$LANGS['videotimeformat'] = '%Y年%B%e日';
+$LANGS['longtimeformat'] = '%Y年%B月%e日';
+$LANGS['timehourformat'] = '%Y年%B月%e日 %H:%M';
+$LANGS['myvideostimeformat'] = '%Y年%B月%e日（%a） %H:%M';
+$LANGS['blogpostformat'] = '%Y年%B月%e日（%a）';
+$LANGS['monthformat'] = '%Y年%B月';
+$LANGS['timenumberformat'] = 'Y.m.d';
 
 /* Header */
 $LANGS['home'] = 'ホーム';
