@@ -1025,7 +1025,7 @@ $LANGS['discussiontitle'] = "Título del debate";
 $LANGS['creatediscussiondesc'] = "Los debates son partes de los grupos donde puedes discutir un tema.";
 
 /* Search Results */
-$LANGS['results'] = "Resultados para{s}";
+$LANGS['results'] = "Resultados para {s}";
 $LANGS['relevance'] = 'Relevancia';
 $LANGS['viewcount'] = 'Número de reproducciones';
 $LANGS['searchrating'] = 'Puntuación';
