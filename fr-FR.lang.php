@@ -402,7 +402,7 @@ $LANGS['username'] = "Nom d'utilisateur";
 $LANGS['password'] = "Mot de passe";
 $LANGS['logindesc'] = "Connectez-vous à BitView avec votre compte";
 $LANGS['forgot'] = "Impossible d'accéder à votre compte ?";
-$LANGS['forgotmsg'] = 'Veuillez nous contacter sur Twitter (@BitView_) ou envoyer un message aux modérateurs sur Discord (lien dans le pied de page).';
+$LANGS['forgotmsg'] = 'Veuillez nous contacter sur Twitter (@BitView_) ou envoyer un message aux modérateurs sur Matrix (lien dans le pied de page).';
 $LANGS['noaccount'] = "Vous n'avez pas de compte ?";
 $LANGS['signuptobv'] = "Inscrivez-vous sur BitView !";
 $LANGS['signintobv'] = "Connectez-vous à BitView !";
@@ -1571,8 +1571,8 @@ $LANGS['q9'] = 'Q : Que se passe-t-il si je suis accusé à tort de violation de
 $LANGS['a9'] = "R : Nous vous informerons si nous recevons une plainte pour violation de droits d'auteur concernant l'un de vos contenus vidéo hébergés sur BitView. Nous vous donnerons la possibilité de répondre de manière appropriée."; // A: We'll let you know if we receive a copyright complaint about any of your video content that is hosted on BitView. We'll give you the opportunity to respond appropriately.
 $LANGS['q10'] = 'Q : Que faites-vous pour empêcher la diffusion de contenu qui enfreint vos règles sur BitView ?'; // Q: What are you doing to prevent content that violates your policies from appearing in BitView?
 $LANGS['a10'] = 'R : Nous effectuons un examen préliminaire des vidéos téléchargées via un processus manuel et automatisé. Bien que nous fassions de notre mieux pour détecter et supprimer les vidéos qui violent nos directives, notre processus d\'examen se concentre principalement sur la suppression de contenu pour adultes ou de violations de droits d\'auteur évidentes, et n\'est pas infaillible. Cependant, nous encourageons nos spectateurs à nous informer lorsqu\'ils découvrent des violations de nos règles ou des problèmes de droits d\'auteur - nous avons un processus d\'examen des violations signalées et nous répondons aux violations de droits d\'auteur signalées en vertu du Digital Millennium Copyright Act.'; // A: We do a preliminary review on uploaded videos through both a manual and automated process. Although we try our best to detect and remove videos that violate our policy guidelines, our review process is primarily focused on removing adult content or obvious copyright violations, and is not bulletproof. However, we encourage our viewers to notify us when they discover policy violations or copyright issues -- we have a process for reviewing reported policy violations, and respond to reported copyright violations under the Digital Millennium Copyright Act.
-$LANGS['q11'] = 'Q : Avez-vous un serveur Discord ou un compte Twitter ?'; // Q: Do you have a Discord server or Twitter?
-$LANGS['a11'] = 'Oui ! Nous avons effectivement un serveur Discord et un compte Twitter. Vous pouvez rejoindre le serveur Discord en cliquant <a href="https://discord.gg/wgGaqCmwuQ">ici</a>, et nous suivre sur Twitter <a href="https://twitter.com/bitview_">ici</a>.'; // Yes! We actually have a Discord server and Twitter. You can join into the Discord server by clicking <a href="https://discord.gg/wgGaqCmwuQ">here</a>, and follow us on Twitter <a href="https://twitter.com/bitview_">here</a>.
+$LANGS['q11'] = 'Q : Avez-vous un serveur Matrix ou un compte Twitter ?'; // Q: Do you have a Matrix server or Twitter?
+$LANGS['a11'] = 'Oui ! Nous avons effectivement un serveur Matrix et un compte Twitter. Vous pouvez rejoindre le serveur Matrix en cliquant <a href="https://matrix.to/#/#bittoco:matrix.org">ici</a>, et nous suivre sur Twitter <a href="https://twitter.com/bitview_">ici</a>.'; // Yes! We actually have a Matrix server and Twitter. You can join into the Matrix server by clicking <a href="https://matrix.to/#/#bittoco:matrix.org">here</a>, and follow us on Twitter <a href="https://twitter.com/bitview_">here</a>.
 $LANGS['q12'] = "Q : J\'utilise un ancien navigateur sur BitView et je ne peux donc pas regarder de vidéos. Que puis-je faire ?"; // Q: I'm using an old browser while on BitView and thus can't watch videos. What can I do?
 $LANGS['activate'] = 'Activer'; // Activate
 $LANGS['deactivate'] = 'Désactiver'; // Deactivate
@@ -1583,7 +1583,7 @@ $LANGS['bvsitetitle1'] = "Les bases";
 $LANGS['bvsitetitle2'] = "API et engagement des utilisateurs";
 $LANGS['bvsitedesc1'] = 'Quelle que soit votre présence sur Internet - un grand site Web, un blog, une page de réseau social ou à peu près tout autre chose - il existe de nombreuses façons d\'intégrer BitView. Des simples intégrations de vidéos à nos API ultra-performantes, vous pouvez intégrer la vidéo à tous les niveaux d\'expertise technique.';
 $LANGS['bvsitedesc2'] = 'Intégrer BitView à votre site ne se résume pas simplement à ajouter quelques-unes des milliers de vidéos disponibles sur BitView. Cela maintient l\'intérêt de vos visiteurs et permet l\'expression personnelle et l\'interaction avec l\'un de leurs services préférés. Et cela intègre votre site, blog ou page à la communauté vidéo BitView - un réseau international d\'utilisateurs, de créateurs et de sites connectés par une immense collection de vidéos en ligne.';
-$LANGS['bvsitedesc3'] = "Nous avons mis en évidence ci-dessous quelques méthodes courantes d'intégration de contenu vidéo - il suffit de cliquer sur la flèche à côté de la question pour obtenir la réponse. Si vous avez des questions, des suggestions ou des projets dont vous voudriez nous informer, veuillez laisser les questions sur notre serveur Discord <a href='https://discord.gg/wgGaqCmwuQ'>Discord</a>.";
+$LANGS['bvsitedesc3'] = "Nous avons mis en évidence ci-dessous quelques méthodes courantes d'intégration de contenu vidéo - il suffit de cliquer sur la flèche à côté de la question pour obtenir la réponse. Si vous avez des questions, des suggestions ou des projets dont vous voudriez nous informer, veuillez laisser les questions sur notre serveur Matrix <a href='https://matrix.to/#/#bittoco:matrix.org'>Matrix</a>.";
 
 $LANGS['bvsitesectiontitle1'] = "Comment ajouter une vidéo à mon blog ou à ma page Web ?";
 $LANGS['bvsitesectiontitle2'] = "Comment ajouter une vidéo à ma page de réseau social ?";
@@ -1647,7 +1647,7 @@ $LANGS['footmore'] = 'plus...';
 $LANGS['helpinfo'] = 'Aide';
 $LANGS['helpcenter'] = 'Avoir de l\'aide';
 $LANGS['ourtwitter'] = 'Twitter';
-$LANGS['ourdiscord'] = 'Discord';
+$LANGS['ourmatrix'] = 'Matrix';
 $LANGS['guidelines'] = 'Guidelines';
 $LANGS['partnerships'] = 'Partners';
 $LANGS['terms'] = 'Terms';

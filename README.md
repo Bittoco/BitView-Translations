@@ -3,7 +3,7 @@
 Bonjour! You can now create translations for BitView. 
 Please, use en-US.php as a template.
 
-If the language system does not consider some aspects of your language, please [create an issue](https://github.com/Bittoco/BitView-translations/issues) or tell us in our [Discord server](https://discord.gg/wgGaqCmwuQ).
+If the language system does not consider some aspects of your language, please [create an issue](https://github.com/Bittoco/BitView-translations/issues) or tell us in our [Matrix server](https://matrix.to/#/#bittoco:matrix.org).
 
 ## Useful Information
 
