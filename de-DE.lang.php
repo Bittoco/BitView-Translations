@@ -1455,6 +1455,7 @@ $LANGS['timeremaining'] = 'Etwa {m} min. verbleibend...';
 $LANGS['minuteremaining'] = 'Weniger als eine Minute verbleibend...';
 $LANGS['preview'] = 'Vorschau';
 $LANGS['processing'] = 'Verarbeitung';
+$LANGS['failed'] = 'Failed';
 $LANGS['generatingpreviews'] = 'Vorschauen werden erstellt...';
 $LANGS['errorpreview'] = "Fehler: Vorschau konnte nicht erstellt werden";
 $LANGS['infoandprivacy'] = "Video-Informationen und Datenschutzeinstellungen";

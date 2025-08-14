@@ -1459,6 +1459,7 @@ $LANGS['timeremaining'] = 'Pozostało około {m} min. ...';
 $LANGS['minuteremaining'] = 'Pozostało mniej niż minuta...';
 $LANGS['preview'] = 'Podgląd';
 $LANGS['processing'] = 'Przetwarzanie';
+$LANGS['failed'] = 'Failed';
 $LANGS['generatingpreviews'] = 'Tworzenie miniatur...';
 $LANGS['errorpreview'] = "Błąd: nie udało się wygenerować podglądu";
 $LANGS['infoandprivacy'] = "Informacje o wideo i ustawienia prywatności";

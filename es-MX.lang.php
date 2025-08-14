@@ -1459,6 +1459,7 @@ $LANGS['timeremaining'] = 'Quedan aproximadamente {m} minutos...';
 $LANGS['minuteremaining'] = 'Queda menos de un minuto...';
 $LANGS['preview'] = 'Vista previa';
 $LANGS['processing'] = 'Procesando';
+$LANGS['failed'] = 'Failed';
 $LANGS['generatingpreviews'] = 'Generando vista previa...';
 $LANGS['errorpreview'] = "Error: no se ha podido generar la vista previa";
 $LANGS['infoandprivacy'] = "Información acerca del video";
