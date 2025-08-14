@@ -1457,6 +1457,7 @@ $LANGS['timeremaining'] = 'About {m} min. remaining...';
 $LANGS['minuteremaining'] = 'Less than a minute remaining...';
 $LANGS['preview'] = 'Preview';
 $LANGS['processing'] = 'Processing';
+$LANGS['failed'] = 'Failed';
 $LANGS['generatingpreviews'] = 'Generating previews...';
 $LANGS['errorpreview'] = "Error: couldn't generate preview";
 $LANGS['infoandprivacy'] = "Video information and privacy settings";

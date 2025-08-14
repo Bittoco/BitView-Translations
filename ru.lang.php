@@ -1461,6 +1461,7 @@ $LANGS['timeremaining'] = 'Осталось около {m} минут...';
 $LANGS['minuteremaining'] = 'Осталось меньше минуты...';
 $LANGS['preview'] = 'Превью';
 $LANGS['processing'] = 'Обработка';
+$LANGS['failed'] = 'Failed';
 $LANGS['generatingpreviews'] = 'Генерирование превью...';
 $LANGS['errorpreview'] = "Ошибка: не удалось сгенерировать превью";
 $LANGS['infoandprivacy'] = "Видео информация и настройки конфиденциальности";

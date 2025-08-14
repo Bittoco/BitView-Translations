@@ -1455,6 +1455,7 @@ $LANGS['timeremaining'] = 'Omtrent {m} min. igjen...';
 $LANGS['minuteremaining'] = 'Mindre enn et minutt igjen...';
 $LANGS['preview'] = 'Forhåndsvisning';
 $LANGS['processing'] = 'Behandles';
+$LANGS['failed'] = 'Failed';
 $LANGS['generatingpreviews'] = 'Genererer forhåndsvisninger...';
 $LANGS['errorpreview'] = 'Feil: kunne ikke generere forhåndsvisning';
 $LANGS['infoandprivacy'] = 'Videoinformasjon og personverninnstillinger';

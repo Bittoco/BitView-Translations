@@ -1457,6 +1457,7 @@ $LANGS['timeremaining'] = 'Oko {m} min. preostalo...';
 $LANGS['minuteremaining'] = 'Preostalo je manje od minute...';
 $LANGS['preview'] = 'Pregled';
 $LANGS['processing'] = 'Obrada';
+$LANGS['failed'] = 'Failed';
 $LANGS['generatingpreviews'] = 'Generiranje pregleda...';
 $LANGS['errorpreview'] = "Pogreška: nije moguće generirati pregled";
 $LANGS['infoandprivacy'] = "Video informacije i postavke privatnosti";
