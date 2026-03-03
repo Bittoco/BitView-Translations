@@ -841,17 +841,17 @@ $LANGS['cat_ZW'] = "Zimbabve";
 /* My Subscriptions */
 $LANGS['newvideos'] = "Yeni Videolar";
 $LANGS['addselectedto'] = "Seçili videoları şuraya ekle:";
-$LANGS['addtoplaylists'] = "Çalma Listelerine Ekle";
+$LANGS['addtoplaylists'] = "Oynatma Listelerine Ekle";
 
 /* Account */
 $LANGS['myaccount'] = "Hesabım";
-$LANGS['vidsfavs'] = "Videolar, Favoriler ve Çalma Listeleri";
+$LANGS['vidsfavs'] = "Videolar, Favoriler ve Oynatma Listeleri";
 $LANGS['accountsettings'] = "Hesap Ayarları";
-$LANGS['viewinghistory'] = "Tarih";
+$LANGS['viewinghistory'] = "Geçmiş";
 $LANGS['mychannel'] = "Kanalım";
 $LANGS['uploadedvideos'] = "Yüklenen Videolar";
 $LANGS['new'] = "Yeni";
-$LANGS['playlist'] = "Çalma listesi";
+$LANGS['playlist'] = "Oynatma listesi";
 $LANGS['videoupload'] = "Video Yükleme";
 $LANGS['nosubvideos'] = "Aboneliğiniz bulunmamaktadır...";
 $LANGS['nofavvideos'] = "Hiçbir videoyu favorilerinize eklemediniz...";
